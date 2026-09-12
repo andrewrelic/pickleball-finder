@@ -1,0 +1,53 @@
+image,name,address,city,state,zip,lat,lng, type
+picklr.png,The Picklr Appleton,4443 W College Ave,Appleton,WI,54914,44.26121,-88.46851,Business
+Center Court Sports Complex,815 Northview Rd,Waukesha,WI,53188,43.03112,-88.23642,Business
+NX Level Sports Performance,W234 S3555 Les Paul Pkwy,Waukesha,WI,53189,42.97851,-88.24121,Business
+Spinfly Pickleball,13000 W Bluemound Rd,Elm Grove,WI,53122,43.03851,-88.07451,Business
+Elite Sports Club Brookfield,13825 W Burleigh Rd,Brookfield,WI,53005,43.07851,-88.08451,Business
+Elite Sports Club River Glen,2001 W Good Hope Rd,Glendale,WI,53209,43.16121,-87.93851,Business
+Elite Sports Club West Brookfield,600 N Barker Rd,Brookfield,WI,53045,43.04121,-88.16451,Business
+Life Time Brookfield,175 S Moorland Rd,Brookfield,WI,53005,43.03121,-88.10851,Business
+Smiley's Pickleball Club,1600 S 1st St,Milwaukee,WI,53204,43.01451,-87.91121,Business
+Lake Park Pickleball Courts,3233 E Kenwood Blvd,Milwaukee,WI,53211,43.07451,-87.87451,Park
+Juneau Park Pickleball Courts,900 N Lincoln Memorial Dr,Milwaukee,WI,53202,43.04451,-87.89451,Park
+Valley View Park,5051 S Sunny Slope Rd,New Berlin,WI,53151,42.95121,-88.09451,Park
+Wiberg Park,15885 W Lincoln Ave,New Berlin,WI,53151,43.00451,-88.11121,Park
+Malone Park,16400 W National Ave,New Berlin,WI,53151,42.98121,-88.11851,Park
+Greenfield Park Pickleball Courts,2028 S 124th St,West Allis,WI,53227,43.00851,-88.06851,Park
+Wirth Park,2585 N Calhoun Rd,Brookfield,WI,53005,43.06451,-88.13121,Park
+Rotary Park,4235 Highway 83,Hartland,WI,53029,43.10851,-88.34121,Park
+Buchner Park,231 Oakland Ave,Waukesha,WI,53186,43.01121,-88.22451,Park
+Franksville Park,9614 Northwestern Ave,Franksville,WI,53126,42.76851,-87.91451,Park
+Anderson Park,8724 22nd Ave,Kenosha,WI,53143,42.55121,-87.83851,Park
+Petzke Park,3102 14th Ave,Kenosha,WI,53140,42.61121,-87.82851,Park
+Prairie Athletic Club,1010 N Bird St,Sun Prairie,WI,53590,43.19451,-89.21451,Business
+Princeton Club East,1726 Eagan Rd,Madison,WI,53704,43.12851,-89.31451,Business
+Princeton Club West,8080 Excelsior Dr,Madison,WI,53717,43.07851,-89.52451,Business
+Garner Park Pickleball Courts,333 S Rosa Rd,Madison,WI,53705,43.06451,-89.47451,Park
+Tenney Park Pickleball Courts,1414 E Johnson St,Madison,WI,53703,43.09121,-89.36851,Park
+Warner Park,2930 N Sherman Ave,Madison,WI,53704,43.12121,-89.36451,Park
+Elver Park,1250 McKenna Blvd,Madison,WI,53719,43.03451,-89.51121,Park
+Reindahl Park,1818 Portage Rd,Madison,WI,53704,43.12451,-89.31851,Park
+Goodman Park,3712 E Washington Ave,Madison,WI,53704,43.11121,-89.33121,Park
+McKee Farms Park,2930 Chapel Valley Rd,Fitchburg,WI,53711,43.01121,-89.43851,Park
+Bakken Park,4064 Vilas Hope Rd,Cottage Grove,WI,53527,43.08451,-89.20121,Park
+Fireman's Park,1040 Park St,Middleton,WI,53562,43.10121,-89.50851,Park
+Windsor Sports Commons,6570 Pederson Crossing,DeForest,WI,53532,43.20851,-89.34451,Park
+Woodland Park,2200 N John St,Kimberly,WI,54136,44.28121,-88.34451,Park
+Pierce Park,1035 W Prospect Ave,Appleton,WI,54914,44.25451,-88.42851,Park
+Memorial Park Appleton,1620 E Witzke Ave,Appleton,WI,54911,44.27121,-88.38451,Park
+Green Bay Tennis & Pickleball Center,1516 S Van Buren St,Green Bay,WI,54301,44.49851,-88.02121,Business
+Edison Park,442 Alpine Dr,Green Bay,WI,54302,44.52121,-87.97121,Park
+Perkins Park,600 N Fisk St,Green Bay,WI,54303,44.53451,-88.05121,Park
+Colburn Park,1025 S Fisk St,Green Bay,WI,54304,44.51121,-88.05451,Park
+Oshkosh YMCA,3303 W 20th Ave,Oshkosh,WI,54904,44.01121,-88.60121,Business
+South Park Pickleball Courts,1300 Georgia St,Oshkosh,WI,54902,44.00851,-88.54451,Park
+Eau Claire Indoor Sports Center,3456 Craig Rd,Eau Claire,WI,54701,44.77851,-91.50121,Business
+McDonough Park,900 McDonough Dr,Eau Claire,WI,54703,44.83121,-91.50851,Park
+Erickson Park,2420 21st Pl S,La Crosse,WI,54601,43.78451,-91.21451,Park
+Copeland Park,1130 Copeland Ave,La Crosse,WI,54603,43.83121,-91.25451,Park
+Marathon Park,1201 Stewart Ave,Wausau,WI,54401,44.95451,-89.65121,Park
+Riverside Park,116 S River St,Janesville,WI,53548,42.68451,-89.02851,Park
+Palmer Park,2501 Palmer Dr,Janesville,WI,53545,42.66851,-88.98851,Park
+Vollrath Park,2000 N 3rd St,Sheboygan,WI,53081,43.76851,-87.71121,Park
+Wildwood Park,2276 New Jersey Ave,Sheboygan,WI,53081,43.74851,-87.74451,Park
