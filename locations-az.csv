@@ -1,0 +1,56 @@
+image,name,address,city,state,zip,lat,lng, type
+pk.png,Pickleball Kingdom Chandler Flagship,4950 S Gilbert Rd,Chandler,AZ,85249,33.23451,-111.78851,Business
+pk.png,Pickleball Kingdom North Scottsdale,15300 N 90th St,Scottsdale,AZ,85260,33.62451,-111.88951,Business
+cnp.png,Chicken N Pickle Glendale,9388 W Westgate Blvd,Glendale,AZ,85305,33.53451,-112.26121,Business
+picklr.png,The Picklr Mesa,1225 S Power Rd,Mesa,AZ,85206,33.39121,-111.68451,Business
+picklr.png,The Picklr Scottsdale North,14891 N Northsight Blvd,Scottsdale,AZ,85260,33.62121,-111.89851,Business
+picklr.png,The Picklr Tempe,8707 S Priest Dr,Tempe,AZ,85284,33.33851,-111.96121,Business
+picklr.png,The Picklr Peoria,7575 W Thunderbird Rd,Peoria,AZ,85381,33.61121,-112.22121,Business
+picklr.png,The Picklr Cave Creek,28248 N Tatum Blvd,Cave Creek,AZ,85331,33.74121,-111.97851,Business
+picklr.png,The Picklr Oro Valley,10555 N Oracle Rd,Oro Valley,AZ,85737,32.39851,-110.96121,Business
+ace.png,Ace Pickleball Club Mesa,2055 S Power Rd,Mesa,AZ,85206,33.37851,-111.68451,Business
+Arizona Athletic Grounds Complex,1 Legacy Dr,Mesa,AZ,85212,33.30851,-111.60451,Business
+The Barn Pickleball Club,2205 E University Dr,Phoenix,AZ,85034,33.42121,-112.03451,Business
+Gilbert Regional Park Pickleball Complex,3005 E Queen Creek Rd,Gilbert,AZ,85298,33.26121,-111.72451,Park
+Pecos Park Pickleball Complex,17010 S 48th St,Phoenix,AZ,85048,33.29851,-111.98121,Park
+Thompson Peak Park Pickleball Complex,20199 N 78th Pl,Scottsdale,AZ,85255,33.66851,-111.91451,Park
+Horizon Park Pickleball Courts,15444 N 100th St,Scottsdale,AZ,85260,33.62451,-111.86851,Park
+Cholla Park Pickleball Courts,11320 E Via Linda,Scottsdale,AZ,85259,33.56851,-111.83851,Park
+Gene Autry Park Pickleball Complex,4125 E McKellips Rd,Mesa,AZ,85215,33.45121,-111.74121,Park
+Kleinman Park Pickleball Courts,710 S Southern Ave,Mesa,AZ,85204,33.39451,-111.81451,Park
+Red Mountain Park,7745 E Brown Rd,Mesa,AZ,85207,33.43451,-111.66451,Park
+Arrowhead Meadows Park,1475 W Erie St,Chandler,AZ,85224,33.30851,-111.86851,Park
+Tumbleweed Park,2250 S McQueen Rd,Chandler,AZ,85286,33.27121,-111.82451,Park
+Tempe Sports Complex,8403 S Hardy Dr,Tempe,AZ,85284,33.34451,-111.95451,Park
+Kiwanis Park Pickleball Courts,6111 S All America Way,Tempe,AZ,85283,33.36851,-111.93451,Park
+Herberger Park Pickleball Courts,5802 E Indian School Rd,Phoenix,AZ,85018,33.49451,-111.95451,Park
+Encanto Park Pickleball Courts,2605 N 15th Ave,Phoenix,AZ,85007,33.47851,-112.09121,Park
+Roadrunner Park,3502 E Cactus Rd,Phoenix,AZ,85032,33.59851,-112.00451,Park
+Cave Creek Regional Park Courts,37019 N Lava Ln,Cave Creek,AZ,85331,33.72121,-112.01451,Park
+Surprise Community Park Pickleball Complex,15953 N Bullard Ave,Surprise,AZ,85374,33.62851,-112.38851,Park
+Paloma Community Park Pickleball Complex,29799 N Lake Pleasant Pkwy,Peoria,AZ,85383,33.75451,-112.27851,Park
+Pioneer Community Park,8755 N 83rd Ave,Peoria,AZ,85345,33.56451,-112.23851,Park
+Foothills Park Pickleball Courts,5750 W Union Hills Dr,Glendale,AZ,85308,33.65451,-112.18451,Park
+Goodyear Community Park,3151 N Litchfield Rd,Goodyear,AZ,85395,33.48451,-112.35851,Park
+Sundance Park,22865 W Lower Buckeye Rd,Buckeye,AZ,85326,33.42851,-112.53451,Park
+Courtney Holmes Park,12644 S Desert Foothills Pkwy,Phoenix,AZ,85048,33.31121,-112.07451,Park
+PebbleCreek Pickleball Complex,16262 Clubhouse Dr,Goodyear,AZ,85395,33.47121,-112.39851,Park
+Sun City West Liberty Courts,14401 R H Johnson Blvd,Sun City West,AZ,85375,33.66451,-112.36851,Park
+Sun City Grand Cimarron Complex,17100 W Clearview Blvd,Surprise,AZ,85374,33.64851,-112.41451,Park
+Green Valley Recreation Pickleball Center,1070 S Calle De Las Casitas,Green Valley,AZ,85614,31.84851,-110.99851,Park
+Robson Ranch Pickleball Complex,5750 Robson Blvd,Eloy,AZ,85131,32.74851,-111.59451,Park
+SaddleBrooke Ranch Pickleball Complex,31165 S Amenity Dr,Oracle,AZ,85623,32.57451,-110.87851,Park
+Morris K Udall Park Pickleball Complex,7200 E Tanque Verde Rd,Tucson,AZ,85715,32.25121,-110.83851,Park
+Joaquin Murrieta Park Pickleball Courts,1400 N Silverbell Rd,Tucson,AZ,85745,32.23851,-111.00451,Park
+Himmel Park Pickleball Courts,1000 N Tucson Blvd,Tucson,AZ,85716,32.23451,-110.93451,Park
+Kino Sports Complex Pickleball Courts,2500 E Ajo Way,Tucson,AZ,85713,32.17851,-110.93451,Park
+Continental Reserve Community Park,8565 N Silverbell Rd,Marana,AZ,85653,32.36121,-111.10851,Park
+Crossroads at Silverbell District Park,7548 N Silverbell Rd,Tucson,AZ,85743,32.34451,-111.08851,Park
+Canoa Ranch Community Park,5750 S Old Tucson Rd,Green Valley,AZ,85614,31.81451,-111.01451,Park
+Bushmaster Park Pickleball Courts,3150 N Alta Vista Dr,Flagstaff,AZ,86004,35.21451,-111.58851,Park
+Thorpe Park,191 N Thorpe Rd,Flagstaff,AZ,86001,35.20121,-111.65851,Park
+Pioneer Park Pickleball Complex,1200 Commerce Dr,Prescott,AZ,86305,34.58451,-112.44851,Park
+Centennial Park Kingman,3333 Harrison St,Kingman,AZ,86409,35.21851,-114.02451,Park
+Rotary Community Park,2100 S Balboa Dr,Lake Havasu City,AZ,86403,34.46851,-114.34851,Park
+Posse Grounds Park,525 Posse Ground Rd,Sedona,AZ,86336,34.87121,-111.78451,Park
+Marcus Park Pickleball Courts,545 W 5th St,Yuma,AZ,85364,32.71851,-114.62851,Park
