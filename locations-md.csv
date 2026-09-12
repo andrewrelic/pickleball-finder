@@ -1,0 +1,59 @@
+image,name,address,city,state,zip,lat,lng, type
+Truxtun Park Pickleball Complex,273 Hilltop Ln,Annapolis,MD,21403,38.96451,-76.49851,Park
+Dill Dinkers Columbia,9179 Red Branch Rd,Columbia,MD,21045,39.21451,-76.83121,Business
+Dill Dinkers Bethesda,5268 Nicholson Ln,Kensington,MD,20895,39.04451,-77.10851,Business
+Dill Dinkers Rockville,14660 Rothgeb Dr,Rockville,MD,20850,39.09851,-77.13451,Business
+Dill Dinkers Finksburg,2020 Liberty Rd,Finksburg,MD,21048,39.49851,-76.90121,Business
+picklerage.png,PickleRage Glen Burnie,6711 Ritchie Hwy,Glen Burnie,MD,21061,39.18451,-76.61851,Business
+picklr.png,The Picklr Timonium,2050 York Rd,Timonium,MD,21093,39.43451,-76.63451,Business
+Mattie J T Stepanek Park,1800 Piccard Dr,Rockville,MD,20850,39.11121,-77.17121,Park
+Bauer Drive Local Park,14625 Bauer Dr,Rockville,MD,20853,39.09451,-77.10451,Park
+Norwood Local Park,4700 Norwood Dr,Bethesda,MD,20815,38.97451,-77.09451,Park
+Cabin John Regional Park,7400 Tuckerman Ln,Bethesda,MD,20817,39.03451,-77.15121,Park
+Wheaton Regional Park,2000 Shorefield Rd,Wheaton,MD,20902,39.04121,-77.04121,Park
+Life Time Gaithersburg,10121 Washingtonian Blvd,Gaithersburg,MD,20878,39.12121,-77.20121,Business
+Life Time Rockville,1151 Seven Locks Rd,Rockville,MD,20854,39.06851,-77.16451,Business
+Pleasant View Park,10901 Darnestown Rd,Gaithersburg,MD,20878,39.11451,-77.23451,Park
+Olney Manor Recreational Park,16601 Georgia Ave,Olney,MD,20832,39.12851,-77.07121,Park
+Fairland Regional Park,13950 Old Gunpowder Rd,Laurel,MD,20707,39.08851,-76.92451,Park
+Watkins Regional Park,301 Watkins Park Dr,Upper Marlboro,MD,20774,38.89451,-76.78121,Park
+Walker Mill Regional Park,8840 Walker Mill Rd,District Heights,MD,20747,38.86851,-76.88121,Park
+Cosca Regional Park,11000 Thrift Rd,Clinton,MD,20735,38.76121,-76.90451,Park
+Acredale Community Park,4300 Metzerott Rd,College Park,MD,20740,38.99851,-76.94451,Park
+Whitemarsh Park,100 White Marsh Park Dr,Bowie,MD,20715,38.96851,-76.73451,Park
+Centennial Park,10000 Clarksville Pike,Ellicott City,MD,21042,39.23851,-76.85851,Park
+Cedar Lane Park,5081 Cedar Ln,Columbia,MD,21044,39.22451,-76.88451,Park
+Savage Park,8400 Fair St,Savage,MD,20763,39.13851,-76.82851,Park
+Western Regional Park,14800 Carrs Mill Rd,Woodbine,MD,21797,39.29451,-77.03451,Park
+Kinder Farm Park,1001 Kinder Farm Park Rd,Millersville,MD,21108,39.10121,-76.62851,Park
+Severna Park Community Center,623 Baltimore Annapolis Blvd,Severna Park,MD,21146,39.07121,-76.55851,Business
+Lake Shore Athletic Complex,850 Woods Rd,Pasadena,MD,21122,39.11121,-76.47121,Park
+Quiet Waters Park,600 Quiet Waters Park Rd,Annapolis,MD,21403,38.94121,-76.50121,Park
+Crofton Park,2301 Davidsonville Rd,Gambrills,MD,21054,39.01851,-76.68451,Park
+Patterson Park Pickleball Courts,200 S Linwood Ave,Baltimore,MD,21224,39.29121,-76.57851,Park
+Druid Hill Park Pickleball Courts,3001 Swann Dr,Baltimore,MD,21217,39.32121,-76.64451,Park
+Carroll Park,1500 Washington Blvd,Baltimore,MD,21230,39.27851,-76.64121,Park
+Coppermine Racquet and Fitness,1726 Reisterstown Rd,Pikesville,MD,21208,39.37851,-76.72121,Business
+Coppermine Bare Hills,1420 Clarkview Rd,Baltimore,MD,21209,39.38451,-76.65451,Business
+Seminary Park,1400 W Seminary Ave,Lutherville,MD,21093,39.43121,-76.66121,Park
+Meadowood Regional Park,10650 Falls Rd,Lutherville,MD,21093,39.42121,-76.67851,Park
+Honeygo Run Regional Park,9033 Honeygo Blvd,Perry Hall,MD,21128,39.39451,-76.47851,Park
+Catonsville Community Park,501 N Rolling Rd,Catonsville,MD,21228,39.27451,-76.75121,Park
+Bel Air Athletic Club,658 Boulton St,Bel Air,MD,21014,39.52851,-76.35121,Business
+Rockfield Park,501 E Churchville Rd,Bel Air,MD,21014,39.53851,-76.33851,Park
+Flying Point Park,511 Kennard Ave,Edgewood,MD,21040,39.40851,-76.28451,Park
+Baker Park Pickleball Courts,121 N Bentz St,Frederick,MD,21701,39.41851,-77.41851,Park
+Max Kehne Memorial Park,1100 W 7th St,Frederick,MD,21701,39.43121,-77.43121,Park
+Walkersville Community Park,21 W Frederick St,Walkersville,MD,21793,39.48451,-77.35121,Park
+Fairgrounds Park,351 N Cleveland Ave,Hagerstown,MD,21740,39.64451,-77.70851,Park
+Halfway Park,11507 Halfway Blvd,Hagerstown,MD,21740,39.62121,-77.76851,Park
+Constitution Park,500 Williams St,Cumberland,MD,21502,39.64851,-78.75121,Park
+Northside Park Pickleball Complex,200 125th St,Ocean City,MD,21842,38.42851,-75.05851,Park
+Gorman Park,13641 Gorman Ave,Ocean City,MD,21842,38.44121,-75.05451,Park
+Salisbury City Park,521 S Park Dr,Salisbury,MD,21804,38.36121,-75.58851,Park
+WinterPlace Park,6737 Blue Ribbon Rd,Salisbury,MD,21804,38.37451,-75.52851,Park
+Idlewild Park,115 Idlewild Ave,Easton,MD,21601,38.76851,-76.06851,Park
+Hallowing Point Park,4755 Hallowing Point Rd,Prince Frederick,MD,20678,38.53121,-76.62121,Park
+Chancellors Run Regional Park,21905 Chancellors Run Rd,Great Mills,MD,20634,38.27121,-76.51851,Park
+White Plains Regional Park,1015 St Charles Pkwy,White Plains,MD,20695,38.58451,-76.94121,Park
+Bensville Park,6980 Bensville Rd,Waldorf,MD,20601,38.60121,-77.01851,Park
