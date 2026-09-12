@@ -1,0 +1,59 @@
+image,name,address,city,state,zip,lat,lng, type
+picklr.png,The Picklr Commack,5035 Jericho Turnpike,Commack,NY,11725,40.84121,-73.28451,Business
+picklr.png,The Picklr Centereach,2150 Middle Country Rd,Centereach,NY,11720,40.86451,-73.08121,Business
+picklr.png,The Picklr Scarsdale,1088 Central Park Ave,Scarsdale,NY,10583,40.99851,-73.81451,Business
+CityPickle Industry City,51 34th St Bldg 8,Brooklyn,NY,11232,40.65451,-74.00851,Business
+CityPickle Long Island City,9-03 44th Rd,Long Island City,NY,11101,40.74851,-73.94851,Business
+CityPickle Wollman Rink Central Park,830 5th Ave,New York,NY,10065,40.76781,-73.97451,Business
+Pickleball Plus,525 Eagle Ave,West Hempstead,NY,11552,40.69851,-73.65451,Business
+Sportime Kings Park,275 Indian Head Rd,Kings Park,NY,11754,40.87121,-73.25451,Business
+Sportime Randalls Island,1 Randalls Island,New York,NY,10035,40.79121,-73.92451,Business
+Dinkers Pickleball Club,1100 University Ave,Rochester,NY,14607,43.15451,-77.57451,Business
+Buffalo RiverWorks Pickleball,359 Ganson St,Buffalo,NY,14203,42.87121,-78.87121,Business
+Tri-City Fitness,944 New Loudon Rd,Latham,NY,12110,42.76851,-73.74851,Business
+Solaris Sports Club,201 Veterans Rd,Yorktown Heights,NY,10598,41.28851,-73.78451,Business
+Pier 2 Brooklyn Bridge Park,150 Furman St,Brooklyn,NY,11201,40.69851,-73.99851,Park
+McCarren Park Pickleball Courts,776 Lorimer St,Brooklyn,NY,11222,40.72121,-73.95121,Park
+Leif Ericson Park Pickleball Courts,66th St & 8th Ave,Brooklyn,NY,11220,40.63121,-74.01851,Park
+Marine Park Pickleball Courts,Fillmore Ave & Stuart St,Brooklyn,NY,11234,40.60851,-73.93121,Park
+Lincoln Terrace Park,E New York Ave & Buffalo Ave,Brooklyn,NY,11213,40.66851,-73.92451,Park
+Carl Schurz Park Pickleball Courts,East End Ave & E 86th St,New York,NY,10028,40.77451,-73.94451,Park
+Riverside Park Pickleball Courts,Riverside Dr & W 96th St,New York,NY,10025,40.79851,-73.97451,Park
+DeWitt Clinton Park,W 52nd St & 11th Ave,New York,NY,10019,40.76851,-73.99451,Park
+Highbridge Park Pickleball Courts,Amsterdam Ave & W 173rd St,New York,NY,10032,40.84451,-73.93451,Park
+Roosevelt Island Pickleball Courts,Capobianco Field,New York,NY,10044,40.76121,-73.94851,Park
+Cunningham Park Pickleball Courts,196-00 Union Turnpike,Fresh Meadows,NY,11366,40.72851,-73.77451,Park
+Astoria Park Pickleball Courts,19 19th St,Astoria,NY,11105,40.77851,-73.92451,Park
+Flushing Meadows Corona Park Courts,Avery Ave & 131st St,Flushing,NY,11368,40.74851,-73.83451,Park
+Roy Wilkins Park,Merrick Blvd & 119th Ave,Jamaica,NY,11434,40.69121,-73.76851,Park
+Rockaway Beach 101st St Courts,Shore Front Pkwy & Beach 101st St,Rockaway Park,NY,11694,40.58451,-73.82121,Park
+Fairview Park Pickleball Complex,Englewood Ave,Staten Island,NY,10309,40.53451,-74.22121,Park
+Silver Lake Park Pickleball Courts,Hart Blvd & Revere St,Staten Island,NY,10301,40.62851,-74.09851,Park
+Midland Beach Pickleball Courts,Father Capodanno Blvd & Hunter Ave,Staten Island,NY,10306,40.57121,-74.09121,Park
+Pelham Bay Park Pickleball Courts,Bruckner Blvd & Middletown Rd,Bronx,NY,10461,40.85121,-73.82451,Park
+St James Park Bronx,Jerome Ave & E 191st St,Bronx,NY,10468,40.86451,-73.89851,Park
+Van Cortlandt Park Courts,Broadway & W 242nd St,Bronx,NY,10471,40.88951,-73.89451,Park
+Eisenhower Park Pickleball Complex,Merrick Ave & Stewart Ave,East Meadow,NY,11554,40.72851,-73.57851,Park
+Cantiague Park Pickleball Courts,480 W John St,Hicksville,NY,11801,40.76451,-73.54121,Park
+Veterans Memorial Park East Northport,Bellerose Ave,East Northport,NY,11731,40.87851,-73.32851,Park
+Shorefront Park Pickleball Courts,Smith St,Patchogue,NY,11772,40.75451,-73.01121,Park
+Sunken Meadow State Park,Rte 25A & Sunken Meadow Pkwy,Kings Park,NY,11754,40.90851,-73.25851,Park
+Heckscher State Park Courts,1 Heckscher State Pkwy,East Islip,NY,11730,40.70851,-73.16851,Park
+SYS Southampton Recreation Center,1370 Majors Path,Southampton,NY,11968,40.91451,-72.39851,Park
+Granite Knolls Park Pickleball Complex,2975 Stony St,Yorktown Heights,NY,10598,41.30451,-73.81851,Park
+Leonard Park Pickleball Courts,104 E Main St,Mount Kisco,NY,10549,41.20121,-73.72451,Park
+Greenburgh Town Park,11 Olympic Ln,White Plains,NY,10607,41.04121,-73.82451,Park
+Memorial Park Nyack,4 Piermont Ave,Nyack,NY,10960,41.08851,-73.91451,Park
+Congers Memorial Park,6 Gilchrest Rd,Congers,NY,10920,41.14451,-73.94851,Park
+Carrier Park Pickleball Complex,6005 E Taft Rd,East Syracuse,NY,13057,43.10851,-76.08851,Park
+Santaro Park Pickleball Courts,4979 Velasko Rd,Syracuse,NY,13215,43.01451,-76.19851,Park
+Central Park Schenectady Pickleball Courts,500 Iroquois Way,Schenectady,NY,12309,42.79851,-73.91451,Park
+Collins Park Scotia,Schonowee Ave,Scotia,NY,12302,42.82851,-73.96451,Park
+Elm Avenue Park,261 Elm Ave,Delmar,NY,12054,42.60851,-73.84451,Park
+Cobbs Hill Park Pickleball Courts,80 Culver Rd,Rochester,NY,14610,43.14121,-77.57451,Park
+Perinton Center Park Pickleball Complex,1350 Turk Hill Rd,Fairport,NY,14450,43.08851,-77.44121,Park
+Buckland Park,1341 Westfall Rd,Rochester,NY,14620,43.11121,-77.60451,Park
+Delaware Park Pickleball Courts,Meadow Dr,Buffalo,NY,14214,42.92851,-78.86851,Park
+Mang Park Pickleball Courts,10 Desoto Dr,Kenmore,NY,14223,42.97121,-78.87851,Park
+Clearfield Community Park,730 Hopkins Rd,Amherst,NY,14221,43.01121,-78.71851,Park
+Bassett Park,359 Klein Rd,Amherst,NY,14221,43.00451,-78.73451,Park
