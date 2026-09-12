@@ -1,1 +1,5 @@
-# pickleball-finder
+# Pickleball Finder
+
+Support:
+- Android
+- Web
