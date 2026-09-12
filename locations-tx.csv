@@ -1,1 +1,69 @@
 
+image,name,address,city,state,zip,lat,lng, type
+pk.png,Pickleball Kingdom Plano,1301 Custer Rd,Plano,TX,75075,33.01852,-96.73291,Business
+pk.png,Pickleball Kingdom Keller,2045 S Main St,Keller,TX,76248,32.90941,-97.23412,Business
+ace.png,Ace Pickleball Club Richmond,22230 Westpark Tollway,Richmond,TX,77407,29.68852,-95.73142,Business
+ace.png,Ace Pickleball Club Colleyville,5617 Colleyville Blvd,Colleyville,TX,76034,32.88761,-97.14652,Business
+cnp.png,Chicken N Pickle San Antonio,5215 UTSA Blvd,San Antonio,TX,78249,29.58462,-98.60151,Business
+cnp.png,Chicken N Pickle Grand Prairie,2965 S Hwy 161,Grand Prairie,TX,75052,32.69982,-97.02531,Business
+cnp.png,Chicken N Pickle Grapevine,4600 State Hwy 121,Grapevine,TX,76051,32.90021,-97.05041,Business
+cnp.png,Chicken N Pickle Webster,210 Alameda Bianco,Webster,TX,77598,29.53124,-95.12781,Business
+cnp.png,Chicken N Pickle Allen,195 E Stacy Rd,Allen,TX,75002,33.13092,-96.65781,Business
+picklr.png,The Picklr McKinney,2985 S McDonald St,McKinney,TX,75069,33.16781,-96.62681,Business
+picklr.png,The Picklr West Fort Worth,6733 Camp Bowie Blvd,Fort Worth,TX,76116,32.72752,-97.43311,Business
+picklr.png,The Picklr Hurst,700 W Bedford Euless Rd,Hurst,TX,76053,32.83981,-97.18521,Business
+picklr.png,The Picklr Lewisville,2401 S Stemmons Fwy,Lewisville,TX,75067,33.01824,-96.97451,Business
+picklr.png,The Picklr Arlington,4100 S Cooper St,Arlington,TX,76015,32.67982,-97.13521,Business
+picklr.png,The Picklr Katy,23541 Westheimer Pkwy,Katy,TX,77494,29.74281,-95.77651,Business
+picklr.png,The Picklr The Woodlands,25114 Grogans Mill Rd,Spring,TX,77380,30.13452,-95.46781,Business
+picklr.png,The Picklr Cypress,25640 Northwest Fwy,Cypress,TX,77429,29.97541,-95.69821,Business
+picklr.png,The Picklr Pearland,2803 Business Center Dr,Pearland,TX,77584,29.56211,-95.39451,Business
+picklr.png,The Picklr Austin West,10801 N Mopac Expy,Austin,TX,78759,30.39562,-97.74281,Business
+picklr.png,The Picklr Live Oak,7900 Pat Booker Rd,Live Oak,TX,78233,29.56241,-98.34121,Business
+picklr.png,The Picklr Waco,1428 Wooded Acres Dr,Waco,TX,76710,31.52841,-97.18951,Business
+Oasis Pickleball Club,5757 State Hwy 205,Rockwall,TX,75032,32.84652,-96.44281,Business
+Austin Pickle Ranch North,11000 N Interstate 35,Austin,TX,78753,30.37891,-97.67451,Business
+Austin Pickle Ranch Downtown,1717 W 6th St,Austin,TX,78703,30.27482,-97.76541,Business
+Bouldin Acres South Lamar,2027 S Lamar Blvd,Austin,TX,78704,30.24821,-97.77121,Business
+Bouldin Acres Braker,1818 W Braker Ln,Austin,TX,78758,30.39042,-97.70891,Business
+Dreamland Dripping Springs,2770 W Hwy 290,Dripping Springs,TX,78620,30.19821,-98.11451,Business
+512 Pickle,11301 Burnet Rd,Austin,TX,78758,30.40451,-97.71452,Business
+Elite Pickleball Club,610 W 6th St,Houston,TX,77007,29.77451,-95.39821,Business
+PALA Pickleball,201 Technology Pkwy,Spring,TX,77373,30.08124,-95.42151,Business
+PKL Social,1112 Shepherd Dr,Houston,TX,77007,29.76891,-95.41021,Business
+Bumpy Pickle Sports,5544 Armour Dr,Houston,TX,77020,29.76211,-95.30981,Business
+FIT High Performance Pickleball Club,1106 Vance Jackson Rd,San Antonio,TX,78201,29.47541,-98.53211,Business
+Cole Park Pickleball Courts,4000 Cole Ave,Dallas,TX,75204,32.81241,-96.79721,Park
+Campbell Green Park Pickleball Courts,16600 Park Hill Dr,Dallas,TX,75248,32.97781,-96.78651,Park
+Fretz Tennis and Pickleball Center,6998 Belt Line Rd,Dallas,TX,75254,32.95152,-96.78241,Park
+Samuell Grand Tennis Center,6220 E Grand Ave,Dallas,TX,75223,32.80211,-96.74121,Park
+High Point Tennis and Pickleball Center,421 W Spring Creek Pkwy,Plano,TX,75023,33.05621,-96.70821,Park
+Carpenter Park Recreation Center,6701 Coit Rd,Plano,TX,75024,33.06781,-96.77121,Park
+Wagon Wheel Tennis Center,950 Freeport Pkwy,Coppell,TX,75019,32.95451,-97.01251,Park
+The Courts at McKinney,3253 Alma Rd,McKinney,TX,75070,33.15541,-96.67121,Park
+McLeland Tennis Center,1600 W Seminary Dr,Fort Worth,TX,76115,32.68451,-97.35121,Park
+Warren Sports Complex,7599 Eldorado Pkwy,Frisco,TX,75033,33.17241,-96.84211,Park
+Arlington Tennis Center,500 W Mayfield Rd,Arlington,TX,76014,32.69241,-97.11421,Park
+Rose Park Tennis & Pickleball Center,2605 S 7th St,Abilene,TX,79602,32.44121,-99.75411,Park
+Austin Tennis and Pickleball Center,7800 Johnny Morris Rd,Austin,TX,78724,30.30651,-97.64521,Park
+Pan American Neighborhood Park,2100 E 3rd St,Austin,TX,78702,30.26051,-97.71981,Park
+South Austin Recreation Center,1100 Cumberland Rd,Austin,TX,78704,30.23981,-97.76541,Park
+Rosewood Neighborhood Park,2300 Rosewood Ave,Austin,TX,78702,30.27411,-97.71421,Park
+Dick Nichols District Park,8011 Beckett Rd,Austin,TX,78749,30.21852,-97.86451,Park
+Garrison District Park,6001 Menchaca Rd,Austin,TX,78745,30.21251,-97.79851,Park
+Northwest Recreation Center,2913 Northland Dr,Austin,TX,78757,30.34211,-97.75121,Park
+Old Town Park,415 Main St,Round Rock,TX,78664,30.50981,-97.67421,Park
+Memorial Park Tennis & Pickleball Center,1500 Memorial Loop Dr,Houston,TX,77007,29.76851,-95.43121,Park
+Homer Ford Tennis Center,5225 Calhoun Rd,Houston,TX,77021,29.70451,-95.34821,Park
+Jaycee Park Pickleball Courts,1300 Seamist Dr,Houston,TX,77008,29.79451,-95.42851,Park
+Cleveland Park Pickleball Courts,200 Jackson Hill St,Houston,TX,77007,29.76541,-95.39951,Park
+Lee LeClear Tennis Center,9506 S Gessner Rd,Houston,TX,77071,29.67121,-95.53981,Park
+Lost Creek Park,3703 Lost Creek Blvd,Sugar Land,TX,77478,29.58411,-95.57851,Park
+Shadowbend Park,4995 Lake Woodlands Dr,The Woodlands,TX,77381,30.17981,-95.49521,Park
+Fairchild Park Pickleball Complex,1214 E Crockett St,San Antonio,TX,78202,29.42451,-98.46851,Park
+McFarlin Tennis Center,1503 San Pedro Ave,San Antonio,TX,78212,29.44451,-98.49851,Park
+Whispering Oaks Park,10427 Wurzbach Rd,San Antonio,TX,78230,29.53751,-98.54981,Park
+Blossom Athletic Center,12002 Jones Maltsberger Rd,San Antonio,TX,78216,29.55121,-98.48121,Park
+Ascarate Park Pickleball Courts,6900 Delta Dr,El Paso,TX,79905,31.73981,-106.40851,Park
+Burgess Tennis and Pickleball Center,3004 34th St,Lubbock,TX,79410,33.56541,-101.88451,Park
+Al Kruse Tennis Center,502 King St,Corpus Christi,TX,78401,27.78851,-97.39121,Park
