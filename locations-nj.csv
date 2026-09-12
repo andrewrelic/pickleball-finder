@@ -1,27 +1,62 @@
 image,name,address,city,state,zip,lat,lng, type
-ace.png,Ace Pickleball Club,1199 Nixon Drive, Moorestown, NJ, 08057,39.9411137,-74.9656739, Business
-ace.png,Ace Pickleball Club,512 Milltown Rd, North Brunswick Township, NJ, 08902,40.4649291,-74.4559397, Business
-Atlantic Club,1904 Atlantic Ave,Manasquan,NJ,08736,40.1248,-74.0621, Business
-Bergen Pickleball Zone, 50 Spring St, Ramsey, NJ, 07446, 41.0241572,-74.2665452, Business
-jpc.png,Jersey Pickleball Club at Bell Works, 101 Crawfords Corner Rd, Holmdel, NJ, 07733,40.3659042,-74.7794724, Business
-The Club at Monroe, 4 Farrington Blvd, Monroe Township, NJ, 08831,40.2667173,-74.4367205, Business
-Pickle House,153 W Manor Way, Robbinsville Twp, NJ, 08691,40.1940711,-74.5937694, Business
-picklerage.png,PickleRage Union County,900 North Ave,Plainfield,NJ,07062,40.628099,-74.4112357, Business
-pk.png,Pickleball Kingdom Hamilton, 1100 Negron Dr, Hamilton Township, NJ, 08691, 40.2011885,-74.79592, Business
-pk.png,Pickleball Kingdom Watchung, 1511 US-22,Watchung,NJ, 07069, 40.6409565,-74.423955, Business
-pk.png,Pickleball Kingdom Hillsborough, 315 Roycefield Road, Hillsborough, NJ, 08844, 40.53217033066197, -74.64253804574997,Business
-Pickleball HQ,111 NJ-35, Cliffwood, NJ, 07721, 40.4415746,-74.2356059, Business
-Pickleball Palace, 9 Whippany Rd Building D, Whippany, NJ, 07981,40.8182264,-74.7554491,Business
-Byron Johnson Park,187 Ellisdale Rd, Allentown, NJ, 08501, 40.1709569,-74.5946858, Park
-North Arlington Pickleball Courts,437 River Rd, North Arlington, NJ, 07031,40.8005122,-74.1367954, Park
-Brookdale Park,W Circuit Dr,Montclair,NJ,07043,40.8351,-74.1956, Park
-Putnam Park,705 Oak Tree Rd,South Plainfield,NJ,07080,40.5739,-74.4098, Park
-Overpeck County Park,40 Fort Lee Rd,Leonia,NJ,07605,40.8550,-74.0042, Park
-Thompson Park,805 Newman Springs Rd,Lincroft,NJ,07738,40.3342,-74.1245, Park
-Mercer County Park,1638 Old Trenton Rd,West Windsor,NJ,08550,40.2608,-74.6617, Park
-Central Park of Morris Co,91 Central Ave,Parsippany,NJ,07950,40.8350,-74.4754, Park
-Randolph Park,198 Calais Rd,Randolph,NJ,07869,40.8324,-74.5776, Park
-Veterans Park,2206 Kuser Rd,Hamilton,NJ,08690,40.2036,-74.6732, Park
-Brookside Park, 1255 Hetfield Ave, Scotch Plains, NJ, 07076,40.64075597045311, -74.36420180363089, Park
-
-
+ace.png,Ace Pickleball Club Moorestown,1199 Nixon Dr,Moorestown,NJ,08057,39.94111,-74.96567,Business
+ace.png,Ace Pickleball Club North Brunswick,512 Milltown Rd,North Brunswick,NJ,08902,40.46493,-74.45594,Business
+Atlantic Club,1904 Atlantic Ave,Manasquan,NJ,08736,40.12481,-74.06211,Business
+Bergen Pickleball Zone,50 Spring St,Ramsey,NJ,07446,41.02416,-74.26655,Business
+Jersey Pickleball Club at Bell Works,101 Crawfords Corner Rd,Holmdel,NJ,07733,40.36851,-74.16851,Business
+The Club at Monroe,4 Farrington Blvd,Monroe Township,NJ,08831,40.26672,-74.43672,Business
+Pickle House,153 W Manor Way,Robbinsville Twp,NJ,08691,40.19407,-74.59377,Business
+picklerage.png,PickleRage Union County,900 North Ave,Plainfield,NJ,07062,40.62811,-74.41124,Business
+pk.png,Pickleball Kingdom Hamilton,1100 Negron Dr,Hamilton Township,NJ,08691,40.20119,-74.79592,Business
+pk.png,Pickleball Kingdom Watchung,1511 US-22,Watchung,NJ,07069,40.64096,-74.42396,Business
+Pickleball HQ,111 NJ-35,Cliffwood,NJ,07721,40.44157,-74.23561,Business
+Pickleball Palace,9 Whippany Rd Bldg D,Whippany,NJ,07981,40.81823,-74.75545,Business
+Byron Johnson Park,187 Ellisdale Rd,Allentown,NJ,08501,40.17096,-74.59469,Park
+North Arlington Pickleball Courts,437 River Rd,North Arlington,NJ,07031,40.80051,-74.13681,Park
+Brookdale Park,W Circuit Dr,Montclair,NJ,07043,40.83511,-74.19561,Park
+Putnam Park,705 Oak Tree Rd,South Plainfield,NJ,07080,40.57391,-74.40981,Park
+Overpeck County Park,40 Fort Lee Rd,Leonia,NJ,07605,40.85501,-74.00421,Park
+Thompson Park,805 Newman Springs Rd,Lincroft,NJ,07738,40.33421,-74.12451,Park
+Mercer County Park,1638 Old Trenton Rd,West Windsor,NJ,08550,40.26081,-74.66171,Park
+Central Park of Morris Co,91 Central Ave,Parsippany,NJ,07950,40.83501,-74.47541,Park
+Randolph Park,198 Calais Rd,Randolph,NJ,07869,40.83241,-74.57761,Park
+Veterans Park,2206 Kuser Rd,Hamilton,NJ,08690,40.20361,-74.67321,Park
+picklr.png,The Picklr East Brunswick,300 NJ-18,East Brunswick,NJ,08816,40.45593,-74.40001,Business
+picklr.png,The Picklr Fair Lawn,16-16 River Rd,Fair Lawn,NJ,07410,40.93889,-74.14039,Business
+picklr.png,The Picklr Manahawkin,700 NJ-72,Manahawkin,NJ,08050,39.70212,-74.27093,Business
+Ocean City Pickleball Courts,18th St and Haven Ave,Ocean City,NJ,08226,39.27091,-74.58751,Park
+Bradley Beach Pickleball Courts,Cliff Ave and Ocean Ave,Bradley Beach,NJ,07720,40.20231,-74.01321,Park
+Southwest Resiliency Park,58 Jackson St,Hoboken,NJ,07030,40.73812,-74.04185,Park
+Lincoln Park Pickleball Courts,West Side Ave and Belmont Ave,Jersey City,NJ,07304,40.72481,-74.08851,Park
+Washington Park Pickleball Courts,Paterno Dr and 2nd St,Jersey City,NJ,07307,40.75121,-74.04751,Park
+Cooper River Park,5300 N Park Dr,Pennsauken,NJ,08109,39.92851,-75.07451,Park
+Colonial Park,156 Mettlers Rd,Somerset,NJ,08873,40.50581,-74.56851,Park
+Laurel Acres Park,1045 S Church St,Mount Laurel,NJ,08054,39.93851,-74.93851,Park
+Washington Lake Park,626 Hurffville Cross Keys Rd,Sewell,NJ,08080,39.73451,-75.08451,Park
+Decou Sports Complex,Cropwell Rd and Evesham Rd,Cherry Hill,NJ,08003,39.88121,-74.96851,Park
+Cherry Hill Health and Racquet Club,1820 Old Cuthbert Rd,Cherry Hill,NJ,08034,39.91451,-75.00851,Business
+Sea Isle City Pickleball Courts,West Jersey Ave,Sea Isle City,NJ,08243,39.15121,-74.69851,Park
+Avalon 8th Street Courts,8th St and Ocean Dr,Avalon,NJ,08202,39.10851,-74.71451,Park
+Cape May County Park,707 N Route 9,Cape May Court House,NJ,08210,39.09851,-74.82851,Park
+Bey Lea Park,1411 N Bay Ave,Toms River,NJ,08753,39.98851,-74.17851,Park
+Memorial Pool Pickleball Courts,713 Scotch Plains Ave,Westfield,NJ,07090,40.64451,-74.35851,Park
+Michael J Tighe Park,65 Georgia Rd,Freehold,NJ,07728,40.21851,-74.28851,Park
+Life Time Florham Park,111 Ridgedale Ave,Florham Park,NJ,07932,40.78851,-74.42851,Business
+Wayne PAL Pickleball,1 PAL Dr,Wayne,NJ,07470,40.91451,-74.25851,Business
+Connolly Park,605 Centennial Blvd,Voorhees,NJ,08043,39.84851,-74.96851,Park
+Brigantine Pickleball Courts,42nd St S and Bayshore Ave,Brigantine,NJ,08203,39.40451,-74.37851,Park
+Fasola Park,12 Sycamore Dr,Deptford,NJ,08096,39.81851,-75.12451,Park
+Memorial Park Pickleball Courts,Oval Rd,Livingston,NJ,07039,40.79121,-74.32851,Park
+Lidgerwood Park,Lidgerwood Pkwy,Morristown,NJ,07960,40.78121,-74.47851,Park
+Orchard Park,2244 Allenwood Rd,Wall Township,NJ,07719,40.14851,-74.07851,Park
+Count Basie Park,11 Henry St,Red Bank,NJ,07701,40.34451,-74.07851,Park
+Community Park South,Race St,Princeton,NJ,08540,40.35451,-74.66451,Park
+Surf City 8th Street Courts,8th St and Barnegat Ave,Surf City,NJ,08008,39.66121,-74.16851,Park
+Nash Park,700 Lexington Ave,Clifton,NJ,07011,40.87121,-74.14851,Park
+Chelsea Heights Park,Crossan Ave and Filbert Ave,Atlantic City,NJ,08401,39.35851,-74.45851,Park
+Romano Park,Maple Ave and S East Ave,Vineland,NJ,08360,39.47851,-75.01851,Park
+Kramer Manor Park,Eisler Rd,Scotch Plains,NJ,07076,40.63851,-74.38851,Park
+Life Time Bridgewater,145 Church Rd,Bridgewater,NJ,08807,40.60851,-74.62851,Business
+Beaver Dam Park,Bridge Ave,Point Pleasant,NJ,08742,40.08451,-74.06851,Park
+Bernie Cooke Park,2901 Chambers Bridge Rd,Brick,NJ,08723,40.06851,-74.12851,Park
+Sunset Park,Main St and Sunset Ave,Asbury Park,NJ,07712,40.22451,-74.01451,Park
