@@ -1,0 +1,60 @@
+image,name,address,city,state,zip,lat,lng, type
+cnp.png,Chicken N Pickle St Charles,3755 E Main St,St Charles,IL,60174,41.92121,-88.27451,Business
+picklr.png,The Picklr Naperville,1960 Springbrook Square Dr,Naperville,IL,60564,41.72851,-88.20451,Business
+picklr.png,The Picklr Villa Park,100 E North Ave,Villa Park,IL,60181,41.90851,-87.97451,Business
+picklr.png,The Picklr Mundelein,1500 S Butterfield Rd,Mundelein,IL,60060,42.24121,-87.95851,Business
+picklr.png,The Picklr Mount Prospect,1000 S Elmhurst Rd,Mount Prospect,IL,60056,42.04851,-87.93851,Business
+picklr.png,The Picklr Bolingbrook,755 E Boughton Rd,Bolingbrook,IL,60440,41.71451,-88.05851,Business
+picklr.png,The Picklr Kildeer,20771 N Rand Rd,Kildeer,IL,60047,42.17851,-88.04851,Business
+picklr.png,The Picklr Wheaton,1 Danada Sq W,Wheaton,IL,60189,41.83451,-88.10851,Business
+ace.png,Ace Pickleball Club Vernon Hills,701 N Milwaukee Ave,Vernon Hills,IL,60061,42.23451,-87.96451,Business
+SPF Chicago Social Pickleball Fun,2121 N Clybourn Ave,Chicago,IL,60614,41.92051,-87.66851,Business
+Pickle Haus,1621 Randall Rd,Algonquin,IL,60102,42.15851,-88.33451,Business
+Sure Shot Pickleball,2244 Corporate Ln,Naperville,IL,60563,41.79121,-88.18851,Business
+Big City Pickle Fulton Market,333 N Green St,Chicago,IL,60607,41.88851,-87.64851,Business
+Big City Pickle Goose Island,1450 N Dayton St,Chicago,IL,60642,41.90851,-87.65121,Business
+Schaumburg Tennis Plus Pickleball,1416 N Payne Rd,Schaumburg,IL,60173,42.05451,-88.10451,Business
+Maggie Daley Park Pickleball Courts,337 E Randolph St,Chicago,IL,60601,41.88451,-87.61851,Park
+Grant Park Tennis and Pickleball Courts,900 S Columbus Dr,Chicago,IL,60605,41.87121,-87.62121,Park
+Oz Park Pickleball Courts,2021 N Burling St,Chicago,IL,60614,41.91851,-87.64851,Park
+Horner Park Pickleball Courts,2741 W Montrose Ave,Chicago,IL,60618,41.96121,-87.69851,Park
+Warren Park Pickleball Courts,6601 N Western Ave,Chicago,IL,60645,42.00121,-87.68951,Park
+McKinley Park Pickleball Courts,2210 W Pershing Rd,Chicago,IL,60609,41.82451,-87.68121,Park
+Gompers Park Pickleball Courts,4222 W Foster Ave,Chicago,IL,60630,41.97451,-87.73451,Park
+Portage Park Pickleball Courts,4100 N Long Ave,Chicago,IL,60641,41.95451,-87.76121,Park
+Skinner Park Pickleball Courts,1331 W Adams St,Chicago,IL,60607,41.87951,-87.66121,Park
+Athletic Field Park,3580 W Addison St,Chicago,IL,60618,41.94651,-87.71851,Park
+Dunbar Park Pickleball Courts,300 E 31st St,Chicago,IL,60616,41.83851,-87.62121,Park
+Commissioners Park Pickleball Complex,3704 111th St,Naperville,IL,60564,41.69851,-88.20451,Park
+Knoch Park Pickleball Courts,724 S West St,Naperville,IL,60540,41.76121,-88.15451,Park
+Frontier Sports Complex,3380 Cedar Glade Dr,Naperville,IL,60564,41.71121,-88.19451,Park
+McCollum Park Pickleball Complex,6801 Main St,Downers Grove,IL,60516,41.76451,-88.00851,Park
+Heritage Park Wheeling,100 Community Blvd,Wheeling,IL,60090,42.13851,-87.92451,Park
+Meineke Park Pickleball Courts,220 E Weathersfield Way,Schaumburg,IL,60193,42.01851,-88.07451,Park
+Olympic Park Schaumburg,1675 E Old Schaumburg Rd,Schaumburg,IL,60173,42.03451,-88.04121,Park
+Danny Cunniff Park Pickleball Courts,2700 Trail Way,Highland Park,IL,60035,42.20451,-87.82851,Park
+Sunset Woods Park,1801 Sunset Rd,Highland Park,IL,60035,42.18851,-87.81121,Park
+Willow Stream Park Pickleball Courts,651 Old Arlington Heights Rd,Buffalo Grove,IL,60089,42.16451,-87.97451,Park
+Central Park Oak Brook,1450 Forest Gate Rd,Oak Brook,IL,60523,41.83851,-87.95451,Park
+Berens Park Pickleball Courts,493 Oaklawn Ave,Elmhurst,IL,60126,41.91451,-87.94451,Park
+Newton Park Pickleball Courts,707 Fairview Ave,Glen Ellyn,IL,60137,41.86851,-88.05851,Park
+Lehnhausen Park,1205 E Higgins Rd,Elk Grove Village,IL,60007,42.00851,-87.97851,Park
+Centennial Park Park Ridge,100 S Western Ave,Park Ridge,IL,60068,42.00851,-87.84851,Park
+Techny Prairie Park and Fields,1750 Techny Rd,Northbrook,IL,60062,42.12451,-87.84451,Park
+Gillson Park Pickleball Courts,800 Michigan Ave,Wilmette,IL,60091,42.08121,-87.68851,Park
+Lovelace Park,2740 Gross Point Rd,Evanston,IL,60201,42.06851,-87.73451,Park
+Dodds Park Pickleball Complex,1501 N Mattis Ave,Champaign,IL,61821,40.13451,-88.27451,Park
+Washington Park Springfield,1501 S Grand Ave W,Springfield,IL,62704,39.78451,-89.67451,Park
+Rotary Park Springfield,2700 W Lawrence Ave,Springfield,IL,62704,39.78851,-89.69121,Park
+Glen Oak Park Pickleball Courts,2218 N Prospect Rd,Peoria,IL,61603,40.71851,-89.57451,Park
+Kellogg Golf and Pickleball Complex,7716 N Radnor Rd,Peoria,IL,61615,40.78121,-89.65451,Park
+Anderson Park Normal,503 E College Ave,Normal,IL,61761,40.51451,-88.98121,Park
+McGraw Park Bloomington,3202 McGraw Dr,Bloomington,IL,61704,40.45851,-88.94851,Park
+Sinnissippi Park Pickleball Courts,1401 N 2nd St,Rockford,IL,61107,42.28451,-89.07851,Park
+Aldeen Sports Complex,1902 N Alpine Rd,Rockford,IL,61107,42.28851,-89.02851,Park
+OFallon Community Park,400 E 5th St,OFallon,IL,62269,38.58951,-89.90451,Park
+Gordon Moore Park,4550 College Ave,Alton,IL,62002,38.90451,-90.11451,Park
+Fairview Park Decatur,1458 W Eldorado St,Decatur,IL,62522,39.84121,-88.98451,Park
+Camden Park Pickleball Complex,2701 1st St E,Milan,IL,61264,41.44851,-90.56451,Park
+Veterans Memorial Park Moline,3800 16th St,Moline,IL,61265,41.47851,-90.49451,Park
+Krape Park Pickleball Courts,1799 S Park Blvd,Freeport,IL,61032,42.27451,-89.63851,Park
