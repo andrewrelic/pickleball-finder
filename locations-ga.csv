@@ -1,0 +1,55 @@
+image,name,address,city,state,zip,lat,lng, type
+ace.png,Ace Pickleball Club Roswell Flagship,800 Mansell Rd,Roswell,GA,30076,34.02851,-84.34851,Business
+ace.png,Ace Pickleball Club Buford,1948 Buford Hwy,Buford,GA,30518,34.10851,-84.00451,Business
+picklr.png,The Picklr Cumming,543 Peachtree Pkwy,Cumming,GA,30041,34.14851,-84.14851,Business
+pk.png,Pickleball Kingdom Suwanee,3651 Peachtree Pkwy,Suwanee,GA,30024,34.08851,-84.15451,Business
+Rhythm and Rally Sports Hall,150 Southside Dr,Macon,GA,31206,32.78121,-83.67851,Business
+Painted Pickle West Midtown,279 Ottley Dr NE,Atlanta,GA,30324,33.80451,-84.39851,Business
+Atlanta Pickleball Center,535 Trabert Ave NW,Atlanta,GA,30309,33.79121,-84.41451,Business
+Dill Dinkers Alpharetta,6050 North Point Pkwy,Alpharetta,GA,30022,34.05851,-84.28851,Business
+ITA Atlanta Tennis and Pickleball Center,3110 Medlock Bridge Rd,Norcross,GA,30071,33.94851,-84.20851,Business
+Sandy Springs Tennis and Pickleball Center,500 Abernathy Rd NE,Sandy Springs,GA,30328,33.93451,-84.36451,Business
+Cooper Creek Tennis and Pickleball Center,5089 Cooper Creek Pkwy,Columbus,GA,31907,32.50851,-84.92851,Business
+Piedmont Park Pickleball Courts,1071 Piedmont Ave NE,Atlanta,GA,30309,33.78451,-84.37451,Park
+Bitsy Grant Tennis and Pickleball Center,2125 Northside Dr NW,Atlanta,GA,30318,33.81121,-84.41851,Park
+Chastain Park Pickleball Courts,110 W Wieuca Rd NW,Atlanta,GA,30342,33.87451,-84.39851,Park
+South Bend Park Pickleball Courts,1959 Lakewood Ave SE,Atlanta,GA,30315,33.70121,-84.38451,Park
+Coan Park Pickleball Courts,1530 Woodbine Ave SE,Atlanta,GA,30317,33.74851,-84.33451,Park
+Hammond Park Pickleball Courts,705 Hammond Dr,Sandy Springs,GA,30328,33.92121,-84.37851,Park
+Blackburn Park Pickleball Courts,3493 Ashford Dunwoody Rd,Brookhaven,GA,30319,33.89851,-84.33451,Park
+Windwood Hollow Park,4865 Lakeside Dr,Dunwoody,GA,30360,33.94451,-84.28851,Park
+Webb Bridge Park Pickleball Courts,4780 Webb Bridge Rd,Alpharetta,GA,30005,34.08451,-84.24121,Park
+Wills Park Pickleball Courts,11925 Wills Rd,Alpharetta,GA,30009,34.06851,-84.29851,Park
+Newtown Park Pickleball Complex,3150 Old Alabama Rd,Johns Creek,GA,30022,34.02451,-84.26121,Park
+Ocee Park Pickleball Courts,10900 Buice Rd,Johns Creek,GA,30022,34.05851,-84.22851,Park
+Fowler Park Pickleball Complex,4110 Carolene Way,Cumming,GA,30040,34.14451,-84.21451,Park
+Matt Community Park,6555 Franklin Goldmine Rd,Cumming,GA,30028,34.29851,-84.19851,Park
+Terrell Mill Park Pickleball Complex,480 Terrell Mill Rd SE,Marietta,GA,30067,33.91851,-84.47851,Park
+Shaw Park Pickleball Courts,900 Shaw Park Rd,Marietta,GA,30066,34.02851,-84.53851,Park
+Oregon Park Pickleball Courts,145 Old Hamilton Rd,Marietta,GA,30064,33.96121,-84.62851,Park
+Lost Mountain Park Pickleball Complex,4845 Dallas Hwy,Powder Springs,GA,30127,33.95451,-84.69851,Park
+Harrison Tennis and Pickleball Center,2653 Shallowford Rd,Marietta,GA,30066,34.03451,-84.49851,Park
+Hobgood Park,6688 Bells Ferry Rd,Woodstock,GA,30189,34.13451,-84.54851,Park
+Rock Springs Park Pickleball Complex,2950 Spring Rock Dr,Lawrenceville,GA,30043,34.05451,-84.03451,Park
+Rhodes Jordan Park,100 E Crogan St,Lawrenceville,GA,30046,33.95451,-83.98451,Park
+EE Robinson Park Pickleball Complex,850 Level Creek Rd,Sugar Hill,GA,30518,34.11121,-84.05851,Park
+Kenwood Park Pickleball Courts,265 Ga-279,Fayetteville,GA,30214,33.51851,-84.48451,Park
+McCurry Park North,150 McDonough Rd,Fayetteville,GA,30214,33.43851,-84.42851,Park
+Boundary Waters Park,5000 Ga-92,Douglasville,GA,30135,33.67851,-84.73851,Park
+Tattnall Square Park Pickleball Courts,1155 College St,Macon,GA,31201,32.83121,-83.64851,Park
+John Drew Smith Tennis and Pickleball Center,3280 N Ingle Pl,Macon,GA,31210,32.89851,-83.69851,Park
+Patriots Park Pickleball Complex,5445 Columbia Rd,Grovetown,GA,30813,33.53451,-82.21451,Park
+Newman Tennis and Pickleball Center,3103 Wrightsboro Rd,Augusta,GA,30909,33.46851,-82.04851,Park
+Southeast Clarke Park Pickleball Complex,4400 Lexington Rd,Athens,GA,30605,33.91851,-83.31451,Park
+Bishop Park Pickleball Courts,705 Sunset Dr,Athens,GA,30606,33.95451,-83.41121,Park
+Bacon Park Pickleball Complex,6262 Skidaway Rd,Savannah,GA,31406,32.00851,-81.07451,Park
+Lake Mayer Community Park,1850 E Montgomery Cross Rd,Savannah,GA,31406,31.98451,-81.08451,Park
+Daffin Park Pickleball Courts,1301 E Victory Dr,Savannah,GA,31404,32.05121,-81.07121,Park
+North Glynn Recreation Complex,622 Harry Driggers Blvd,Brunswick,GA,31525,31.25851,-81.49851,Park
+Kings Park Pickleball Courts,5450 Frederica Rd,St Simons Island,GA,31522,31.18851,-81.38451,Park
+Double Churches Park Pickleball Courts,1300 Double Churches Rd,Columbus,GA,31904,32.55851,-84.97851,Park
+Freedom Park Valdosta,3795 Guest Rd,Valdosta,GA,31605,30.88451,-83.31851,Park
+Albany Tennis and Pickleball Center,1201 W Broad Ave,Albany,GA,31707,31.57851,-84.18451,Park
+Yahoola Creek Park Pickleball Courts,1166 Captain McDonald Rd,Dahlonega,GA,30533,34.54851,-83.96851,Park
+Roper Park Pickleball Courts,180 Roper Park Rd,Jasper,GA,30143,34.45851,-84.44121,Park
+Meeks Park Pickleball Courts,490 Meeks Park Rd,Blairsville,GA,30512,34.87451,-83.98851,Park
