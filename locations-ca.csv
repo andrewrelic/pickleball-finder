@@ -1,0 +1,65 @@
+image,name,address,city,state,zip,lat,lng, type
+pk.png,Pickleball Kingdom Roseville,100 Gateway Blvd,Roseville,CA,95678,38.75124,-121.28451,Business
+pk.png,Pickleball Kingdom Irvine,14281 Chambers Rd,Tustin,CA,92780,33.72951,-117.82851,Business
+ace.png,Ace Pickleball Club San Jose,1730 Story Rd,San Jose,CA,95122,37.33951,-121.84951,Business
+ace.png,Ace Pickleball Club Orange County,1400 N Harbor Blvd,Fullerton,CA,92835,33.88951,-117.92541,Business
+picklr.png,The Picklr Placentia,750 N Rose Dr,Placentia,CA,92870,33.88981,-117.84851,Business
+picklr.png,The Picklr Carlsbad,6010 Avenida Encinas,Carlsbad,CA,92011,33.11981,-117.32451,Business
+picklr.png,The Picklr Rancho Santa Margarita,22421 Antonio Pkwy,Rancho Santa Margarita,CA,92688,33.62851,-117.59851,Business
+picklr.png,The Picklr Fountain Valley,17150 Brookhurst St,Fountain Valley,CA,92708,33.71251,-117.95451,Business
+picklr.png,The Picklr Fairfield,1350 Travis Blvd,Fairfield,CA,94533,38.26121,-122.05451,Business
+picklr.png,The Picklr Milpitas,1300 S Main St,Milpitas,CA,95035,37.41951,-121.89851,Business
+picklr.png,The Picklr Rancho Cordova,11000 Olson Dr,Rancho Cordova,CA,95670,38.59121,-121.27851,Business
+The Tennis and Pickleball Club at Newport Beach,11 Clubhouse Dr,Newport Beach,CA,92660,33.61951,-117.87451,Business
+Bobby Riggs Racket and Paddle Club,875 Santa Fe Dr,Encinitas,CA,92024,33.04121,-117.27851,Business
+The Hub Pickleball Club San Diego,9545 Campo Rd,Spring Valley,CA,91977,32.74851,-116.99451,Business
+The Hub Silicon Valley,1120 Dell Ave,Campbell,CA,95008,37.26981,-121.94851,Business
+Santa Monica Pickleball Center,2501 Wilshire Blvd,Santa Monica,CA,90403,34.03451,-118.47851,Business
+Barnes Tennis and Pickleball Center,4490 W Point Loma Blvd,San Diego,CA,92107,32.75451,-117.23451,Business
+Mission Hills Country Club Pickleball,34600 Mission Hills Dr,Rancho Mirage,CA,92270,33.79121,-116.42851,Business
+Surf City Pickleball Club,1601 Palm Ave,Huntington Beach,CA,92648,33.67121,-117.99851,Business
+Peninsula Tennis and Pickleball Club,1098 Rollins Rd,Burlingame,CA,94010,37.58951,-122.35851,Business
+San Clemente Municipal Pickleball Courts,247 Avenida La Pata,San Clemente,CA,92673,33.45451,-117.60851,Park
+Tustin Sports Park Pickleball Courts,12850 Robinson Dr,Tustin,CA,92782,33.73451,-117.78851,Park
+Portola Springs Community Park,900 Tomato Springs,Irvine,CA,92618,33.70851,-117.73451,Park
+Heritage Community Park Pickleball Courts,14301 Yale Ave,Irvine,CA,92604,33.70121,-117.78451,Park
+Fountain Valley Sports Park,16400 Brookhurst St,Fountain Valley,CA,92708,33.72121,-117.95451,Park
+Laguna Niguel Regional Park,28241 La Paz Rd,Laguna Niguel,CA,92677,33.54851,-117.70851,Park
+Cabrillo Park Pickleball Courts,1820 E Fruit St,Santa Ana,CA,92701,33.75451,-117.84851,Park
+Memorial Park Pickleball Courts Santa Monica,1401 Olympic Blvd,Santa Monica,CA,90404,34.02121,-118.47851,Park
+Balboa Sports Complex Pickleball Courts,17015 Burbank Blvd,Encino,CA,91316,34.17251,-118.50451,Park
+Westchester Recreation Center,7000 W Manchester Ave,Los Angeles,CA,90045,33.95981,-118.41451,Park
+Manhattan Heights Park Pickleball Courts,1600 Manhattan Beach Blvd,Manhattan Beach,CA,90266,33.88951,-118.39851,Park
+Veterans Park Culver City,4117 Overland Ave,Culver City,CA,90230,34.00981,-118.39851,Park
+Plummer Park Pickleball Courts,7377 Santa Monica Blvd,West Hollywood,CA,90046,34.09121,-118.35121,Park
+South Gate Park Pickleball Courts,4900 Southern Ave,South Gate,CA,90280,33.94851,-118.19851,Park
+El Dorado Park Tennis and Pickleball Center,2800 N Studebaker Rd,Long Beach,CA,90815,33.80851,-118.09851,Park
+Farnsworth Park Pickleball Courts,568 Mount Curve Ave E,Altadena,CA,91001,34.19541,-118.14851,Park
+Poinsettia Community Park,6600 Hidden Valley Rd,Carlsbad,CA,92011,33.11121,-117.29851,Park
+Mackenzie Creek Park,3100 Mackenzie St,Carlsbad,CA,92008,33.14851,-117.31251,Park
+Coronado Cays Park Pickleball Courts,99 Coronado Cays Blvd,Coronado,CA,92118,32.62451,-117.13451,Park
+Morley Field Pickleball Complex,2221 Morley Field Dr,San Diego,CA,92104,32.74121,-117.14121,Park
+Pacific Beach Recreation Center,1405 Diamond St,San Diego,CA,92109,32.80121,-117.24851,Park
+Balboa Park Activity Center,2145 Park Blvd,San Diego,CA,92101,32.73121,-117.14851,Park
+Castle Rock Community Park,11201 Via Excelencia,San Diego,CA,92126,32.89981,-117.11451,Park
+Presidio Wall Pickleball Courts,Pacific Ave & Laurel St,San Francisco,CA,94118,37.79121,-122.45121,Park
+Goldman Tennis and Pickleball Center,Nancy Pelosi Dr & Bowling Green Dr,San Francisco,CA,94122,37.76981,-122.46121,Park
+Louis Sutter Playground Pickleball Courts,614 University St,San Francisco,CA,94134,37.72121,-122.41981,Park
+Leo J Ryan Park Pickleball Courts,650 Shell Blvd,Foster City,CA,94404,37.55851,-122.27121,Park
+Mitchell Park Pickleball Courts,600 E Meadow Dr,Palo Alto,CA,94306,37.42121,-122.12121,Park
+Sunnyvale Tennis and Pickleball Center,755 S Mathilda Ave,Sunnyvale,CA,94087,37.36851,-122.03451,Park
+Paul Moore Park Pickleball Courts,1426 Hillsdale Ave,San Jose,CA,95118,37.26981,-122.89851,Park
+Frank Bramhall Willow Street Park,1320 Willow St,San Jose,CA,95125,37.30851,-121.89851,Park
+Bushrod Recreation Center,560 59th St,Oakland,CA,94609,37.84121,-122.26451,Park
+Montclair Park Pickleball Courts,6300 Moraga Ave,Oakland,CA,94611,37.83451,-122.21451,Park
+Lower Washington Park Pickleball Courts,Central Ave & 8th St,Alameda,CA,94501,37.77121,-122.26981,Park
+Central Park Pickleball Courts Fremont,40000 Paseo Padre Pkwy,Fremont,CA,94538,37.55121,-121.96851,Park
+Rusch Community Park Pickleball Courts,7801 Auburn Blvd,Citrus Heights,CA,95610,38.70851,-121.28951,Park
+North Natomas Regional Park,4601 Brookfield Dr,Sacramento,CA,95835,38.65451,-121.50451,Park
+Demuth Park Pickleball Courts,4200 E Mesquite Ave,Palm Springs,CA,92264,33.80451,-116.49851,Park
+Palm Desert Civic Center Park,43900 San Pablo Ave,Palm Desert,CA,92260,33.72981,-116.37851,Park
+Westwind Park Pickleball Courts,2455 E Riverside Dr,Ontario,CA,91761,34.02981,-117.58451,Park
+Veterans Park Fontana,17255 Merrill Ave,Fontana,CA,92335,34.08451,-117.43851,Park
+Roeding Park Pickleball Courts,890 W Belmont Ave,Fresno,CA,93728,36.75451,-119.82451,Park
+Emerald Glen Park Pickleball Courts,4201 Central Pkwy,Dublin,CA,94568,37.70851,-121.88451,Park
+Pleasanton Tennis and Pickleball Center,5801 Valley Ave,Pleasanton,CA,94566,37.66981,-121.89451,Park
