@@ -1,1 +1,59 @@
-
+image,name,address,city,state,zip,lat,lng, type
+picklr.png,The Picklr Exton,180 N Pottstown Pike,Exton,PA,19341,40.03851,-75.62451,Business
+picklr.png,The Picklr Newtown,2807 S Eagle Rd,Newtown,PA,18940,40.21851,-74.93851,Business
+Bounce Pickleball Club,172 Lancaster Ave,Malvern,PA,19355,40.03981,-75.52121,Business
+Dill Dinkers Montgomeryville,1180 Church Rd,Lansdale,PA,19446,40.25451,-75.25851,Business
+Dill Dinkers Warminster,380 N York Rd,Warminster,PA,18974,40.20851,-75.08851,Business
+ace.png,Ace Pickleball Club Norristown,2500 W Main St,Norristown,PA,19403,40.13451,-75.36851,Business
+CourtTime Sports Center,95 Enterprise St,Elizabeth,PA,15037,40.25851,-79.88451,Business
+Steel City Pickleball Club,1400 Presto Sygan Rd,Presto,PA,15142,40.38451,-80.11851,Business
+The Courts at Spring Mill,1210 E Hector St,Conshohocken,PA,19428,40.06851,-75.28951,Business
+Life Time Athletic King of Prussia,480 W Valley Forge Rd,King of Prussia,PA,19406,40.09851,-75.40851,Business
+Life Time Athletic Fort Washington,375 Commerce Dr,Fort Washington,PA,19034,40.13851,-75.20451,Business
+High Flight Pickleball Club,124 Executive Dr,Cranberry Twp,PA,16066,40.68451,-80.11451,Business
+Seger Park Pickleball Courts,1020 Lombard St,Philadelphia,PA,19147,39.94351,-75.15951,Park
+Water Tower Recreation Center,209 E Hartwell Ln,Philadelphia,PA,19118,40.07451,-75.20451,Park
+FDR Park Pickleball Courts,1500 Pattison Ave,Philadelphia,PA,19145,39.90451,-75.17851,Park
+Marian Anderson Recreation Center,740 S 17th St,Philadelphia,PA,19146,39.94211,-75.17121,Park
+Chamounix Tennis and Pickleball Courts,Chamounix Dr,Philadelphia,PA,19131,39.99851,-75.20851,Park
+Francisville Playground Pickleball Courts,1737 Francis St,Philadelphia,PA,19130,39.96851,-75.16851,Park
+Columbus Square Park,1200 S 12th St,Philadelphia,PA,19147,39.93451,-75.16451,Park
+Russo Park Pickleball Courts,2901 Princeton Ave,Philadelphia,PA,19149,40.03851,-75.05451,Park
+Torresdale Playground,9550 State Rd,Philadelphia,PA,19114,40.05451,-74.98851,Park
+East Goshen Township Park,1661 Paoli Pike,West Chester,PA,19380,40.00121,-75.53851,Park
+Wilson Farm Park,500 Lee Rd,Wayne,PA,19087,40.07851,-75.44121,Park
+Heuser Park Pickleball Courts,694 W Beidler Rd,King of Prussia,PA,19406,40.10851,-75.39451,Park
+Core Creek Park Pickleball Courts,901 Woodbourne Rd,Langhorne,PA,19047,40.18851,-74.91451,Park
+Central Park Doylestown,425 Wells Rd,Doylestown,PA,18901,40.29451,-75.14851,Park
+Lions Pride Park,3129 Bradley Rd,Warrington,PA,18976,40.25851,-75.15851,Park
+Veterans Memorial Park Newtown Square,3801 West Chester Pike,Newtown Square,PA,19073,39.99121,-75.41451,Park
+Gillespie Park Pickleball Courts,1401 N 10th St,Upper Darby,PA,19082,39.96451,-75.26851,Park
+Paxon Hollow Park,851 Paxon Hollow Rd,Broomall,PA,19008,39.97851,-75.36451,Park
+Schuylkill River Park Pickleball Courts,300 S 25th St,Philadelphia,PA,19103,39.94851,-75.18121,Park
+Graham Park Pickleball Complex,260 Graham Park Dr,Cranberry Twp,PA,16066,40.69121,-80.12451,Park
+North Park Pickleball Complex,10245 Pearce Mill Rd,Allison Park,PA,15101,40.60851,-80.01451,Park
+South Park Pickleball Courts,Buffalo Dr,South Park Township,PA,15129,40.30851,-80.00851,Park
+Frick Park Pickleball Courts,1983 Beechwood Blvd,Pittsburgh,PA,15217,40.43451,-79.91451,Park
+Schenley Park Oval Sportsplex,1 Overlook Dr,Pittsburgh,PA,15213,40.43851,-79.94451,Park
+Highland Park Tennis and Pickleball Courts,Reservoir Dr,Pittsburgh,PA,15206,40.47851,-79.91851,Park
+Washingtons Landing Courts,Waterfront Dr,Pittsburgh,PA,15222,40.46121,-79.98451,Park
+Boyce Park Pickleball Courts,675 Old Frankstown Rd,Pittsburgh,PA,15239,40.46851,-79.74851,Park
+Moore Park Brookline,1801 Pioneer Ave,Pittsburgh,PA,15226,40.39851,-80.02121,Park
+Settlers Cabin Park,608 Ridge Rd,Oakdale,PA,15071,40.42851,-80.16851,Park
+Grange Park Pickleball Complex,360 Grange Rd,Allentown,PA,18106,40.58451,-75.59851,Park
+Cedar Beach Park Pickleball Courts,2600 Parkway Blvd,Allentown,PA,18104,40.59121,-75.50851,Park
+Sand Island Park Pickleball Courts,110 River St,Bethlehem,PA,18018,40.61451,-75.37851,Park
+Forks Township Community Park,500 Zucksville Rd,Easton,PA,18040,40.73851,-75.23451,Park
+Nay Aug Park Pickleball Courts,500 Arthur Ave,Scranton,PA,18510,41.40451,-75.64451,Park
+Kirby Park Pickleball Courts,160 Market St,Wilkes-Barre,PA,18704,41.25121,-75.88851,Park
+Veterans Park Susquehanna,1955 Elmerton Ave,Harrisburg,PA,17110,40.29851,-76.84851,Park
+Adams-Ricci Community Park,100 E Penn Dr,Enola,PA,17025,40.28851,-76.94451,Park
+Overlook Park Pickleball Courts,2099 B Overlook Dr,Lancaster,PA,17601,40.07851,-76.32851,Park
+Buchanan Park Pickleball Courts,901 Buchanan Ave,Lancaster,PA,17603,40.04121,-76.32121,Park
+Cousler Park Pickleball Courts,1060 Church Rd,York,PA,17404,39.99851,-76.74851,Park
+John Rudy County Park,400 Mundis Race Rd,York,PA,17406,40.02451,-76.68451,Park
+Bitts Park State College,1010 Westerly Pkwy,State College,PA,16801,40.78121,-77.86851,Park
+Spring Creek Park,1400 E College Ave,State College,PA,16801,40.81451,-77.83451,Park
+Brightbill Park,5000 Linglestown Rd,Harrisburg,PA,17112,40.32851,-76.80451,Park
+Frontier Park Pickleball Courts,1501 W 6th St,Erie,PA,16505,42.11451,-80.12121,Park
+Baldwin Park Pickleball Courts,2500 Berst Ave,Erie,PA,16508,42.10121,-80.08451,Park
