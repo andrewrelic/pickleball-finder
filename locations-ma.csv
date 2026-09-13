@@ -1,0 +1,60 @@
+image,name,address,city,state,zip,lat,lng, type
+PKL Boston,64 C St,Boston,MA,02127,42.33851,-71.05451,Business
+Carter Playground Pickleball Courts,709 Columbus Ave,Boston,MA,02118,42.33812,-71.08451,Park
+Moakley Park Pickleball Courts,1005 Columbia Rd,Boston,MA,02127,42.32851,-71.05121,Park
+Ronan Park,135 Adams St,Dorchester,MA,02122,42.30451,-71.06121,Park
+Hoyt Field,13 Gilmore St,Cambridge,MA,02139,42.36121,-71.11451,Park
+Foss Park,Fellsway W and Broadway,Somerville,MA,02145,42.38851,-71.08851,Park
+Amory Park,45 Amory St,Brookline,MA,02446,42.34851,-71.11851,Park
+Newton Centre Playground,81 Tyler Terr,Newton Centre,MA,02459,42.33121,-71.19451,Park
+Cabot Park,109 Cabot St,Newton,MA,02458,42.35451,-71.20121,Park
+Kincaide Park,Water St and Crescent St,Quincy,MA,02169,42.24121,-70.99451,Park
+Merrymount Park,1 Merrymount Pkwy,Quincy,MA,02169,42.24851,-71.00451,Park
+Dedham Health and Athletic Complex,400 Washington St,Dedham,MA,02026,42.24451,-71.17121,Business
+Mills Field,80 Gould St,Needham,MA,02494,42.28451,-71.22851,Park
+Cornelia Warren Park,210 Waverley Oaks Rd,Waltham,MA,02452,42.38451,-71.21851,Park
+Tufts Park,431 Main St,Medford,MA,02155,42.40451,-71.11121,Park
+Amerige Park,200 Fellsway E,Malden,MA,02148,42.42851,-71.06121,Park
+Bosse Pickleball,141 Boston Post Rd,Sudbury,MA,01776,42.36121,-71.41121,Business
+picklr.png,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42.68451,-71.13451,Business
+Westborough Tennis and Pickleball Club,35 Chauncy St,Westborough,MA,01581,42.27451,-71.61451,Business
+Wayside Athletic Club,80 Broadmeadow St,Marlborough,MA,01752,42.33851,-71.53451,Business
+Ghiloni Park,239 Concord Rd,Marlborough,MA,01752,42.35851,-71.51451,Park
+Butterworth Park,40 Grant St,Framingham,MA,01702,42.28451,-71.42451,Park
+Cushing Memorial Park,Keefe Way,Framingham,MA,01702,42.26851,-71.41451,Park
+Natick Memorial Beach Courts,117 E Central St,Natick,MA,01760,42.28851,-71.33451,Park
+lta.png,Life Time Athletic Framingham,490 Old Connecticut Path,Framingham,MA,01701,42.31121,-71.39851,Business
+lta.png,Life Time Athletic Westwood,44 Harvard St,Westwood,MA,02090,42.20451,-71.17851,Business
+lta.png,Life Time Athletic Burlington,186 Middlesex Turnpike,Burlington,MA,01803,42.49851,-71.19851,Business
+Simonds Park,10 Bedford St,Burlington,MA,01803,42.50851,-71.20451,Park
+Walsh Field,178 Washington St,Winchester,MA,01890,42.45451,-71.13851,Park
+Beverly Golf and Tennis Club,134 McKay St,Beverly,MA,01915,42.56451,-70.88451,Business
+Patton Park,644 Bay Rd,South Hamilton,MA,01982,42.62451,-70.85451,Park
+Forest River Park,32 Clifton Ave,Salem,MA,01970,42.50851,-70.89121,Park
+Danvers Indoor Sports,150 Andover St,Danvers,MA,01923,42.55121,-70.95451,Business
+Manning Park,39 Manning St,Ipswich,MA,01938,42.67851,-70.84121,Park
+Shedd Park,433 Boylston St,Lowell,MA,01852,42.63121,-71.28851,Park
+Mulligan Park,215 Salem St,Lawrence,MA,01843,42.69451,-71.15451,Park
+Pomeroy Park,150 West St,Haverhill,MA,01832,42.77851,-71.10851,Park
+Starland Sportsplex,637 Washington St,Hanover,MA,02339,42.12451,-70.84451,Business
+South Shore YMCA Emilson Branch,75 Mill St,Hanover,MA,02339,42.13851,-70.85451,Business
+Braintree High School Courts,128 Town St,Braintree,MA,02184,42.20851,-71.01121,Park
+Whitman Town Park,1 Whitman Ave,Whitman,MA,02382,42.08121,-70.93451,Park
+Marshfield Community Park,96 Library St,Marshfield,MA,02050,42.09121,-70.71451,Park
+Plymouth Tennis and Pickleball Club,165 S Meadow Rd,Plymouth,MA,02360,41.91121,-70.73851,Business
+Forges Field Sports Complex,83 Jordan Rd,Plymouth,MA,02360,41.91851,-70.66851,Park
+Falmouth Sports Center,33 Highfield Dr,Falmouth,MA,02540,41.55451,-70.61451,Business
+Gifford Street Courts,141 Gifford St,Falmouth,MA,02540,41.55851,-70.60851,Park
+Johnny Kelley Recreation Area,180 Old Bass River Rd,South Dennis,MA,02660,41.70851,-70.16121,Park
+Oak Ridge School Courts,260 Quaker Meetinghouse Rd,East Sandwich,MA,02537,41.72451,-70.47121,Park
+Brooks Park,1 Oak St,Harwich,MA,02645,41.68851,-70.07121,Park
+Lake Park Pickleball Courts,283 Lake Ave,Worcester,MA,01604,42.26121,-71.76451,Park
+Green Hill Park,50 Skyline Dr,Worcester,MA,01605,42.27851,-71.77851,Park
+Worcester Fitness,440 Grove St,Worcester,MA,01605,42.29451,-71.80851,Business
+Fore Kicks Sports Complex,219 Forest St,Marlborough,MA,01752,42.32851,-71.56451,Business
+Forest Park Pickleball Courts,200 Sumner Ave,Springfield,MA,01108,42.08121,-72.56851,Park
+Blunt Park,1780 Roosevelt Ave,Springfield,MA,01109,42.12451,-72.54451,Park
+Look Memorial Park,300 N Main St,Florence,MA,01062,42.33851,-72.67851,Park
+Amherst Regional High Courts,21 Mattoon St,Amherst,MA,01002,42.37851,-72.51851,Park
+Berkshire West Athletic Club,100 Dan Fox Dr,Pittsfield,MA,01201,42.41121,-73.26451,Business
+Springside Park,874 N St,Pittsfield,MA,01201,42.46851,-73.24451,Park
