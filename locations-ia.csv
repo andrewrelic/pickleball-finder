@@ -1,0 +1,242 @@
+image,name,address,city,state,zip,lat,lng, type
+cnp.png,Chicken N Pickle West Des Moines,8400 Mills Civic Pkwy,West Des Moines,IA,50266,41.56451,-93.82851,Business
+Smash Park West Des Moines,6625 Coachlight Dr,West Des Moines,IA,50266,41.56851,-93.79851,Business
+lta.png,Life Time Des Moines,11911 Hickman Rd,Urbandale,IA,50323,41.61451,-93.78451,Business
+Valley View Park,255 S 88th St,West Des Moines,IA,50266,41.56851,-93.83451,Park
+Holiday Park,1701 Railroad Ave,West Des Moines,IA,50265,41.56121,-93.72451,Park
+Southwoods Park,350 S 35th St,West Des Moines,IA,50265,41.56451,-93.74851,Park
+Crossroads Park,5205 Park Dr,West Des Moines,IA,50265,41.57851,-93.77451,Park
+Fairmeadows Park,543 S 22nd St,West Des Moines,IA,50265,41.56451,-93.73121,Park
+Legion Park,4th St and Vine St,West Des Moines,IA,50265,41.57121,-93.71121,Park
+Walker Johnston Park,9000 Douglas Ave,Urbandale,IA,50322,41.63121,-93.74121,Park
+Lions Park Urbandale,72nd St and Aurora Ave,Urbandale,IA,50322,41.63851,-93.71451,Park
+Bestland Park,8800 Aurora Ave,Urbandale,IA,50322,41.63851,-93.74121,Park
+Dunlap Park,4250 86th St,Urbandale,IA,50322,41.63451,-93.73851,Park
+Barrett Park,4800 156th St,Urbandale,IA,50323,41.64451,-93.83451,Park
+Campbell Recreation Area,12385 Woodlands Pkwy,Clive,IA,50325,41.61121,-93.78851,Park
+Greenbelt Park Clive,1800 NW 114th St,Clive,IA,50325,41.60451,-93.77121,Park
+Stonegate Park,15280 Boston Pkwy,Clive,IA,50325,41.60121,-93.82851,Park
+Linnan Park,8500 Alice Ave,Clive,IA,50325,41.60851,-93.73851,Park
+Triumph Park,700 NW Douglas Pkwy,Waukee,IA,50263,41.61851,-93.88451,Park
+Centennial Park Waukee,1255 Warrior Ln,Waukee,IA,50263,41.60851,-93.86451,Park
+Fox Creek Park,522 NE Westgate Dr,Waukee,IA,50263,41.61851,-93.84451,Park
+Ridge Park,855 NE Boston Pkwy,Waukee,IA,50263,41.61121,-93.83451,Park
+Southview Park,500 SE University Ave,Waukee,IA,50263,41.59851,-93.85451,Park
+Prairie Ridge Sports Complex,1510 NW Ash Dr,Ankeny,IA,50023,41.74851,-93.61451,Park
+Sunrise Park,506 SE Peterson Dr,Ankeny,IA,50021,41.71451,-93.57851,Park
+Hawkeye Park,400 NW Lakeshore Dr,Ankeny,IA,50023,41.73451,-93.60851,Park
+Cascade Falls Aquatic and Park,2350 SW Prairie Trail Pkwy,Ankeny,IA,50023,41.71121,-93.62121,Park
+Georgetown Park,SW Georgetown Way,Ankeny,IA,50023,41.71851,-93.61451,Park
+Greentree Park,SE Trilein Dr,Ankeny,IA,50021,41.72451,-93.58451,Park
+Northview Park,NW 18th St,Ankeny,IA,50023,41.75121,-93.60451,Park
+Otter Creek Park Ankeny,4100 NE Otter Creek Dr,Ankeny,IA,50021,41.76121,-93.56851,Park
+Johnston Commons,6700 Merle Hay Rd,Johnston,IA,50131,41.67451,-93.69851,Park
+Terra Park,6400 Pioneer Pkwy,Johnston,IA,50131,41.66851,-93.70451,Park
+Dewey Park,5225 NW 64th Pl,Johnston,IA,50131,41.66451,-93.69121,Park
+Pointe Park,NW 86th St and NW 70th Ave,Johnston,IA,50131,41.67851,-93.73851,Park
+Lions Park Altoona,507 13th Ave SW,Altoona,IA,50009,41.64451,-93.47851,Park
+Spring Creek Sports Complex,7684 NE 38th Ave,Altoona,IA,50009,41.64121,-93.49851,Park
+Haines Park,3rd Ave SE,Altoona,IA,50009,41.65121,-93.46121,Park
+Ironwood Park,2222 3rd Ave SW,Altoona,IA,50009,41.64851,-93.48851,Park
+Doanes Park,4900 Doanes Park Rd,Pleasant Hill,IA,50327,41.59451,-93.51851,Park
+Copper Creek Lake Park,4390 E University Ave,Pleasant Hill,IA,50327,41.60121,-93.52851,Park
+Water Works Park Des Moines,2201 George Flagg Pkwy,Des Moines,IA,50321,41.57121,-93.65851,Park
+Ashworth Park,4500 Grand Ave,Des Moines,IA,50312,41.58451,-93.67851,Park
+Greenwood Park,4500 Grand Ave,Des Moines,IA,50312,41.58851,-93.67451,Park
+Birdland Park,2100 Saylor Rd,Des Moines,IA,50313,41.61451,-93.61851,Park
+Grandview Park,3230 E 33rd St,Des Moines,IA,50317,41.62451,-93.55851,Park
+Evelyn K Davis Park,1400 Forest Ave,Des Moines,IA,50314,41.60451,-93.63451,Park
+South Union Park,4000 S Union St,Des Moines,IA,50315,41.54851,-93.62851,Park
+Witmer Park,1610 34th St,Des Moines,IA,50310,41.60851,-93.66121,Park
+Tower Park Des Moines,4900 Hickman Rd,Des Moines,IA,50310,41.61851,-93.68451,Park
+Waveland Tennis and Pickleball,4906 University Ave,Des Moines,IA,50311,41.59851,-93.68451,Park
+Stone Park Des Moines,2100 SE 5th St,Des Moines,IA,50315,41.56451,-93.61121,Park
+MacRae Park,1021 Davis Ave,Des Moines,IA,50315,41.57121,-93.62851,Park
+Pioneer Park,1600 Pioneer Rd,Des Moines,IA,50315,41.56851,-93.60121,Park
+Saydel Sports Complex,5401 NW 9th St,Des Moines,IA,50313,41.65451,-93.62851,Park
+Water Works Park Grimes,200 S James St,Grimes,IA,50111,41.68451,-93.79121,Park
+South Sports Complex Grimes,410 S James St,Grimes,IA,50111,41.68121,-93.79451,Park
+Sunset Park Norwalk,901 North Ave,Norwalk,IA,50211,41.50121,-93.68451,Park
+Warrior Park Norwalk,801 Sunset Dr,Norwalk,IA,50211,41.48851,-93.67851,Park
+Windflower Park,East 18th St,Norwalk,IA,50211,41.49121,-93.66851,Park
+Pickard Park,2205 E 2nd Ave,Indianola,IA,50125,41.36451,-93.53451,Park
+Moats Park,707 N Jefferson Way,Indianola,IA,50125,41.36851,-93.55851,Park
+Memorial Park Indianola,602 N G St,Indianola,IA,50125,41.36451,-93.56851,Park
+Brookside Park,1325 6th St,Ames,IA,50010,42.03121,-93.63451,Park
+Inis Grove Park,2500 Duff Ave,Ames,IA,50010,42.04851,-93.61121,Park
+Emma McCarthy Lee Park,3400 Ross Rd,Ames,IA,50014,42.02451,-93.66451,Park
+Moore Memorial Park,3050 Northridge Pkwy,Ames,IA,50014,42.05451,-93.65451,Park
+Ames Racquet and Fitness Center,4700 University Blvd,Ames,IA,50014,42.01451,-93.67851,Business
+Gateway Hills Park,Gateway Hills Dr,Ames,IA,50014,42.00851,-93.64451,Park
+Daley Park,1525 24th St,Ames,IA,50010,42.04451,-93.63121,Park
+McHose Park,1215 Francis Mason Dr,Boone,IA,50036,42.04851,-93.88451,Park
+Memorial Park Boone,1928 Park Ave,Boone,IA,50036,42.06451,-93.87851,Park
+Aurora Park,1400 N 11th Ave E,Newton,IA,50208,41.71121,-93.03121,Park
+Westwood Park Newton,1200 W 4th St S,Newton,IA,50208,41.69121,-93.06121,Park
+Maytag Park,301 S 11th Ave W,Newton,IA,50208,41.68851,-93.07121,Park
+Caldwell Park,1801 Caldwell Dr,Pella,IA,50219,41.39851,-92.90851,Park
+Sunken Garden Park,800 Vermeer Rd,Pella,IA,50219,41.40851,-92.90121,Park
+Central Park Pella,700 Main St,Pella,IA,50219,41.40451,-92.91851,Park
+Auld Park,302 E Robinson St,Knoxville,IA,50138,41.31451,-93.09451,Park
+Youngs Park,1001 S Attica Rd,Knoxville,IA,50138,41.30851,-93.10451,Park
+Winterset City Park,S 9th St,Winterset,IA,50273,41.32851,-94.00451,Park
+Dallas Center Mound Park,13th St and Walnut St,Dallas Center,IA,50063,41.68451,-93.97451,Park
+Perry Municipal Park,Pattee Park Dr,Perry,IA,50220,41.83851,-94.10851,Park
+Waveland Sports Complex,1000 5th St,Nevada,IA,50201,42.02121,-93.45451,Park
+Smash Park Cedar Rapids,4203 1st Ave SE,Cedar Rapids,IA,52402,41.99851,-91.61451,Business
+Noelridge Park Pickleball Complex,4900 Council St NE,Cedar Rapids,IA,52402,42.02851,-91.64451,Park
+Bever Park,2700 Beverly Dr SE,Cedar Rapids,IA,52403,41.97451,-91.62851,Park
+Ellis Park,2000 Ellis Blvd NW,Cedar Rapids,IA,52405,42.00121,-91.68451,Park
+Jones Park,201 Pioneer Ave SE,Cedar Rapids,IA,52404,41.94451,-91.65851,Park
+Cherry Hill Park,341 Stoney Point Rd NW,Cedar Rapids,IA,52405,41.98451,-91.73451,Park
+Cleveland Park Cedar Rapids,1600 8th Ave SW,Cedar Rapids,IA,52404,41.96851,-91.68851,Park
+Redmond Park,1545 3rd Ave SE,Cedar Rapids,IA,52403,41.98451,-91.64851,Park
+Daniels Park,940 Oakland Rd NE,Cedar Rapids,IA,52402,41.99451,-91.65451,Park
+Thomas Park Marion,343 Marion Blvd,Marion,IA,52302,42.02851,-91.60451,Park
+Lowe Park Pickleball Complex,4500 N 10th St,Marion,IA,52302,42.05121,-91.59451,Park
+Donnelly Park,290 W 8th Ave,Marion,IA,52302,42.03451,-91.59851,Park
+Willowood Park,1855 35th St,Marion,IA,52302,42.04451,-91.57121,Park
+Guthridge Park,704 Emmons St,Hiawatha,IA,52233,42.04121,-91.68451,Park
+Fay M Clark Memorial Park,1200 N 18th St,Hiawatha,IA,52233,42.05121,-91.67851,Park
+Tucker Park,101 B Ave,Hiawatha,IA,52233,42.03851,-91.68121,Park
+Upper City Park Iowa City,200 Park Rd,Iowa City,IA,52246,41.67451,-91.54451,Park
+Mercer Park Iowa City,2701 Bradford Dr,Iowa City,IA,52240,41.64451,-91.50451,Park
+Willow Creek Park Iowa City,1115 Teg Dr,Iowa City,IA,52246,41.65451,-91.56451,Park
+College Green Park,600 E College St,Iowa City,IA,52240,41.65851,-91.52851,Park
+Happy Hollow Park,Brown St and Governor St,Iowa City,IA,52245,41.66851,-91.52121,Park
+Highland Park Iowa City,Highland Ave,Iowa City,IA,52240,41.64121,-91.52851,Park
+ST Morrison Park,1513 5th St,Coralville,IA,52241,41.67851,-91.57451,Park
+North Ridge Park,2250 Holiday Rd,Coralville,IA,52241,41.69851,-91.59451,Park
+Youth Sports Complex Coralville,2480 Dempster Dr,Coralville,IA,52241,41.70121,-91.60121,Park
+Penn Meadows Park,355 E Penn St,North Liberty,IA,52317,41.74451,-91.59851,Park
+Quail Creek Park,1965 Zeller St,North Liberty,IA,52317,41.73851,-91.61121,Park
+Natures Ridge Park,1030 S Sugar Creek Ln,North Liberty,IA,52317,41.73451,-91.62121,Park
+Centennial Park North Liberty,1565 St Andrews Dr,North Liberty,IA,52317,41.74851,-91.61451,Park
+Mount Vernon City Park,801 1st Ave W,Mount Vernon,IA,52314,41.92121,-91.42851,Park
+Vinton Skate & Court Park,701 A Ave,Vinton,IA,52349,42.16451,-92.02451,Park
+Riverside Park Vinton,Riverside Dr,Vinton,IA,52349,42.17121,-92.01851,Park
+Anamosa State Park,21398 Co Rd E34,Anamosa,IA,52205,42.10851,-91.26121,Park
+Northwest Park Pickleball Complex,3400 N Vine St,Davenport,IA,52806,41.55851,-90.60851,Park
+Duck Creek Park,3300 E Locust St,Davenport,IA,52803,41.53851,-90.52851,Park
+Vander Veer Botanical Park,215 W Central Park Ave,Davenport,IA,52803,41.54121,-90.57451,Park
+Emeis Park,2111 W Central Park Ave,Davenport,IA,52804,41.54451,-90.62121,Park
+LeClaire Park Davenport,400 Beiderbecke Dr,Davenport,IA,52801,41.51851,-90.57851,Park
+Davenport Country Club,25500 Valley Dr,Pleasant Valley,IA,52767,41.54451,-90.46121,Business
+Centennial Park Davenport,315 S Marquette St,Davenport,IA,52802,41.51851,-90.59121,Park
+Junge Park,3250 Western Ave,Davenport,IA,52806,41.55451,-90.58451,Park
+Kiwanis Park Bettendorf,4223 Greenbrier Dr,Bettendorf,IA,52722,41.56451,-90.49451,Park
+Middle Park Bettendorf,2220 23rd St,Bettendorf,IA,52722,41.54851,-90.50451,Park
+Crow Creek Park,4800 Devils Glen Rd,Bettendorf,IA,52722,41.57121,-90.47851,Park
+Veterans Memorial Park Bettendorf,1645 23rd St,Bettendorf,IA,52722,41.54121,-90.50451,Park
+Edgewood Park,1400 23rd St,Bettendorf,IA,52722,41.53851,-90.50851,Park
+Sheridan Meadows Park,650 N 1st St,Eldridge,IA,52748,41.65851,-90.58121,Park
+Hollyhock Park LeClaire,201 S 6th St,LeClaire,IA,52753,41.59451,-90.35121,Park
+Riverfront Park Clinton,100 1st Ave,Clinton,IA,52732,41.84121,-90.18451,Park
+Chancy Park,22nd Ave S and S 14th St,Clinton,IA,52732,41.82121,-90.21851,Park
+Ericksen Community Center,1401 11th Ave N,Clinton,IA,52732,41.85451,-90.20121,Business
+Emma Young Park,11th Ave N and N 14th St,Clinton,IA,52732,41.85851,-90.20851,Park
+Westbrook Park DeWitt,4th Ave and 11th St,DeWitt,IA,52742,41.82851,-90.54851,Park
+Weed Park,1 Park Dr,Muscatine,IA,52761,41.42851,-91.02451,Park
+Muscatine Aquatic Center Park,101 Park Dr,Muscatine,IA,52761,41.43121,-91.02851,Park
+Hocker Park,900 Hocker Dr,Muscatine,IA,52761,41.43851,-91.05451,Park
+Riverside Park Muscatine,100 W River Dr,Muscatine,IA,52761,41.42121,-91.04121,Park
+Veterans Memorial Park Dubuque,2600 Golfview Dr,Dubuque,IA,52002,42.50851,-90.71851,Park
+Flora Park,2605 Pennsylvania Ave,Dubuque,IA,52001,42.50451,-90.69851,Park
+Murphy Park Dubuque,1700 S Grandview Ave,Dubuque,IA,52003,42.48451,-90.67851,Park
+Comiskey Park,255 E 24th St,Dubuque,IA,52001,42.51851,-90.66451,Park
+Dubuque Community YMCA,35 N Booth St,Dubuque,IA,52001,42.49851,-90.68451,Business
+Allison-Henderson Park,1500 Loras Blvd,Dubuque,IA,52001,42.50451,-90.67451,Park
+Eagle Point Park,2601 Shiras Ave,Dubuque,IA,52001,42.53851,-90.64851,Park
+Byrnes Park Pickleball Courts,2030 Fletcher Ave,Waterloo,IA,50701,42.47851,-92.36121,Park
+Gates Park,820 E 4th St,Waterloo,IA,50703,42.49851,-92.32851,Park
+Liberty Park Waterloo,1315 E Mitchell Ave,Waterloo,IA,50702,42.46851,-92.31451,Park
+Exchange Park,200 Commercial St,Waterloo,IA,50701,42.49451,-92.34851,Park
+Cedar Valley SportsPlex,300 Jefferson St,Waterloo,IA,50701,42.49121,-92.34121,Business
+Orchard Hill Park,3900 Orchard Hill Dr,Cedar Falls,IA,50613,42.50851,-92.44121,Park
+Pfeiffer Springs Park,1800 Grand Blvd,Cedar Falls,IA,50613,42.52121,-92.45851,Park
+Washington Park Cedar Falls,12th St and Washington St,Cedar Falls,IA,50613,42.52851,-92.44851,Park
+Birdsall Park,12th St and Birdsall Dr,Cedar Falls,IA,50613,42.52851,-92.47851,Park
+Seerley Park,W 2nd St and Tremont St,Cedar Falls,IA,50613,42.53851,-92.44851,Park
+Memorial Park Waverly,20th St NW,Waverly,IA,50677,42.73121,-92.47851,Park
+South Riverside Park,201 1st St SW,Waverly,IA,50677,42.72121,-92.46451,Park
+The W Wartburg Wellness Center,100 Wartburg Blvd,Waverly,IA,50677,42.72851,-92.47451,Business
+Will Baker Park,1000 Pulpit Rock Rd,Decorah,IA,52101,43.30851,-91.80121,Park
+Carl Selland Wayside Park,College Dr,Decorah,IA,52101,43.31451,-91.79451,Park
+Denton Park Manchester,200 S Brewer St,Manchester,IA,52057,42.48451,-91.45851,Park
+Platt Park Oelwein,4th Ave SE,Oelwein,IA,50662,42.67121,-91.90451,Park
+Independence City Park,5th Ave NE,Independence,IA,50644,42.47121,-91.89121,Park
+First Ward Park Mason City,1500 N Federal Ave,Mason City,IA,50401,43.16851,-93.20121,Park
+East Park Mason City,700 E State St,Mason City,IA,50401,43.15121,-93.18451,Park
+Mason City Family YMCA,1840 S Monroe Ave,Mason City,IA,50401,43.13451,-93.20851,Business
+Ray Rorick Park,1100 12th St NW,Mason City,IA,50401,43.16121,-93.22451,Park
+Clear Lake City Park,10 N Lakeview Dr,Clear Lake,IA,50428,43.13851,-93.37851,Park
+Tourist Park Clear Lake,800 S Shore Dr,Clear Lake,IA,50428,43.13121,-93.38851,Park
+Harlan Rogers Sports Complex,1628 Nelson Ave,Fort Dodge,IA,50501,42.53121,-94.16851,Park
+Loomis Park Fort Dodge,700 S 7th St,Fort Dodge,IA,50501,42.49851,-94.19451,Park
+Snell Crawford Park,1200 Williams Dr,Fort Dodge,IA,50501,42.51851,-94.17851,Park
+Fort Dodge Family YMCA,1422 1st Ave S,Fort Dodge,IA,50501,42.50451,-94.17851,Business
+Webster City East Twin Park,Superior St,Webster City,IA,50595,42.46451,-93.81851,Park
+Charles City Lions Field,Clark St and 11th Ave,Charles City,IA,50616,43.07121,-92.67451,Park
+Iowa Falls Foster Park,Park Ave,Iowa Falls,IA,50126,42.51851,-93.26851,Park
+Riverside Park Sioux City,1301 Riverside Blvd,Sioux City,IA,51109,42.50851,-96.46851,Park
+Grandview Park Sioux City,24th St and Grandview Blvd,Sioux City,IA,51104,42.51851,-96.40121,Park
+Cook Park,505 Market St,Sioux City,IA,51103,42.50121,-96.41851,Park
+Leif Erikson Park,31st St and Cortland St,Sioux City,IA,51104,42.52851,-96.39451,Park
+Bacon Creek Park,5015 Correctionville Rd,Sioux City,IA,51106,42.49451,-96.33451,Park
+Norm Waitt Sr YMCA,601 River Dr,Sioux City,IA,51103,42.48451,-96.41851,Business
+Sertoma Park Sioux City,S Helen St,Sioux City,IA,51106,42.46121,-96.36851,Park
+Dale St Athletics Complex,1514 Dale St,Sioux City,IA,51105,42.50451,-96.37851,Park
+Speier Park Spirit Lake,18th St,Spirit Lake,IA,51360,43.41851,-95.10121,Park
+Memorial Park Spirit Lake,Lake St,Spirit Lake,IA,51360,43.42451,-95.10851,Park
+Arnolds Park Pavilion Courts,37 Lake St,Arnolds Park,IA,51331,43.37851,-95.13851,Park
+Okoboji Commons Courts,1303 Okoboji Ave,Milford,IA,51351,43.32851,-95.14851,Park
+Pikes Point State Park,15048 213th Ave,Spirit Lake,IA,51360,43.40121,-95.14121,Park
+Pederson Park Spencer,500 11th St SW,Spencer,IA,51301,43.13851,-95.15121,Park
+Fairview Park Spencer,10th Ave W,Spencer,IA,51301,43.14851,-95.15851,Park
+Spencer Family YMCA,1001 11th Ave W,Spencer,IA,51301,43.14851,-95.16121,Business
+Cleveland Park Le Mars,540 2nd St SE,Le Mars,IA,51031,42.79121,-96.16121,Park
+O-Connell Park Le Mars,8th St SW,Le Mars,IA,51031,42.78451,-96.17121,Park
+Veterans Park Orange City,805 3rd St SE,Orange City,IA,51041,42.99851,-96.04851,Park
+Sioux Center Open Space Park,770 7th St NE,Sioux Center,IA,51250,43.08451,-96.16851,Park
+Frank Starr Park,601 W 5th St,Storm Lake,IA,50588,42.64451,-95.21121,Park
+Chautauqua Park Storm Lake,601 E Lakeshore Dr,Storm Lake,IA,50588,42.63851,-95.19451,Park
+Awe Park Storm Lake,W 9th St and Barton St,Storm Lake,IA,50588,42.64851,-95.21451,Park
+Sheldon City Park,4th Ave and 7th St,Sheldon,IA,51201,43.18121,-95.85451,Park
+Cherokee Spring Lake Park,Spruce St,Cherokee,IA,51012,42.75451,-95.55121,Park
+Emmetsburg Soper Park,Lake St,Emmetsburg,IA,50536,43.11851,-94.67851,Park
+Fairmount Park Council Bluffs,1200 Fairmount Park Dr,Council Bluffs,IA,51501,41.25851,-95.83851,Park
+Cochran Park,2600 S 11th St,Council Bluffs,IA,51501,41.24121,-95.86451,Park
+Sunset Park Council Bluffs,1000 S 16th St,Council Bluffs,IA,51501,41.25451,-95.87121,Park
+Roberts Park,1000 N 25th St,Council Bluffs,IA,51501,41.27121,-95.88451,Park
+Iowa West Field House,5 Arena Way,Council Bluffs,IA,51501,41.24851,-95.90851,Business
+Kirn Fieldhouse Courts,100 5th Ave,Council Bluffs,IA,51503,41.26121,-95.85121,Park
+Glenwood Lake Park,400 S Locust St,Glenwood,IA,51534,41.04451,-95.73851,Park
+Red Oak Sports Complex,2011 N 4th St,Red Oak,IA,51566,41.02121,-95.22851,Park
+McKinley Park Creston,801 S Oak St,Creston,IA,50801,41.05451,-94.36121,Park
+Greater Regional Athletic Complex,1700 W Townline St,Creston,IA,50801,41.07121,-94.38451,Park
+Shenandoah Sports Complex,Ferguson Rd,Shenandoah,IA,51601,40.75851,-95.36121,Park
+Clarinda City Park,6th St and Main St,Clarinda,IA,51632,40.73851,-95.03451,Park
+Atlantic Sunnyside Park,Sunnyside Ln,Atlantic,IA,50022,41.39851,-94.99851,Park
+Memorial Park Ottumwa,1300 E Pennsylvania Ave,Ottumwa,IA,52501,41.03451,-92.39121,Park
+Greater Ottumwa Park,101 Church St,Ottumwa,IA,52501,41.01851,-92.41451,Park
+Ottumwa Family YMCA,611 N Hancock St,Ottumwa,IA,52501,41.02851,-92.40451,Business
+Sycamore Park Ottumwa,S Sycamore St,Ottumwa,IA,52501,41.01121,-92.42451,Park
+Water Works Park Fairfield,504 S B St,Fairfield,IA,52556,41.00451,-91.96851,Park
+OB Nelson Park,405 N 6th St,Fairfield,IA,52556,41.01121,-91.95451,Park
+Fairfield Arts & Convention Complex,200 N Main St,Fairfield,IA,52556,41.00851,-91.96121,Business
+Dankwardt Park,2712 Dankwardt Dr,Burlington,IA,52601,40.78851,-91.10851,Park
+Crapo Park,2600 S Main St,Burlington,IA,52601,40.78121,-91.10121,Park
+Perkins Park Burlington,1700 Dill St,Burlington,IA,52601,40.81451,-91.13451,Park
+Burlington YMCA,2410 Mt Pleasant St,Burlington,IA,52601,40.82451,-91.13851,Business
+Rodeo Park Fort Madison,2202 330th Ave,Fort Madison,IA,52627,40.64851,-91.34121,Park
+Ivanhoe Park Fort Madison,20th St and Ave G,Fort Madison,IA,52627,40.63121,-91.32851,Park
+Joyce Park Keokuk,3474 Plank Rd,Keokuk,IA,52632,40.42851,-91.40851,Park
+Reids Park Keokuk,800 Orleans Ave,Keokuk,IA,52632,40.40451,-91.38851,Park
+Hoerner YMCA,2126 Plank Rd,Keokuk,IA,52632,40.41851,-91.39851,Business
+Mount Pleasant Saunders Park,S Adams St,Mount Pleasant,IA,52641,40.96121,-91.55451,Park
+Washington Sunset Park,W 5th St,Washington,IA,52353,41.29851,-91.70121,Park
+Oskaloosa Urban Park,1010 S Market St,Oskaloosa,IA,52577,41.28851,-92.64451,Park
+Edmundson Park,1100 Edmundson Dr,Oskaloosa,IA,52577,41.27851,-92.65851,Park
+Centerville City Park,Drake Ave and W Van Buren St,Centerville,IA,52544,40.73451,-92.87851,Park
+Chariton City Park,E Auburn Ave,Chariton,IA,50049,41.01451,-93.30851,Park
+Albia City Park,B Ave W,Albia,IA,52531,41.02851,-92.81451,Park
