@@ -1,4 +1,4 @@
-image,name,address,city,state,zip,lat,lng, type
+image,name,address,city,state,zip,lat,lng, type, cam
 Courts Plus Community Fitness,3491 S University Dr,Fargo,ND,58104,46.83121,-96.79851,Business
 picklr.png,The Picklr Fargo,4401 13th Ave S,Fargo,ND,58103,46.86121,-96.85851,Business
 South Park Pickleball Courts,2100 8th St S,Fargo,ND,58103,46.85121,-96.79121,Park
