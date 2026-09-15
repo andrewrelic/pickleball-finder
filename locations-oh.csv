@@ -1,0 +1,264 @@
+image,name,address,city,state,zip,lat,lng, type
+Pickle and Chill,880 W Henderson Rd,Columbus,OH,43214,40.06121,-83.03121,Business
+The Pickle Lodge,7566 Voice of America Centre Dr,West Chester,OH,45069,39.36451,-84.36451,Business
+Sawyer Point Pickleball Complex,705 E Pete Rose Way,Cincinnati,OH,45202,39.10121,-84.49851,Park
+Mentor Civic Center Park,8600 Munson Rd,Mentor,OH,44060,41.67451,-81.33451,Park
+Olympic Indoor Tennis and Pickleball,3480 Indianola Ave,Columbus,OH,43214,40.03851,-83.00121,Business
+picklr.png,The Picklr Dublin,6545 Perimeter Dr,Dublin,OH,43016,40.09851,-83.15451,Business
+picklr.png,The Picklr Loveland,10681 Loveland Madeira Rd,Loveland,OH,45140,39.26121,-84.27851,Business
+ace.png,Ace Pickleball Club Columbus,620 Polaris Pkwy,Westerville,OH,43082,40.15121,-82.95121,Business
+ace.png,Ace Pickleball Club Cincinnati,8114 Montgomery Rd,Cincinnati,OH,45236,39.20451,-84.36851,Business
+lta.png,Life Time Dublin,3825 Hard Rd,Dublin,OH,43016,40.11451,-83.10851,Business
+lta.png,Life Time Easton,3900 Easton Station,Columbus,OH,43219,40.05121,-82.91851,Business
+lta.png,Life Time Mason,8310 Wilkens Blvd,Mason,OH,45040,39.31451,-84.31851,Business
+lta.png,Life Time Beachwood,3850 Richmond Rd,Beachwood,OH,44122,41.46451,-81.49851,Business
+Thompson Park Pickleball Complex,4250 Woodbridge Rd,Upper Arlington,OH,43220,40.04451,-83.08451,Park
+Fancyburg Park,3375 Kioka Ave,Upper Arlington,OH,43221,40.02451,-83.07851,Park
+Westerville Sports Complex,325 N Cleveland Ave,Westerville,OH,43082,40.13851,-82.93451,Park
+Avery Park,7401 Avery Rd,Dublin,OH,43017,40.11851,-83.16121,Park
+Coffman Park,5200 Emerald Pkwy,Dublin,OH,43017,40.10451,-83.12451,Park
+Alum Creek Park North,221 W Main St,Westerville,OH,43081,40.12851,-82.93851,Park
+Hoff Woods Park,556 McCorkle Blvd,Westerville,OH,43082,40.14451,-82.90851,Park
+Schiller Park,1069 Jaeger St,Columbus,OH,43206,39.94451,-82.99121,Park
+Whetstone Park of Roses,3923 N High St,Columbus,OH,43214,40.04451,-83.02451,Park
+Hilliard Municipal Park,3800 Veterans Memorial Dr,Hilliard,OH,43026,40.02451,-83.15851,Park
+Pickerington Central Park,196 S Center St,Pickerington,OH,43147,39.88451,-82.75451,Park
+Reynoldsburg Civic Park,6800 Daugherty Dr,Reynoldsburg,OH,43068,39.96121,-82.80851,Park
+Gahanna Academy Park,1201 Cherry Bottom Rd,Gahanna,OH,43230,40.03851,-82.89451,Park
+Fifty West Brewing Pickleball,7605 Wooster Pike,Cincinnati,OH,45227,39.14121,-84.35451,Business
+Clear Creek Park,6200 State Rte 32,Cincinnati,OH,45244,39.09851,-84.34121,Park
+Blue Ash Sports Center,11540 Grooms Rd,Blue Ash,OH,45242,39.26851,-84.36451,Park
+Heritage Park,11405 E Miami River Rd,Cincinnati,OH,45252,39.28451,-84.67121,Park
+Cottell Park,5847 Irwin Simpson Rd,Mason,OH,45040,39.32451,-84.33851,Park
+Joyce Park,150 Joe Nuxhall Way,Hamilton,OH,45015,39.37851,-84.56121,Park
+Voice of America MetroPark,7850 VOA Park Dr,West Chester,OH,45069,39.36121,-84.34851,Park
+Armco Park,1223 N State Rte 741,Lebanon,OH,45036,39.46851,-84.28121,Park
+Kettering Recreation Complex,2900 Glengarry Dr,Kettering,OH,45420,39.69121,-84.12451,Business
+Thomas A Cloud Park,4707 Brandt Pike,Dayton,OH,45424,39.81851,-84.12851,Park
+Delco Park,1700 Delco Park Dr,Kettering,OH,45420,39.70451,-84.14451,Park
+Stubbs Park,255 W Spring Valley Rd,Centerville,OH,45458,39.62451,-84.16451,Park
+Activity Center Park,221 N Main St,Centerville,OH,45459,39.63851,-84.15851,Park
+Springboro Sports Complex,300 W Central Ave,Springboro,OH,45066,39.55851,-84.24121,Park
+Cleveland Pickleball Club,1361 E 55th St,Cleveland,OH,44103,41.51851,-81.65121,Business
+Tri-City Park,28590 Westwood Rd,Westlake,OH,44145,41.46451,-81.93851,Park
+Memorial Park Lakewood,14532 Lake Ave,Lakewood,OH,44107,41.49121,-81.79451,Park
+Osborne Park,38575 Lakeshore Blvd,Willoughby,OH,44094,41.67121,-81.41121,Park
+Solon Community Park,6679 SOM Center Rd,Solon,OH,44139,41.38851,-81.44121,Park
+Hudson Springs Park,7095 Stow Rd,Hudson,OH,44236,41.22851,-81.40851,Park
+Water Works Park,2025 Munroe Falls Ave,Cuyahoga Falls,OH,44221,41.14451,-81.46851,Park
+Davenport Park,1081 Ellet Ave,Akron,OH,44312,41.06121,-81.44451,Park
+Weis Park,2600 Harvard Ave NW,Canton,OH,44709,40.82451,-81.38851,Park
+Stadium Park,12th St NW,Canton,OH,44708,40.80851,-81.39451,Park
+Medina Recreation Center,855 Weymouth Rd,Medina,OH,44256,41.14121,-81.85451,Park
+Jermain Park Pickleball Courts,1720 Upton Ave,Toledo,OH,43606,41.67451,-83.59451,Park
+Rolf Park,2115 Cass Rd,Maumee,OH,43537,41.56451,-83.65851,Park
+Woodlands Park,429 E Boundary St,Perrysburg,OH,43551,41.54851,-83.61851,Park
+Rotary Park,1001 Fort Findlay Dr,Findlay,OH,45840,41.02451,-83.63451,Park
+North Park,400 S Main St,Mansfield,OH,44902,40.75121,-82.51851,Park
+Boardman Park,375 Boardman-Poland Rd,Boardman,OH,44512,41.02451,-80.64851,Park
+Austintown Township Park,6000 Kirk Rd,Austintown,OH,44515,41.07451,-80.75851,Park
+Collett Street Park,100 S Collett St,Lima,OH,45805,40.74121,-84.11851,Park
+Ankeney Recreation Complex,1301 S Alpha-Bellbrook Rd,Beavercreek,OH,45434,39.69121,-84.05451,Park
+Blacklick Woods Metro Park,6975 E Livingston Ave,Reynoldsburg,OH,43068,39.93851,-82.80851,Park
+Blendon Woods Metro Park,4265 E Dublin Granville Rd,Columbus,OH,43230,40.08121,-82.88121,Park
+Scioto Audubon Metro Park,400 W Whittier St,Columbus,OH,43215,39.94851,-83.00851,Park
+Sharon Woods Metro Park,6911 Cleveland Ave,Westerville,OH,43081,40.11851,-82.93851,Park
+Highbanks Metro Park,9466 Columbus Pike,Lewis Center,OH,43035,40.15121,-83.02851,Park
+Pickaway County Family YMCA,440 Nicholas Dr,Circleville,OH,43113,39.60851,-82.94851,Business
+Marysville Family YMCA,1150 Charles Ln,Marysville,OH,43040,40.23121,-83.35121,Business
+Eljer Park,401 E 9th St,Marysville,OH,43040,40.22851,-83.35851,Park
+Lewis Center Park,5993 Powell Rd,Lewis Center,OH,43035,40.19851,-83.01851,Park
+Village Green Park,47 Hall St,Powell,OH,43065,40.15851,-83.07451,Park
+Liberty Park,2845 Home Rd,Powell,OH,43065,40.17851,-83.07121,Park
+Gantz Park,2255 Gantz Rd,Grove City,OH,43123,39.88851,-83.06121,Park
+Windsor Park,4330 Dudley Ave,Grove City,OH,43123,39.88121,-83.07851,Park
+Pinnacle Golf Club,1900 Pinnacle Club Dr,Grove City,OH,43123,39.86451,-83.06451,Business
+Worthingway Park,6665 Worthington-Galena Rd,Worthington,OH,43085,40.10451,-83.00851,Park
+McCord Park,345 E Wilson Bridge Rd,Worthington,OH,43085,40.11121,-83.00451,Park
+Wyman Woods Park,1520 Goodale Blvd,Grandview Heights,OH,43212,39.97451,-83.04451,Park
+Clyde E Seidle Community Pool & Park,5517 St Rte 37,Sunbury,OH,43074,40.24451,-82.85851,Park
+Sycamore Creek Park,481 Hereford Dr,Pickerington,OH,43147,39.89121,-82.76851,Park
+Victory Park,100 Lockhart Rd,Pickerington,OH,43147,39.87851,-82.75121,Park
+Bevelhymer Park,7860 Bevelhymer Rd,New Albany,OH,43054,40.10851,-82.80851,Park
+Wexner Community Park,7600 Swickard Woods Blvd,New Albany,OH,43054,40.08851,-82.80121,Park
+John L. Byrne Park,255 S Hamilton Rd,Whitehall,OH,43213,39.96851,-82.88121,Park
+Lancaster Tennis & Pickleball Center,1355 Forest Rose Ave,Lancaster,OH,43130,39.72121,-82.59851,Park
+Olivedale Park,253 Olivedale Dr,Lancaster,OH,43130,39.73451,-82.60851,Park
+Smith Park Delaware,350 Troy Rd,Delaware,OH,43015,40.31121,-83.07851,Park
+Mingo Park,500 E Lincoln Ave,Delaware,OH,43015,40.30451,-83.05851,Park
+Evans Athletic Complex,800 Sharon Valley Rd,Newark,OH,43055,40.06851,-82.42851,Park
+Hoback Park,422 W Main St,Heath,OH,43056,40.02451,-82.44121,Park
+Foundation Park,100 S Norton St,Mount Vernon,OH,43050,40.39451,-82.49851,Park
+Mount Vernon YMCA,103 N Main St,Mount Vernon,OH,43050,40.39851,-82.48451,Business
+Pataskala Municipal Park,540 S Main St,Pataskala,OH,43062,39.99451,-82.67451,Park
+London Cowling Park,175 N Main St,London,OH,43140,39.88851,-83.44851,Park
+Lunken Playfield,4744 Playfield Ln,Cincinnati,OH,45226,39.10851,-84.42851,Park
+Beechmont Racquet & Fitness,435 Ohio Pike,Cincinnati,OH,45255,39.07121,-84.31851,Business
+Juice Tennis & Pickleball,10580 Evendale Dr,Cincinnati,OH,45241,39.25451,-84.43851,Business
+Summit Park,4335 Glendale Milford Rd,Blue Ash,OH,45242,39.24851,-84.38451,Park
+Sharon Woods Park,11450 Lebanon Rd,Sharonville,OH,45241,39.27851,-84.39851,Park
+Montgomery Park,10101 Montgomery Rd,Montgomery,OH,45242,39.22851,-84.35451,Park
+Pioneer Park,10505 Deerfield Rd,Montgomery,OH,45242,39.24451,-84.33851,Park
+Winton Woods,10245 Winton Rd,Cincinnati,OH,45231,39.26121,-84.52451,Park
+Miami Whitewater Forest,9001 Mt Hope Rd,Harrison,OH,45030,39.25451,-84.76851,Park
+Campbell Lakes Local Park,10424 Campbell Rd,Harrison,OH,45030,39.26851,-84.79851,Park
+Fernbank Park,50 Thornton Ave,Cincinnati,OH,45233,39.13851,-84.70451,Park
+Hyde Park Country Club,3740 Erie Ave,Cincinnati,OH,45208,39.13851,-84.43851,Business
+Mount Lookout Park,1000 Delta Ave,Cincinnati,OH,45208,39.12851,-84.43451,Park
+Ault Park,5090 Observatory Ave,Cincinnati,OH,45208,39.13121,-84.41851,Park
+Eden Park Courts,950 Eden Park Dr,Cincinnati,OH,45202,39.11851,-84.49451,Park
+Salway Park,4500 Spring Grove Ave,Cincinnati,OH,45232,39.16851,-84.51851,Park
+Losantiville Country Club,1565 Losantiville Ave,Cincinnati,OH,45237,39.18851,-84.45451,Business
+Camargo Club,8605 Shawnee Run Rd,Indian Hill,OH,45243,39.18451,-84.33121,Business
+Drake Park,9991 Zig Zag Rd,Montgomery,OH,45242,39.23121,-84.34121,Park
+Symmes Township Park,11600 Lebanon Rd,Loveland,OH,45140,39.28121,-84.31851,Park
+Nisbet Park,126 Karl Brown Way,Loveland,OH,45140,39.26851,-84.26121,Park
+Phillips Park,11572 Rich Rd,Loveland,OH,45140,39.27451,-84.25451,Park
+Fairfield West Park,1717 S River Rd,Fairfield,OH,45014,39.33851,-84.58121,Park
+Harbin Park,1300 Hunter Rd,Fairfield,OH,45014,39.32851,-84.54451,Park
+Marsh Park,6440 River Rd,Fairfield,OH,45014,39.31451,-84.58851,Park
+Keehner Park,7211 Barret Rd,West Chester,OH,45069,39.34451,-84.38851,Park
+Beckett Park,8630 Beckett Rd,West Chester,OH,45069,39.33121,-84.44451,Park
+Countryside YMCA,1699 Deerfield Rd,Lebanon,OH,45036,39.41851,-84.21851,Business
+Colonial Park West,720 N Broadway St,Lebanon,OH,45036,39.44121,-84.20851,Park
+Oxford Community Park,6801 Fairfield Rd,Oxford,OH,45056,39.50851,-84.72121,Park
+Middletown Sports Complex,2600 N Verity Pkwy,Middletown,OH,45042,39.52451,-84.40451,Park
+Smith Park Middletown,500 Tytus Ave,Middletown,OH,45042,39.52121,-84.39451,Park
+J.W. Denver Williams Park,1100 Rombach Ave,Wilmington,OH,45177,39.44851,-83.80851,Park
+Jim Beeman Park,1900 S Elm St,West Carrollton,OH,45449,39.66451,-84.24851,Park
+Dayton Center Courts,100 W 1st St,Dayton,OH,45402,39.76121,-84.19451,Park
+DeWeese Park,2501 Riverside Dr,Dayton,OH,45405,39.79121,-84.20121,Park
+Triangle Park,2500 Ridge Ave,Dayton,OH,45414,39.79451,-84.20851,Park
+Centennial Park Englewood,321 Union Blvd,Englewood,OH,45322,39.87451,-84.30121,Park
+Helke Park,829 Randler Ave,Vandalia,OH,45377,39.88851,-84.20451,Park
+Sports Park Vandalia,1111 Stonequarry Rd,Vandalia,OH,45377,39.86851,-84.21851,Park
+Huber Heights Athletic Foundation,5367 Fishburg Rd,Huber Heights,OH,45424,39.84121,-84.10851,Business
+Community Park Fairborn,691 E Dayton-Yellow Springs Rd,Fairborn,OH,45324,39.80451,-84.03851,Park
+Fairfield Park,1065 N Central Ave,Fairborn,OH,45324,39.83121,-84.05451,Park
+Rotary Park Beavercreek,2260 Dayton-Xenia Rd,Beavercreek,OH,45434,39.73451,-84.05451,Park
+Loftis Park,1036 N Fairfield Rd,Beavercreek,OH,45432,39.74121,-84.06851,Park
+Xenia Station Park,150 S Miami Ave,Xenia,OH,45385,39.68121,-83.93121,Park
+Shawnee Park,591 S Park Dr,Xenia,OH,45385,39.68451,-83.92451,Park
+Troy Family YMCA,223 W Main St,Troy,OH,45373,40.04121,-84.20851,Business
+Duke Park Troy,1670 Troy-Sidney Rd,Troy,OH,45373,40.06121,-84.21121,Park
+Piqua Family YMCA,223 W High St,Piqua,OH,45356,40.14451,-84.24451,Business
+Pitsenbarger Park,1421 South St,Piqua,OH,45356,40.13851,-84.25451,Park
+National Trail Parks & Rec District,1301 Mitchell Blvd,Springfield,OH,45503,39.94851,-83.78851,Park
+Snyder Park,1901 W Main St,Springfield,OH,45504,39.93121,-83.84121,Park
+Carriage Hill MetroPark,7800 E Shull Rd,Dayton,OH,45424,39.86851,-84.08451,Park
+Greenville City Park,Park Dr,Greenville,OH,45331,40.10451,-84.62851,Park
+Urbana City Park,Park Ave,Urbana,OH,43078,40.11451,-83.75451,Park
+Fort Recovery Community Park,St Rte 49,Fort Recovery,OH,45846,40.41451,-84.77451,Park
+Edgewater Park Pickleball Courts,6520 Whiskey Island Dr,Cleveland,OH,44102,41.48851,-81.74121,Park
+Rockefeller Park,1620 East Blvd,Cleveland,OH,44106,41.51451,-81.62451,Park
+Brookside Reservation,3900 John Nagy Blvd,Cleveland,OH,44144,41.44851,-81.71451,Park
+Kauffman Park,15450 Detroit Ave,Lakewood,OH,44107,41.48451,-81.80851,Park
+Rocky River Recreation Center,21016 Hilliard Blvd,Rocky River,OH,44116,41.46851,-81.85451,Park
+Linden Park,3600 Linden Rd,Rocky River,OH,44116,41.47451,-81.84851,Park
+Cahoon Memorial Park,27600 Lake Rd,Bay Village,OH,44140,41.48851,-81.92851,Park
+Strongsville Recreation Center,18100 Royalton Rd,Strongsville,OH,44136,41.31451,-81.82451,Business
+Youth Sports Park,21255 Lunn Rd,Strongsville,OH,44149,41.29851,-81.86451,Park
+Memorial Park Strongsville,18688 Royalton Rd,Strongsville,OH,44136,41.31121,-81.83121,Park
+North Royalton City Green,14600 State Rd,North Royalton,OH,44133,41.31451,-81.74121,Park
+Memorial Park North Royalton,14600 State Rd,North Royalton,OH,44133,41.31851,-81.73851,Park
+Parma Heights Recreation Academy,6200 Pearl Rd,Parma Heights,OH,44130,41.38851,-81.76121,Business
+Green Valley Park,7700 W Pleasant Valley Rd,Parma,OH,44129,41.36451,-81.72851,Park
+Veterans Memorial Park Parma,6328 State Rd,Parma,OH,44134,41.39451,-81.72121,Park
+Broadview Heights Community Center,9543 Broadview Rd,Broadview Heights,OH,44147,41.32121,-81.68451,Business
+Brecksville Community Center,1 Community Dr,Brecksville,OH,44141,41.31121,-81.62851,Business
+Cuyahoga Heights Sports Complex,4863 E 71st St,Cleveland,OH,44125,41.44451,-81.64451,Park
+Independence Fieldhouse,6354 Selig Dr,Independence,OH,44131,41.38451,-81.64121,Business
+Elmwood Park Independence,6363 Selig Dr,Independence,OH,44131,41.38851,-81.63851,Park
+Seven Hills Community Recreation,7777 Summitview Dr,Seven Hills,OH,44131,41.36851,-81.67451,Business
+Shaker Heights Middle School Courts,20600 Shaker Blvd,Shaker Heights,OH,44122,41.48121,-81.53451,Park
+Denison Park,1015 Quarry Dr,Cleveland Heights,OH,44121,41.52851,-81.54451,Park
+Cain Park,14591 Superior Rd,Cleveland Heights,OH,44118,41.50451,-81.56451,Park
+Bexley Park,1630 Wrenford Rd,South Euclid,OH,44121,41.52451,-81.52451,Park
+Brainard Park,1840 Brainard Rd,Lyndhurst,OH,44124,41.51851,-81.47851,Park
+Highland Heights Community Park,5905 Wilson Mills Rd,Highland Heights,OH,44143,41.54851,-81.46851,Park
+Mayfield Village Racquet Club,6600 SOM Center Rd,Mayfield,OH,44143,41.54121,-81.44121,Business
+North Chagrin Nature Center Courts,401 Buttermilk Falls Pkwy,Willoughby Hills,OH,44094,41.56851,-81.42851,Park
+Roosevelt Park Campbell,601 Robinson Rd,Campbell,OH,44405,41.07851,-80.59851,Park
+Avon Aquatic Facility Courts,36265 Detroit Rd,Avon,OH,44011,41.45121,-82.02451,Park
+Weiss Field,33401 Webber Rd,Avon Lake,OH,44012,41.50121,-82.00851,Park
+South Central Park,7565 Avon Belden Rd,North Ridgeville,OH,44039,41.38851,-82.01851,Park
+Elysium Tennis & Pickleball,111 S Rocky River Dr,Berea,OH,44017,41.36851,-81.85451,Business
+Cascade Park,387 Furnace St,Elyria,OH,44035,41.37851,-82.10851,Park
+Oakwood Park,2047 E 36th St,Lorain,OH,44055,41.43451,-82.14851,Park
+Lakeview Park Lorain,1800 W Erie Ave,Lorain,OH,44052,41.46851,-82.19451,Park
+Brunswick Recreation Center,3637 Center Rd,Brunswick,OH,44212,41.25851,-81.82851,Business
+Neura Park,4633 Center Rd,Brunswick,OH,44212,41.25451,-81.79451,Park
+Memorial Park Wadsworth,274 Grandview Ave,Wadsworth,OH,44281,41.02451,-81.72451,Park
+Towpath Tennis & Pickleball Center,2108 Akron Peninsula Rd,Akron,OH,44313,41.13851,-81.54451,Business
+Firestone Park,1480 Girard St,Akron,OH,44301,41.03451,-81.52851,Park
+Hyre Park,2251 Wedgewood Dr,Akron,OH,44312,41.05451,-81.43851,Park
+Copley Community Park,3232 Copley Rd,Copley,OH,44321,41.09851,-81.63851,Park
+Barberton Sports Complex,841 Wooster Rd W,Barberton,OH,44203,41.01121,-81.62451,Park
+Tuscora Park,161 Tuscora Ave NW,New Philadelphia,OH,44663,40.50121,-81.44851,Park
+Kent State Tennis & Racquet Center,1000 Loop Rd,Kent,OH,44242,41.14451,-81.33851,Business
+Fred Fuller Park,497 Middlebury Rd,Kent,OH,44240,41.15451,-81.36451,Park
+Chestnut Hills Park,941 W Main St,Ravenna,OH,44266,41.15851,-81.25851,Park
+Woodside Lake Park,2486 Frost Rd,Streetsboro,OH,44241,41.23851,-81.32851,Park
+Sunny Lake Park,885 E Mennonite Rd,Aurora,OH,44202,41.29851,-81.31121,Park
+Boettler Park,5300 Massillon Rd,Green,OH,44720,40.94121,-81.47851,Park
+Ariss Park,2520 Wise Rd,Green,OH,44720,40.95451,-81.45851,Park
+North Canton Civic Center,845 W Maple St,North Canton,OH,44720,40.87851,-81.41121,Park
+Price Park,1000 W Maple St,North Canton,OH,44720,40.87451,-81.41851,Park
+Genshaft Park,2801 Erie St S,Massillon,OH,44646,40.76851,-81.51851,Park
+Reservoir Park Massillon,900 Reservoir Dr NE,Massillon,OH,44646,40.80451,-81.50851,Park
+Silver Park Alliance,2930 S Union Ave,Alliance,OH,44601,40.89121,-81.11851,Park
+Toledo Tennis & Pickleball Club,4330 Hill Ave,Toledo,OH,43615,41.63851,-83.65451,Business
+Ottawa Park,2205 Kenwood Blvd,Toledo,OH,43606,41.66121,-83.60851,Park
+Walbridge Park,2761 Broadway St,Toledo,OH,43609,41.61451,-83.56851,Park
+Highland Park Toledo,1690 South Ave,Toledo,OH,43609,41.62451,-83.57851,Park
+Navarre Park,1001 White St,Toledo,OH,43605,41.63851,-83.51851,Park
+Pacesetter Park,8801 Sylvania-Metamora Rd,Sylvania,OH,43560,41.71851,-83.74851,Park
+Veterans Memorial Park Sylvania,3425 Centennial Rd,Sylvania,OH,43560,41.69851,-83.73121,Park
+Sylvania YMCA,6465 Sylvania Ave,Sylvania,OH,43560,41.68851,-83.70851,Business
+Macomber Park,4724 290th St,Toledo,OH,43611,41.72851,-83.47851,Park
+Oregon Recreation Complex,5330 Seaman Rd,Oregon,OH,43616,41.64451,-83.42451,Park
+City Park Bowling Green,520 Conneaut Ave,Bowling Green,OH,43402,41.37121,-83.65851,Park
+Carter Park Bowling Green,401 Campbell Hill Rd,Bowling Green,OH,43402,41.36851,-83.62451,Park
+Fremont Community Recreation Complex,600 St Joseph St,Fremont,OH,43420,41.34851,-83.12451,Business
+Rodger Young Park,1111 Tiffin St,Fremont,OH,43420,41.33851,-83.12851,Park
+Fabens Park,38 Fabens Way,Huron,OH,44839,41.38851,-82.55451,Park
+Lions Park Sandusky,621 W Monroe St,Sandusky,OH,44870,41.45121,-82.72121,Park
+Mills Creek Golf Course & Courts,1933 Mills St,Sandusky,OH,44870,41.43121,-82.72451,Park
+Waterworks Park Port Clinton,Perry St,Port Clinton,OH,43452,41.51121,-82.93851,Park
+Tiffin YMCA,180 Summit St,Tiffin,OH,44883,41.11121,-83.18121,Business
+Hedges-Boyer Park,491 Coe St,Tiffin,OH,44883,41.10851,-83.16451,Park
+Foundation Park Fostoria,1225 S Union St,Fostoria,OH,44830,41.14451,-83.41121,Park
+Kingsbury Park Defiance,Auglaize St,Defiance,OH,43512,41.27451,-84.35451,Park
+Diehl Park Defiance,1205 Webster St,Defiance,OH,43512,41.28851,-84.34121,Park
+Recreation Park Bryan,601 S Union St,Bryan,OH,43506,41.46851,-84.55121,Park
+Dorothy B. Biddle Park,13551 St Rte 2,Wauseon,OH,43567,41.55851,-84.14851,Park
+Ritter Park Napoleon,W Riverview Ave,Napoleon,OH,43545,41.39451,-84.13121,Park
+Smiley Park Van Wert,1220 Leeson Ave,Van Wert,OH,45891,40.87121,-84.56851,Park
+Robb Park Lima,700 W Robb Ave,Lima,OH,45801,40.75851,-84.11851,Park
+Avalon Golf & Athletic Club,9519 E Market St,Warren,OH,44484,41.24121,-80.70851,Business
+Packard Park,1703 Mahoning Ave NW,Warren,OH,44483,41.25121,-80.82851,Park
+Willow Creek Park,1200 S Canfield-Niles Rd,Youngstown,OH,44515,41.08851,-80.75451,Park
+Mill Creek MetroParks Wick Recreation,1861 McCollum Rd,Youngstown,OH,44509,41.09451,-80.68851,Park
+Volney Rogers Field,S Schenley Ave,Youngstown,OH,44511,41.07851,-80.70451,Park
+Yellow Creek Park,19 Struthers-Coitsville Rd,Struthers,OH,44471,41.04851,-80.59851,Park
+Greene Eagle Courts,2880 St Rte 193,Cortland,OH,44410,41.34121,-80.67851,Park
+Pearl Park,Pearl St and 6th St,Cortland,OH,44410,41.33121,-80.72451,Park
+Waddell Park,W Park Ave,Niles,OH,44446,41.18451,-80.77851,Park
+Lakeview Park Conneaut,480 Lake Rd,Conneaut,OH,44030,41.95451,-80.54851,Park
+Lakeshore Park Ashtabula,1700 E 1st St,Ashtabula,OH,44004,41.90451,-80.76851,Park
+Geneva Township Park,5045 Lake Rd E,Geneva-on-the-Lake,OH,44041,41.86451,-80.93851,Park
+Riverside Park Zanesville,100 Riverside Dr,Zanesville,OH,43701,39.94851,-82.01121,Park
+Pioneer Park Zanesville,1501 Blue Ave,Zanesville,OH,43701,39.95451,-82.02851,Park
+Muskingum Family YMCA,1425 Newark Rd,Zanesville,OH,43701,39.96121,-82.02451,Business
+Athens Community Center,701 E State St,Athens,OH,45701,39.33851,-82.08121,Business
+Southside Park Athens,Richland Ave,Athens,OH,45701,39.31851,-82.10451,Park
+Fenton Park Marietta,300 Front St,Marietta,OH,45750,39.41851,-81.45851,Park
+Lookout Park Marietta,Gross St,Marietta,OH,45750,39.42851,-81.44451,Park
+Yoctangee Park,End of N Paint St,Chillicothe,OH,45601,39.33851,-82.98451,Park
+Ross County YMCA,465 W Water St,Chillicothe,OH,45601,39.33451,-82.99121,Business
+Branch Rickey Park,Gallia St,Portsmouth,OH,45662,38.74121,-82.97451,Park
+Bellefonte Athletic Club,1000 12th St,Portsmouth,OH,45662,38.73451,-82.98121,Business
+Belleview Park,End of Brady Ave,Steubenville,OH,43952,40.36451,-80.62851,Park
+Jim Wood Park,Park Ave,Steubenville,OH,43952,40.35851,-80.64121,Park
+St Clairsville Memorial Park,200 Walnut Ave,St Clairsville,OH,43950,40.08121,-80.89851,Park
+Cambridge City Park,800 McFarland Dr,Cambridge,OH,43725,40.03451,-81.58451,Park
