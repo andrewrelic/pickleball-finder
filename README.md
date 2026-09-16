@@ -69,6 +69,18 @@ Pickleball Finder connects pickleball players of all skill levels with courts, r
 ### 🏆 Round Robin & Tournament Manager
 - **Automated Match Generator**: Organize friendly round-robin tournaments or competitive brackets directly from the app.
 - **Fair Rotation Algorithms**: Automatically schedules rotating doubles pairs and opponents so everyone gets balanced court time without manual paperwork.
+- **Organizer Roster Management**: Dynamically edit rosters, substitute players, and regenerate schedules on the fly.
+
+### 📺 Clubhouse TV Scoreboard Mode & Wireless Casting
+- **Stadium Broadcast Layout**: Turn any wall-mounted TV, monitor, or projector into a live stadium-grade tournament scoreboard with active court matches, real-time score updates, and live leaderboard standings.
+- **Wireless Screen Casting (Samsung Smart View & Google Cast)**: Built specifically for mobile devices — 1-tap launcher to wirelessly stream your scoreboard directly to Samsung Smart TVs, Chromecasts, Google TVs, and wireless displays.
+- **Autonomous Smart TV Display via QR Code**: No phone mirroring needed! Point any Smart TV browser, Apple TV, Fire TV, or clubhouse computer at the scannable QR code to run the live 4K Scoreboard autonomously without draining your phone's battery.
+- **1-Tap Share & Remote Control**: Send direct scoreboard display links to clubhouse staff or TV operators via SMS or messaging.
+- **Real-Time Live Sync**: Cloud Firestore streams live court scores and round rotations in real-time. When desk staff records a score on mobile or tablet, the TV display updates instantly.
+
+<p align="center">
+  <img src="images/clubhouse_tv_cast_modal.png" width="340" alt="Clubhouse TV Cast & Display Hub on Android" />
+</p>
 
 ---
 
