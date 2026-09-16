@@ -1,0 +1,26 @@
+image,name,address,city,state,zip,lat,lng, type
+Ocean State Pickleball Club,100 Dupont Dr,Providence,RI,02907,41.7985,-71.4285,Business
+Rally Point Pickleball,96 Calverley St,Providence,RI,02908,41.8315,-71.4245,Business
+Centre Court Tennis & Pickleball,55 Hospital Rd,East Providence,RI,02914,41.8085,-71.3645,Business
+Brown Street Park Courts,Brown St,Providence,RI,02906,41.8345,-71.4015,Park
+Gano Park Pickleball Courts,Gano St,Providence,RI,02906,41.8215,-71.3885,Park
+Roger Williams Park Courts,1000 Elmwood Ave,Providence,RI,02907,41.7815,-71.4185,Park
+Neutaconkanut Park Courts,Plainfield St,Providence,RI,02909,41.8115,-71.4585,Park
+City Park Warwick Pickleball Complex,Asylum Rd,Warwick,RI,02889,41.7015,-71.3985,Park
+Mickey Stevens Sports Complex,975 Sandy Ln,Warwick,RI,02889,41.7145,-71.4045,Park
+Thayer Arena Courts,975 Sandy Ln,Warwick,RI,02889,41.7115,-71.4015,Park
+Garden City Park Courts,Garden City Dr,Cranston,RI,02920,41.7645,-71.4545,Park
+Doran Park Courts,Doran Ave,Cranston,RI,02910,41.7785,-71.4315,Park
+Brayton Park Courts,Brayton Ave,Cranston,RI,02920,41.7845,-71.4685,Park
+Slater Memorial Park Pickleball Complex,Newport Ave,Pawtucket,RI,02861,41.8785,-71.3485,Park
+Daggett Field Courts,Daggett Ave,Pawtucket,RI,02861,41.8845,-71.3545,Park
+Pierce Memorial Field Courts,201 Mercer St,East Providence,RI,02914,41.8145,-71.3785,Park
+Glen Park Courts,Glen Rd,Portsmouth,RI,02871,41.5645,-71.2485,Park
+Newport Vernon Park Courts,Freeborn St,Newport,RI,02840,41.4885,-71.3045,Park
+Pop Flack Courts,Aquidneck Ave,Middletown,RI,02842,41.5115,-71.2785,Park
+Old Mountain Field Courts,831 Kingstown Rd,Wakefield,RI,02879,41.4415,-71.5015,Park
+Broad Rock Athletic Complex,85 Broad Rock Rd,Wakefield,RI,02879,41.4545,-71.4985,Park
+Ryan Park Courts,Oak Hill Rd,North Kingstown,RI,02852,41.5545,-71.4685,Park
+Wilson Park Courts,W Main St,North Kingstown,RI,02852,41.5715,-71.4485,Park
+Bradford Park Courts,"Westerly, RI",Westerly,RI,02891,41.4085,-71.7485,Park
+Craig Field Courts,Main St,Westerly,RI,02891,41.3785,-71.8285,Park

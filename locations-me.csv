@@ -1,0 +1,26 @@
+image,name,address,city,state,zip,lat,lng, type
+Apex Racket and Fitness,2445 Congress St,Portland,ME,04102,43.6615,-70.3285,Business
+Fore River Pickleball Club,Thompsons Point Rd,Portland,ME,04102,43.6545,-70.2915,Business
+Midcoast Athletic Center (MAC),Passy Rd,Warren,ME,04864,44.1215,-69.2415,Business
+Eastern Promenade Pickleball Courts,Eastern Promenade,Portland,ME,04101,43.6685,-70.2445,Park
+Deering Oaks Park Courts,State St & Park Ave,Portland,ME,04101,43.6585,-70.2715,Park
+Riverton Community Park Courts,1600 Forest Ave,Portland,ME,04103,43.6985,-70.3185,Park
+Wainwright Recreation Complex,125 Gary L Maietta Pkwy,South Portland,ME,04106,43.6145,-70.2885,Park
+Memorial Middle School Courts,Wescott Rd,South Portland,ME,04106,43.6315,-70.3015,Park
+Fort Williams Park Courts,1000 Shore Rd,Cape Elizabeth,ME,04107,43.6245,-70.2145,Park
+Spring Point Ledge Courts,Fort Rd,South Portland,ME,04106,43.6515,-70.2315,Park
+Scarborough High School Courts,11 Municipal Dr,Scarborough,ME,04074,43.5945,-70.3785,Park
+Black Point Park Courts,Black Point Rd,Scarborough,ME,04074,43.5685,-70.3345,Park
+Memorial Park Old Orchard Beach,First St,Old Orchard Beach,ME,04064,43.5185,-70.3785,Park
+Clifford Park Courts,Pool St,Biddeford,ME,04005,43.4885,-70.4485,Park
+Saco Community Center Courts,75 Franklin St,Saco,ME,04072,43.5045,-70.4415,Park
+Twin Brook Recreation Area,185 Tuttle Rd,Cumberland,ME,04021,43.7985,-70.2785,Park
+Val Halla Golf & Recreation Courts,60 Val Halla Rd,Cumberland,ME,04021,43.8045,-70.2645,Park
+Yarmouth High School Courts,West Elm St,Yarmouth,ME,04096,43.8015,-70.1885,Park
+Brunswick Recreation Center Courts,220 Neptune Dr,Brunswick,ME,04011,43.8945,-69.9385,Park
+Merrymeeting Park Courts,"Brunswick, ME",Brunswick,ME,04011,43.9185,-69.9685,Park
+Franklin Pasture Athletic Complex,156 Bartlett St,Lewiston,ME,04240,44.0945,-70.2085,Park
+Auburn Suburban Little League Courts,Garfield Rd,Auburn,ME,04210,44.0885,-70.2485,Park
+Fairmount Park Pickleball Courts,13th St,Bangor,ME,04401,44.8085,-68.7985,Park
+Broadway Park Courts,Broadway,Bangor,ME,04401,44.8185,-68.7745,Park
+Doyle Field Courts,Doyle Field Rd,Brewer,ME,04412,44.7885,-68.7545,Park

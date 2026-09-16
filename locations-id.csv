@@ -1,0 +1,31 @@
+image,name,address,city,state,zip,lat,lng, type
+The Flying Pickle,1135 N Meridian Rd,Meridian,ID,83642,43.6215,-116.3985,Business
+Boise Racquet & Pickleball Club,1116 N Cole Rd,Boise,ID,83704,43.6185,-116.2715,Business
+Hobble Creek Park Pickleball Complex,6050 N Park Meadow Way,Boise,ID,83713,43.6645,-116.3285,Park
+Manitou Park Pickleball Courts,2001 S Manitou Ave,Boise,ID,83706,43.5945,-116.1885,Park
+Willow Lane Athletic Complex,4623 W Willow Ln,Boise,ID,83703,43.6485,-116.2485,Park
+Cassia Park Courts,4600 W Camas St,Boise,ID,83705,43.5915,-116.2415,Park
+Sunset Park Courts,2625 N 32nd St,Boise,ID,83703,43.6385,-116.2285,Park
+Ann Morrison Park Courts,1000 S Americana Blvd,Boise,ID,83706,43.6085,-116.2185,Park
+Settlers Park Pickleball Complex,3245 N Meridian Rd,Meridian,ID,83646,43.6385,-116.3985,Park
+Kleiner Memorial Park Courts,1900 N Records Ave,Meridian,ID,83642,43.6215,-116.3585,Park
+Discovery Park Courts,2121 E Lake Hazel Rd,Meridian,ID,83642,43.5515,-116.3685,Park
+Midway Park Pickleball Complex,20799 Midway Rd,Nampa,ID,83651,43.5915,-116.6215,Park
+Lakeview Park Nampa,1307 7th St N,Nampa,ID,83687,43.5845,-116.5515,Park
+Lions Park Nampa,409 Constitution Way,Nampa,ID,83686,43.5685,-116.5685,Park
+Mallard Park Courts,15261 S 10th Ave,Caldwell,ID,83607,43.6385,-116.7015,Park
+Luby Park Courts,1119 S 11th Ave,Caldwell,ID,83605,43.6545,-116.6885,Park
+Eagle Rock Park Courts,"Eagle, ID",Eagle,ID,83616,43.6985,-116.3515,Park
+Guerber Park Courts,2200 Hill Rd,Eagle,ID,83616,43.7085,-116.3645,Park
+Cherry Hill Park Courts,15th St,Coeur d'Alene,ID,83814,47.6985,-116.7645,Park
+Northshire Park Courts,3889 W Nez Perce Rd,Coeur d'Alene,ID,83815,47.7185,-116.8285,Park
+Post Falls Rotary Park Courts,E 3rd Ave,Post Falls,ID,83854,47.7115,-116.9445,Park
+Tautphaus Park Pickleball Complex,2800 S Boulevard,Idaho Falls,ID,83402,43.4745,-112.0385,Park
+Community Park Idaho Falls,S Holmes Ave,Idaho Falls,ID,83404,43.4685,-112.0185,Park
+McCowin Park Courts,3000 S Edison St,Ammon,ID,83406,43.4715,-111.9685,Park
+Brenden-Peter Memorial Park,"Pocatello, ID",Pocatello,ID,83201,42.8785,-112.4415,Park
+Lower Ross Park Courts,2901 S 2nd Ave,Pocatello,ID,83204,42.8485,-112.4285,Park
+Frontier Park Courts,"Twin Falls, ID",Twin Falls,ID,83301,42.5645,-114.4715,Park
+Sunway Soccer & Pickleball Complex,"Twin Falls, ID",Twin Falls,ID,83301,42.5715,-114.4585,Park
+Lewiston Hereth Park Courts,1534 Powers Ave,Lewiston,ID,83501,46.3985,-117.0015,Park
+Mountain View Park Courts,Mountain View Rd,Moscow,ID,83843,46.7385,-116.9845,Park

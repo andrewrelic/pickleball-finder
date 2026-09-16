@@ -1,0 +1,36 @@
+image,name,address,city,state,zip,lat,lng, type
+picklr.png,The Picklr Loveland,1831 E 8th St,Loveland,CO,80537,40.3985,-105.0485,Business
+picklr.png,The Picklr Denver,5650 E Evans Ave,Denver,CO,80222,39.6785,-104.9215,Business
+3rd Shot Pickleball Club - Wheat Ridge,3545 Wadsworth Blvd,Wheat Ridge,CO,80033,39.7685,-105.0815,Business
+3rd Shot Pickleball Club - Longmont,20 S Pratt Pkwy,Longmont,CO,80501,40.1615,-105.1085,Business
+Apex Center Pickleball,13150 W 72nd Ave,Arvada,CO,80005,39.8285,-105.1485,Business
+Congress Park Pickleball Courts,2826 E 8th Ave,Denver,CO,80206,39.7285,-104.9545,Park
+Martin Luther King Jr. Park Courts,3880 Newport St,Denver,CO,80207,39.7685,-104.9085,Park
+Sloan's Lake Park Courts,1700 N Sheridan Blvd,Denver,CO,80204,39.7485,-105.0515,Park
+Garland Park Courts,6300 E Mississippi Ave,Denver,CO,80224,39.6945,-104.9145,Park
+Eisenhower Park Courts,4300 E Dartmouth Ave,Denver,CO,80222,39.6615,-104.9385,Park
+Huston Lake Park Courts,850 S Bryant St,Denver,CO,80219,39.7015,-105.0185,Park
+Green Mountain Recreation Center Courts,13198 W Green Mountain Dr,Lakewood,CO,80228,39.7015,-105.1485,Park
+Carmody Park Pickleball Complex,2200 S Kipling St,Lakewood,CO,80227,39.6745,-105.1185,Park
+Cornerstone Park Pickleball Complex,5150 S Windermere St,Littleton,CO,80120,39.6245,-105.0015,Park
+Tenth Street Park Courts,"Golden, CO",Golden,CO,80401,39.7545,-105.2215,Park
+Meadow Wood Sports Complex,3270 Armstrong Ave,Woodland Park,CO,80863,38.9945,-105.0545,Park
+Monument Valley Park Pickleball Complex,170 W Cache La Poudre St,Colorado Springs,CO,80903,38.8485,-104.8285,Park
+MVP Pavilion Pickleball,220 E Mesa Ave,Colorado Springs,CO,80906,38.8145,-104.8185,Park
+Bear Creek Regional Park Courts,2115 W 21st St,Colorado Springs,CO,80904,38.8245,-104.8585,Park
+Rampart Park Courts,8270 Lexington Dr,Colorado Springs,CO,80920,38.9515,-104.7885,Park
+Springs Ranch Park,3890 Springs Ranch Dr,Colorado Springs,CO,80922,38.8885,-104.7115,Park
+Meadow Lake Park Courts,"Falcon, CO",Peyton,CO,80831,38.9345,-104.5685,Park
+Wheel Park Pickleball Complex,2500 S Wheel Park Dr,Aurora,CO,80013,39.6715,-104.8085,Park
+Olympic Park Courts,15501 E Yale Ave,Aurora,CO,80013,39.6645,-104.8085,Park
+Utah Park Courts,1800 S Peoria St,Aurora,CO,80012,39.6845,-104.8485,Park
+Highlands Ranch Northridge Courts,8800 S Broadway,Highlands Ranch,CO,80126,39.5585,-104.9885,Park
+Tanks Park Pickleball Complex,10371 S Broadway,Highlands Ranch,CO,80130,39.5315,-104.9915,Park
+Spring Canyon Community Park Courts,2626 W Horsetooth Rd,Fort Collins,CO,80526,40.5385,-105.1215,Park
+Edora Park Pickleball Courts,1420 E Stuart St,Fort Collins,CO,80525,40.5715,-105.0545,Park
+Twin Silo Community Park,5552-5564 S Ziegler Rd,Fort Collins,CO,80528,40.5085,-105.0215,Park
+Centennial Park Longmont,1100 Alpine St,Longmont,CO,80504,40.1785,-105.0885,Park
+South Boulder Recreation Center Courts,1360 Gillaspie Dr,Boulder,CO,80305,39.9845,-105.2445,Park
+North Boulder Recreation Center Courts,3170 Broadway,Boulder,CO,80304,40.0345,-105.2815,Park
+Lincoln Park Grand Junction,910 N 12th St,Grand Junction,CO,81501,39.0785,-108.5515,Park
+Pueblo City Park Courts,800 Goodnight Ave,Pueblo,CO,81005,38.2585,-104.6485,Park
