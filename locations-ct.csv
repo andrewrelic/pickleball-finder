@@ -1,0 +1,60 @@
+image,name,address,city,state,zip,lat,lng, type
+Scalzi Park Pickleball Complex,100 Bridge St,Stamford,CT,06905,41.06451,-73.54851,Park
+Chestnut Hill Park,151 Chestnut Hill Rd,Stamford,CT,06903,41.12121,-73.55121,Park
+picklr.png,The Picklr Norwalk,360 Connecticut Ave,Norwalk,CT,06854,41.10451,-73.43851,Business
+Woodward Avenue Park,77 Woodward Ave,Norwalk,CT,06854,41.09121,-73.41851,Park
+Ludlow Park,17 Roger Ludlowe,Norwalk,CT,06855,41.09851,-73.40451,Park
+Compo Beach Pickleball Courts,60 Compo Beach Rd,Westport,CT,06880,41.11451,-73.34451,Park
+Fairfield Indoor Tennis and Pickleball,210 Old Dam Rd,Fairfield,CT,06824,41.14451,-73.25851,Business
+Owen Fish Park,1443 Stratfield Rd,Fairfield,CT,06825,41.19451,-73.23851,Park
+Tunxis Hill Park,225 Melville Ave,Fairfield,CT,06825,41.18121,-73.22451,Park
+Christiano Park,60 Lyon Ave,Greenwich,CT,06830,41.00851,-73.64851,Park
+Loughlin Park,10 Loughlin Ave,Cos Cob,CT,06807,41.04121,-73.60121,Park
+Cherry Lawn Park,120 Brookside Rd,Darien,CT,06820,41.08121,-73.47851,Park
+Mead Memorial Park,104 Park St,New Canaan,CT,06840,41.14451,-73.49851,Park
+Merwin Meadows Park,52 Lovers Ln,Wilton,CT,06897,41.20121,-73.43451,Park
+Yanity Gymnasium and Courts,60 Prospect St,Ridgefield,CT,06877,41.28451,-73.49851,Park
+Hatters Park,7 E Hayestown Rd,Danbury,CT,06811,41.41121,-73.43851,Park
+Danbury Sports Dome,25 Shelter Rock Ln,Danbury,CT,06810,41.38851,-73.42451,Business
+Treadwell Memorial Park,47 Philo Curtis Rd,Sandy Hook,CT,06482,41.42851,-73.26851,Park
+Shelton Community Center Courts,41 Church St,Shelton,CT,06484,41.31451,-73.12851,Park
+Tashua Knolls Park,39 Tashua Knolls Ln,Trumbull,CT,06611,41.28851,-73.22451,Park
+Short Beach Park,1 Dorne Dr,Stratford,CT,06615,41.16121,-73.11851,Park
+Seaside Park Pickleball Courts,1 Barnum Dyke,Bridgeport,CT,06604,41.16451,-73.19451,Park
+Eisenhower Park,780 North St,Milford,CT,06460,41.24851,-73.06121,Park
+Anderson Avenue Park,50 Anderson Ave,Milford,CT,06460,41.21851,-73.08451,Park
+Fred Wolfe Park,300 Hollow Rd,Orange,CT,06477,41.27451,-73.04851,Park
+Painter Park,190 Kelsey Ave,West Haven,CT,06516,41.25851,-72.96121,Park
+Edgewood Park Pickleball Courts,West Rock Ave and Whalley Ave,New Haven,CT,06515,41.32451,-72.96451,Park
+East Shore Park,350 Woodward Ave,New Haven,CT,06512,41.27851,-72.89451,Park
+Mix Avenue Courts,1063 Mix Ave,Hamden,CT,06514,41.37451,-72.91851,Park
+Doolittle Park,78 S Elm St,Wallingford,CT,06492,41.45121,-72.82121,Park
+Cheshire Park,954 S Main St,Cheshire,CT,06410,41.48851,-72.90851,Park
+Foote Memorial Park,1 Melrose Ave,Branford,CT,06405,41.27451,-72.81851,Park
+Bittner Park,1346 Boston Post Rd,Guilford,CT,06437,41.30121,-72.69451,Park
+Salt Meadow Park,1362 Boston Post Rd,Madison,CT,06443,41.27451,-72.56851,Park
+Hamilton Park,110 Hamilton Park Rd,Waterbury,CT,06705,41.53851,-73.02451,Park
+Meadowview Park,500 N Benson Rd,Middlebury,CT,06762,41.53121,-73.12851,Park
+Elizabeth Park Pickleball Courts,1561 Asylum Ave,Hartford,CT,06117,41.77451,-72.71451,Park
+Fernridge Park,567 Fern St,West Hartford,CT,06107,41.76851,-72.75451,Park
+Buena Vista Recreation Complex,30 Mayflower St,West Hartford,CT,06110,41.74851,-72.75851,Park
+Mt Nebo Park,1 Spring St,Manchester,CT,06040,41.76851,-72.52451,Park
+Riverfront Community Center,300 Welles St,Glastonbury,CT,06033,41.71451,-72.61451,Park
+Addison Park,415 Addison Rd,Glastonbury,CT,06033,41.73851,-72.56851,Park
+Rye Street Park,218 Rye St,South Windsor,CT,06074,41.85451,-72.56121,Park
+Sycamore Hills Recreation Area,635 W Avon Rd,Avon,CT,06001,41.78451,-72.89451,Park
+Simsbury Memorial Park,40 Plank Hill Rd,Simsbury,CT,06070,41.87451,-72.81851,Park
+Farmington Sports Arena,11 Executive Dr,Farmington,CT,06032,41.71121,-72.84851,Business
+Elm Ridge Park,376 Elm St,Rocky Hill,CT,06067,41.66121,-72.65121,Park
+Mill Woods Park,154 Prospect St,Wethersfield,CT,06109,41.69851,-72.66851,Park
+Mill Pond Park,123 Garfield St,Newington,CT,06111,41.68851,-72.72851,Park
+Panthorn Park,485 Burritt St,Plantsville,CT,06479,41.58451,-72.89121,Park
+Rockwell Park,238 Jacobs St,Bristol,CT,06010,41.67451,-72.96451,Park
+Brainerd Park,100 Enfield St,Enfield,CT,06082,41.98851,-72.58451,Park
+Veterans Memorial Park,80 Walnut Grove Rd,Middletown,CT,06457,41.54121,-72.65851,Park
+Saybrook Point Town Park,308 Main St,Old Saybrook,CT,06475,41.28451,-72.35851,Park
+Bridebrook Park,221 W Main St,Niantic,CT,06357,41.32851,-72.22121,Park
+Waterford Beach Park,317 Great Neck Rd,Waterford,CT,06385,41.30851,-72.11851,Park
+Sutton Park,185 Fort Hill Rd,Groton,CT,06340,41.35451,-72.04851,Park
+Mohegan Park,178 Mohegan Park Rd,Norwich,CT,06360,41.54851,-72.07121,Park
+Toro Sports Complex,1054 Torringford W St,Torrington,CT,06790,41.82121,-73.10451,Park

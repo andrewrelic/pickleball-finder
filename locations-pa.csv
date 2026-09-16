@@ -1,7 +1,7 @@
 image,name,address,city,state,zip,lat,lng, type
 picklr.png,The Picklr Exton,180 N Pottstown Pike,Exton,PA,19341,40.03851,-75.62451,Business
 picklr.png,The Picklr Newtown,2807 S Eagle Rd,Newtown,PA,18940,40.21851,-74.93851,Business
-Bounce Pickleball Club,172 Lancaster Ave,Malvern,PA,19355,40.03981,-75.52121,Business
+Bounce Pickleball Club,172 Lancaster Ave,Malvern,PA,19355,40.03981,-75.52121,Business,https://livepickleballcourts.com/facilities/bounce-pickleball-club
 Dill Dinkers Montgomeryville,1180 Church Rd,Lansdale,PA,19446,40.25451,-75.25851,Business
 Dill Dinkers Warminster,380 N York Rd,Warminster,PA,18974,40.20851,-75.08851,Business
 ace.png,Ace Pickleball Club Norristown,2500 W Main St,Norristown,PA,19403,40.13451,-75.36851,Business
@@ -57,3 +57,5 @@ Spring Creek Park,1400 E College Ave,State College,PA,16801,40.81451,-77.83451,P
 Brightbill Park,5000 Linglestown Rd,Harrisburg,PA,17112,40.32851,-76.80451,Park
 Frontier Park Pickleball Courts,1501 W 6th St,Erie,PA,16505,42.11451,-80.12121,Park
 Baldwin Park Pickleball Courts,2500 Berst Ave,Erie,PA,16508,42.10121,-80.08451,Park
+Bounce Pickleball - Philadelphia,913 Wallace St,Philadelphia,PA,19123,39.96388,-75.15353,Business,https://livepickleballcourts.com/facilities/bounce-pickleball-philadelphia
+Garfield Park Pickleball,1101 S 25th St,Altoona,PA,16601,40.49353,-78.39330,Park,https://livepickleballcourts.com/facilities/garfield-park-pickleball

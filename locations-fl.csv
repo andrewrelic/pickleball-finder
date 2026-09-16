@@ -1,5 +1,5 @@
-image,name,address,city,state,zip,lat,lng, type, cam
-oneplus.png,ONE+ Pickleball Club,1790 E Irlo Bronson Memorial Hwy,St Cloud,FL,34771,28.243908,-81.258129,Business
+image,name,address,city,state,zip,lat,lng, type
+ONE+ Pickleball Club,1790 E Irlo Bronson Memorial Hwy,St Cloud,FL,34771,28.243908,-81.258129,Business
 picklr.png,The Picklr Orlando North,1150 E Altamonte Dr,Altamonte Springs,FL,32701,28.66541,-81.36541,Business
 The Fort at Snyder Park,3299 SW 4th Ave,Fort Lauderdale,FL,33315,26.08982,-80.14951,Business
 Crush Yard Pickleball Club,7840 W Irlo Bronson Memorial Hwy,Kissimmee,FL,34747,28.34451,-81.60121,Business
@@ -63,3 +63,6 @@ Tom Brown Park Pickleball Courts,443 Easterwood Dr,Tallahassee,FL,32311,30.43981
 Albert Ray Gainesville Tennis and Pickleball Center,1001 NW 34th St,Gainesville,FL,32605,29.66451,-82.37451,Park
 Kelly Recreation Complex,404 Imperial Blvd,Lakeland,FL,33803,28.00851,-81.95451,Park
 Ocala Golf and Pickleball Club,3130 E Silver Springs Blvd,Ocala,FL,34470,29.19121,-82.09451,Park
+Pickleball University,2266 14th Ave,Vero Beach,FL,32960,27.64174,-80.39892,Business,https://livepickleballcourts.com/facilities/pickleball-university
+Dick Bird Park Courts,800 20th Ave SW,Vero Beach,FL,32962,27.59077,-80.40386,Park,https://livepickleballcourts.com/facilities/dick-bird-park-courts
+Diadem Pickleball Complex (Florida),1000 Coconut Creek Blvd,Coconut Creek,FL,33066,26.24256,-80.17297,Business,https://livepickleballcourts.com/facilities/diadem-pickleball-complex-florida

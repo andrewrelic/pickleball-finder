@@ -1,0 +1,65 @@
+image,name,address,city,state,zip,lat,lng, type
+pk.png,Pickleball Kingdom Poulsbo,21800 Market Pl NW,Poulsbo,WA,98370,47.76206213634922,-122.66158837419543,Business
+Seattle Pickleball Club,1435 Elliott Ave W,Seattle,WA,98119,47.635320898798476,-122.37369025187897,Business
+Seattle Athletic Club Downtown,2020 Western Ave,Seattle,WA,98121,47.611538,-122.344849,Business
+Seattle Athletic Club Northgate,501 NE 112th St,Seattle,WA,98125,47.710325,-122.32251,Business
+Magnuson Athletic Club,7751 63rd Ave NE,Seattle,WA,98115,47.68482,-122.26124,Business
+Eastside Tennis & Pickleball Center,10822 Willows Rd NE,Redmond,WA,98052,47.69701,-122.14662,Business
+Gorilla Pickleball,8530 122nd Ave NE,Kirkland,WA,98033,47.67923,-122.17641,Business
+Pickleball Station,2220 Pike St NW,Auburn,WA,98001,47.32924,-122.24781,Business
+The Picklr Tacoma,3808 Center St,Tacoma,WA,98409,47.23412,-122.48781,Business
+The Picklr Federal Way,32000 Pacific Hwy S,Federal Way,WA,98003,47.31514,-122.31421,Business
+Green Lake Park East Pickleball Courts,7201 E Green Lake Dr N,Seattle,WA,98115,47.680612,-122.327845,Park
+Bitter Lake Playfield Pickleball Courts,13035 Linden Ave N,Seattle,WA,98133,47.72462,-122.34841,Park
+Miller Playfield Pickleball Courts,330 19th Ave E,Seattle,WA,98112,47.621915,-122.30752,Park
+Georgetown Playfield Pickleball Courts,750 S Homer St,Seattle,WA,98108,47.53483,-122.32421,Park
+Discovery Park Pickleball Courts,3801 Discovery Park Blvd,Seattle,WA,98199,47.65823,-122.40552,Park
+Magnuson Park Pickleball Courts,7400 Sand Point Way NE,Seattle,WA,98115,47.68041,-122.25432,Park
+Beacon Hill Playground Pickleball Courts,1903 13th Ave S,Seattle,WA,98144,47.58552,-122.31601,Park
+Cal Anderson Park Pickleball Courts,1635 11th Ave,Seattle,WA,98122,47.61742,-122.31961,Park
+Delridge Playfield Pickleball Courts,4458 Delridge Way SW,Seattle,WA,98106,47.56302,-122.36291,Park
+Dearborn Park Pickleball Courts,2919 S Brandon St,Seattle,WA,98108,47.55321,-122.29542,Park
+South Park Playground Pickleball Courts,8319 8th Ave S,Seattle,WA,98108,47.52843,-122.32281,Park
+Kinnear Park Pickleball Courts,899 W Olympic Pl,Seattle,WA,98119,47.62582,-122.36191,Park
+Mount Baker Park Pickleball Courts,2521 Lake Park Dr S,Seattle,WA,98144,47.58153,-122.28921,Park
+Ravenna Park Pickleball Courts,5520 Ravenna Ave NE,Seattle,WA,98105,47.66902,-122.30561,Park
+Montlake Playfield Pickleball Courts,1618 E Calhoun St,Seattle,WA,98112,47.63931,-122.30942,Park
+Laurelhurst Playfield Pickleball Courts,4544 NE 41st St,Seattle,WA,98105,47.65751,-122.27982,Park
+Greenwood Park Pickleball Courts,602 N 87th St,Seattle,WA,98103,47.69232,-122.35511,Park
+Maple Leaf Reservoir Park Pickleball Courts,1020 NE 82nd St,Seattle,WA,98115,47.68882,-122.31681,Park
+Observatory Courts at Volunteer Park,1247 15th Ave E,Seattle,WA,98112,47.63002,-122.31261,Park
+Soundview Playfield Pickleball Courts,1590 NW 90th St,Seattle,WA,98117,47.69462,-122.37801,Park
+Walt Hundley Playfield Pickleball Courts,6920 34th Ave SW,Seattle,WA,98126,47.54072,-122.37551,Park
+Rainier Beach Playfield Pickleball Courts,8802 Rainier Ave S,Seattle,WA,98118,47.52431,-122.26872,Park
+West Magnolia Playfield Pickleball Courts,2518 34th Ave W,Seattle,WA,98199,47.64172,-122.40051,Park
+Brighton Playfield Pickleball Courts,6000 39th Ave S,Seattle,WA,98118,47.54821,-122.28421,Park
+Gilman Playground Pickleball Courts,923 NW 54th St,Seattle,WA,98107,47.66832,-122.36881,Park
+Alki Playground Pickleball Courts,5817 SW Stevens St,Seattle,WA,98116,47.57862,-122.40691,Park
+Solstice Park Pickleball Courts,7400 Fauntleroy Way SW,Seattle,WA,98136,47.53592,-122.39261,Park
+Lincoln Park Pickleball Courts,8011 Fauntleroy Way SW,Seattle,WA,98136,47.53092,-122.39341,Park
+Wallingford Playfield Pickleball Courts,4219 Wallingford Ave N,Seattle,WA,98103,47.65812,-122.33281,Park
+Garfield Playfield Pickleball Courts,2323 E Cherry St,Seattle,WA,98122,47.60802,-122.30151,Park
+Fred Hutchinson Playground Pickleball Courts,8541 17th Ave S,Seattle,WA,98108,47.52622,-122.31061,Park
+Lakeridge Playground Pickleball Courts,10145 Rainier Ave S,Seattle,WA,98178,47.51182,-122.25751,Park
+Meadowbrook Playfield Pickleball Courts,10533 35th Ave NE,Seattle,WA,98125,47.70582,-122.28971,Park
+Amy Yee Tennis & Pickleball Center,2000 Martin Luther King Jr Way S,Seattle,WA,98144,47.58572,-122.29871,Park
+Ballard Community Center,6020 28th Ave NW,Seattle,WA,98107,47.67282,-122.39341,Park
+Queen Anne Community Center,1901 1st Ave W,Seattle,WA,98119,47.63612,-122.35821,Park
+Loyal Heights Community Center,2101 NW 77th St,Seattle,WA,98117,47.68492,-122.38461,Park
+Bitter Lake Community Center,13035 Linden Ave N,Seattle,WA,98133,47.72462,-122.34841,Park
+Green Lake Community Center,7201 E Green Lake Dr N,Seattle,WA,98115,47.680612,-122.327845,Park
+Miller Community Center,330 19th Ave E,Seattle,WA,98112,47.621915,-122.30752,Park
+Garfield Community Center,2323 E Cherry St,Seattle,WA,98122,47.60802,-122.30151,Park
+Yesler Community Center,917 E Yesler Way,Seattle,WA,98122,47.60152,-122.31951,Park
+Jefferson Community Center,3801 Beacon Ave S,Seattle,WA,98144,47.56942,-122.31261,Park
+Rainier Beach Community Center,8825 Rainier Ave S,Seattle,WA,98118,47.52402,-122.26851,Park
+South Park Community Center,8319 8th Ave S,Seattle,WA,98108,47.52843,-122.32281,Park
+Delridge Community Center,4501 Delridge Way SW,Seattle,WA,98106,47.56262,-122.36351,Park
+High Point Community Center,6920 34th Ave SW,Seattle,WA,98126,47.54072,-122.37551,Park
+Northgate Community Center,10510 5th Ave NE,Seattle,WA,98125,47.70542,-122.32281,Park
+Ravenna-Eckstein Community Center,6535 Ravenna Ave NE,Seattle,WA,98115,47.67662,-122.30231,Park
+Magnolia Community Center,2550 34th Ave W,Seattle,WA,98199,47.64212,-122.40071,Park
+Van Asselt Community Center,2820 S Myrtle St,Seattle,WA,98108,47.53982,-122.29651,Park
+Rainier Community Center,4600 38th Ave S,Seattle,WA,98118,47.56152,-122.28521,Park
+Meadowbrook Community Center,10517 35th Ave NE,Seattle,WA,98125,47.70582,-122.28971,Park
+International District Community Center,719 8th Ave S,Seattle,WA,98104,47.59662,-122.32281,Park
