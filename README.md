@@ -82,6 +82,17 @@ Pickleball Finder connects pickleball players of all skill levels with courts, r
   <img src="images/clubhouse_tv_cast_modal.png" width="340" alt="Clubhouse TV Cast & Display Hub on Android" />
 </p>
 
+### 💳 Business & Member Digital ID Passes
+- **Physical Card & Key Tag Photo Upload**: Snap a camera photo or upload an image of physical membership cards or gym key tags for instant visual inspection and badge verification by front-desk staff.
+- **Dual Scannable Display (1D Barcode & 2D QR Code)**: High-contrast bar rendering (Code 128) engineered specifically for front-desk optical laser/CCD scanners (Zebra, Honeywell, POS terminals) and QR codes for camera/iPad readers.
+- **Card Barcode Auto-Scanner**: Point your phone camera at a physical card or key tag to automatically scan and import your member number into the app.
+- **Offline-First Digital Wallet**: Stored locally for instant 0.1-second access at the check-in desk, even inside indoor metal-roof facilities with poor cell service.
+- **1-Tap Venue Check-In**: Quick-access digital pass directly from the Player Profile and Court Details screen.
+
+<p align="center">
+  <img src="images/digital_membership_pass.png" width="340" alt="Digital Membership Pass with Barcode & QR Code" />
+</p>
+
 ---
 
 ## 📱 Supported Platforms
