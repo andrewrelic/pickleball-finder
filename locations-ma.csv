@@ -1,295 +1,295 @@
-image,name,address,city,state,zip,lat,lng, type
-PKL Boston,64 C St,Boston,MA,02127,42.33851,-71.05451,Business
-Carter Playground Pickleball Courts,709 Columbus Ave,Boston,MA,02118,42.33812,-71.08451,Park
-Moakley Park Pickleball Courts,1005 Columbia Rd,Boston,MA,02127,42.32851,-71.05121,Park
-Ronan Park,135 Adams St,Dorchester,MA,02122,42.30451,-71.06121,Park
-Hoyt Field,13 Gilmore St,Cambridge,MA,02139,42.36121,-71.11451,Park
-Foss Park,Fellsway W and Broadway,Somerville,MA,02145,42.38851,-71.08851,Park
-Amory Park,45 Amory St,Brookline,MA,02446,42.34851,-71.11851,Park
-Newton Centre Playground,81 Tyler Terr,Newton Centre,MA,02459,42.33121,-71.19451,Park
-Cabot Park,109 Cabot St,Newton,MA,02458,42.35451,-71.20121,Park
-Kincaide Park,Water St and Crescent St,Quincy,MA,02169,42.24121,-70.99451,Park
-Merrymount Park,1 Merrymount Pkwy,Quincy,MA,02169,42.24851,-71.00451,Park
-Dedham Health and Athletic Complex,400 Washington St,Dedham,MA,02026,42.24451,-71.17121,Business
-Mills Field,80 Gould St,Needham,MA,02494,42.28451,-71.22851,Park
-Cornelia Warren Park,210 Waverley Oaks Rd,Waltham,MA,02452,42.38451,-71.21851,Park
-Tufts Park,431 Main St,Medford,MA,02155,42.40451,-71.11121,Park
-Amerige Park,200 Fellsway E,Malden,MA,02148,42.42851,-71.06121,Park
-Bosse Pickleball,141 Boston Post Rd,Sudbury,MA,01776,42.36121,-71.41121,Business
-picklr.png,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42.68451,-71.13451,Business
-Westborough Tennis and Pickleball Club,35 Chauncy St,Westborough,MA,01581,42.27451,-71.61451,Business
-Wayside Athletic Club,80 Broadmeadow St,Marlborough,MA,01752,42.33851,-71.53451,Business
-Ghiloni Park,239 Concord Rd,Marlborough,MA,01752,42.35851,-71.51451,Park
-Butterworth Park,40 Grant St,Framingham,MA,01702,42.28451,-71.42451,Park
-Cushing Memorial Park,Keefe Way,Framingham,MA,01702,42.26851,-71.41451,Park
-Natick Memorial Beach Courts,117 E Central St,Natick,MA,01760,42.28851,-71.33451,Park
-Life Time Athletic Framingham,490 Old Connecticut Path,Framingham,MA,01701,42.31121,-71.39851,Business
-Life Time Athletic Westwood,44 Harvard St,Westwood,MA,02090,42.20451,-71.17851,Business
-Life Time Athletic Burlington,186 Middlesex Turnpike,Burlington,MA,01803,42.49851,-71.19851,Business
-Simonds Park,10 Bedford St,Burlington,MA,01803,42.50851,-71.20451,Park
-Walsh Field,178 Washington St,Winchester,MA,01890,42.45451,-71.13851,Park
-Beverly Golf and Tennis Club,134 McKay St,Beverly,MA,01915,42.56451,-70.88451,Business
-Patton Park,644 Bay Rd,South Hamilton,MA,01982,42.62451,-70.85451,Park
-Forest River Park,32 Clifton Ave,Salem,MA,01970,42.50851,-70.89121,Park
-Danvers Indoor Sports,150 Andover St,Danvers,MA,01923,42.55121,-70.95451,Business
-Manning Park,39 Manning St,Ipswich,MA,01938,42.67851,-70.84121,Park
-Shedd Park,433 Boylston St,Lowell,MA,01852,42.63121,-71.28851,Park
-Mulligan Park,215 Salem St,Lawrence,MA,01843,42.69451,-71.15451,Park
-Pomeroy Park,150 West St,Haverhill,MA,01832,42.77851,-71.10851,Park
-Starland Sportsplex,637 Washington St,Hanover,MA,02339,42.12451,-70.84451,Business
-South Shore YMCA Emilson Branch,75 Mill St,Hanover,MA,02339,42.13851,-70.85451,Business
-Braintree High School Courts,128 Town St,Braintree,MA,02184,42.20851,-71.01121,Park
-Whitman Town Park,1 Whitman Ave,Whitman,MA,02382,42.08121,-70.93451,Park
-Marshfield Community Park,96 Library St,Marshfield,MA,02050,42.09121,-70.71451,Park
-Plymouth Tennis and Pickleball Club,165 S Meadow Rd,Plymouth,MA,02360,41.91121,-70.73851,Business
-Forges Field Sports Complex,83 Jordan Rd,Plymouth,MA,02360,41.91851,-70.66851,Park
-Falmouth Sports Center,33 Highfield Dr,Falmouth,MA,02540,41.55451,-70.61451,Business
-Gifford Street Courts,141 Gifford St,Falmouth,MA,02540,41.55851,-70.60851,Park
-Johnny Kelley Recreation Area,180 Old Bass River Rd,South Dennis,MA,02660,41.70851,-70.16121,Park
-Oak Ridge School Courts,260 Quaker Meetinghouse Rd,East Sandwich,MA,02537,41.72451,-70.47121,Park
-Brooks Park,1 Oak St,Harwich,MA,02645,41.68851,-70.07121,Park
-Lake Park Pickleball Courts,283 Lake Ave,Worcester,MA,01604,42.26121,-71.76451,Park
-Green Hill Park,50 Skyline Dr,Worcester,MA,01605,42.27851,-71.77851,Park
-Worcester Fitness,440 Grove St,Worcester,MA,01605,42.29451,-71.80851,Business
-Fore Kicks Sports Complex,219 Forest St,Marlborough,MA,01752,42.32851,-71.56451,Business
-Forest Park Pickleball Courts,200 Sumner Ave,Springfield,MA,01108,42.08121,-72.56851,Park
-Blunt Park,1780 Roosevelt Ave,Springfield,MA,01109,42.12451,-72.54451,Park
-Look Memorial Park,300 N Main St,Florence,MA,01062,42.33851,-72.67851,Park
-Amherst Regional High Courts,21 Mattoon St,Amherst,MA,01002,42.37851,-72.51851,Park
-Berkshire West Athletic Club,100 Dan Fox Dr,Pittsfield,MA,01201,42.41121,-73.26451,Business
-Springside Park,874 N St,Pittsfield,MA,01201,42.46851,-73.24451,Park
-Boston Common Courts,Charles St & Boylston St,Boston,MA,02116,42.35241,-71.06912,Park
-East Boston Memorial Park,143 Porter St,East Boston,MA,02128,42.37121,-71.03121,Park
-Ryan Playground,53 River St,Mattapan,MA,02126,42.27121,-71.07451,Park
-Billings Field,369 LaGrange St,West Roxbury,MA,02132,42.28851,-71.16121,Park
-Kelly Field,Turtle Pond Pkwy,Hyde Park,MA,02136,42.25851,-71.13451,Park
-McKinney Playground,64 Faneuil St,Brighton,MA,02135,42.35451,-71.15851,Park
-Doherty Playground,St Martin St,Charlestown,MA,02129,42.37851,-71.06451,Park
-Titus Sparrow Park,200 W Newton St,Boston,MA,02118,42.34451,-71.08121,Park
-Cassidy Playground,Beacon St & Chestnut Hill Ave,Brighton,MA,02135,42.33581,-71.15121,Park
-Aspinwall Recreation Area,Aspinwall Ave,Brookline,MA,02446,42.33851,-71.12121,Park
-Waldstein Playground Dean Park,Dean Rd,Brookline,MA,02445,42.33812,-71.14121,Park
-Danehy Park,99 Sherman St,Cambridge,MA,02140,42.38851,-71.13121,Park
-Sennott Park,Norfolk St & Broadway,Cambridge,MA,02139,42.36851,-71.09851,Park
-Dilboy Stadium Courts,110 Alewife Brook Pkwy,Somerville,MA,02144,42.40851,-71.12851,Park
-Lincoln Park,Lincoln Pkwy & Perry St,Somerville,MA,02143,42.37851,-71.09851,Park
-Glendale Park,Elm St & Ferry St,Everett,MA,02149,42.41121,-71.05451,Park
-Highland Park,Highland Ave,Chelsea,MA,02150,42.39851,-71.03451,Park
-Revere Beach Recreation Courts,Revere Beach Blvd,Revere,MA,02151,42.41851,-70.98851,Park
-Ingleside Park,Ingleside Ave,Winthrop,MA,02152,42.37451,-70.98451,Park
-Manning Field Courts,76 Locust St,Lynn,MA,01904,42.47851,-70.95451,Park
-Keaney Park,Broadway,Lynn,MA,01904,42.48451,-70.97121,Park
-Higgins Middle School Courts,85 Perkins St,Peabody,MA,01960,42.52851,-70.94121,Park
-Emerson Park,Perkins St,Peabody,MA,01960,42.52451,-70.93121,Park
-Seaside Park,Atlantic Ave,Marblehead,MA,01945,42.49851,-70.85121,Park
-Phillips Park,Humphrey St,Swampscott,MA,01907,42.47451,-70.90851,Park
-Stage Fort Park,Hough Ave,Gloucester,MA,01930,42.60851,-70.67851,Park
-Evans Field,Centennial Ave,Rockport,MA,01966,42.65851,-70.62121,Park
-Sweeney Park,Summer St,Manchester-by-the-Sea,MA,01944,42.57851,-70.77121,Park
-Woodsom Farm Courts,Lions Mouth Rd,Amesbury,MA,01913,42.85851,-70.95121,Park
-Cashman Park,Sally Snyder Way,Newburyport,MA,01950,42.81851,-70.87851,Park
-Atkinson Common,High St,Newburyport,MA,01950,42.82121,-70.89121,Park
-Salisbury Lions Park,Lafayette Rd,Salisbury,MA,01952,42.83851,-70.85851,Park
-Georgetown Middle High Courts,Winter St,Georgetown,MA,01833,42.72851,-70.98851,Park
-Eiras Park,Tenney St,Rowley,MA,01969,42.71851,-70.88451,Park
-Andover High School Courts,Shawsheen Rd,Andover,MA,01810,42.65121,-71.14851,Park
-Andover Recreation Park,Abbot St,Andover,MA,01810,42.64851,-71.13851,Park
-Gill Ave Courts,Gill Ave,Methuen,MA,01844,42.72451,-71.18451,Park
-Tenney Street Park,Tenney St,Methuen,MA,01844,42.73121,-71.17121,Park
-McCarthy Middle School Courts,250 North Rd,Chelmsford,MA,01824,42.60851,-71.36851,Park
-Billerica Memorial High Courts,35 River St,Billerica,MA,01821,42.55851,-71.27121,Park
-Livingston Street Recreation Complex,Livingston St,Tewksbury,MA,01876,42.61121,-71.22851,Park
-Monahan Park,Brookline Rd,Dracut,MA,01826,42.66851,-71.31121,Park
-Lake Quannapowitt Courts,Church St,Wakefield,MA,01880,42.50851,-71.07451,Park
-Stoneham Common Courts,Central St,Stoneham,MA,02180,42.47851,-71.10121,Park
-Pine Banks Park,Main St,Malden,MA,02148,42.44451,-71.06851,Park
-Melrose High School Courts,Lynn Fells Pkwy,Melrose,MA,02176,42.46121,-71.06121,Park
-Woburn High School Courts,Montvale Ave,Woburn,MA,01801,42.47851,-71.14451,Park
-Horn Pond Recreation Area,Sturgis St,Woburn,MA,01801,42.46851,-71.15851,Park
-North Reading Town Common Courts,Park St,North Reading,MA,01864,42.57851,-71.08121,Park
-Wilmington Town Park,Main St,Wilmington,MA,01887,42.55121,-71.17121,Park
-NARA Park,25 Ledge Rock Way,Acton,MA,01720,42.51121,-71.43851,Park
-Emerson Playground,Stow St,Concord,MA,01742,42.45851,-71.35121,Park
-Center Recreation Complex,Worthen Rd,Lexington,MA,02421,42.44851,-71.23121,Park
-Muzzey Courts,Mass Ave,Lexington,MA,02420,42.44121,-71.21851,Park
-Springs Brook Park,Springs Rd,Bedford,MA,01730,42.50121,-71.27121,Park
-Winn Brook Courts,Cross St,Belmont,MA,02478,42.40451,-71.17121,Park
-Grove Street Courts,Grove St,Belmont,MA,02478,42.38851,-71.16121,Park
-Victory Field,Orchard St,Watertown,MA,02472,42.37121,-71.18451,Park
-Casey Park,Watertown St,Watertown,MA,02472,42.36451,-71.17121,Park
-Peirce Field Arlington,Park Ave,Arlington,MA,02476,42.42121,-71.17851,Park
-Spy Pond Park,Pond Ln,Arlington,MA,02474,42.41121,-71.14851,Park
-Nipper Maher Park,South St,Waltham,MA,02453,42.36121,-71.24851,Park
-Prospect Hill Park,Totten Pond Rd,Waltham,MA,02451,42.39121,-71.25851,Park
-Weston Middle School Courts,Alphabet Ln,Weston,MA,02493,42.36851,-71.30851,Park
-Wayland High School Courts,Old Connecticut Path,Wayland,MA,01778,42.35121,-71.36121,Park
-Codman Park,Lincoln Rd,Lincoln,MA,01773,42.42121,-71.30451,Park
-Wellesley High School Courts,Rice St,Wellesley,MA,02482,42.29851,-71.29121,Park
-Sprague Fields,School Way,Wellesley,MA,02481,42.30451,-71.27851,Park
-DeFazio Park,Dedham Ave,Needham,MA,02492,42.27121,-71.23121,Park
-Caryl Community Center Courts,Springdale Ave,Dover,MA,02030,42.24121,-71.28451,Community
-Laurel Field,Western Ave,Sherborn,MA,01770,42.23451,-71.37121,Park
-Goodwill Park,Green St,Holliston,MA,01746,42.20121,-71.42451,Park
-Fruit Street Athletic Complex,Fruit St,Hopkinton,MA,01748,42.25121,-71.51851,Park
-Stone Park,Park Rd,Ashland,MA,01721,42.26121,-71.46451,Park
-Crowe Park,Seymour St,Maynard,MA,01754,42.43451,-71.45851,Park
-Stow Town Park,Great Rd,Stow,MA,01775,42.43851,-71.50451,Park
-Flerra Meadows,Boxmill Rd,Boxborough,MA,01719,42.48451,-71.51121,Park
-Shattuck Street Courts,Shattuck St,Littleton,MA,01460,42.53851,-71.49851,Park
-Robinson School Courts,Concord Rd,Westford,MA,01886,42.57121,-71.41121,Park
-Groton Town Field,Hollis St,Groton,MA,01450,42.61121,-71.57121,Park
-Pirone Park,Bligh St,Ayer,MA,01432,42.56121,-71.58851,Park
-Pepperell Town Field,Main St,Pepperell,MA,01463,42.66851,-71.59451,Park
-Faxon Field,Hollis Ave,Quincy,MA,02169,42.25121,-71.01121,Park
-Pond Meadow Park,Liberty St,Braintree,MA,02184,42.19851,-71.00451,Park
-Legion Memorial Field,Commercial St,Weymouth,MA,02188,42.22121,-70.94121,Park
-Great Pond Park,Columbian St,Weymouth,MA,02190,42.18851,-70.96121,Park
-Carlson Field,Bare Cove Park Dr,Hingham,MA,02043,42.23451,-70.90851,Park
-Cronin Field,Main St,Hingham,MA,02043,42.23851,-70.88451,Park
-Kenberma Playground,Kenberma St,Hull,MA,02045,42.29121,-70.86121,Park
-Milliken Field,Summer St,Cohasset,MA,02025,42.24121,-70.80451,Park
-Scituate High School Courts,First Parish Rd,Scituate,MA,02066,42.19851,-70.74121,Park
-Woodworth Park,Main St,Norwell,MA,02061,42.16121,-70.79121,Park
-Rockland Memorial Park,Forest St,Rockland,MA,02370,42.13121,-70.91451,Park
-Island Grove Park,Park Ave,Abington,MA,02351,42.11851,-70.94851,Park
-East Bridgewater High Courts,Plymouth St,East Bridgewater,MA,02333,42.03121,-70.95851,Park
-West Bridgewater Friendship Park,Howard St,West Bridgewater,MA,02379,42.01851,-71.01121,Park
-Bridgewater Legion Field,Bedford St,Bridgewater,MA,02324,41.98851,-70.97121,Park
-Bridgewater-Raynham High Courts,Mt Prospect St,Bridgewater,MA,02324,41.99121,-70.98451,Park
-DW Field Park,Oak St,Brockton,MA,02301,42.10851,-71.04121,Park
-Salisbury Park,Montello St,Brockton,MA,02301,42.07851,-71.01451,Park
-Peirce Playground,Jackson St,Middleborough,MA,02346,41.89121,-70.91121,Park
-Ted Williams Camp Courts,Bedford St,Lakeville,MA,02347,41.84851,-70.94121,Park
-Carver Middle High School Courts,S Meadow Rd,Carver,MA,02330,41.88121,-70.77121,Park
-Reed Community Building Courts,Main St,Kingston,MA,02364,41.99851,-70.72851,Community
-Duxbury High School Courts,St George St,Duxbury,MA,02332,42.04851,-70.68851,Park
-Mattakeesett Field,Mattakeesett St,Pembroke,MA,02359,42.06451,-70.80121,Park
-Halifax Town Hall Courts,Plymouth St,Halifax,MA,02338,41.99121,-70.86121,Park
-Hanson Town Hall Field,High St,Hanson,MA,02341,42.07121,-70.88121,Park
-Brooklawn Park,1997 Acushnet Ave,New Bedford,MA,02745,41.67851,-70.93121,Park
-Buttonwood Park,Rockdale Ave,New Bedford,MA,02740,41.63451,-70.95121,Park
-Kennedy Park,S Main St,Fall River,MA,02721,41.69121,-71.16121,Park
-Bicentennial Park,Davol St,Fall River,MA,02720,41.71451,-71.15851,Park
-Crapo Field,Russells Mills Rd,Dartmouth,MA,02748,41.59121,-70.99851,Park
-Westport Town Hall Annex Courts,Main Rd,Westport,MA,02790,41.57121,-71.10851,Park
-Livesey Park,Parker St,Fairhaven,MA,02719,41.64451,-70.89851,Park
-Pope Beach Courts,Manhattan Ave,Fairhaven,MA,02719,41.62851,-70.88451,Park
-Acushnet Elementary Courts,Middle Rd,Acushnet,MA,02743,41.68121,-70.90851,Park
-Old Hammondtown School Courts,Shaw St,Mattapoisett,MA,02739,41.66121,-70.81451,Park
-Old Rochester Regional High Courts,Marion Rd,Mattapoisett,MA,02739,41.66851,-70.79851,Park
-Washburn Park,Washburn Rd,Marion,MA,02738,41.71121,-70.76851,Park
-Hopewell Park,Hopewell St,Taunton,MA,02780,41.91451,-71.09121,Park
-Taunton Memorial Park,Court St,Taunton,MA,02780,41.90451,-71.09851,Park
-Nickerson Field,South St,Attleboro,MA,02703,41.93851,-71.28851,Park
-Capron Park,County St,Attleboro,MA,02703,41.93451,-71.29451,Park
-Beaupre Field,Landry Ave,North Attleborough,MA,02760,41.97121,-71.32121,Park
-World War I Memorial Park,Elmwood St,North Attleborough,MA,02760,41.98451,-71.33451,Park
-Mansfield Memorial Park,East St,Mansfield,MA,02048,42.03121,-71.21851,Park
-Oliver Ames High Courts,Lothrop St,Easton,MA,02356,42.06451,-71.10121,Park
-Yelle Elementary Courts,West Main St,Norton,MA,02766,41.97121,-71.18851,Park
-Borden Colony Complex,King Philip St,Raynham,MA,02767,41.94121,-71.05451,Park
-Southfield Park,Sharps Lot Rd,Swansea,MA,02777,41.74851,-71.20121,Park
-Ashton Field,County St,Somerset,MA,02726,41.74121,-71.14451,Park
-Dighton Middle School Courts,Somerset Ave,Dighton,MA,02715,41.81121,-71.12121,Park
-Redway Plain Park,Bay State Rd,Rehoboth,MA,02769,41.84121,-71.25851,Park
-Seekonk High School Courts,Arcade Ave,Seekonk,MA,02771,41.82121,-71.32851,Park
-Keith Carandang Memorial Courts,Canal St,Bourne,MA,02532,41.74851,-70.60121,Park
-Sandwich High School Courts,Quaker Meetinghouse Rd,Sandwich,MA,02563,41.73851,-70.48451,Park
-Mashpee High School Courts,Old Barnstable Rd,Mashpee,MA,02649,41.64451,-70.47851,Park
-Heritage Park,Main St,Mashpee,MA,02649,41.65121,-70.48121,Park
-Barnstable High School Courts,W Main St,Hyannis,MA,02601,41.66121,-70.30121,Park
-Marstons Mills Community Courts,Tewksbury Rd,Marstons Mills,MA,02648,41.67851,-70.41121,Park
-Osterville Bay Courts,Wianno Ave,Osterville,MA,02655,41.62851,-70.38851,Park
-Flax Pond Recreation Area,Dupont Ave,South Yarmouth,MA,02664,41.68851,-70.20121,Park
-Baker School Courts,Baker Ave,Dennis Port,MA,02639,41.66851,-70.13121,Park
-Wixon School Courts,Route 134,South Dennis,MA,02660,41.71851,-70.14451,Park
-Stony Brook Field,Underpass Rd,Brewster,MA,02631,41.75851,-70.07851,Park
-Chatham High School Courts,Crowell Rd,Chatham,MA,02633,41.68851,-69.97121,Park
-Eldredge Park,Eldredge Park Way,Orleans,MA,02653,41.78451,-69.98851,Park
-Nauset Regional High Courts,Cable Rd,North Eastham,MA,02651,41.85451,-69.97851,Park
-Baker Field,Kendrick Ave,Wellfleet,MA,02667,41.93121,-70.03451,Park
-Truro Central School Courts,Route 6,Truro,MA,02666,41.99851,-70.06121,Park
-Motta Field,Winslow St,Provincetown,MA,02657,42.05451,-70.18851,Park
-Martha's Vineyard Regional High Courts,Edgartown-Vineyard Haven Rd,Oak Bluffs,MA,02557,41.42851,-70.58451,Park
-Niantic Park,Niantic Ave,Oak Bluffs,MA,02557,41.45121,-70.55851,Park
-Church Street Courts,Church St,Edgartown,MA,02539,41.38851,-70.51451,Park
-West Tisbury School Courts,Old County Rd,West Tisbury,MA,02575,41.38121,-70.66121,Park
-Nantucket High School Courts,Surfside Rd,Nantucket,MA,02554,41.26451,-70.09851,Park
-Jetties Beach Courts,Bathhouse Way,Nantucket,MA,02554,41.29851,-70.09121,Park
-Dean Park,Main St,Shrewsbury,MA,01545,42.29851,-71.71121,Park
-Auburn High School Courts,Auburn St,Auburn,MA,01501,42.20451,-71.83851,Park
-Lemansky Park,Oxford St,Auburn,MA,01501,42.19121,-71.84851,Park
-Millbury High School Courts,Martin St,Millbury,MA,01527,42.19851,-71.76121,Park
-Ferry Street Park,Ferry St,Grafton,MA,01519,42.21851,-71.69851,Park
-Ellsworth-McAfee Park,South St,Northborough,MA,01532,42.30851,-71.64451,Park
-Fayville Park,Central St,Southborough,MA,01772,42.28851,-71.51121,Park
-Hopedale Town Park,Dutcher St,Hopedale,MA,01747,42.12851,-71.53851,Park
-Fino Field,Clark St,Milford,MA,01757,42.14451,-71.51851,Park
-Kiwanis Beach Courts,Westboro Rd,Upton,MA,01568,42.18451,-71.60451,Park
-Clough Elementary Courts,North Ave,Mendon,MA,01756,42.10851,-71.55851,Park
-Whitin Park,Main St,Whitinsville,MA,01588,42.11851,-71.65851,Park
-Uxbridge High School Courts,Quaker Hwy,Uxbridge,MA,01569,42.06851,-71.62121,Park
-Douglas High School Courts,Davis St,Douglas,MA,01516,42.05451,-71.72851,Park
-Manchaug Park,Main St,Sutton,MA,01590,42.11121,-71.75851,Park
-Memorial Beach Park,Thompson Rd,Webster,MA,01570,42.04851,-71.86121,Park
-Greenbriar Park,Greenbriar Dr,Oxford,MA,01540,42.12121,-71.87121,Park
-Crawford Field,Schofield Ave,Dudley,MA,01571,42.04451,-71.93121,Park
-Charlton Middle School Courts,Oxford Rd,Charlton,MA,01507,42.13851,-71.95451,Park
-West Street Field,West St,Southbridge,MA,01550,42.07851,-72.03851,Park
-Burgess School Courts,Cedar St,Sturbridge,MA,01566,42.10851,-72.08121,Park
-Mountview Middle School Courts,Shrewsbury St,Holden,MA,01520,42.34851,-71.85451,Park
-Dawson Recreation Area,Salisbury St,Holden,MA,01520,42.35851,-71.87851,Park
-O'Gara Park,Prospect St,Spencer,MA,01562,42.24851,-71.99121,Park
-Rochdale Park,Stafford St,Leicester,MA,01524,42.18851,-71.91851,Park
-Coolidge Park,John Fitch Hwy,Fitchburg,MA,01420,42.59121,-71.78851,Park
-Coggshall Park,Electric Ave,Fitchburg,MA,01420,42.56851,-71.80851,Park
-Barrett Park,Chestnut St,Leominster,MA,01453,42.53121,-71.77121,Park
-Doyle Field,Priest St,Leominster,MA,01453,42.52851,-71.75851,Park
-Ovila Case Playground,Park St,Gardner,MA,01440,42.57121,-71.98451,Park
-Lunenburg High School Courts,Mass Ave,Lunenburg,MA,01462,42.58451,-71.72121,Park
-Hacker Field,Academy St,Westminster,MA,01473,42.54851,-71.89851,Park
-Winchendon Community Park,Ingleside Dr,Winchendon,MA,01475,42.67851,-72.04121,Park
-Silver Lake Beach Courts,Silver Lake Beach Rd,Athol,MA,01331,42.59851,-72.23121,Park
-Savage Field,Vale St,Clinton,MA,01510,42.41851,-71.68851,Park
-Clinton Middle School Courts,Church St,Clinton,MA,01510,42.41451,-71.67851,Park
-Thayer Field,Green St,Lancaster,MA,01523,42.45121,-71.67121,Park
-Houghton Park,Park St,Sterling,MA,01564,42.43851,-71.75851,Park
-Bromfield School Courts,Mass Ave,Harvard,MA,01451,42.50121,-71.58451,Park
-Bolton Memorial Field,Wattaquadock Hill Rd,Bolton,MA,01740,42.43451,-71.61121,Park
-Manor Park,Manor Rd,Boylston,MA,01505,42.34851,-71.72851,Park
-Goodale Park,Crescent St,West Boylston,MA,01583,42.36851,-71.78451,Park
-Szot Park,Front St,Chicopee,MA,01013,42.14851,-72.58451,Park
-Ray Ash Park,Montgomery St,Chicopee,MA,01020,42.17121,-72.56851,Park
-Mackenzie Stadium Courts,Beech St,Holyoke,MA,01040,42.20851,-72.62851,Park
-Westfield Middle School Courts,W Silver St,Westfield,MA,01085,42.11851,-72.75851,Park
-Municipal Playground,Greylock St,Westfield,MA,01085,42.12451,-72.74851,Park
-Mittineague Park,Unquomonk Rd,West Springfield,MA,01089,42.10851,-72.65121,Park
-School Street Park,Corey St,Agawam,MA,01001,42.07851,-72.61851,Park
-Borgatti Field,South Westfield St,Feeding Hills,MA,01030,42.06451,-72.67121,Park
-Greenwood Park,Maple Rd,Longmeadow,MA,01106,42.04851,-72.57121,Park
-Whitney Park,Sewall St,Ludlow,MA,01056,42.16121,-72.48451,Park
-Spec Pond Recreation Area,Boston Rd,Wilbraham,MA,01095,42.14451,-72.43851,Park
-Palmer High School Courts,Main St,Palmer,MA,01069,42.18851,-72.33851,Park
-Whiston Park,Flynt St,Monson,MA,01057,42.10121,-72.32121,Park
-Whalley Park,Powdermill Rd,Southwick,MA,01077,42.05121,-72.76851,Park
-Nonotuck Park,Lowry Dr,Easthampton,MA,01027,42.26121,-72.66851,Park
-Mill River Recreation Area,S Main St,Amherst,MA,01002,42.41121,-72.53851,Park
-Groff Park,Mill Ln,Amherst,MA,01002,42.35851,-72.52851,Park
-Hadley Elementary Courts,River Dr,Hadley,MA,01035,42.34851,-72.58851,Park
-Buttery Brook Park,Willimansett St,South Hadley,MA,01075,42.24121,-72.58451,Park
-Foley Field,State St,Belchertown,MA,01007,42.28121,-72.41121,Park
-Dufresne Park,Kendall St,Granby,MA,01033,42.25451,-72.51451,Park
-Ware Memorial Field,Church St,Ware,MA,01082,42.26121,-72.24451,Park
-Beacon Field,Beacon St,Greenfield,MA,01301,42.59851,-72.59851,Park
-Unity Park,1st St,Turners Falls,MA,01376,42.60851,-72.55851,Park
-Sunderland Town Park,School St,Sunderland,MA,01375,42.46851,-72.57851,Park
-Butterfield Park,E Main St,Orange,MA,01364,42.59121,-72.30451,Park
-Noel Field Athletic Complex,State St,North Adams,MA,01247,42.69851,-73.11121,Park
-Renfrew Park,Friend St,Adams,MA,01220,42.62851,-73.12121,Park
-Mount Greylock Regional Courts,Cold Spring Rd,Williamstown,MA,01267,42.70121,-73.21851,Park
-Lenox Memorial High Courts,East St,Lenox,MA,01240,42.36121,-73.28451,Park
-Lee Athletic Field,Center St,Lee,MA,01238,42.30451,-73.25121,Park
-Stockbridge Town Park,Main St,Stockbridge,MA,01262,42.28451,-73.31121,Park
-Dewey Memorial Hall Courts,Main St,Sheffield,MA,01257,42.11121,-73.35451,Park
-Monument Mountain Regional Courts,Stockbridge Rd,Great Barrington,MA,01230,42.22121,-73.35121,Park
-Pine Grove Park,Dalton Ave,Dalton,MA,01226,42.47451,-73.17121,Park
+image,courts,name,address,city,state,zip,lat,lng, type
+,1,PKL Boston,64 C St,Boston,MA,02127,42.33851,-71.05451, Business
+,1,Carter Playground Pickleball Courts,709 Columbus Ave,Boston,MA,02118,42.33812,-71.08451, Park
+,1,Moakley Park Pickleball Courts,1005 Columbia Rd,Boston,MA,02127,42.32851,-71.05121, Park
+,1,Ronan Park,135 Adams St,Dorchester,MA,02122,42.30451,-71.06121, Park
+,1,Hoyt Field,13 Gilmore St,Cambridge,MA,02139,42.36121,-71.11451, Park
+,1,Foss Park,Fellsway W and Broadway,Somerville,MA,02145,42.38851,-71.08851, Park
+,1,Amory Park,45 Amory St,Brookline,MA,02446,42.34851,-71.11851, Park
+,1,Newton Centre Playground,81 Tyler Terr,Newton Centre,MA,02459,42.33121,-71.19451, Park
+,1,Cabot Park,109 Cabot St,Newton,MA,02458,42.35451,-71.20121, Park
+,1,Kincaide Park,Water St and Crescent St,Quincy,MA,02169,42.24121,-70.99451, Park
+,1,Merrymount Park,1 Merrymount Pkwy,Quincy,MA,02169,42.24851,-71.00451, Park
+,1,Dedham Health and Athletic Complex,400 Washington St,Dedham,MA,02026,42.24451,-71.17121, Business
+,1,Mills Field,80 Gould St,Needham,MA,02494,42.28451,-71.22851, Park
+,1,Cornelia Warren Park,210 Waverley Oaks Rd,Waltham,MA,02452,42.38451,-71.21851, Park
+,1,Tufts Park,431 Main St,Medford,MA,02155,42.40451,-71.11121, Park
+,1,Amerige Park,200 Fellsway E,Malden,MA,02148,42.42851,-71.06121, Park
+,1,Bosse Pickleball,141 Boston Post Rd,Sudbury,MA,01776,42.36121,-71.41121, Business
+picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42.68451,-71.13451, Business
+,1,Westborough Tennis and Pickleball Club,35 Chauncy St,Westborough,MA,01581,42.27451,-71.61451, Business
+,1,Wayside Athletic Club,80 Broadmeadow St,Marlborough,MA,01752,42.33851,-71.53451, Business
+,1,Ghiloni Park,239 Concord Rd,Marlborough,MA,01752,42.35851,-71.51451, Park
+,1,Butterworth Park,40 Grant St,Framingham,MA,01702,42.28451,-71.42451, Park
+,1,Cushing Memorial Park,Keefe Way,Framingham,MA,01702,42.26851,-71.41451, Park
+,1,Natick Memorial Beach Courts,117 E Central St,Natick,MA,01760,42.28851,-71.33451, Park
+,1,Life Time Athletic Framingham,490 Old Connecticut Path,Framingham,MA,01701,42.31121,-71.39851, Business
+,1,Life Time Athletic Westwood,44 Harvard St,Westwood,MA,02090,42.20451,-71.17851, Business
+,1,Life Time Athletic Burlington,186 Middlesex Turnpike,Burlington,MA,01803,42.49851,-71.19851, Business
+,1,Simonds Park,10 Bedford St,Burlington,MA,01803,42.50851,-71.20451, Park
+,1,Walsh Field,178 Washington St,Winchester,MA,01890,42.45451,-71.13851, Park
+,1,Beverly Golf and Tennis Club,134 McKay St,Beverly,MA,01915,42.56451,-70.88451, Business
+,1,Patton Park,644 Bay Rd,South Hamilton,MA,01982,42.62451,-70.85451, Park
+,1,Forest River Park,32 Clifton Ave,Salem,MA,01970,42.50851,-70.89121, Park
+,1,Danvers Indoor Sports,150 Andover St,Danvers,MA,01923,42.55121,-70.95451, Business
+,1,Manning Park,39 Manning St,Ipswich,MA,01938,42.67851,-70.84121, Park
+,1,Shedd Park,433 Boylston St,Lowell,MA,01852,42.63121,-71.28851, Park
+,1,Mulligan Park,215 Salem St,Lawrence,MA,01843,42.69451,-71.15451, Park
+,1,Pomeroy Park,150 West St,Haverhill,MA,01832,42.77851,-71.10851, Park
+,1,Starland Sportsplex,637 Washington St,Hanover,MA,02339,42.12451,-70.84451, Business
+,1,South Shore YMCA Emilson Branch,75 Mill St,Hanover,MA,02339,42.13851,-70.85451, Business
+,1,Braintree High School Courts,128 Town St,Braintree,MA,02184,42.20851,-71.01121, Park
+,1,Whitman Town Park,1 Whitman Ave,Whitman,MA,02382,42.08121,-70.93451, Park
+,1,Marshfield Community Park,96 Library St,Marshfield,MA,02050,42.09121,-70.71451, Park
+,1,Plymouth Tennis and Pickleball Club,165 S Meadow Rd,Plymouth,MA,02360,41.91121,-70.73851, Business
+,1,Forges Field Sports Complex,83 Jordan Rd,Plymouth,MA,02360,41.91851,-70.66851, Park
+,1,Falmouth Sports Center,33 Highfield Dr,Falmouth,MA,02540,41.55451,-70.61451, Business
+,1,Gifford Street Courts,141 Gifford St,Falmouth,MA,02540,41.55851,-70.60851, Park
+,1,Johnny Kelley Recreation Area,180 Old Bass River Rd,South Dennis,MA,02660,41.70851,-70.16121, Park
+,1,Oak Ridge School Courts,260 Quaker Meetinghouse Rd,East Sandwich,MA,02537,41.72451,-70.47121, Park
+,1,Brooks Park,1 Oak St,Harwich,MA,02645,41.68851,-70.07121, Park
+,1,Lake Park Pickleball Courts,283 Lake Ave,Worcester,MA,01604,42.26121,-71.76451, Park
+,1,Green Hill Park,50 Skyline Dr,Worcester,MA,01605,42.27851,-71.77851, Park
+,1,Worcester Fitness,440 Grove St,Worcester,MA,01605,42.29451,-71.80851, Business
+,1,Fore Kicks Sports Complex,219 Forest St,Marlborough,MA,01752,42.32851,-71.56451, Business
+,1,Forest Park Pickleball Courts,200 Sumner Ave,Springfield,MA,01108,42.08121,-72.56851, Park
+,1,Blunt Park,1780 Roosevelt Ave,Springfield,MA,01109,42.12451,-72.54451, Park
+,1,Look Memorial Park,300 N Main St,Florence,MA,01062,42.33851,-72.67851, Park
+,1,Amherst Regional High Courts,21 Mattoon St,Amherst,MA,01002,42.37851,-72.51851, Park
+,1,Berkshire West Athletic Club,100 Dan Fox Dr,Pittsfield,MA,01201,42.41121,-73.26451, Business
+,1,Springside Park,874 N St,Pittsfield,MA,01201,42.46851,-73.24451, Park
+,1,Boston Common Courts,Charles St & Boylston St,Boston,MA,02116,42.35241,-71.06912, Park
+,1,East Boston Memorial Park,143 Porter St,East Boston,MA,02128,42.37121,-71.03121, Park
+,1,Ryan Playground,53 River St,Mattapan,MA,02126,42.27121,-71.07451, Park
+,1,Billings Field,369 LaGrange St,West Roxbury,MA,02132,42.28851,-71.16121, Park
+,1,Kelly Field,Turtle Pond Pkwy,Hyde Park,MA,02136,42.25851,-71.13451, Park
+,1,McKinney Playground,64 Faneuil St,Brighton,MA,02135,42.35451,-71.15851, Park
+,1,Doherty Playground,St Martin St,Charlestown,MA,02129,42.37851,-71.06451, Park
+,1,Titus Sparrow Park,200 W Newton St,Boston,MA,02118,42.34451,-71.08121, Park
+,1,Cassidy Playground,Beacon St & Chestnut Hill Ave,Brighton,MA,02135,42.33581,-71.15121, Park
+,1,Aspinwall Recreation Area,Aspinwall Ave,Brookline,MA,02446,42.33851,-71.12121, Park
+,1,Waldstein Playground Dean Park,Dean Rd,Brookline,MA,02445,42.33812,-71.14121, Park
+,1,Danehy Park,99 Sherman St,Cambridge,MA,02140,42.38851,-71.13121, Park
+,1,Sennott Park,Norfolk St & Broadway,Cambridge,MA,02139,42.36851,-71.09851, Park
+,1,Dilboy Stadium Courts,110 Alewife Brook Pkwy,Somerville,MA,02144,42.40851,-71.12851, Park
+,1,Lincoln Park,Lincoln Pkwy & Perry St,Somerville,MA,02143,42.37851,-71.09851, Park
+,1,Glendale Park,Elm St & Ferry St,Everett,MA,02149,42.41121,-71.05451, Park
+,1,Highland Park,Highland Ave,Chelsea,MA,02150,42.39851,-71.03451, Park
+,1,Revere Beach Recreation Courts,Revere Beach Blvd,Revere,MA,02151,42.41851,-70.98851, Park
+,1,Ingleside Park,Ingleside Ave,Winthrop,MA,02152,42.37451,-70.98451, Park
+,1,Manning Field Courts,76 Locust St,Lynn,MA,01904,42.47851,-70.95451, Park
+,1,Keaney Park,Broadway,Lynn,MA,01904,42.48451,-70.97121, Park
+,1,Higgins Middle School Courts,85 Perkins St,Peabody,MA,01960,42.52851,-70.94121, Park
+,1,Emerson Park,Perkins St,Peabody,MA,01960,42.52451,-70.93121, Park
+,1,Seaside Park,Atlantic Ave,Marblehead,MA,01945,42.49851,-70.85121, Park
+,1,Phillips Park,Humphrey St,Swampscott,MA,01907,42.47451,-70.90851, Park
+,1,Stage Fort Park,Hough Ave,Gloucester,MA,01930,42.60851,-70.67851, Park
+,1,Evans Field,Centennial Ave,Rockport,MA,01966,42.65851,-70.62121, Park
+,1,Sweeney Park,Summer St,Manchester-by-the-Sea,MA,01944,42.57851,-70.77121, Park
+,1,Woodsom Farm Courts,Lions Mouth Rd,Amesbury,MA,01913,42.85851,-70.95121, Park
+,1,Cashman Park,Sally Snyder Way,Newburyport,MA,01950,42.81851,-70.87851, Park
+,1,Atkinson Common,High St,Newburyport,MA,01950,42.82121,-70.89121, Park
+,1,Salisbury Lions Park,Lafayette Rd,Salisbury,MA,01952,42.83851,-70.85851, Park
+,1,Georgetown Middle High Courts,Winter St,Georgetown,MA,01833,42.72851,-70.98851, Park
+,1,Eiras Park,Tenney St,Rowley,MA,01969,42.71851,-70.88451, Park
+,1,Andover High School Courts,Shawsheen Rd,Andover,MA,01810,42.65121,-71.14851, Park
+,1,Andover Recreation Park,Abbot St,Andover,MA,01810,42.64851,-71.13851, Park
+,1,Gill Ave Courts,Gill Ave,Methuen,MA,01844,42.72451,-71.18451, Park
+,1,Tenney Street Park,Tenney St,Methuen,MA,01844,42.73121,-71.17121, Park
+,1,McCarthy Middle School Courts,250 North Rd,Chelmsford,MA,01824,42.60851,-71.36851, Park
+,1,Billerica Memorial High Courts,35 River St,Billerica,MA,01821,42.55851,-71.27121, Park
+,1,Livingston Street Recreation Complex,Livingston St,Tewksbury,MA,01876,42.61121,-71.22851, Park
+,1,Monahan Park,Brookline Rd,Dracut,MA,01826,42.66851,-71.31121, Park
+,1,Lake Quannapowitt Courts,Church St,Wakefield,MA,01880,42.50851,-71.07451, Park
+,1,Stoneham Common Courts,Central St,Stoneham,MA,02180,42.47851,-71.10121, Park
+,1,Pine Banks Park,Main St,Malden,MA,02148,42.44451,-71.06851, Park
+,1,Melrose High School Courts,Lynn Fells Pkwy,Melrose,MA,02176,42.46121,-71.06121, Park
+,1,Woburn High School Courts,Montvale Ave,Woburn,MA,01801,42.47851,-71.14451, Park
+,1,Horn Pond Recreation Area,Sturgis St,Woburn,MA,01801,42.46851,-71.15851, Park
+,1,North Reading Town Common Courts,Park St,North Reading,MA,01864,42.57851,-71.08121, Park
+,1,Wilmington Town Park,Main St,Wilmington,MA,01887,42.55121,-71.17121, Park
+,1,NARA Park,25 Ledge Rock Way,Acton,MA,01720,42.51121,-71.43851, Park
+,1,Emerson Playground,Stow St,Concord,MA,01742,42.45851,-71.35121, Park
+,1,Center Recreation Complex,Worthen Rd,Lexington,MA,02421,42.44851,-71.23121, Park
+,1,Muzzey Courts,Mass Ave,Lexington,MA,02420,42.44121,-71.21851, Park
+,1,Springs Brook Park,Springs Rd,Bedford,MA,01730,42.50121,-71.27121, Park
+,1,Winn Brook Courts,Cross St,Belmont,MA,02478,42.40451,-71.17121, Park
+,1,Grove Street Courts,Grove St,Belmont,MA,02478,42.38851,-71.16121, Park
+,1,Victory Field,Orchard St,Watertown,MA,02472,42.37121,-71.18451, Park
+,1,Casey Park,Watertown St,Watertown,MA,02472,42.36451,-71.17121, Park
+,1,Peirce Field Arlington,Park Ave,Arlington,MA,02476,42.42121,-71.17851, Park
+,1,Spy Pond Park,Pond Ln,Arlington,MA,02474,42.41121,-71.14851, Park
+,1,Nipper Maher Park,South St,Waltham,MA,02453,42.36121,-71.24851, Park
+,1,Prospect Hill Park,Totten Pond Rd,Waltham,MA,02451,42.39121,-71.25851, Park
+,1,Weston Middle School Courts,Alphabet Ln,Weston,MA,02493,42.36851,-71.30851, Park
+,1,Wayland High School Courts,Old Connecticut Path,Wayland,MA,01778,42.35121,-71.36121, Park
+,1,Codman Park,Lincoln Rd,Lincoln,MA,01773,42.42121,-71.30451, Park
+,1,Wellesley High School Courts,Rice St,Wellesley,MA,02482,42.29851,-71.29121, Park
+,1,Sprague Fields,School Way,Wellesley,MA,02481,42.30451,-71.27851, Park
+,1,DeFazio Park,Dedham Ave,Needham,MA,02492,42.27121,-71.23121, Park
+,1,Caryl Community Center Courts,Springdale Ave,Dover,MA,02030,42.24121,-71.28451, Community
+,1,Laurel Field,Western Ave,Sherborn,MA,01770,42.23451,-71.37121, Park
+,1,Goodwill Park,Green St,Holliston,MA,01746,42.20121,-71.42451, Park
+,1,Fruit Street Athletic Complex,Fruit St,Hopkinton,MA,01748,42.25121,-71.51851, Park
+,1,Stone Park,Park Rd,Ashland,MA,01721,42.26121,-71.46451, Park
+,1,Crowe Park,Seymour St,Maynard,MA,01754,42.43451,-71.45851, Park
+,1,Stow Town Park,Great Rd,Stow,MA,01775,42.43851,-71.50451, Park
+,1,Flerra Meadows,Boxmill Rd,Boxborough,MA,01719,42.48451,-71.51121, Park
+,1,Shattuck Street Courts,Shattuck St,Littleton,MA,01460,42.53851,-71.49851, Park
+,1,Robinson School Courts,Concord Rd,Westford,MA,01886,42.57121,-71.41121, Park
+,1,Groton Town Field,Hollis St,Groton,MA,01450,42.61121,-71.57121, Park
+,1,Pirone Park,Bligh St,Ayer,MA,01432,42.56121,-71.58851, Park
+,1,Pepperell Town Field,Main St,Pepperell,MA,01463,42.66851,-71.59451, Park
+,1,Faxon Field,Hollis Ave,Quincy,MA,02169,42.25121,-71.01121, Park
+,1,Pond Meadow Park,Liberty St,Braintree,MA,02184,42.19851,-71.00451, Park
+,1,Legion Memorial Field,Commercial St,Weymouth,MA,02188,42.22121,-70.94121, Park
+,1,Great Pond Park,Columbian St,Weymouth,MA,02190,42.18851,-70.96121, Park
+,1,Carlson Field,Bare Cove Park Dr,Hingham,MA,02043,42.23451,-70.90851, Park
+,1,Cronin Field,Main St,Hingham,MA,02043,42.23851,-70.88451, Park
+,1,Kenberma Playground,Kenberma St,Hull,MA,02045,42.29121,-70.86121, Park
+,1,Milliken Field,Summer St,Cohasset,MA,02025,42.24121,-70.80451, Park
+,1,Scituate High School Courts,First Parish Rd,Scituate,MA,02066,42.19851,-70.74121, Park
+,1,Woodworth Park,Main St,Norwell,MA,02061,42.16121,-70.79121, Park
+,1,Rockland Memorial Park,Forest St,Rockland,MA,02370,42.13121,-70.91451, Park
+,1,Island Grove Park,Park Ave,Abington,MA,02351,42.11851,-70.94851, Park
+,1,East Bridgewater High Courts,Plymouth St,East Bridgewater,MA,02333,42.03121,-70.95851, Park
+,1,West Bridgewater Friendship Park,Howard St,West Bridgewater,MA,02379,42.01851,-71.01121, Park
+,1,Bridgewater Legion Field,Bedford St,Bridgewater,MA,02324,41.98851,-70.97121, Park
+,1,Bridgewater-Raynham High Courts,Mt Prospect St,Bridgewater,MA,02324,41.99121,-70.98451, Park
+,1,DW Field Park,Oak St,Brockton,MA,02301,42.10851,-71.04121, Park
+,1,Salisbury Park,Montello St,Brockton,MA,02301,42.07851,-71.01451, Park
+,1,Peirce Playground,Jackson St,Middleborough,MA,02346,41.89121,-70.91121, Park
+,1,Ted Williams Camp Courts,Bedford St,Lakeville,MA,02347,41.84851,-70.94121, Park
+,1,Carver Middle High School Courts,S Meadow Rd,Carver,MA,02330,41.88121,-70.77121, Park
+,1,Reed Community Building Courts,Main St,Kingston,MA,02364,41.99851,-70.72851, Community
+,1,Duxbury High School Courts,St George St,Duxbury,MA,02332,42.04851,-70.68851, Park
+,1,Mattakeesett Field,Mattakeesett St,Pembroke,MA,02359,42.06451,-70.80121, Park
+,1,Halifax Town Hall Courts,Plymouth St,Halifax,MA,02338,41.99121,-70.86121, Park
+,1,Hanson Town Hall Field,High St,Hanson,MA,02341,42.07121,-70.88121, Park
+,1,Brooklawn Park,1997 Acushnet Ave,New Bedford,MA,02745,41.67851,-70.93121, Park
+,1,Buttonwood Park,Rockdale Ave,New Bedford,MA,02740,41.63451,-70.95121, Park
+,1,Kennedy Park,S Main St,Fall River,MA,02721,41.69121,-71.16121, Park
+,1,Bicentennial Park,Davol St,Fall River,MA,02720,41.71451,-71.15851, Park
+,1,Crapo Field,Russells Mills Rd,Dartmouth,MA,02748,41.59121,-70.99851, Park
+,1,Westport Town Hall Annex Courts,Main Rd,Westport,MA,02790,41.57121,-71.10851, Park
+,1,Livesey Park,Parker St,Fairhaven,MA,02719,41.64451,-70.89851, Park
+,1,Pope Beach Courts,Manhattan Ave,Fairhaven,MA,02719,41.62851,-70.88451, Park
+,1,Acushnet Elementary Courts,Middle Rd,Acushnet,MA,02743,41.68121,-70.90851, Park
+,1,Old Hammondtown School Courts,Shaw St,Mattapoisett,MA,02739,41.66121,-70.81451, Park
+,1,Old Rochester Regional High Courts,Marion Rd,Mattapoisett,MA,02739,41.66851,-70.79851, Park
+,1,Washburn Park,Washburn Rd,Marion,MA,02738,41.71121,-70.76851, Park
+,1,Hopewell Park,Hopewell St,Taunton,MA,02780,41.91451,-71.09121, Park
+,1,Taunton Memorial Park,Court St,Taunton,MA,02780,41.90451,-71.09851, Park
+,1,Nickerson Field,South St,Attleboro,MA,02703,41.93851,-71.28851, Park
+,1,Capron Park,County St,Attleboro,MA,02703,41.93451,-71.29451, Park
+,1,Beaupre Field,Landry Ave,North Attleborough,MA,02760,41.97121,-71.32121, Park
+,1,World War I Memorial Park,Elmwood St,North Attleborough,MA,02760,41.98451,-71.33451, Park
+,1,Mansfield Memorial Park,East St,Mansfield,MA,02048,42.03121,-71.21851, Park
+,1,Oliver Ames High Courts,Lothrop St,Easton,MA,02356,42.06451,-71.10121, Park
+,1,Yelle Elementary Courts,West Main St,Norton,MA,02766,41.97121,-71.18851, Park
+,1,Borden Colony Complex,King Philip St,Raynham,MA,02767,41.94121,-71.05451, Park
+,1,Southfield Park,Sharps Lot Rd,Swansea,MA,02777,41.74851,-71.20121, Park
+,1,Ashton Field,County St,Somerset,MA,02726,41.74121,-71.14451, Park
+,1,Dighton Middle School Courts,Somerset Ave,Dighton,MA,02715,41.81121,-71.12121, Park
+,1,Redway Plain Park,Bay State Rd,Rehoboth,MA,02769,41.84121,-71.25851, Park
+,1,Seekonk High School Courts,Arcade Ave,Seekonk,MA,02771,41.82121,-71.32851, Park
+,1,Keith Carandang Memorial Courts,Canal St,Bourne,MA,02532,41.74851,-70.60121, Park
+,1,Sandwich High School Courts,Quaker Meetinghouse Rd,Sandwich,MA,02563,41.73851,-70.48451, Park
+,1,Mashpee High School Courts,Old Barnstable Rd,Mashpee,MA,02649,41.64451,-70.47851, Park
+,1,Heritage Park,Main St,Mashpee,MA,02649,41.65121,-70.48121, Park
+,1,Barnstable High School Courts,W Main St,Hyannis,MA,02601,41.66121,-70.30121, Park
+,1,Marstons Mills Community Courts,Tewksbury Rd,Marstons Mills,MA,02648,41.67851,-70.41121, Park
+,1,Osterville Bay Courts,Wianno Ave,Osterville,MA,02655,41.62851,-70.38851, Park
+,1,Flax Pond Recreation Area,Dupont Ave,South Yarmouth,MA,02664,41.68851,-70.20121, Park
+,1,Baker School Courts,Baker Ave,Dennis Port,MA,02639,41.66851,-70.13121, Park
+,1,Wixon School Courts,Route 134,South Dennis,MA,02660,41.71851,-70.14451, Park
+,1,Stony Brook Field,Underpass Rd,Brewster,MA,02631,41.75851,-70.07851, Park
+,1,Chatham High School Courts,Crowell Rd,Chatham,MA,02633,41.68851,-69.97121, Park
+,1,Eldredge Park,Eldredge Park Way,Orleans,MA,02653,41.78451,-69.98851, Park
+,1,Nauset Regional High Courts,Cable Rd,North Eastham,MA,02651,41.85451,-69.97851, Park
+,1,Baker Field,Kendrick Ave,Wellfleet,MA,02667,41.93121,-70.03451, Park
+,1,Truro Central School Courts,Route 6,Truro,MA,02666,41.99851,-70.06121, Park
+,1,Motta Field,Winslow St,Provincetown,MA,02657,42.05451,-70.18851, Park
+,1,Martha's Vineyard Regional High Courts,Edgartown-Vineyard Haven Rd,Oak Bluffs,MA,02557,41.42851,-70.58451, Park
+,1,Niantic Park,Niantic Ave,Oak Bluffs,MA,02557,41.45121,-70.55851, Park
+,1,Church Street Courts,Church St,Edgartown,MA,02539,41.38851,-70.51451, Park
+,1,West Tisbury School Courts,Old County Rd,West Tisbury,MA,02575,41.38121,-70.66121, Park
+,1,Nantucket High School Courts,Surfside Rd,Nantucket,MA,02554,41.26451,-70.09851, Park
+,1,Jetties Beach Courts,Bathhouse Way,Nantucket,MA,02554,41.29851,-70.09121, Park
+,1,Dean Park,Main St,Shrewsbury,MA,01545,42.29851,-71.71121, Park
+,1,Auburn High School Courts,Auburn St,Auburn,MA,01501,42.20451,-71.83851, Park
+,1,Lemansky Park,Oxford St,Auburn,MA,01501,42.19121,-71.84851, Park
+,1,Millbury High School Courts,Martin St,Millbury,MA,01527,42.19851,-71.76121, Park
+,1,Ferry Street Park,Ferry St,Grafton,MA,01519,42.21851,-71.69851, Park
+,1,Ellsworth-McAfee Park,South St,Northborough,MA,01532,42.30851,-71.64451, Park
+,1,Fayville Park,Central St,Southborough,MA,01772,42.28851,-71.51121, Park
+,1,Hopedale Town Park,Dutcher St,Hopedale,MA,01747,42.12851,-71.53851, Park
+,1,Fino Field,Clark St,Milford,MA,01757,42.14451,-71.51851, Park
+,1,Kiwanis Beach Courts,Westboro Rd,Upton,MA,01568,42.18451,-71.60451, Park
+,1,Clough Elementary Courts,North Ave,Mendon,MA,01756,42.10851,-71.55851, Park
+,1,Whitin Park,Main St,Whitinsville,MA,01588,42.11851,-71.65851, Park
+,1,Uxbridge High School Courts,Quaker Hwy,Uxbridge,MA,01569,42.06851,-71.62121, Park
+,1,Douglas High School Courts,Davis St,Douglas,MA,01516,42.05451,-71.72851, Park
+,1,Manchaug Park,Main St,Sutton,MA,01590,42.11121,-71.75851, Park
+,1,Memorial Beach Park,Thompson Rd,Webster,MA,01570,42.04851,-71.86121, Park
+,1,Greenbriar Park,Greenbriar Dr,Oxford,MA,01540,42.12121,-71.87121, Park
+,1,Crawford Field,Schofield Ave,Dudley,MA,01571,42.04451,-71.93121, Park
+,1,Charlton Middle School Courts,Oxford Rd,Charlton,MA,01507,42.13851,-71.95451, Park
+,1,West Street Field,West St,Southbridge,MA,01550,42.07851,-72.03851, Park
+,1,Burgess School Courts,Cedar St,Sturbridge,MA,01566,42.10851,-72.08121, Park
+,1,Mountview Middle School Courts,Shrewsbury St,Holden,MA,01520,42.34851,-71.85451, Park
+,1,Dawson Recreation Area,Salisbury St,Holden,MA,01520,42.35851,-71.87851, Park
+,1,O'Gara Park,Prospect St,Spencer,MA,01562,42.24851,-71.99121, Park
+,1,Rochdale Park,Stafford St,Leicester,MA,01524,42.18851,-71.91851, Park
+,1,Coolidge Park,John Fitch Hwy,Fitchburg,MA,01420,42.59121,-71.78851, Park
+,1,Coggshall Park,Electric Ave,Fitchburg,MA,01420,42.56851,-71.80851, Park
+,1,Barrett Park,Chestnut St,Leominster,MA,01453,42.53121,-71.77121, Park
+,1,Doyle Field,Priest St,Leominster,MA,01453,42.52851,-71.75851, Park
+,1,Ovila Case Playground,Park St,Gardner,MA,01440,42.57121,-71.98451, Park
+,1,Lunenburg High School Courts,Mass Ave,Lunenburg,MA,01462,42.58451,-71.72121, Park
+,1,Hacker Field,Academy St,Westminster,MA,01473,42.54851,-71.89851, Park
+,1,Winchendon Community Park,Ingleside Dr,Winchendon,MA,01475,42.67851,-72.04121, Park
+,1,Silver Lake Beach Courts,Silver Lake Beach Rd,Athol,MA,01331,42.59851,-72.23121, Park
+,1,Savage Field,Vale St,Clinton,MA,01510,42.41851,-71.68851, Park
+,1,Clinton Middle School Courts,Church St,Clinton,MA,01510,42.41451,-71.67851, Park
+,1,Thayer Field,Green St,Lancaster,MA,01523,42.45121,-71.67121, Park
+,1,Houghton Park,Park St,Sterling,MA,01564,42.43851,-71.75851, Park
+,1,Bromfield School Courts,Mass Ave,Harvard,MA,01451,42.50121,-71.58451, Park
+,1,Bolton Memorial Field,Wattaquadock Hill Rd,Bolton,MA,01740,42.43451,-71.61121, Park
+,1,Manor Park,Manor Rd,Boylston,MA,01505,42.34851,-71.72851, Park
+,1,Goodale Park,Crescent St,West Boylston,MA,01583,42.36851,-71.78451, Park
+,1,Szot Park,Front St,Chicopee,MA,01013,42.14851,-72.58451, Park
+,1,Ray Ash Park,Montgomery St,Chicopee,MA,01020,42.17121,-72.56851, Park
+,1,Mackenzie Stadium Courts,Beech St,Holyoke,MA,01040,42.20851,-72.62851, Park
+,1,Westfield Middle School Courts,W Silver St,Westfield,MA,01085,42.11851,-72.75851, Park
+,1,Municipal Playground,Greylock St,Westfield,MA,01085,42.12451,-72.74851, Park
+,1,Mittineague Park,Unquomonk Rd,West Springfield,MA,01089,42.10851,-72.65121, Park
+,1,School Street Park,Corey St,Agawam,MA,01001,42.07851,-72.61851, Park
+,1,Borgatti Field,South Westfield St,Feeding Hills,MA,01030,42.06451,-72.67121, Park
+,1,Greenwood Park,Maple Rd,Longmeadow,MA,01106,42.04851,-72.57121, Park
+,1,Whitney Park,Sewall St,Ludlow,MA,01056,42.16121,-72.48451, Park
+,1,Spec Pond Recreation Area,Boston Rd,Wilbraham,MA,01095,42.14451,-72.43851, Park
+,1,Palmer High School Courts,Main St,Palmer,MA,01069,42.18851,-72.33851, Park
+,1,Whiston Park,Flynt St,Monson,MA,01057,42.10121,-72.32121, Park
+,1,Whalley Park,Powdermill Rd,Southwick,MA,01077,42.05121,-72.76851, Park
+,1,Nonotuck Park,Lowry Dr,Easthampton,MA,01027,42.26121,-72.66851, Park
+,1,Mill River Recreation Area,S Main St,Amherst,MA,01002,42.41121,-72.53851, Park
+,1,Groff Park,Mill Ln,Amherst,MA,01002,42.35851,-72.52851, Park
+,1,Hadley Elementary Courts,River Dr,Hadley,MA,01035,42.34851,-72.58851, Park
+,1,Buttery Brook Park,Willimansett St,South Hadley,MA,01075,42.24121,-72.58451, Park
+,1,Foley Field,State St,Belchertown,MA,01007,42.28121,-72.41121, Park
+,1,Dufresne Park,Kendall St,Granby,MA,01033,42.25451,-72.51451, Park
+,1,Ware Memorial Field,Church St,Ware,MA,01082,42.26121,-72.24451, Park
+,1,Beacon Field,Beacon St,Greenfield,MA,01301,42.59851,-72.59851, Park
+,1,Unity Park,1st St,Turners Falls,MA,01376,42.60851,-72.55851, Park
+,1,Sunderland Town Park,School St,Sunderland,MA,01375,42.46851,-72.57851, Park
+,1,Butterfield Park,E Main St,Orange,MA,01364,42.59121,-72.30451, Park
+,1,Noel Field Athletic Complex,State St,North Adams,MA,01247,42.69851,-73.11121, Park
+,1,Renfrew Park,Friend St,Adams,MA,01220,42.62851,-73.12121, Park
+,1,Mount Greylock Regional Courts,Cold Spring Rd,Williamstown,MA,01267,42.70121,-73.21851, Park
+,1,Lenox Memorial High Courts,East St,Lenox,MA,01240,42.36121,-73.28451, Park
+,1,Lee Athletic Field,Center St,Lee,MA,01238,42.30451,-73.25121, Park
+,1,Stockbridge Town Park,Main St,Stockbridge,MA,01262,42.28451,-73.31121, Park
+,1,Dewey Memorial Hall Courts,Main St,Sheffield,MA,01257,42.11121,-73.35451, Park
+,1,Monument Mountain Regional Courts,Stockbridge Rd,Great Barrington,MA,01230,42.22121,-73.35121, Park
+,1,Pine Grove Park,Dalton Ave,Dalton,MA,01226,42.47451,-73.17121, Park

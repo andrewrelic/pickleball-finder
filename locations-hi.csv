@@ -1,102 +1,102 @@
-image,name,address,city,state,zip,lat,lng, type
-Kewalo Basin Park Pickleball Courts,1125 Ala Moana Blvd,Honolulu,HI,96814,21.2915,-157.8585,Park
-Diamond Head Tennis & Pickleball Center,3908 Paki Ave,Honolulu,HI,96815,21.2685,-157.8185,Park
-Ala Moana Regional Park Courts,1201 Ala Moana Blvd,Honolulu,HI,96814,21.2885,-157.8485,Park
-Manoa Valley District Park Courts,2721 Kaaipu Ave,Honolulu,HI,96822,21.3115,-157.8115,Park
-Kilauea District Park Courts,4103 Kilauea Ave,Honolulu,HI,96816,21.2745,-157.7945,Park
-Kaimuki Community Park Courts,3521 Waialae Ave,Honolulu,HI,96816,21.2845,-157.8045,Park
-Keehi Lagoon Memorial Park Courts,2685 N Nimitz Hwy,Honolulu,HI,96819,21.3385,-157.8945,Park
-Kailua District Park Pickleball Courts,21 S Kainalu Dr,Kailua,HI,96734,21.3985,-157.7415,Park
-Kaneohe District Park Courts,45-660 Keaahala Rd,Kaneohe,HI,96744,21.4115,-157.8015,Park
-Pearl City District Park Courts,785 Hoomaemae St,Pearl City,HI,96782,21.4015,-157.9685,Park
-Mililani District Park Courts,94-200 Leolua St,Mililani,HI,96789,21.4485,-158.0115,Park
-Patsy T. Mink Central Oahu Regional Park,94-801 Kamehameha Hwy,Waipahu,HI,96797,21.4285,-158.0145,Park
-Ewa Mahiko District Park Courts,91-1205 Renton Rd,Ewa Beach,HI,96706,21.3415,-158.0385,Park
-Kapolei Regional Park Courts,Manawai St,Kapolei,HI,96707,21.3385,-158.0815,Park
-Asing Community Park Courts,91-1450 Renton Rd,Ewa Beach,HI,96706,21.3445,-158.0285,Park
-Waipahu District Park Courts,94-230 Paiwa St,Waipahu,HI,96797,21.3885,-158.0085,Park
-Kahului Community Center Courts,275 Uhu St,Kahului,HI,96732,20.8885,-156.4715,Park
-Eddie Tam Memorial Center Courts,931 Makawao Ave,Makawao,HI,96768,20.8545,-156.3145,Park
-Kalama Beach Park Pickleball Courts,1900 S Kihei Rd,Kihei,HI,96753,20.7385,-156.4515,Park
-Waipuilani Park Courts,S Kihei Rd,Kihei,HI,96753,20.7515,-156.4585,Park
-Lahaina Civic Center Courts,1840 Honoapiilani Hwy,Lahaina,HI,96761,20.9085,-156.6885,Park
-Lincoln Park Courts Hilo,Kinoole St,Hilo,HI,96720,19.7215,-155.0885,Park
-Malama Park Courts,Pahoa HI,Pahoa,HI,96778,19.5015,-154.9515,Park
-Old Kona Airport State Rec Area Pickleball,75-5560 Kuakini Hwy,Kailua-Kona,HI,96740,19.6415,-155.9985,Park
-Kalaheo Neighborhood Center Courts,Papalina Rd,Kalaheo,HI,96741,21.9215,-159.5285,Park
-Kapaa New Town Park Courts,Kahau Rd,Kapaa,HI,96746,22.0885,-159.3215,Park
-Honolulu Kapiolani Park Courts,3840 Paki Ave,Honolulu,HI,96815,21.2689,-157.8189,Park
-Honolulu Ala Moana Regional Park Courts,1201 Ala Moana Blvd,Honolulu,HI,96814,21.2912,-157.8489,Park
-Honolulu Diamond Head Tennis & Pickleball Center,Paki Ave,Honolulu,HI,96815,21.2612,-157.8112,Park
-Honolulu Manoa District Park,2721 Kaaipu Ave,Honolulu,HI,96822,21.3112,-157.8089,Park
-Honolulu Makiki District Park,1527 Keeaumoku St,Honolulu,HI,96822,21.3089,-157.8389,Park
-Honolulu Petrie Community Park,1039 20th Ave,Honolulu,HI,96816,21.2912,-157.7889,Park
-Honolulu Koko Head District Park,423 Kaumakani St,Honolulu,HI,96825,21.2889,-157.7089,Park
-Honolulu Kamiloiki Community Park,7750 Hawaii Kai Dr,Honolulu,HI,96825,21.3012,-157.6989,Park
-Honolulu Moanalua Community Park,2900 Ala Ilima St,Honolulu,HI,96818,21.3589,-157.9012,Park
-Honolulu Kalihi Valley District Park,1911 Kam IV Rd,Honolulu,HI,96819,21.3512,-157.8689,Park
-Honolulu Salt Lake District Park,1159 Ala Lilikoi St,Honolulu,HI,96818,21.3589,-157.9189,Park
-Honolulu Aina Haina Community Park,827 W Hind Dr,Honolulu,HI,96821,21.2812,-157.7512,Park
-Kailua District Park Courts,21 S Kainalu Dr,Kailua,HI,96734,21.3989,-157.7412,Park
-Kaneohe District Park,45-660 Keaahala Rd,Kaneohe,HI,96744,21.4112,-157.8012,Park
-Pearl City District Park,785 Hoomaemae St,Pearl City,HI,96782,21.4012,-157.9689,Park
-Aiea District Park,99-1650 Aiea Heights Dr,Aiea,HI,96701,21.3889,-157.9289,Park
-Ewa Beach Community Park,91-955 North Rd,Ewa Beach,HI,96706,21.3189,-158.0089,Park
-Mililani District Park,94-200 Leokane St,Mililani,HI,96789,21.4512,-158.0112,Park
-Waipahu District Park,94-230 Paiwa St,Waipahu,HI,96797,21.3889,-158.0112,Park
-Wahiawa District Park,1129 Kilani Ave,Wahiawa,HI,96786,21.5012,-158.0212,Park
-Haleiwa Beach Park Courts,62-449 Kamehameha Hwy,Haleiwa,HI,96712,21.5989,-158.1112,Park
-Waialua Community Park,67-180 Kealohanui St,Waialua,HI,96791,21.5789,-158.1289,Park
-Kahuku District Park,56-425 Kamehameha Hwy,Kahuku,HI,96731,21.6789,-157.9512,Park
-Waimanalo District Park,41-415 Hihimanu St,Waimanalo,HI,96795,21.3489,-157.7189,Park
-Kahului War Memorial Complex Courts,700 Halia Nakoa Way,Kahului,HI,96732,20.8912,-156.4889,Park
-Kahului Community Center Park,275 Uhu St,Kahului,HI,96732,20.8889,-156.4689,Park
-Wailuku Wells Park,Wells St,Wailuku,HI,96793,20.8889,-156.5089,Park
-Kihei Kalama Park Pickleball Courts,1900 S Kihei Rd,Kihei,HI,96753,20.7289,-156.4489,Park
-Kihei Regional Park,E Lipoa St,Kihei,HI,96753,20.7512,-156.4412,Park
-Wailea Tennis & Pickleball Club,131 Wailea Ike Pl,Wailea,HI,96753,20.6889,-156.4389,Business
-Kaanapali Tennis & Pickleball Club,2525 Kaanapali Pkwy,Lahaina,HI,96761,20.9289,-156.6912,Business
-Napili Park,Maiha St,Lahaina,HI,96761,20.9889,-156.6612,Park
-Makawao Eddie Tam Memorial Center Courts,931 Makawao Ave,Makawao,HI,96768,20.8512,-156.3112,Community
-Pukalani Mayor Hannibal Tavares Community Center Courts,91 Pukalani St,Pukalani,HI,96768,20.8389,-156.3489,Community
-Kula Community Center Courts,East Calasa Rd,Kula,HI,96790,20.7889,-156.3289,Park
-Paia Community Center Park,Hana Hwy,Paia,HI,96779,20.9189,-156.3789,Community
-Hana Ballpark Courts,Uakea Rd,Hana,HI,96713,20.7589,-155.9812,Park
-Hilo Malama Park Courts,Kalanianaole Ave,Hilo,HI,96720,19.7289,-155.0512,Park
-Hilo Lincoln Park Courts,Kinoole St & Ponahawai St,Hilo,HI,96720,19.7189,-155.0889,Park
-Hilo Wong Stadium Recreation Complex,Ho'olulu Park,Hilo,HI,96720,19.7112,-155.0689,Park
-Kona Old Airport Beach Park Pickleball Complex,75-5560 Kuakini Hwy,Kailua-Kona,HI,96740,19.6489,-156.0012,Park
-Kona Greenwell Park,Mamalahoa Hwy,Captain Cook,HI,96704,19.4989,-155.9189,Park
-Kona Higashihara Park,Kuakini Hwy,Keauhou,HI,96739,19.5612,-155.9389,Park
-Waikoloa Village Association Courts,68-1792 Melia St,Waikoloa,HI,96738,19.9389,-155.7912,Community
-Waimea County Park Courts,Mamalahoa Hwy,Waimea,HI,96743,20.0212,-155.6689,Park
-North Kohala Kamehameha Park,Akoni Pule Hwy,Kapaau,HI,96755,20.2289,-155.8012,Park
-Honokaa County Park,Mamane St,Honokaa,HI,96727,20.0789,-155.4612,Park
-Pahoa District Park,15-3022 Kauhale St,Pahoa,HI,96778,19.4989,-154.9489,Park
-Mountain View Park,Volcano Rd,Mountain View,HI,96771,19.5512,-155.1089,Park
-Volcano Cooper Center Courts,Wright Rd,Volcano,HI,96785,19.4412,-155.2389,Community
-Pahala Community Center Courts,Pikake St,Pahala,HI,96777,19.2012,-155.4789,Community
-Naalehu County Park,Mamalahoa Hwy,Naalehu,HI,96772,19.0612,-155.5812,Park
-Ocean View Community Center Courts,Kahuku Blvd,Ocean View,HI,96737,19.1112,-155.7689,Community
-Lihue Isenberg Park Courts,4300 Kaiakea St,Lihue,HI,96766,21.9789,-159.3689,Park
-Lihue Kalena Park,Kalena St,Lihue,HI,96766,21.9712,-159.3712,Park
-Kapaa Bryan J. Baptiste Sports Complex,4-500 Kuhio Hwy,Kapaa,HI,96746,22.0812,-159.3112,Park
-Kapaa Beach Park Courts,Kuhio Hwy,Kapaa,HI,96746,22.0712,-159.3189,Park
-Hanalei Waioli Park,Weke Rd,Hanalei,HI,96714,22.2089,-159.5012,Park
-Princeville Makai Club Courts,4080 Lei O Papa Rd,Princeville,HI,96722,22.2189,-159.4889,Business
-Kilauea County Park Courts,Keneke St,Kilauea,HI,96754,22.2112,-159.4089,Park
-Anahola Beach Park Courts,Anahola Rd,Anahola,HI,96703,22.1489,-159.3012,Park
-Poipu Beach Athletic Club Courts,2290 Poipu Rd,Koloa,HI,96756,21.8789,-159.4589,Business
-Koloa Anne Knudsen Park,Maluhia Rd & Ewai Rd,Koloa,HI,96756,21.9012,-159.4612,Park
-Hanapepe Town Park Courts,Puolo Rd,Hanapepe,HI,96716,21.9112,-159.5889,Park
-Waimea Athletic Field Courts,Kaumualii Hwy,Waimea,HI,96796,21.9589,-159.6689,Park
-Kekaha Neighborhood Center Courts,Elepaio Rd,Kekaha,HI,96752,21.9712,-159.7189,Community
-Kaunakakai Mitchell Pauole Center Courts,Ainoa St,Kaunakakai,HI,96748,21.0889,-157.0212,Community
-Lanai City Community Courts,Fraser Ave,Lanai City,HI,96763,20.8289,-156.9212,Park
-Hauula Community Park,54-135 Kamehameha Hwy,Hauula,HI,96717,21.6112,-157.9112,Park
-Laie Shopping Center Recreation Courts,55-510 Kamehameha Hwy,Laie,HI,96762,21.6489,-157.9289,Free
-Sunset Beach Community Park,59-540 Kamehameha Hwy,Haleiwa,HI,96712,21.6712,-158.0512,Park
-Waianae District Park,85-601 Farrington Hwy,Waianae,HI,96792,21.4412,-158.1889,Park
-Maili Community Park,87-360 Kulaaupuni St,Waianae,HI,96792,21.4189,-158.1689,Park
-Nanakuli Beach Park Courts,89-115 Farrington Hwy,Waianae,HI,96792,21.3912,-158.1489,Park
-Makaha Community Park,84-730 Manuku St,Waianae,HI,96792,21.4689,-158.2112,Park
+image,courts,name,address,city,state,zip,lat,lng, type,cam
+,1,1,Kewalo Basin Park Pickleball Courts,1125 Ala Moana Blvd,Honolulu,HI,96814,21.2915, -157.8585,Park
+,1,1,Diamond Head Tennis & Pickleball Center,3908 Paki Ave,Honolulu,HI,96815,21.2685, -157.8185,Park
+,1,1,Ala Moana Regional Park Courts,1201 Ala Moana Blvd,Honolulu,HI,96814,21.2885, -157.8485,Park
+,1,1,Manoa Valley District Park Courts,2721 Kaaipu Ave,Honolulu,HI,96822,21.3115, -157.8115,Park
+,1,1,Kilauea District Park Courts,4103 Kilauea Ave,Honolulu,HI,96816,21.2745, -157.7945,Park
+,1,1,Kaimuki Community Park Courts,3521 Waialae Ave,Honolulu,HI,96816,21.2845, -157.8045,Park
+,1,1,Keehi Lagoon Memorial Park Courts,2685 N Nimitz Hwy,Honolulu,HI,96819,21.3385, -157.8945,Park
+,1,1,Kailua District Park Pickleball Courts,21 S Kainalu Dr,Kailua,HI,96734,21.3985, -157.7415,Park
+,1,1,Kaneohe District Park Courts,45-660 Keaahala Rd,Kaneohe,HI,96744,21.4115, -157.8015,Park
+,1,1,Pearl City District Park Courts,785 Hoomaemae St,Pearl City,HI,96782,21.4015, -157.9685,Park
+,1,1,Mililani District Park Courts,94-200 Leolua St,Mililani,HI,96789,21.4485, -158.0115,Park
+,1,1,Patsy T. Mink Central Oahu Regional Park,94-801 Kamehameha Hwy,Waipahu,HI,96797,21.4285, -158.0145,Park
+,1,1,Ewa Mahiko District Park Courts,91-1205 Renton Rd,Ewa Beach,HI,96706,21.3415, -158.0385,Park
+,1,1,Kapolei Regional Park Courts,Manawai St,Kapolei,HI,96707,21.3385, -158.0815,Park
+,1,1,Asing Community Park Courts,91-1450 Renton Rd,Ewa Beach,HI,96706,21.3445, -158.0285,Park
+,1,1,Waipahu District Park Courts,94-230 Paiwa St,Waipahu,HI,96797,21.3885, -158.0085,Park
+,1,1,Kahului Community Center Courts,275 Uhu St,Kahului,HI,96732,20.8885, -156.4715,Park
+,1,1,Eddie Tam Memorial Center Courts,931 Makawao Ave,Makawao,HI,96768,20.8545, -156.3145,Park
+,1,1,Kalama Beach Park Pickleball Courts,1900 S Kihei Rd,Kihei,HI,96753,20.7385, -156.4515,Park
+,1,1,Waipuilani Park Courts,S Kihei Rd,Kihei,HI,96753,20.7515, -156.4585,Park
+,1,1,Lahaina Civic Center Courts,1840 Honoapiilani Hwy,Lahaina,HI,96761,20.9085, -156.6885,Park
+,1,1,Lincoln Park Courts Hilo,Kinoole St,Hilo,HI,96720,19.7215, -155.0885,Park
+,1,1,Malama Park Courts,Pahoa HI,Pahoa,HI,96778,19.5015, -154.9515,Park
+,1,1,Old Kona Airport State Rec Area Pickleball,75-5560 Kuakini Hwy,Kailua-Kona,HI,96740,19.6415, -155.9985,Park
+,1,1,Kalaheo Neighborhood Center Courts,Papalina Rd,Kalaheo,HI,96741,21.9215, -159.5285,Park
+,1,1,Kapaa New Town Park Courts,Kahau Rd,Kapaa,HI,96746,22.0885, -159.3215,Park
+,1,1,Honolulu Kapiolani Park Courts,3840 Paki Ave,Honolulu,HI,96815,21.2689, -157.8189,Park
+,1,1,Honolulu Ala Moana Regional Park Courts,1201 Ala Moana Blvd,Honolulu,HI,96814,21.2912, -157.8489,Park
+,1,1,Honolulu Diamond Head Tennis & Pickleball Center,Paki Ave,Honolulu,HI,96815,21.2612, -157.8112,Park
+,1,1,Honolulu Manoa District Park,2721 Kaaipu Ave,Honolulu,HI,96822,21.3112, -157.8089,Park
+,1,1,Honolulu Makiki District Park,1527 Keeaumoku St,Honolulu,HI,96822,21.3089, -157.8389,Park
+,1,1,Honolulu Petrie Community Park,1039 20th Ave,Honolulu,HI,96816,21.2912, -157.7889,Park
+,1,1,Honolulu Koko Head District Park,423 Kaumakani St,Honolulu,HI,96825,21.2889, -157.7089,Park
+,1,1,Honolulu Kamiloiki Community Park,7750 Hawaii Kai Dr,Honolulu,HI,96825,21.3012, -157.6989,Park
+,1,1,Honolulu Moanalua Community Park,2900 Ala Ilima St,Honolulu,HI,96818,21.3589, -157.9012,Park
+,1,1,Honolulu Kalihi Valley District Park,1911 Kam IV Rd,Honolulu,HI,96819,21.3512, -157.8689,Park
+,1,1,Honolulu Salt Lake District Park,1159 Ala Lilikoi St,Honolulu,HI,96818,21.3589, -157.9189,Park
+,1,1,Honolulu Aina Haina Community Park,827 W Hind Dr,Honolulu,HI,96821,21.2812, -157.7512,Park
+,1,1,Kailua District Park Courts,21 S Kainalu Dr,Kailua,HI,96734,21.3989, -157.7412,Park
+,1,1,Kaneohe District Park,45-660 Keaahala Rd,Kaneohe,HI,96744,21.4112, -157.8012,Park
+,1,1,Pearl City District Park,785 Hoomaemae St,Pearl City,HI,96782,21.4012, -157.9689,Park
+,1,1,Aiea District Park,99-1650 Aiea Heights Dr,Aiea,HI,96701,21.3889, -157.9289,Park
+,1,1,Ewa Beach Community Park,91-955 North Rd,Ewa Beach,HI,96706,21.3189, -158.0089,Park
+,1,1,Mililani District Park,94-200 Leokane St,Mililani,HI,96789,21.4512, -158.0112,Park
+,1,1,Waipahu District Park,94-230 Paiwa St,Waipahu,HI,96797,21.3889, -158.0112,Park
+,1,1,Wahiawa District Park,1129 Kilani Ave,Wahiawa,HI,96786,21.5012, -158.0212,Park
+,1,1,Haleiwa Beach Park Courts,62-449 Kamehameha Hwy,Haleiwa,HI,96712,21.5989, -158.1112,Park
+,1,1,Waialua Community Park,67-180 Kealohanui St,Waialua,HI,96791,21.5789, -158.1289,Park
+,1,1,Kahuku District Park,56-425 Kamehameha Hwy,Kahuku,HI,96731,21.6789, -157.9512,Park
+,1,1,Waimanalo District Park,41-415 Hihimanu St,Waimanalo,HI,96795,21.3489, -157.7189,Park
+,1,1,Kahului War Memorial Complex Courts,700 Halia Nakoa Way,Kahului,HI,96732,20.8912, -156.4889,Park
+,1,1,Kahului Community Center Park,275 Uhu St,Kahului,HI,96732,20.8889, -156.4689,Park
+,1,1,Wailuku Wells Park,Wells St,Wailuku,HI,96793,20.8889, -156.5089,Park
+,1,1,Kihei Kalama Park Pickleball Courts,1900 S Kihei Rd,Kihei,HI,96753,20.7289, -156.4489,Park
+,1,1,Kihei Regional Park,E Lipoa St,Kihei,HI,96753,20.7512, -156.4412,Park
+,1,1,Wailea Tennis & Pickleball Club,131 Wailea Ike Pl,Wailea,HI,96753,20.6889, -156.4389,Business
+,1,1,Kaanapali Tennis & Pickleball Club,2525 Kaanapali Pkwy,Lahaina,HI,96761,20.9289, -156.6912,Business
+,1,1,Napili Park,Maiha St,Lahaina,HI,96761,20.9889, -156.6612,Park
+,1,1,Makawao Eddie Tam Memorial Center Courts,931 Makawao Ave,Makawao,HI,96768,20.8512, -156.3112,Community
+,1,1,Pukalani Mayor Hannibal Tavares Community Center Courts,91 Pukalani St,Pukalani,HI,96768,20.8389, -156.3489,Community
+,1,1,Kula Community Center Courts,East Calasa Rd,Kula,HI,96790,20.7889, -156.3289,Park
+,1,1,Paia Community Center Park,Hana Hwy,Paia,HI,96779,20.9189, -156.3789,Community
+,1,1,Hana Ballpark Courts,Uakea Rd,Hana,HI,96713,20.7589, -155.9812,Park
+,1,1,Hilo Malama Park Courts,Kalanianaole Ave,Hilo,HI,96720,19.7289, -155.0512,Park
+,1,1,Hilo Lincoln Park Courts,Kinoole St & Ponahawai St,Hilo,HI,96720,19.7189, -155.0889,Park
+,1,1,Hilo Wong Stadium Recreation Complex,Ho'olulu Park,Hilo,HI,96720,19.7112, -155.0689,Park
+,1,1,Kona Old Airport Beach Park Pickleball Complex,75-5560 Kuakini Hwy,Kailua-Kona,HI,96740,19.6489, -156.0012,Park
+,1,1,Kona Greenwell Park,Mamalahoa Hwy,Captain Cook,HI,96704,19.4989, -155.9189,Park
+,1,1,Kona Higashihara Park,Kuakini Hwy,Keauhou,HI,96739,19.5612, -155.9389,Park
+,1,1,Waikoloa Village Association Courts,68-1792 Melia St,Waikoloa,HI,96738,19.9389, -155.7912,Community
+,1,1,Waimea County Park Courts,Mamalahoa Hwy,Waimea,HI,96743,20.0212, -155.6689,Park
+,1,1,North Kohala Kamehameha Park,Akoni Pule Hwy,Kapaau,HI,96755,20.2289, -155.8012,Park
+,1,1,Honokaa County Park,Mamane St,Honokaa,HI,96727,20.0789, -155.4612,Park
+,1,1,Pahoa District Park,15-3022 Kauhale St,Pahoa,HI,96778,19.4989, -154.9489,Park
+,1,1,Mountain View Park,Volcano Rd,Mountain View,HI,96771,19.5512, -155.1089,Park
+,1,1,Volcano Cooper Center Courts,Wright Rd,Volcano,HI,96785,19.4412, -155.2389,Community
+,1,1,Pahala Community Center Courts,Pikake St,Pahala,HI,96777,19.2012, -155.4789,Community
+,1,1,Naalehu County Park,Mamalahoa Hwy,Naalehu,HI,96772,19.0612, -155.5812,Park
+,1,1,Ocean View Community Center Courts,Kahuku Blvd,Ocean View,HI,96737,19.1112, -155.7689,Community
+,1,1,Lihue Isenberg Park Courts,4300 Kaiakea St,Lihue,HI,96766,21.9789, -159.3689,Park
+,1,1,Lihue Kalena Park,Kalena St,Lihue,HI,96766,21.9712, -159.3712,Park
+,1,1,Kapaa Bryan J. Baptiste Sports Complex,4-500 Kuhio Hwy,Kapaa,HI,96746,22.0812, -159.3112,Park
+,1,1,Kapaa Beach Park Courts,Kuhio Hwy,Kapaa,HI,96746,22.0712, -159.3189,Park
+,1,1,Hanalei Waioli Park,Weke Rd,Hanalei,HI,96714,22.2089, -159.5012,Park
+,1,1,Princeville Makai Club Courts,4080 Lei O Papa Rd,Princeville,HI,96722,22.2189, -159.4889,Business
+,1,1,Kilauea County Park Courts,Keneke St,Kilauea,HI,96754,22.2112, -159.4089,Park
+,1,1,Anahola Beach Park Courts,Anahola Rd,Anahola,HI,96703,22.1489, -159.3012,Park
+,1,1,Poipu Beach Athletic Club Courts,2290 Poipu Rd,Koloa,HI,96756,21.8789, -159.4589,Business
+,1,1,Koloa Anne Knudsen Park,Maluhia Rd & Ewai Rd,Koloa,HI,96756,21.9012, -159.4612,Park
+,1,1,Hanapepe Town Park Courts,Puolo Rd,Hanapepe,HI,96716,21.9112, -159.5889,Park
+,1,1,Waimea Athletic Field Courts,Kaumualii Hwy,Waimea,HI,96796,21.9589, -159.6689,Park
+,1,1,Kekaha Neighborhood Center Courts,Elepaio Rd,Kekaha,HI,96752,21.9712, -159.7189,Community
+,1,1,Kaunakakai Mitchell Pauole Center Courts,Ainoa St,Kaunakakai,HI,96748,21.0889, -157.0212,Community
+,1,1,Lanai City Community Courts,Fraser Ave,Lanai City,HI,96763,20.8289, -156.9212,Park
+,1,1,Hauula Community Park,54-135 Kamehameha Hwy,Hauula,HI,96717,21.6112, -157.9112,Park
+,1,1,Laie Shopping Center Recreation Courts,55-510 Kamehameha Hwy,Laie,HI,96762,21.6489, -157.9289,Free
+,1,1,Sunset Beach Community Park,59-540 Kamehameha Hwy,Haleiwa,HI,96712,21.6712, -158.0512,Park
+,1,1,Waianae District Park,85-601 Farrington Hwy,Waianae,HI,96792,21.4412, -158.1889,Park
+,1,1,Maili Community Park,87-360 Kulaaupuni St,Waianae,HI,96792,21.4189, -158.1689,Park
+,1,1,Nanakuli Beach Park Courts,89-115 Farrington Hwy,Waianae,HI,96792,21.3912, -158.1489,Park
+,1,1,Makaha Community Park,84-730 Manuku St,Waianae,HI,96792,21.4689, -158.2112,Park
