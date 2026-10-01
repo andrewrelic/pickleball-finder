@@ -1,106 +1,106 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,Smash Park Omaha,138th & Giles Rd,La Vista,NE,68138,41.1685, -96.1285,Business
-,1,1,Miracle Hill Golf & Tennis / Pickleball,1401 N 120th St,Omaha,NE,68154,41.2715, -96.1015,Business
-,1,1,Genesis Health Clubs Westroads Pickleball,1212 N 102nd St,Omaha,NE,68114,41.2685, -96.0745,Business
-,1,1,Dewey Park Pickleball Complex,550 Turner Blvd,Omaha,NE,68105,41.2585, -95.9685,Park
-,1,1,Seymour Smith Park Courts,6802 Harrison St,Omaha,NE,68127,41.1815, -96.0185,Park
-,1,1,Roanoke Park Pickleball Courts,102nd & Fort St,Omaha,NE,68134,41.3115, -96.0715,Park
-,1,1,Standing Bear Lake Courts,6404 N 132nd St,Omaha,NE,68164,41.3215, -96.1215,Park
-,1,1,Trendwood Park Courts,132nd & Pacific St,Omaha,NE,68154,41.2485, -96.1215,Park
-,1,1,Westwood Heights Park,124th & Center St,Omaha,NE,68144,41.2315, -96.1085,Park
-,1,1,Zorinsky Lake Park Courts,3808 S 156th St,Omaha,NE,68130,41.2215, -96.1615,Park
-,1,1,Chalco Hills Recreation Area Courts,8901 S 154th St,Omaha,NE,68138,41.1615, -96.1545,Park
-,1,1,Halleck Park Pickleball Complex,E 5th St,Papillion,NE,68046,41.1545, -96.0385,Park
-,1,1,Prairie Queen Recreation Area,132nd & Cornhusker Rd,Papillion,NE,68046,41.1615, -96.1215,Park
-,1,1,Haworth Park Courts,Payne Dr,Bellevue,NE,68005,41.1385, -95.8845,Park
-,1,1,Peterson Park Pickleball Complex,4400 Southwood Dr,Lincoln,NE,68512,40.7645, -96.7215,Park
-,1,1,Cooper Park Courts,6th & D St,Lincoln,NE,68502,40.8045, -96.7115,Park
-,1,1,Woods Park Tennis & Pickleball Center,33rd & J St,Lincoln,NE,68510,40.8115, -96.6715,Park
-,1,1,Tierra Briarhurst Park Courts,27th & Tierra Dr,Lincoln,NE,68512,40.7515, -96.6845,Park
-,1,1,Roberts Park Courts,56th & Sumner St,Lincoln,NE,68506,40.7985, -96.6385,Park
-,1,1,Ballard Park Courts,66th & Ballard Ave,Lincoln,NE,68507,40.8385, -96.6215,Park
-,1,1,Ryder Park Pickleball Courts,N Custer Ave,Grand Island,NE,68803,40.9285, -98.3685,Park
-,1,1,Stolley Park Courts,Stolley Park Rd,Grand Island,NE,68801,40.9085, -98.3485,Park
-,1,1,Harmon Park Pickleball Courts,3100 5th Ave,Kearney,NE,68845,40.7045, -99.0885,Park
-,1,1,Harvey Park Courts,42nd St,Kearney,NE,68847,40.7245, -99.0815,Park
-,1,1,Clemmons Park Courts,16th & Broad St,Fremont,NE,68025,41.4445, -96.4985,Park
-,1,1,Ta-Ha-Zouka Park Courts,S 13th St,Norfolk,NE,68701,42.0115, -97.4185,Park
-,1,1,Riverside Park Courts,W 19th St,Scottsbluff,NE,69361,41.8615, -103.6785,Park
-,1,1,Cody Park Courts,N Jefferson St,North Platte,NE,69101,41.1515, -100.7585,Park
-,1,1,Chautauqua Park Courts,Park Rd,Beatrice,NE,68310,40.2585, -96.7485,Park
-,1,1,Heritage Park Courts,S 4th Ave,Hastings,NE,68901,40.5785, -98.3885,Park
-,1,1,Omaha Dewey Park Courts,550 Turner Blvd,Omaha,NE,68105,41.2589, -95.9612,Free
-,1,1,Omaha Prairie Queen Recreation Area,132nd & Lincoln Rd,Omaha,NE,68138,41.1689, -96.1189,Free
-,1,1,Omaha Roeser Park,4820 S 42nd St,Omaha,NE,68107,41.2112, -95.9789,Free
-,1,1,Omaha Standing Bear Lake Park,6404 N 132nd St,Omaha,NE,68164,41.3189, -96.1189,Free
-,1,1,Omaha Benson Park Courts,7002 Military Ave,Omaha,NE,68104,41.2912, -96.0212,Free
-,1,1,Lincoln Peterson Park,4400 Southwood Dr,Lincoln,NE,68512,40.7589, -96.6612,Free
-,1,1,Lincoln Woods Park,3301 J St,Lincoln,NE,68510,40.8089, -96.6712,Free
-,1,1,Lincoln Eden Park,4400 Antelope Creek Rd,Lincoln,NE,68506,40.7812, -96.6589,Free
-,1,1,Lincoln Roberts Park,56th & Sumner St,Lincoln,NE,68506,40.7989, -96.6412,Free
-,1,1,Lincoln Ballard Park,3901 N 66th St,Lincoln,NE,68507,40.8412, -96.6289,Free
-,1,1,Bellevue Everett Park,Betz Rd,Bellevue,NE,68005,41.1389, -95.9189,Free
-,1,1,Grand Island Pier Park,500 S Stuhr Rd,Grand Island,NE,68801,40.9189, -98.3189,Free
-,1,1,Grand Island Ryder Park,Old Potash Hwy,Grand Island,NE,68803,40.9312, -98.3689,Free
-,1,1,Kearney Harmon Park,3100 5th Ave,Kearney,NE,68845,40.7012, -99.0889,Free
-,1,1,Kearney Apollo Park,33rd St & 7th Ave,Kearney,NE,68845,40.7089, -99.0912,Free
-,1,1,Fremont Ronin Park,1400 E 16th St,Fremont,NE,68025,41.4489, -96.4789,Free
-,1,1,Hastings Libs Park,16th St & Colorado Ave,Hastings,NE,68901,40.6012, -98.3789,Free
-,1,1,Norfolk Ta-Ha-Zouka Park,2201 S 13th St,Norfolk,NE,68701,42.0112, -97.4289,Free
-,1,1,North Platte Cody Park,1400 N Jeffers St,North Platte,NE,69101,41.1512, -100.7589,Free
-,1,1,Columbus Pawnee Park,3111 8th St,Columbus,NE,68601,41.4212, -97.3589,Free
-,1,1,Papillion Halleck Park,Papillion Recreation Complex,Papillion,NE,68046,41.1589, -96.0412,Free
-,1,1,La Vista City Park,8116 Park View Blvd,La Vista,NE,68128,41.1812, -96.0389,Free
-,1,1,Scottsbluff Frank Park,26th St & 5th Ave,Scottsbluff,NE,69361,41.8712, -103.6589,Free
-,1,1,South Sioux City Scenic Park,801 Riverview Dr,South Sioux City,NE,68776,42.4789, -96.4089,Free
-,1,1,Beatrice Hannibal Park,Hoyt St,Beatrice,NE,68310,40.2589, -96.7389,Free
-,1,1,Chalco Recreation Area Courts,S 154th St,Chalco,NE,68138,41.1712, -96.1512,Free
-,1,1,Lexington Plum Creek Park,13th & Adams St,Lexington,NE,68850,40.7812, -99.7412,Free
-,1,1,Gering Oregon Trail Park,10th & O St,Gering,NE,69341,41.8212, -103.6612,Free
-,1,1,Alliance Central Park,10th & Yellowstone,Alliance,NE,69301,42.1012, -102.8712,Free
-,1,1,Blair Youth Sports Complex,2100 Wright St,Blair,NE,68008,41.5389, -96.1312,Free
-,1,1,York Harrison Park,E 7th St,York,NE,68467,40.8689, -97.5812,Free
-,1,1,McCook Barnett Park,East 7th St,McCook,NE,69001,40.2012, -100.6189,Free
-,1,1,Nebraska City Steinhart Park,Steinhart Park Rd,Nebraska City,NE,68410,40.6789, -95.8712,Free
-,1,1,Seward Moffitt Park,South 6th St,Seward,NE,68434,40.9012, -97.0989,Free
-,1,1,Crete Tuxedo Park,Tuxedo Park Rd,Crete,NE,68333,40.6212, -96.9589,Free
-,1,1,Sidney Legion Park,11th Ave,Sidney,NE,69162,41.1412, -102.9712,Free
-,1,1,Plattsmouth Garfield Park,4th Ave & 10th St,Plattsmouth,NE,68048,41.0089, -95.8889,Free
-,1,1,Schuyler Merchant Park,E 12th St,Schuyler,NE,68661,41.4512, -97.0512,Free
-,1,1,Ralston Oak Park,78th & Main St,Ralston,NE,68127,41.2012, -96.0312,Free
-,1,1,Cozad Muny Park,E 8th St,Cozad,NE,69130,40.8589, -99.9789,Free
-,1,1,Broken Bow Paul Brown Field Courts,S 9th Ave,Broken Bow,NE,68822,41.4012, -99.6412,Free
-,1,1,Holdrege South Park,11th Ave,Holdrege,NE,68949,40.4389, -99.3712,Free
-,1,1,Wayne Victor Park,E 10th St,Wayne,NE,68787,42.2289, -97.0089,Free
-,1,1,Gothenburg Ehmen Park,16th St,Gothenburg,NE,69138,40.9312, -100.1589,Free
-,1,1,Ogallala Western Park,W 7th St,Ogallala,NE,69153,41.1289, -101.7289,Free
-,1,1,Fairbury City Park,F St,Fairbury,NE,68352,40.1412, -97.1789,Free
-,1,1,Aurora Streeter Park,N 11th St,Aurora,NE,68818,40.8712, -98.0012,Free
-,1,1,Falls City Stanton Lake Park,Barada St,Falls City,NE,68355,40.0612, -95.5989,Free
-,1,1,West Point Neligh Park,Bridge St,West Point,NE,68788,41.8389, -96.7089,Free
-,1,1,Valentine City Park,Green St,Valentine,NE,69201,42.8712, -100.5489,Free
-,1,1,Chadron Finnegan Park,Main St,Chadron,NE,69337,42.8289, -103.0012,Free
-,1,1,O'Neill Carney Park,E Adams St,O'Neill,NE,68763,42.4589, -98.6412,Free
-,1,1,Geneva City Park,10th St,Geneva,NE,68361,40.5289, -97.6012,Free
-,1,1,Kimball Gotte Park,S Elm St,Kimball,NE,69145,41.2312, -103.6612,Free
-,1,1,Auburn Legion Park,19th St,Auburn,NE,68305,40.3889, -95.8412,Free
-,1,1,Minden Chautauqua Park,Brown Ave,Minden,NE,68959,40.4989, -98.9512,Free
-,1,1,Wahoo Hackberry Park,Hackberry St,Wahoo,NE,68066,41.2112, -96.6189,Free
-,1,1,Waverly Wayne Park,140th St,Waverly,NE,68462,40.9112, -96.5312,Free
-,1,1,Gretna North Park,Angus St,Gretna,NE,68028,41.1412, -96.2412,Free
-,1,1,Elkhorn Ta-Ha-Zouka Park,North 204th St,Elkhorn,NE,68022,41.2812, -96.2389,Free
-,1,1,Bennington Tim Ohrt Park,Warehouse St,Bennington,NE,68007,41.3689, -96.1589,Free
-,1,1,Waterloo Firefighter's Memorial Park,River Rd,Waterloo,NE,68069,41.2889, -96.2812,Free
-,1,1,Valley City Park,Vennelyst Dr,Valley,NE,68064,41.3112, -96.3489,Free
-,1,1,Ashland Wiggenhorn Park,12th St,Ashland,NE,68003,41.0412, -96.3689,Free
-,1,1,Milford City Park,Oak Ave,Milford,NE,68405,40.7712, -97.0512,Free
-,1,1,David City City Park,N 5th St,David City,NE,68632,41.2589, -97.1289,Free
-,1,1,Central City Clark Park,16th Ave,Central City,NE,68826,41.1112, -98.0012,Free
-,1,1,St Paul City Park,Howard Ave,St Paul,NE,68873,41.2189, -98.4589,Free
-,1,1,Ord Bussell Park,N 20th St,Ord,NE,68862,41.6089, -98.9289,Free
-,1,1,Albion Fuller Park,Fairgrounds Rd,Albion,NE,68620,41.6912, -98.0012,Free
-,1,1,Neligh Riverside Park,W 11th St,Neligh,NE,68756,42.1289, -98.0312,Free
-,1,1,Pierce Gilman Park,E Main St,Pierce,NE,68767,42.1989, -97.5289,Free
-,1,1,Hartington Felber Park,Broadway Ave,Hartington,NE,68739,42.6189, -97.2612,Free
-,1,1,Ainsworth East Park,E 4th St,Ainsworth,NE,69210,42.5489, -99.8512,Free
-,1,1,Gordon City Park,Main St,Gordon,NE,69343,42.8912, -102.2012,Free
+,1,Smash Park Omaha,138th & Giles Rd,La Vista,NE,68138,41.1685,-96.1285, Business,
+,1,Miracle Hill Golf & Tennis / Pickleball,1401 N 120th St,Omaha,NE,68154,41.2715,-96.1015, Business,
+,1,Genesis Health Clubs Westroads Pickleball,1212 N 102nd St,Omaha,NE,68114,41.2685,-96.0745, Business,
+,1,Dewey Park Pickleball Complex,550 Turner Blvd,Omaha,NE,68105,41.2585,-95.9685, Park,
+,1,Seymour Smith Park Courts,6802 Harrison St,Omaha,NE,68127,41.1815,-96.0185, Park,
+,1,Roanoke Park Pickleball Courts,102nd & Fort St,Omaha,NE,68134,41.3115,-96.0715, Park,
+,1,Standing Bear Lake Courts,6404 N 132nd St,Omaha,NE,68164,41.3215,-96.1215, Park,
+,1,Trendwood Park Courts,132nd & Pacific St,Omaha,NE,68154,41.2485,-96.1215, Park,
+,1,Westwood Heights Park,124th & Center St,Omaha,NE,68144,41.2315,-96.1085, Park,
+,1,Zorinsky Lake Park Courts,3808 S 156th St,Omaha,NE,68130,41.2215,-96.1615, Park,
+,1,Chalco Hills Recreation Area Courts,8901 S 154th St,Omaha,NE,68138,41.1615,-96.1545, Park,
+,1,Halleck Park Pickleball Complex,E 5th St,Papillion,NE,68046,41.1545,-96.0385, Park,
+,1,Prairie Queen Recreation Area,132nd & Cornhusker Rd,Papillion,NE,68046,41.1615,-96.1215, Park,
+,1,Haworth Park Courts,Payne Dr,Bellevue,NE,68005,41.1385,-95.8845, Park,
+,1,Peterson Park Pickleball Complex,4400 Southwood Dr,Lincoln,NE,68512,40.7645,-96.7215, Park,
+,1,Cooper Park Courts,6th & D St,Lincoln,NE,68502,40.8045,-96.7115, Park,
+,1,Woods Park Tennis & Pickleball Center,33rd & J St,Lincoln,NE,68510,40.8115,-96.6715, Park,
+,1,Tierra Briarhurst Park Courts,27th & Tierra Dr,Lincoln,NE,68512,40.7515,-96.6845, Park,
+,1,Roberts Park Courts,56th & Sumner St,Lincoln,NE,68506,40.7985,-96.6385, Park,
+,1,Ballard Park Courts,66th & Ballard Ave,Lincoln,NE,68507,40.8385,-96.6215, Park,
+,1,Ryder Park Pickleball Courts,N Custer Ave,Grand Island,NE,68803,40.9285,-98.3685, Park,
+,1,Stolley Park Courts,Stolley Park Rd,Grand Island,NE,68801,40.9085,-98.3485, Park,
+,1,Harmon Park Pickleball Courts,3100 5th Ave,Kearney,NE,68845,40.7045,-99.0885, Park,
+,1,Harvey Park Courts,42nd St,Kearney,NE,68847,40.7245,-99.0815, Park,
+,1,Clemmons Park Courts,16th & Broad St,Fremont,NE,68025,41.4445,-96.4985, Park,
+,1,Ta-Ha-Zouka Park Courts,S 13th St,Norfolk,NE,68701,42.0115,-97.4185, Park,
+,1,Riverside Park Courts,W 19th St,Scottsbluff,NE,69361,41.8615,-103.6785, Park,
+,1,Cody Park Courts,N Jefferson St,North Platte,NE,69101,41.1515,-100.7585, Park,
+,1,Chautauqua Park Courts,Park Rd,Beatrice,NE,68310,40.2585,-96.7485, Park,
+,1,Heritage Park Courts,S 4th Ave,Hastings,NE,68901,40.5785,-98.3885, Park,
+,1,Omaha Dewey Park Courts,550 Turner Blvd,Omaha,NE,68105,41.2589,-95.9612, Free,
+,1,Omaha Prairie Queen Recreation Area,132nd & Lincoln Rd,Omaha,NE,68138,41.1689,-96.1189, Free,
+,1,Omaha Roeser Park,4820 S 42nd St,Omaha,NE,68107,41.2112,-95.9789, Free,
+,1,Omaha Standing Bear Lake Park,6404 N 132nd St,Omaha,NE,68164,41.3189,-96.1189, Free,
+,1,Omaha Benson Park Courts,7002 Military Ave,Omaha,NE,68104,41.2912,-96.0212, Free,
+,1,Lincoln Peterson Park,4400 Southwood Dr,Lincoln,NE,68512,40.7589,-96.6612, Free,
+,1,Lincoln Woods Park,3301 J St,Lincoln,NE,68510,40.8089,-96.6712, Free,
+,1,Lincoln Eden Park,4400 Antelope Creek Rd,Lincoln,NE,68506,40.7812,-96.6589, Free,
+,1,Lincoln Roberts Park,56th & Sumner St,Lincoln,NE,68506,40.7989,-96.6412, Free,
+,1,Lincoln Ballard Park,3901 N 66th St,Lincoln,NE,68507,40.8412,-96.6289, Free,
+,1,Bellevue Everett Park,Betz Rd,Bellevue,NE,68005,41.1389,-95.9189, Free,
+,1,Grand Island Pier Park,500 S Stuhr Rd,Grand Island,NE,68801,40.9189,-98.3189, Free,
+,1,Grand Island Ryder Park,Old Potash Hwy,Grand Island,NE,68803,40.9312,-98.3689, Free,
+,1,Kearney Harmon Park,3100 5th Ave,Kearney,NE,68845,40.7012,-99.0889, Free,
+,1,Kearney Apollo Park,33rd St & 7th Ave,Kearney,NE,68845,40.7089,-99.0912, Free,
+,1,Fremont Ronin Park,1400 E 16th St,Fremont,NE,68025,41.4489,-96.4789, Free,
+,1,Hastings Libs Park,16th St & Colorado Ave,Hastings,NE,68901,40.6012,-98.3789, Free,
+,1,Norfolk Ta-Ha-Zouka Park,2201 S 13th St,Norfolk,NE,68701,42.0112,-97.4289, Free,
+,1,North Platte Cody Park,1400 N Jeffers St,North Platte,NE,69101,41.1512,-100.7589, Free,
+,1,Columbus Pawnee Park,3111 8th St,Columbus,NE,68601,41.4212,-97.3589, Free,
+,1,Papillion Halleck Park,Papillion Recreation Complex,Papillion,NE,68046,41.1589,-96.0412, Free,
+,1,La Vista City Park,8116 Park View Blvd,La Vista,NE,68128,41.1812,-96.0389, Free,
+,1,Scottsbluff Frank Park,26th St & 5th Ave,Scottsbluff,NE,69361,41.8712,-103.6589, Free,
+,1,South Sioux City Scenic Park,801 Riverview Dr,South Sioux City,NE,68776,42.4789,-96.4089, Free,
+,1,Beatrice Hannibal Park,Hoyt St,Beatrice,NE,68310,40.2589,-96.7389, Free,
+,1,Chalco Recreation Area Courts,S 154th St,Chalco,NE,68138,41.1712,-96.1512, Free,
+,1,Lexington Plum Creek Park,13th & Adams St,Lexington,NE,68850,40.7812,-99.7412, Free,
+,1,Gering Oregon Trail Park,10th & O St,Gering,NE,69341,41.8212,-103.6612, Free,
+,1,Alliance Central Park,10th & Yellowstone,Alliance,NE,69301,42.1012,-102.8712, Free,
+,1,Blair Youth Sports Complex,2100 Wright St,Blair,NE,68008,41.5389,-96.1312, Free,
+,1,York Harrison Park,E 7th St,York,NE,68467,40.8689,-97.5812, Free,
+,1,McCook Barnett Park,East 7th St,McCook,NE,69001,40.2012,-100.6189, Free,
+,1,Nebraska City Steinhart Park,Steinhart Park Rd,Nebraska City,NE,68410,40.6789,-95.8712, Free,
+,1,Seward Moffitt Park,South 6th St,Seward,NE,68434,40.9012,-97.0989, Free,
+,1,Crete Tuxedo Park,Tuxedo Park Rd,Crete,NE,68333,40.6212,-96.9589, Free,
+,1,Sidney Legion Park,11th Ave,Sidney,NE,69162,41.1412,-102.9712, Free,
+,1,Plattsmouth Garfield Park,4th Ave & 10th St,Plattsmouth,NE,68048,41.0089,-95.8889, Free,
+,1,Schuyler Merchant Park,E 12th St,Schuyler,NE,68661,41.4512,-97.0512, Free,
+,1,Ralston Oak Park,78th & Main St,Ralston,NE,68127,41.2012,-96.0312, Free,
+,1,Cozad Muny Park,E 8th St,Cozad,NE,69130,40.8589,-99.9789, Free,
+,1,Broken Bow Paul Brown Field Courts,S 9th Ave,Broken Bow,NE,68822,41.4012,-99.6412, Free,
+,1,Holdrege South Park,11th Ave,Holdrege,NE,68949,40.4389,-99.3712, Free,
+,1,Wayne Victor Park,E 10th St,Wayne,NE,68787,42.2289,-97.0089, Free,
+,1,Gothenburg Ehmen Park,16th St,Gothenburg,NE,69138,40.9312,-100.1589, Free,
+,1,Ogallala Western Park,W 7th St,Ogallala,NE,69153,41.1289,-101.7289, Free,
+,1,Fairbury City Park,F St,Fairbury,NE,68352,40.1412,-97.1789, Free,
+,1,Aurora Streeter Park,N 11th St,Aurora,NE,68818,40.8712,-98.0012, Free,
+,1,Falls City Stanton Lake Park,Barada St,Falls City,NE,68355,40.0612,-95.5989, Free,
+,1,West Point Neligh Park,Bridge St,West Point,NE,68788,41.8389,-96.7089, Free,
+,1,Valentine City Park,Green St,Valentine,NE,69201,42.8712,-100.5489, Free,
+,1,Chadron Finnegan Park,Main St,Chadron,NE,69337,42.8289,-103.0012, Free,
+,1,O'Neill Carney Park,E Adams St,O'Neill,NE,68763,42.4589,-98.6412, Free,
+,1,Geneva City Park,10th St,Geneva,NE,68361,40.5289,-97.6012, Free,
+,1,Kimball Gotte Park,S Elm St,Kimball,NE,69145,41.2312,-103.6612, Free,
+,1,Auburn Legion Park,19th St,Auburn,NE,68305,40.3889,-95.8412, Free,
+,1,Minden Chautauqua Park,Brown Ave,Minden,NE,68959,40.4989,-98.9512, Free,
+,1,Wahoo Hackberry Park,Hackberry St,Wahoo,NE,68066,41.2112,-96.6189, Free,
+,1,Waverly Wayne Park,140th St,Waverly,NE,68462,40.9112,-96.5312, Free,
+,1,Gretna North Park,Angus St,Gretna,NE,68028,41.1412,-96.2412, Free,
+,1,Elkhorn Ta-Ha-Zouka Park,North 204th St,Elkhorn,NE,68022,41.2812,-96.2389, Free,
+,1,Bennington Tim Ohrt Park,Warehouse St,Bennington,NE,68007,41.3689,-96.1589, Free,
+,1,Waterloo Firefighter's Memorial Park,River Rd,Waterloo,NE,68069,41.2889,-96.2812, Free,
+,1,Valley City Park,Vennelyst Dr,Valley,NE,68064,41.3112,-96.3489, Free,
+,1,Ashland Wiggenhorn Park,12th St,Ashland,NE,68003,41.0412,-96.3689, Free,
+,1,Milford City Park,Oak Ave,Milford,NE,68405,40.7712,-97.0512, Free,
+,1,David City City Park,N 5th St,David City,NE,68632,41.2589,-97.1289, Free,
+,1,Central City Clark Park,16th Ave,Central City,NE,68826,41.1112,-98.0012, Free,
+,1,St Paul City Park,Howard Ave,St Paul,NE,68873,41.2189,-98.4589, Free,
+,1,Ord Bussell Park,N 20th St,Ord,NE,68862,41.6089,-98.9289, Free,
+,1,Albion Fuller Park,Fairgrounds Rd,Albion,NE,68620,41.6912,-98.0012, Free,
+,1,Neligh Riverside Park,W 11th St,Neligh,NE,68756,42.1289,-98.0312, Free,
+,1,Pierce Gilman Park,E Main St,Pierce,NE,68767,42.1989,-97.5289, Free,
+,1,Hartington Felber Park,Broadway Ave,Hartington,NE,68739,42.6189,-97.2612, Free,
+,1,Ainsworth East Park,E 4th St,Ainsworth,NE,69210,42.5489,-99.8512, Free,
+,1,Gordon City Park,Main St,Gordon,NE,69343,42.8912,-102.2012, Free,

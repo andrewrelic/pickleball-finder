@@ -1,106 +1,106 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,Bend Pickleball Club,3750 NE Purcell Blvd,Bend,OR,97702,44.09127, -121.27339,"Business,https://livepickleballcourts.com/facilities/bend-pickleball-club"
-,1,1,The People's Courts,2700 NE 82nd Ave,Portland,OR,97220,45.5415, -122.5785,"Business,"
-,1,1,RECS Pickleball & Social,17015 SW 72nd Ave,Tualatin,OR,97224,45.3985, -122.7515,"Business,"
-,1,1,Sellwood Park Pickleball Courts,SE 7th Ave & Miller St,Portland,OR,97202,45.4715, -122.6545,"Park,"
-,1,1,Columbia Park Pickleball Complex,7701 N Chautauqua Blvd,Portland,OR,97217,45.5815, -122.7045,"Park,"
-,1,1,Mt. Tabor Park Courts,SE 60th Ave & Salmon St,Portland,OR,97215,45.5115, -122.5985,"Park,"
-,1,1,Gabriel Park Courts,SW 45th Ave & Vermont St,Portland,OR,97219,45.4785, -122.7185,"Park,"
-,1,1,Hamilton Park Courts,SW 45th Ave & Hamilton St,Portland,OR,97221,45.4985, -122.7185,"Park,"
-,1,1,Grant Park Courts,NE 33rd Ave & US Grant Pl,Portland,OR,97212,45.5385, -122.6315,"Park,"
-,1,1,Camille Park Pickleball Courts,SW Marjorie Ln,Beaverton,OR,97008,45.4545, -122.8085,"Park,"
-,1,1,Raleigh Park Courts,3500 SW 78th Ave,Portland,OR,97225,45.4945, -122.7585,"Park,"
-,1,1,Cedar Hills Park Courts,2300 SW Cedar Hills Blvd,Beaverton,OR,97005,45.5015, -122.8045,"Park,"
-,1,1,Shute Park Courts,750 SE 8th Ave,Hillsboro,OR,97123,45.5145, -122.9785,"Park,"
-,1,1,53rd Avenue Community Park,300 NE 53rd Ave,Hillsboro,OR,97124,45.5345, -122.9385,"Park,"
-,1,1,Summerlake Park Courts,11450 SW Winterlake Dr,Tigard,OR,97223,45.4385, -122.8015,"Park,"
-,1,1,Cook Park Pickleball Courts,17005 SW 92nd Ave,Tigard,OR,97224,45.3945, -122.7715,"Park,"
-,1,1,Ibach Park Courts,10455 SW Ibach St,Tualatin,OR,97224,45.3785, -122.7845,"Park,"
-,1,1,George Rogers Park,611 S State St,Lake Oswego,OR,97034,45.4115, -122.6615,"Park,"
-,1,1,Highland Park Courts,Highland Dr,Oregon City,OR,97045,45.3445, -122.5845,"Park,"
-,1,1,Woodmansee Park Pickleball Complex,4629 Sunnyside Rd SE,Salem,OR,97302,44.8915, -123.0315,"Park,"
-,1,1,Highland Park Salem,Broadway St NE,Salem,OR,97301,44.9585, -123.0285,"Park,"
-,1,1,Bush's Pasture Park Courts,Mission St SE,Salem,OR,97302,44.9315, -123.0385,"Park,"
-,1,1,Meadow Park Pickleball Courts,851 5th St,Springfield,OR,97477,44.0515, -123.0245,"Park,"
-,1,1,Westmoreland Park Courts,2100 W 22nd Ave,Eugene,OR,97405,44.0385, -123.1285,"Park,"
-,1,1,Amazon Park Pickleball Courts,Amazon Pkwy & E 24th Ave,Eugene,OR,97405,44.0345, -123.0845,"Park,"
-,1,1,Pine Nursery Park Pickleball Complex,3750 NE Purcell Blvd,Bend,OR,97701,44.0885, -121.2685,"Park,"
-,1,1,Quarry Park Courts,Quarry Ave,Bend,OR,97701,44.0685, -121.3215,"Park,"
-,1,1,Fichtner-Mainwaring Park Courts,334 Holmes Ave,Medford,OR,97501,42.3115, -122.8685,"Park,"
-,1,1,Lithia Park Courts,Winburn Way,Ashland,OR,97520,42.1885, -122.7145,"Park,"
-,1,1,Sunset Park Courts,"Corvallis, OR",Corvallis,OR,97333,44.5445, -123.2785,"Park,"
-,1,1,Portland Sellwood Park,SE 7th Ave & Miller St,Portland,OR,97202,45.4689, -122.6512,"Free,"
-,1,1,Portland Columbia Park,4339 N Lombard St,Portland,OR,97203,45.5812, -122.7112,"Free,"
-,1,1,Portland Mt. Tabor Park Courts,SE 60th Ave & Salmon St,Portland,OR,97215,45.5112, -122.5989,"Free,"
-,1,1,Portland Gabriel Park,SW 45th Ave & Vermont St,Portland,OR,97219,45.4789, -122.7189,"Free,"
-,1,1,Eugene Meadow Park,Dale St,Eugene,OR,97404,44.1012, -123.1289,"Free,"
-,1,1,Eugene Westmoreland Park Courts,W 22nd Ave & Polk St,Eugene,OR,97405,44.0389, -123.1112,"Free,"
-,1,1,Eugene Amazon Park,2700 Hilyard St,Eugene,OR,97405,44.0289, -123.0812,"Free,"
-,1,1,Salem Highland Park Courts,Broadway St NE,Salem,OR,97301,44.9589, -123.0289,"Free,"
-,1,1,Salem Bush's Pasture Park,890 Mission St SE,Salem,OR,97302,44.9312, -123.0389,"Free,"
-,1,1,Salem Woodmansee Park,4629 Sunnyside Rd SE,Salem,OR,97302,44.8889, -123.0312,"Free,"
-,1,1,Bend Pine Nursery Park Courts,3750 NE Purcell Blvd,Bend,OR,97701,44.0789, -121.2789,"Free,"
-,1,1,Bend Larkspur Community Center Courts,1600 SE Reed Market Rd,Bend,OR,97702,44.0489, -121.2889,"Community,"
-,1,1,Hillsboro 53rd Avenue Community Park,333 NE 53rd Ave,Hillsboro,OR,97124,45.5312, -122.9312,"Free,"
-,1,1,Hillsboro Shute Park,750 SE 8th Ave,Hillsboro,OR,97123,45.5112, -122.9789,"Free,"
-,1,1,Beaverton Cedar Hills Park,2300 SW Cedar Hills Blvd,Beaverton,OR,97005,45.4989, -122.8012,"Free,"
-,1,1,Beaverton Conestoga Recreation Courts,9985 SW 125th Ave,Beaverton,OR,97008,45.4489, -122.8089,"Community,"
-,1,1,Medford Fichtner-Mainwaring Park,334 Holmes Ave,Medford,OR,97501,42.3112, -122.8689,"Free,"
-,1,1,Medford Bear Creek Park,1520 Siskiyou Blvd,Medford,OR,97504,42.3212, -122.8512,"Free,"
-,1,1,Corvallis Avery Park,1200 SW Avery Park Dr,Corvallis,OR,97333,44.5512, -123.2712,"Free,"
-,1,1,Corvallis Cloverland Park,NW Garfield Ave,Corvallis,OR,97330,44.5889, -123.2812,"Free,"
-,1,1,Springfield Willamalane Center Courts,250 S 32nd St,Springfield,OR,97478,44.0412, -122.9889,"Community,"
-,1,1,Springfield Bob Keefer Center Courts,250 S 32nd St,Springfield,OR,97478,44.0423, -122.9876,"Community,"
-,1,1,Tigard Cook Park,17005 SW 92nd Ave,Tigard,OR,97224,45.3989, -122.7712,"Free,"
-,1,1,Albany Timber-Linn Memorial Park,900 Price Rd SE,Albany,OR,97322,44.6389, -123.0612,"Free,"
-,1,1,Lake Oswego George Rogers Park,611 S State St,Lake Oswego,OR,97034,45.4112, -122.6612,"Free,"
-,1,1,Keizer Carlson Skate & Pickleball Park,4000 Rickman Rd NE,Keizer,OR,97303,45.0089, -123.0189,"Free,"
-,1,1,Grants Pass Morrison Centennial Park,Rogue River Hwy,Grants Pass,OR,97526,42.4289, -123.3112,"Free,"
-,1,1,Oregon City Rivercrest Park,131 Park Dr,Oregon City,OR,97045,45.3489, -122.5989,"Free,"
-,1,1,Redmond Sam Johnson Park,333 SW 15th St,Redmond,OR,97756,44.2712, -121.1789,"Free,"
-,1,1,McMinnville Discovery Meadows Park,NW Meadows Dr,McMinnville,OR,97128,45.2289, -123.2189,"Free,"
-,1,1,Tualatin Community Park,8515 SW Tualatin Rd,Tualatin,OR,97062,45.3889, -122.7689,"Free,"
-,1,1,West Linn Tanner Creek Park,3456 Parker Rd,West Linn,OR,97068,45.3589, -122.6312,"Free,"
-,1,1,Woodburn Centennial Park,900 Parr Rd,Woodburn,OR,97071,45.1489, -122.8489,"Free,"
-,1,1,Forest Grove Thatcher Park,David Hill Rd,Forest Grove,OR,97116,45.5312, -123.1189,"Free,"
-,1,1,Newberg Ewing Young Park,1201 S Blaine St,Newberg,OR,97132,45.2912, -122.9789,"Free,"
-,1,1,Roseburg Stewart Park,1005 W Stewart Park Dr,Roseburg,OR,97471,43.2189, -123.3612,"Free,"
-,1,1,Klamath Falls Steen Sports Park,4500 Foothills Blvd,Klamath Falls,OR,97603,42.2412, -121.7389,"Free,"
-,1,1,Ashland Hunter Park,1699 Homes Ave,Ashland,OR,97520,42.1889, -122.6989,"Free,"
-,1,1,Wilsonville Memorial Park,8100 SW Memorial Dr,Wilsonville,OR,97070,45.2989, -122.7612,"Free,"
-,1,1,Sherwood Snyder Park,15365 SW Sunset Blvd,Sherwood,OR,97140,45.3612, -122.8489,"Free,"
-,1,1,Central Point Pfaff Park,635 Manzanita St,Central Point,OR,97502,42.3789, -122.9189,"Free,"
-,1,1,Hermiston Riverfront Park,N 1st St,Hermiston,OR,97838,45.8489, -119.2889,"Free,"
-,1,1,Pendleton Community Park,SW 37th St,Pendleton,OR,97801,45.6612, -118.8289,"Free,"
-,1,1,Canby Maple Street Park,S Maple St,Canby,OR,97013,45.2589, -122.6889,"Free,"
-,1,1,Troutdale Columbia Park,SW Cherry Park Rd,Troutdale,OR,97060,45.5389, -122.3989,"Free,"
-,1,1,Coos Bay Mingus Park,10th & Commercial,Coos Bay,OR,97420,43.3712, -124.2212,"Free,"
-,1,1,Dallas City Park,SW Brandvold Dr,Dallas,OR,97338,44.9189, -123.3212,"Free,"
-,1,1,Sandy Meinig Memorial Park,39655 Pleasant St,Sandy,OR,97055,45.3989, -122.2589,"Free,"
-,1,1,St Helens McCormick Park,Old Portland Rd,St Helens,OR,97051,45.8589, -122.8189,"Free,"
-,1,1,Ontario Lions Park,SW 3rd Ave,Ontario,OR,97914,44.0289, -116.9689,"Free,"
-,1,1,The Dalles Sorosis Park,Scenic Dr,The Dalles,OR,97058,45.5912, -121.1889,"Free,"
-,1,1,Cornelius Free Orchards Park,S Heather St,Cornelius,OR,97113,45.5189, -123.0589,"Free,"
-,1,1,Gladstone Max Patterson Memorial Park,Elm St,Gladstone,OR,97027,45.3812, -122.5889,"Free,"
-,1,1,La Grande Pioneer Park,Silver St,La Grande,OR,97850,45.3289, -118.0989,"Free,"
-,1,1,Silverton Coolidge-McClaine Park,Coolidge St,Silverton,OR,97381,45.0089, -122.7889,"Free,"
-,1,1,Brookings Azalea Park,North Bank Chetco River Rd,Brookings,OR,97415,42.0589, -124.2712,"Free,"
-,1,1,Prineville Stryker Park,NW 4th St,Prineville,OR,97754,44.3012, -120.8512,"Free,"
-,1,1,Monmouth Gentle Woods Park,Highland Dr,Monmouth,OR,97361,44.8489, -123.2389,"Free,"
-,1,1,Cottage Grove Bohemia Park,S 10th St,Cottage Grove,OR,97424,43.7912, -123.0612,"Free,"
-,1,1,Scappoose Heritage Park,SW 1st St,Scappoose,OR,97056,45.7589, -122.8789,"Free,"
-,1,1,Seaside Broadway Park,1300 Broadway St,Seaside,OR,97138,45.9912, -123.9189,"Free,"
-,1,1,Florence Miller Park,1651 18th St,Florence,OR,97439,44.0012, -124.1112,"Free,"
-,1,1,Lincoln City Dorchester Park,NW 28th St,Lincoln City,OR,97367,44.9789, -124.0112,"Free,"
-,1,1,Madras Sahalee Park,SE 7th St,Madras,OR,97741,44.6312, -121.1289,"Free,"
-,1,1,Sweet Home Northside Park,Mountain View Dr,Sweet Home,OR,97386,44.4012, -122.7389,"Free,"
-,1,1,Stayton Community Center Courts,400 W Virginia St,Stayton,OR,97383,44.7989, -122.7989,"Community,"
-,1,1,Sutherlin Central Park,Central Ave,Sutherlin,OR,97479,43.3889, -123.3189,"Free,"
-,1,1,Eagle Point Mattie Brown Park,Main St,Eagle Point,OR,97524,42.4712, -122.8012,"Free,"
-,1,1,Hood River Collins Field Courts,May St,Hood River,OR,97031,45.7089, -121.5212,"Free,"
-,1,1,Molalla Clark Park,Mathis Pkwy,Molalla,OR,97038,45.1489, -122.5789,"Free,"
-,1,1,Astoria Tapiola Park,W Marine Dr,Astoria,OR,97103,46.1812, -123.8412,"Free,"
-,1,1,Independence Riverview Park,C St,Independence,OR,97351,44.8512, -123.1812,"Free,"
-,1,1,North Bend Ferry Park,Clark St,North Bend,OR,97459,43.4089, -124.2289,"Free,"
-,1,1,Newport Frank Wade Park,NE 7th St,Newport,OR,97365,44.6412, -124.0489,"Free,"
-,1,1,Bandon City Park,11th St SW,Bandon,OR,97411,43.1189, -124.4189,"Free,"
+,1,Bend Pickleball Club,3750 NE Purcell Blvd,Bend,OR,97702,44.09127,-121.27339," Business,https://livepickleballcourts.com/facilities/bend-pickleball-club",
+,1,The People's Courts,2700 NE 82nd Ave,Portland,OR,97220,45.5415,-122.5785, Business,
+,1,RECS Pickleball & Social,17015 SW 72nd Ave,Tualatin,OR,97224,45.3985,-122.7515, Business,
+,1,Sellwood Park Pickleball Courts,SE 7th Ave & Miller St,Portland,OR,97202,45.4715,-122.6545, Park,
+,1,Columbia Park Pickleball Complex,7701 N Chautauqua Blvd,Portland,OR,97217,45.5815,-122.7045, Park,
+,1,Mt. Tabor Park Courts,SE 60th Ave & Salmon St,Portland,OR,97215,45.5115,-122.5985, Park,
+,1,Gabriel Park Courts,SW 45th Ave & Vermont St,Portland,OR,97219,45.4785,-122.7185, Park,
+,1,Hamilton Park Courts,SW 45th Ave & Hamilton St,Portland,OR,97221,45.4985,-122.7185, Park,
+,1,Grant Park Courts,NE 33rd Ave & US Grant Pl,Portland,OR,97212,45.5385,-122.6315, Park,
+,1,Camille Park Pickleball Courts,SW Marjorie Ln,Beaverton,OR,97008,45.4545,-122.8085, Park,
+,1,Raleigh Park Courts,3500 SW 78th Ave,Portland,OR,97225,45.4945,-122.7585, Park,
+,1,Cedar Hills Park Courts,2300 SW Cedar Hills Blvd,Beaverton,OR,97005,45.5015,-122.8045, Park,
+,1,Shute Park Courts,750 SE 8th Ave,Hillsboro,OR,97123,45.5145,-122.9785, Park,
+,1,53rd Avenue Community Park,300 NE 53rd Ave,Hillsboro,OR,97124,45.5345,-122.9385, Park,
+,1,Summerlake Park Courts,11450 SW Winterlake Dr,Tigard,OR,97223,45.4385,-122.8015, Park,
+,1,Cook Park Pickleball Courts,17005 SW 92nd Ave,Tigard,OR,97224,45.3945,-122.7715, Park,
+,1,Ibach Park Courts,10455 SW Ibach St,Tualatin,OR,97224,45.3785,-122.7845, Park,
+,1,George Rogers Park,611 S State St,Lake Oswego,OR,97034,45.4115,-122.6615, Park,
+,1,Highland Park Courts,Highland Dr,Oregon City,OR,97045,45.3445,-122.5845, Park,
+,1,Woodmansee Park Pickleball Complex,4629 Sunnyside Rd SE,Salem,OR,97302,44.8915,-123.0315, Park,
+,1,Highland Park Salem,Broadway St NE,Salem,OR,97301,44.9585,-123.0285, Park,
+,1,Bush's Pasture Park Courts,Mission St SE,Salem,OR,97302,44.9315,-123.0385, Park,
+,1,Meadow Park Pickleball Courts,851 5th St,Springfield,OR,97477,44.0515,-123.0245, Park,
+,1,Westmoreland Park Courts,2100 W 22nd Ave,Eugene,OR,97405,44.0385,-123.1285, Park,
+,1,Amazon Park Pickleball Courts,Amazon Pkwy & E 24th Ave,Eugene,OR,97405,44.0345,-123.0845, Park,
+,1,Pine Nursery Park Pickleball Complex,3750 NE Purcell Blvd,Bend,OR,97701,44.0885,-121.2685, Park,
+,1,Quarry Park Courts,Quarry Ave,Bend,OR,97701,44.0685,-121.3215, Park,
+,1,Fichtner-Mainwaring Park Courts,334 Holmes Ave,Medford,OR,97501,42.3115,-122.8685, Park,
+,1,Lithia Park Courts,Winburn Way,Ashland,OR,97520,42.1885,-122.7145, Park,
+,1,Sunset Park Courts,"Corvallis, OR",Corvallis,OR,97333,44.5445,-123.2785, Park,
+,1,Portland Sellwood Park,SE 7th Ave & Miller St,Portland,OR,97202,45.4689,-122.6512, Free,
+,1,Portland Columbia Park,4339 N Lombard St,Portland,OR,97203,45.5812,-122.7112, Free,
+,1,Portland Mt. Tabor Park Courts,SE 60th Ave & Salmon St,Portland,OR,97215,45.5112,-122.5989, Free,
+,1,Portland Gabriel Park,SW 45th Ave & Vermont St,Portland,OR,97219,45.4789,-122.7189, Free,
+,1,Eugene Meadow Park,Dale St,Eugene,OR,97404,44.1012,-123.1289, Free,
+,1,Eugene Westmoreland Park Courts,W 22nd Ave & Polk St,Eugene,OR,97405,44.0389,-123.1112, Free,
+,1,Eugene Amazon Park,2700 Hilyard St,Eugene,OR,97405,44.0289,-123.0812, Free,
+,1,Salem Highland Park Courts,Broadway St NE,Salem,OR,97301,44.9589,-123.0289, Free,
+,1,Salem Bush's Pasture Park,890 Mission St SE,Salem,OR,97302,44.9312,-123.0389, Free,
+,1,Salem Woodmansee Park,4629 Sunnyside Rd SE,Salem,OR,97302,44.8889,-123.0312, Free,
+,1,Bend Pine Nursery Park Courts,3750 NE Purcell Blvd,Bend,OR,97701,44.0789,-121.2789, Free,
+,1,Bend Larkspur Community Center Courts,1600 SE Reed Market Rd,Bend,OR,97702,44.0489,-121.2889, Community,
+,1,Hillsboro 53rd Avenue Community Park,333 NE 53rd Ave,Hillsboro,OR,97124,45.5312,-122.9312, Free,
+,1,Hillsboro Shute Park,750 SE 8th Ave,Hillsboro,OR,97123,45.5112,-122.9789, Free,
+,1,Beaverton Cedar Hills Park,2300 SW Cedar Hills Blvd,Beaverton,OR,97005,45.4989,-122.8012, Free,
+,1,Beaverton Conestoga Recreation Courts,9985 SW 125th Ave,Beaverton,OR,97008,45.4489,-122.8089, Community,
+,1,Medford Fichtner-Mainwaring Park,334 Holmes Ave,Medford,OR,97501,42.3112,-122.8689, Free,
+,1,Medford Bear Creek Park,1520 Siskiyou Blvd,Medford,OR,97504,42.3212,-122.8512, Free,
+,1,Corvallis Avery Park,1200 SW Avery Park Dr,Corvallis,OR,97333,44.5512,-123.2712, Free,
+,1,Corvallis Cloverland Park,NW Garfield Ave,Corvallis,OR,97330,44.5889,-123.2812, Free,
+,1,Springfield Willamalane Center Courts,250 S 32nd St,Springfield,OR,97478,44.0412,-122.9889, Community,
+,1,Springfield Bob Keefer Center Courts,250 S 32nd St,Springfield,OR,97478,44.0423,-122.9876, Community,
+,1,Tigard Cook Park,17005 SW 92nd Ave,Tigard,OR,97224,45.3989,-122.7712, Free,
+,1,Albany Timber-Linn Memorial Park,900 Price Rd SE,Albany,OR,97322,44.6389,-123.0612, Free,
+,1,Lake Oswego George Rogers Park,611 S State St,Lake Oswego,OR,97034,45.4112,-122.6612, Free,
+,1,Keizer Carlson Skate & Pickleball Park,4000 Rickman Rd NE,Keizer,OR,97303,45.0089,-123.0189, Free,
+,1,Grants Pass Morrison Centennial Park,Rogue River Hwy,Grants Pass,OR,97526,42.4289,-123.3112, Free,
+,1,Oregon City Rivercrest Park,131 Park Dr,Oregon City,OR,97045,45.3489,-122.5989, Free,
+,1,Redmond Sam Johnson Park,333 SW 15th St,Redmond,OR,97756,44.2712,-121.1789, Free,
+,1,McMinnville Discovery Meadows Park,NW Meadows Dr,McMinnville,OR,97128,45.2289,-123.2189, Free,
+,1,Tualatin Community Park,8515 SW Tualatin Rd,Tualatin,OR,97062,45.3889,-122.7689, Free,
+,1,West Linn Tanner Creek Park,3456 Parker Rd,West Linn,OR,97068,45.3589,-122.6312, Free,
+,1,Woodburn Centennial Park,900 Parr Rd,Woodburn,OR,97071,45.1489,-122.8489, Free,
+,1,Forest Grove Thatcher Park,David Hill Rd,Forest Grove,OR,97116,45.5312,-123.1189, Free,
+,1,Newberg Ewing Young Park,1201 S Blaine St,Newberg,OR,97132,45.2912,-122.9789, Free,
+,1,Roseburg Stewart Park,1005 W Stewart Park Dr,Roseburg,OR,97471,43.2189,-123.3612, Free,
+,1,Klamath Falls Steen Sports Park,4500 Foothills Blvd,Klamath Falls,OR,97603,42.2412,-121.7389, Free,
+,1,Ashland Hunter Park,1699 Homes Ave,Ashland,OR,97520,42.1889,-122.6989, Free,
+,1,Wilsonville Memorial Park,8100 SW Memorial Dr,Wilsonville,OR,97070,45.2989,-122.7612, Free,
+,1,Sherwood Snyder Park,15365 SW Sunset Blvd,Sherwood,OR,97140,45.3612,-122.8489, Free,
+,1,Central Point Pfaff Park,635 Manzanita St,Central Point,OR,97502,42.3789,-122.9189, Free,
+,1,Hermiston Riverfront Park,N 1st St,Hermiston,OR,97838,45.8489,-119.2889, Free,
+,1,Pendleton Community Park,SW 37th St,Pendleton,OR,97801,45.6612,-118.8289, Free,
+,1,Canby Maple Street Park,S Maple St,Canby,OR,97013,45.2589,-122.6889, Free,
+,1,Troutdale Columbia Park,SW Cherry Park Rd,Troutdale,OR,97060,45.5389,-122.3989, Free,
+,1,Coos Bay Mingus Park,10th & Commercial,Coos Bay,OR,97420,43.3712,-124.2212, Free,
+,1,Dallas City Park,SW Brandvold Dr,Dallas,OR,97338,44.9189,-123.3212, Free,
+,1,Sandy Meinig Memorial Park,39655 Pleasant St,Sandy,OR,97055,45.3989,-122.2589, Free,
+,1,St Helens McCormick Park,Old Portland Rd,St Helens,OR,97051,45.8589,-122.8189, Free,
+,1,Ontario Lions Park,SW 3rd Ave,Ontario,OR,97914,44.0289,-116.9689, Free,
+,1,The Dalles Sorosis Park,Scenic Dr,The Dalles,OR,97058,45.5912,-121.1889, Free,
+,1,Cornelius Free Orchards Park,S Heather St,Cornelius,OR,97113,45.5189,-123.0589, Free,
+,1,Gladstone Max Patterson Memorial Park,Elm St,Gladstone,OR,97027,45.3812,-122.5889, Free,
+,1,La Grande Pioneer Park,Silver St,La Grande,OR,97850,45.3289,-118.0989, Free,
+,1,Silverton Coolidge-McClaine Park,Coolidge St,Silverton,OR,97381,45.0089,-122.7889, Free,
+,1,Brookings Azalea Park,North Bank Chetco River Rd,Brookings,OR,97415,42.0589,-124.2712, Free,
+,1,Prineville Stryker Park,NW 4th St,Prineville,OR,97754,44.3012,-120.8512, Free,
+,1,Monmouth Gentle Woods Park,Highland Dr,Monmouth,OR,97361,44.8489,-123.2389, Free,
+,1,Cottage Grove Bohemia Park,S 10th St,Cottage Grove,OR,97424,43.7912,-123.0612, Free,
+,1,Scappoose Heritage Park,SW 1st St,Scappoose,OR,97056,45.7589,-122.8789, Free,
+,1,Seaside Broadway Park,1300 Broadway St,Seaside,OR,97138,45.9912,-123.9189, Free,
+,1,Florence Miller Park,1651 18th St,Florence,OR,97439,44.0012,-124.1112, Free,
+,1,Lincoln City Dorchester Park,NW 28th St,Lincoln City,OR,97367,44.9789,-124.0112, Free,
+,1,Madras Sahalee Park,SE 7th St,Madras,OR,97741,44.6312,-121.1289, Free,
+,1,Sweet Home Northside Park,Mountain View Dr,Sweet Home,OR,97386,44.4012,-122.7389, Free,
+,1,Stayton Community Center Courts,400 W Virginia St,Stayton,OR,97383,44.7989,-122.7989, Community,
+,1,Sutherlin Central Park,Central Ave,Sutherlin,OR,97479,43.3889,-123.3189, Free,
+,1,Eagle Point Mattie Brown Park,Main St,Eagle Point,OR,97524,42.4712,-122.8012, Free,
+,1,Hood River Collins Field Courts,May St,Hood River,OR,97031,45.7089,-121.5212, Free,
+,1,Molalla Clark Park,Mathis Pkwy,Molalla,OR,97038,45.1489,-122.5789, Free,
+,1,Astoria Tapiola Park,W Marine Dr,Astoria,OR,97103,46.1812,-123.8412, Free,
+,1,Independence Riverview Park,C St,Independence,OR,97351,44.8512,-123.1812, Free,
+,1,North Bend Ferry Park,Clark St,North Bend,OR,97459,43.4089,-124.2289, Free,
+,1,Newport Frank Wade Park,NE 7th St,Newport,OR,97365,44.6412,-124.0489, Free,
+,1,Bandon City Park,11th St SW,Bandon,OR,97411,43.1189,-124.4189, Free,

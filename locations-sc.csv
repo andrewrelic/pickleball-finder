@@ -1,112 +1,112 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,Litchfield Pickleball,97 Hawthorn Dr,Pawleys Island,SC,29585,33.4729, -79.1083,"Business,https://livepickleballcourts.com/facilities/litchfield-pickleball"
-,1,1,Crush Yard Pickleball Club & Restaurant,3351 Bessemer Rd,Mount Pleasant,SC,29466,32.8645, -79.7945,"Business,"
-,1,1,The Pickle Bar,162 Harrell Dr,Summerville,SC,29483,33.0285, -80.1785,"Business,"
-,1,1,Palmetto Dunes Tennis & Pickleball Center,4 Trent Jones Ln,Hilton Head Island,SC,29928,32.1815, -80.7285,"Business,"
-,1,1,South Beach Racquet Club,232 S Sea Pines Dr,Hilton Head Island,SC,29928,32.1285, -80.8145,"Business,"
-,1,1,Shipyard Racquet Club,116 Shipyard Dr,Hilton Head Island,SC,29928,32.1515, -80.7515,"Business,"
-,1,1,Van Der Meer Tennis & Pickleball,19 Deallyon Ave,Hilton Head Island,SC,29928,32.1445, -80.7615,"Business,"
-,1,1,Charleston Tennis & Pickleball Center,19 Farmfield Ave,Charleston,SC,29407,32.7785, -79.9885,"Park,"
-,1,1,Maybank Tennis & Pickleball Center,1926 Maybank Hwy,Charleston,SC,29412,32.7585, -79.9815,"Park,"
-,1,1,Park West Recreation Complex,1251 Park West Blvd,Mount Pleasant,SC,29466,32.8845, -79.7985,"Park,"
-,1,1,Roy Anderson Recreation Center,501 Roy Anderson Pkwy,Mount Pleasant,SC,29464,32.8215, -79.8715,"Park,"
-,1,1,Collins Park Courts,4155 Fell Ave,North Charleston,SC,29405,32.8715, -79.9915,"Park,"
-,1,1,Doty Park Pickleball Courts,320 N Laurel St,Summerville,SC,29483,33.0215, -80.1745,"Park,"
-,1,1,Midland Park Courts,2229 Midland Park Rd,North Charleston,SC,29406,32.9345, -80.0385,"Park,"
-,1,1,North Lake Park Courts,1175 Riverland Dr,James Island,SC,29412,32.7315, -79.9685,"Park,"
-,1,1,Midway Park Pickleball Complex,500 19th Ave S,Myrtle Beach,SC,29577,33.6785, -78.9085,"Park,"
-,1,1,Central Park Courts,1400 Outrigger Rd,Myrtle Beach,SC,29577,33.7085, -78.8785,"Park,"
-,1,1,J. Bryan Floyd Community Center,1030 Possum Trot Rd,North Myrtle Beach,SC,29582,33.8215, -78.6885,"Park,"
-,1,1,North Myrtle Beach Sports Complex,150 Citizens Cir,Little River,SC,29582,33.8445, -78.6815,"Park,"
-,1,1,Socastee Recreation Park,7485 Butler Rd,Myrtle Beach,SC,29588,33.6845, -79.0045,"Park,"
-,1,1,Southeast Park Pickleball Courts,951 Hazelwood Rd,Columbia,SC,29209,33.9785, -80.9315,"Park,"
-,1,1,Owens Field Park,1351 Jim Hamilton Blvd,Columbia,SC,29205,33.9745, -81.0085,"Park,"
-,1,1,Earlewood Park Courts,1113 Recreation Dr,Columbia,SC,29201,34.0245, -81.0485,"Park,"
-,1,1,Seven Oaks Park Courts,200 Leisure Ln,Columbia,SC,29210,34.0545, -81.1385,"Park,"
-,1,1,Crooked Creek Park,1048 Park Creek Dr,Chapin,SC,29036,34.1615, -81.3385,"Park,"
-,1,1,Lexington County Tennis & Pickleball,425 Oak Dr,Lexington,SC,29073,33.9845, -81.2385,"Park,"
-,1,1,Timmons Park Pickleball Courts,121 Oxford St,Greenville,SC,29607,34.8615, -82.3685,"Park,"
-,1,1,North Main Athletic Complex,1078 E Butler Rd,Greenville,SC,29607,34.8085, -82.3115,"Park,"
-,1,1,Gower Estates Park,24 Evelyn Ave,Greenville,SC,29607,34.8315, -82.3515,"Park,"
-,1,1,Century Park Courts,3605 Brushy Creek Rd,Greer,SC,29650,34.9245, -82.2585,"Park,"
-,1,1,Tyger River Park Courts,179 Dillard Rd,Duncan,SC,29334,34.8985, -82.0785,"Park,"
-,1,1,Cleveland Park Spartanburg,141 N Cleveland Park Dr,Spartanburg,SC,29303,34.9615, -81.9345,"Park,"
-,1,1,Southside Park Courts,417 S Church St,Spartanburg,SC,29306,34.9385, -81.9285,"Park,"
-,1,1,Cherry Park Courts,1466 Cherry Rd,Rock Hill,SC,29732,34.9615, -81.0185,"Park,"
-,1,1,Manchester Meadows Park,337 Mt Gallant Rd,Rock Hill,SC,29730,34.9815, -80.9985,"Park,"
-,1,1,James Island County Park Courts,871 Riverland Dr,Charleston,SC,29412,32.7385, -79.9915,"Park,"
-,1,1,Johns Island County Park Courts,2662 Mullet Hall Rd,Johns Island,SC,29455,32.6845, -80.1285,"Park,"
-,1,1,Moultrie Middle School Courts,645 Coleman Blvd,Mount Pleasant,SC,29464,32.7985, -79.8785,"Park,"
-,1,1,Wando High School Community Courts,1000 Warrior Way,Mount Pleasant,SC,29466,32.8685, -79.7915,"Park,"
-,1,1,Daniel Island Recreation Center,160 Fairbanks Dr,Charleston,SC,29492,32.8615, -79.9185,"Park,"
-,1,1,Governor's Park Daniel Island,165 Seven Farms Dr,Charleston,SC,29492,32.8645, -79.9085,"Park,"
-,1,1,Hanahan Recreation Complex,3100 Mabeline Rd,Hanahan,SC,29410,32.9185, -80.0085,"Park,"
-,1,1,Goose Creek Community Center Courts,519 N Goose Creek Blvd,Goose Creek,SC,29445,32.9915, -80.0385,"Park,"
-,1,1,Central Creek Park Courts,147 Old Moncks Corner Rd,Goose Creek,SC,29445,33.0015, -80.0345,"Park,"
-,1,1,Moncks Corner Regional Recreation Complex,418 E Main St,Moncks Corner,SC,29461,33.1985, -79.9985,"Park,"
-,1,1,St. Andrews Parks & Playground,1095 Playground Rd,Charleston,SC,29407,32.7915, -80.0045,"Park,"
-,1,1,Ackerman Park Courts,55 Sycamore Ave,Charleston,SC,29407,32.7845, -80.0015,"Park,"
-,1,1,Bees Landing Recreation Center,1580 Ashley Garden Blvd,Charleston,SC,29414,32.8185, -80.0845,"Park,"
-,1,1,Wescott Park Courts,9006 Dorchester Rd,North Charleston,SC,29420,32.9545, -80.1285,"Park,"
-,1,1,Azalea Park Summerville,105 S Main St,Summerville,SC,29483,33.0185, -80.1785,"Park,"
-,1,1,Gahagan Park Courts,515 W Boundary St,Summerville,SC,29485,33.0115, -80.1985,"Park,"
-,1,1,Grand Park Recreation Complex,1011 Crabtree Ln,Myrtle Beach,SC,29577,33.6615, -78.9415,"Park,"
-,1,1,Matt Hughes Skate & Pickleball Park,10th Ave N,Myrtle Beach,SC,29577,33.6985, -78.8815,"Park,"
-,1,1,Pepper Geddings Recreation Center,3205 N Oak St,Myrtle Beach,SC,29577,33.7145, -78.8685,"Park,"
-,1,1,Martin Field Courts,"Myrtle Beach, SC",Myrtle Beach,SC,29577,33.6845, -78.8985,"Park,"
-,1,1,Surfside Beach Tennis & Pickleball,Martin Dr,Surfside Beach,SC,29575,33.6115, -78.9745,"Park,"
-,1,1,South Strand Recreation Center,9650 Scipio Ln,Myrtle Beach,SC,29588,33.6285, -78.9985,"Park,"
-,1,1,Carolina Forest Recreation Center,2254 Carolina Forest Blvd,Myrtle Beach,SC,29579,33.7545, -78.9485,"Park,"
-,1,1,Conway Recreation Center Courts,1515 Mill Pond Rd,Conway,SC,29527,33.8345, -79.0685,"Park,"
-,1,1,Georgetown County Parks & Rec Courts,83 Screven St,Georgetown,SC,29440,33.3645, -79.2885,"Park,"
-,1,1,Murrells Inlet Community Center Courts,4460 Murrells Inlet Rd,Murrells Inlet,SC,29576,33.5515, -79.0485,"Park,"
-,1,1,Barker Field Pickleball Courts,Mitchelville Rd,Hilton Head Island,SC,29926,32.2285, -80.6985,"Park,"
-,1,1,Old Schoolhouse Park Courts,152 Squire Pope Rd,Hilton Head Island,SC,29926,32.2145, -80.7415,"Park,"
-,1,1,Crossings Park Courts,4 Helmer Rd,Hilton Head Island,SC,29928,32.1645, -80.7585,"Park,"
-,1,1,Bluffton Center Courts,Goethe Rd,Bluffton,SC,29910,32.2385, -80.8615,"Park,"
-,1,1,Oscar Frazier Park Courts,77 Shults Rd,Bluffton,SC,29910,32.2415, -80.8545,"Park,"
-,1,1,Buckwalter Recreation Center,905 Buckwalter Pkwy,Bluffton,SC,29910,32.2785, -80.8885,"Park,"
-,1,1,Beaufort Tennis & Pickleball Courts,Boundary St,Beaufort,SC,29902,32.4385, -80.6885,"Park,"
-,1,1,Burton Wells Recreation Center,1 Middleton Recreation Dr,Beaufort,SC,29906,32.4515, -80.7415,"Park,"
-,1,1,Port Royal Tennis & Pickleball Courts,Richmond Ave,Port Royal,SC,29935,32.3785, -80.6915,"Park,"
-,1,1,Trenholm Park Pickleball Complex,3900 Covenant Rd,Columbia,SC,29204,34.0285, -80.9615,"Park,"
-,1,1,Heathwood Park Courts,800 Abelia Rd,Columbia,SC,29205,33.9985, -80.9985,"Park,"
-,1,1,Melrose Park Courts,1500 Fairview Rd,Columbia,SC,29205,33.9885, -80.9915,"Park,"
-,1,1,Woodland Park Courts,6500 Old Knight Pkwy,Columbia,SC,29209,33.9845, -80.9415,"Park,"
-,1,1,St. Andrews Park Courts,920 Beatty Rd,Columbia,SC,29210,34.0415, -81.1185,"Park,"
-,1,1,Friarsgate Park Courts,1712 Chadford Rd,Irmo,SC,29063,34.0945, -81.1885,"Park,"
-,1,1,Saluda Shoals Park Courts,5605 Bush River Rd,Columbia,SC,29212,34.0685, -81.1445,"Park,"
-,1,1,Virginia Hylton Park,111 Maiden Ln,Lexington,SC,29072,33.9815, -81.2315,"Park,"
-,1,1,Cayce Tennis & Fitness Center Courts,1120 Fort Congaree Dr,Cayce,SC,29033,33.9485, -81.0445,"Park,"
-,1,1,West Columbia Community Center Courts,754 B Ave,West Columbia,SC,29169,33.9945, -81.0685,"Park,"
-,1,1,Palmetto Tennis & Pickleball Center,400 Theatre Dr,Sumter,SC,29150,33.9415, -80.3645,"Park,"
-,1,1,Dillon Park Sumter,1305 Clara Louise Kellogg Dr,Sumter,SC,29153,33.9785, -80.3415,"Park,"
-,1,1,H. Odell Weeks Activity Center Courts,1700 Whiskey Rd,Aiken,SC,29803,33.5285, -81.7185,"Park,"
-,1,1,Citizens Park Pickleball Complex,1060 Banks Mill Rd,Aiken,SC,29803,33.5345, -81.6985,"Park,"
-,1,1,Riverview Park Activity Center,100 Riverview Park Dr,North Augusta,SC,29841,33.5015, -81.9685,"Park,"
-,1,1,Cleveland Park Greenville Courts,East Park Ave,Greenville,SC,29601,34.8485, -82.3885,"Park,"
-,1,1,Conestee Park Pickleball Complex,840 Mauldin Rd,Greenville,SC,29607,34.7915, -82.3685,"Park,"
-,1,1,McPherson Park Courts,100 E Park Ave,Greenville,SC,29601,34.8585, -82.3915,"Park,"
-,1,1,Herdklotz Park Courts,126 Beverly Rd,Greenville,SC,29609,34.8985, -82.3815,"Park,"
-,1,1,Simpsonville Activity Center Courts,310 W Curtis St,Simpsonville,SC,29681,34.7385, -82.2585,"Park,"
-,1,1,Heritage Park Simpsonville,861 SE Main St,Simpsonville,SC,29681,34.7185, -82.2345,"Park,"
-,1,1,Sunset Park Mauldin,211 Fowler Cir,Mauldin,SC,29662,34.7785, -82.3045,"Park,"
-,1,1,Travelers Rest Trailblazer Park,235 Trailblazer Dr,Travelers Rest,SC,29690,34.9685, -82.4415,"Park,"
-,1,1,Suber Road Park Courts,Suber Rd,Greer,SC,29650,34.9145, -82.2415,"Park,"
-,1,1,Victor Park Courts,Victor Ave,Greer,SC,29651,34.9315, -82.2185,"Park,"
-,1,1,Duncan Park Spartanburg Courts,Duncan Park Dr,Spartanburg,SC,29302,34.9285, -81.9185,"Park,"
-,1,1,Va-Du-Mar McMillan Park,591 McMillin Blvd,Boiling Springs,SC,29316,35.0385, -81.9785,"Park,"
-,1,1,Inman Mills Park Courts,"Inman, SC",Inman,SC,29349,35.0485, -82.0915,"Park,"
-,1,1,Anderson Civic Center Courts,3027 Martin Luther King Jr Blvd,Anderson,SC,29625,34.5445, -82.6715,"Park,"
-,1,1,Cater's Lake Park Courts,E Greenville St,Anderson,SC,29621,34.5215, -82.6345,"Park,"
-,1,1,Mineral Spring Park Courts,"Williamston, SC",Williamston,SC,29697,34.6185, -82.4785,"Park,"
-,1,1,Nettles Park Pickleball Complex,102 Nettles Park Rd,Clemson,SC,29631,34.6915, -82.8085,"Park,"
-,1,1,Shaver Recreation Complex Seneca,698 W S 4th St,Seneca,SC,29678,34.6845, -82.9645,"Park,"
-,1,1,J.B. Red Owens Sports Complex,111 Walkers Way,Easley,SC,29642,34.8215, -82.5845,"Park,"
-,1,1,Pope Field Park Courts,Pope Field Rd,Easley,SC,29642,34.8385, -82.6045,"Park,"
-,1,1,Ebenezer Park Courts,4490 Boatshore Rd,Rock Hill,SC,29732,34.9945, -81.0885,"Park,"
-,1,1,Fewell Park Courts,1204 Alexander Rd,Rock Hill,SC,29732,34.9485, -81.0285,"Park,"
-,1,1,Harris Street Park Courts,465 Harris St,Fort Mill,SC,29715,35.0115, -80.9385,"Park,"
-,1,1,Doby Bridge Park Courts,1905 N Doby Bridge Rd,Fort Mill,SC,29715,34.9885, -80.9015,"Park,"
-,1,1,Rondeau Park Courts,"Tega Cay, SC",Tega Cay,SC,29708,35.0345, -81.0285,"Park,"
-,1,1,Trailhead Park Courts,Tega Cay Dr,Tega Cay,SC,29708,35.0415, -81.0185,"Park,"
+,1,Litchfield Pickleball,97 Hawthorn Dr,Pawleys Island,SC,29585,33.4729,-79.1083," Business,https://livepickleballcourts.com/facilities/litchfield-pickleball",
+,1,Crush Yard Pickleball Club & Restaurant,3351 Bessemer Rd,Mount Pleasant,SC,29466,32.8645,-79.7945, Business,
+,1,The Pickle Bar,162 Harrell Dr,Summerville,SC,29483,33.0285,-80.1785, Business,
+,1,Palmetto Dunes Tennis & Pickleball Center,4 Trent Jones Ln,Hilton Head Island,SC,29928,32.1815,-80.7285, Business,
+,1,South Beach Racquet Club,232 S Sea Pines Dr,Hilton Head Island,SC,29928,32.1285,-80.8145, Business,
+,1,Shipyard Racquet Club,116 Shipyard Dr,Hilton Head Island,SC,29928,32.1515,-80.7515, Business,
+,1,Van Der Meer Tennis & Pickleball,19 Deallyon Ave,Hilton Head Island,SC,29928,32.1445,-80.7615, Business,
+,1,Charleston Tennis & Pickleball Center,19 Farmfield Ave,Charleston,SC,29407,32.7785,-79.9885, Park,
+,1,Maybank Tennis & Pickleball Center,1926 Maybank Hwy,Charleston,SC,29412,32.7585,-79.9815, Park,
+,1,Park West Recreation Complex,1251 Park West Blvd,Mount Pleasant,SC,29466,32.8845,-79.7985, Park,
+,1,Roy Anderson Recreation Center,501 Roy Anderson Pkwy,Mount Pleasant,SC,29464,32.8215,-79.8715, Park,
+,1,Collins Park Courts,4155 Fell Ave,North Charleston,SC,29405,32.8715,-79.9915, Park,
+,1,Doty Park Pickleball Courts,320 N Laurel St,Summerville,SC,29483,33.0215,-80.1745, Park,
+,1,Midland Park Courts,2229 Midland Park Rd,North Charleston,SC,29406,32.9345,-80.0385, Park,
+,1,North Lake Park Courts,1175 Riverland Dr,James Island,SC,29412,32.7315,-79.9685, Park,
+,1,Midway Park Pickleball Complex,500 19th Ave S,Myrtle Beach,SC,29577,33.6785,-78.9085, Park,
+,1,Central Park Courts,1400 Outrigger Rd,Myrtle Beach,SC,29577,33.7085,-78.8785, Park,
+,1,J. Bryan Floyd Community Center,1030 Possum Trot Rd,North Myrtle Beach,SC,29582,33.8215,-78.6885, Park,
+,1,North Myrtle Beach Sports Complex,150 Citizens Cir,Little River,SC,29582,33.8445,-78.6815, Park,
+,1,Socastee Recreation Park,7485 Butler Rd,Myrtle Beach,SC,29588,33.6845,-79.0045, Park,
+,1,Southeast Park Pickleball Courts,951 Hazelwood Rd,Columbia,SC,29209,33.9785,-80.9315, Park,
+,1,Owens Field Park,1351 Jim Hamilton Blvd,Columbia,SC,29205,33.9745,-81.0085, Park,
+,1,Earlewood Park Courts,1113 Recreation Dr,Columbia,SC,29201,34.0245,-81.0485, Park,
+,1,Seven Oaks Park Courts,200 Leisure Ln,Columbia,SC,29210,34.0545,-81.1385, Park,
+,1,Crooked Creek Park,1048 Park Creek Dr,Chapin,SC,29036,34.1615,-81.3385, Park,
+,1,Lexington County Tennis & Pickleball,425 Oak Dr,Lexington,SC,29073,33.9845,-81.2385, Park,
+,1,Timmons Park Pickleball Courts,121 Oxford St,Greenville,SC,29607,34.8615,-82.3685, Park,
+,1,North Main Athletic Complex,1078 E Butler Rd,Greenville,SC,29607,34.8085,-82.3115, Park,
+,1,Gower Estates Park,24 Evelyn Ave,Greenville,SC,29607,34.8315,-82.3515, Park,
+,1,Century Park Courts,3605 Brushy Creek Rd,Greer,SC,29650,34.9245,-82.2585, Park,
+,1,Tyger River Park Courts,179 Dillard Rd,Duncan,SC,29334,34.8985,-82.0785, Park,
+,1,Cleveland Park Spartanburg,141 N Cleveland Park Dr,Spartanburg,SC,29303,34.9615,-81.9345, Park,
+,1,Southside Park Courts,417 S Church St,Spartanburg,SC,29306,34.9385,-81.9285, Park,
+,1,Cherry Park Courts,1466 Cherry Rd,Rock Hill,SC,29732,34.9615,-81.0185, Park,
+,1,Manchester Meadows Park,337 Mt Gallant Rd,Rock Hill,SC,29730,34.9815,-80.9985, Park,
+,1,James Island County Park Courts,871 Riverland Dr,Charleston,SC,29412,32.7385,-79.9915, Park,
+,1,Johns Island County Park Courts,2662 Mullet Hall Rd,Johns Island,SC,29455,32.6845,-80.1285, Park,
+,1,Moultrie Middle School Courts,645 Coleman Blvd,Mount Pleasant,SC,29464,32.7985,-79.8785, Park,
+,1,Wando High School Community Courts,1000 Warrior Way,Mount Pleasant,SC,29466,32.8685,-79.7915, Park,
+,1,Daniel Island Recreation Center,160 Fairbanks Dr,Charleston,SC,29492,32.8615,-79.9185, Park,
+,1,Governor's Park Daniel Island,165 Seven Farms Dr,Charleston,SC,29492,32.8645,-79.9085, Park,
+,1,Hanahan Recreation Complex,3100 Mabeline Rd,Hanahan,SC,29410,32.9185,-80.0085, Park,
+,1,Goose Creek Community Center Courts,519 N Goose Creek Blvd,Goose Creek,SC,29445,32.9915,-80.0385, Park,
+,1,Central Creek Park Courts,147 Old Moncks Corner Rd,Goose Creek,SC,29445,33.0015,-80.0345, Park,
+,1,Moncks Corner Regional Recreation Complex,418 E Main St,Moncks Corner,SC,29461,33.1985,-79.9985, Park,
+,1,St. Andrews Parks & Playground,1095 Playground Rd,Charleston,SC,29407,32.7915,-80.0045, Park,
+,1,Ackerman Park Courts,55 Sycamore Ave,Charleston,SC,29407,32.7845,-80.0015, Park,
+,1,Bees Landing Recreation Center,1580 Ashley Garden Blvd,Charleston,SC,29414,32.8185,-80.0845, Park,
+,1,Wescott Park Courts,9006 Dorchester Rd,North Charleston,SC,29420,32.9545,-80.1285, Park,
+,1,Azalea Park Summerville,105 S Main St,Summerville,SC,29483,33.0185,-80.1785, Park,
+,1,Gahagan Park Courts,515 W Boundary St,Summerville,SC,29485,33.0115,-80.1985, Park,
+,1,Grand Park Recreation Complex,1011 Crabtree Ln,Myrtle Beach,SC,29577,33.6615,-78.9415, Park,
+,1,Matt Hughes Skate & Pickleball Park,10th Ave N,Myrtle Beach,SC,29577,33.6985,-78.8815, Park,
+,1,Pepper Geddings Recreation Center,3205 N Oak St,Myrtle Beach,SC,29577,33.7145,-78.8685, Park,
+,1,Martin Field Courts,"Myrtle Beach, SC",Myrtle Beach,SC,29577,33.6845,-78.8985, Park,
+,1,Surfside Beach Tennis & Pickleball,Martin Dr,Surfside Beach,SC,29575,33.6115,-78.9745, Park,
+,1,South Strand Recreation Center,9650 Scipio Ln,Myrtle Beach,SC,29588,33.6285,-78.9985, Park,
+,1,Carolina Forest Recreation Center,2254 Carolina Forest Blvd,Myrtle Beach,SC,29579,33.7545,-78.9485, Park,
+,1,Conway Recreation Center Courts,1515 Mill Pond Rd,Conway,SC,29527,33.8345,-79.0685, Park,
+,1,Georgetown County Parks & Rec Courts,83 Screven St,Georgetown,SC,29440,33.3645,-79.2885, Park,
+,1,Murrells Inlet Community Center Courts,4460 Murrells Inlet Rd,Murrells Inlet,SC,29576,33.5515,-79.0485, Park,
+,1,Barker Field Pickleball Courts,Mitchelville Rd,Hilton Head Island,SC,29926,32.2285,-80.6985, Park,
+,1,Old Schoolhouse Park Courts,152 Squire Pope Rd,Hilton Head Island,SC,29926,32.2145,-80.7415, Park,
+,1,Crossings Park Courts,4 Helmer Rd,Hilton Head Island,SC,29928,32.1645,-80.7585, Park,
+,1,Bluffton Center Courts,Goethe Rd,Bluffton,SC,29910,32.2385,-80.8615, Park,
+,1,Oscar Frazier Park Courts,77 Shults Rd,Bluffton,SC,29910,32.2415,-80.8545, Park,
+,1,Buckwalter Recreation Center,905 Buckwalter Pkwy,Bluffton,SC,29910,32.2785,-80.8885, Park,
+,1,Beaufort Tennis & Pickleball Courts,Boundary St,Beaufort,SC,29902,32.4385,-80.6885, Park,
+,1,Burton Wells Recreation Center,1 Middleton Recreation Dr,Beaufort,SC,29906,32.4515,-80.7415, Park,
+,1,Port Royal Tennis & Pickleball Courts,Richmond Ave,Port Royal,SC,29935,32.3785,-80.6915, Park,
+,1,Trenholm Park Pickleball Complex,3900 Covenant Rd,Columbia,SC,29204,34.0285,-80.9615, Park,
+,1,Heathwood Park Courts,800 Abelia Rd,Columbia,SC,29205,33.9985,-80.9985, Park,
+,1,Melrose Park Courts,1500 Fairview Rd,Columbia,SC,29205,33.9885,-80.9915, Park,
+,1,Woodland Park Courts,6500 Old Knight Pkwy,Columbia,SC,29209,33.9845,-80.9415, Park,
+,1,St. Andrews Park Courts,920 Beatty Rd,Columbia,SC,29210,34.0415,-81.1185, Park,
+,1,Friarsgate Park Courts,1712 Chadford Rd,Irmo,SC,29063,34.0945,-81.1885, Park,
+,1,Saluda Shoals Park Courts,5605 Bush River Rd,Columbia,SC,29212,34.0685,-81.1445, Park,
+,1,Virginia Hylton Park,111 Maiden Ln,Lexington,SC,29072,33.9815,-81.2315, Park,
+,1,Cayce Tennis & Fitness Center Courts,1120 Fort Congaree Dr,Cayce,SC,29033,33.9485,-81.0445, Park,
+,1,West Columbia Community Center Courts,754 B Ave,West Columbia,SC,29169,33.9945,-81.0685, Park,
+,1,Palmetto Tennis & Pickleball Center,400 Theatre Dr,Sumter,SC,29150,33.9415,-80.3645, Park,
+,1,Dillon Park Sumter,1305 Clara Louise Kellogg Dr,Sumter,SC,29153,33.9785,-80.3415, Park,
+,1,H. Odell Weeks Activity Center Courts,1700 Whiskey Rd,Aiken,SC,29803,33.5285,-81.7185, Park,
+,1,Citizens Park Pickleball Complex,1060 Banks Mill Rd,Aiken,SC,29803,33.5345,-81.6985, Park,
+,1,Riverview Park Activity Center,100 Riverview Park Dr,North Augusta,SC,29841,33.5015,-81.9685, Park,
+,1,Cleveland Park Greenville Courts,East Park Ave,Greenville,SC,29601,34.8485,-82.3885, Park,
+,1,Conestee Park Pickleball Complex,840 Mauldin Rd,Greenville,SC,29607,34.7915,-82.3685, Park,
+,1,McPherson Park Courts,100 E Park Ave,Greenville,SC,29601,34.8585,-82.3915, Park,
+,1,Herdklotz Park Courts,126 Beverly Rd,Greenville,SC,29609,34.8985,-82.3815, Park,
+,1,Simpsonville Activity Center Courts,310 W Curtis St,Simpsonville,SC,29681,34.7385,-82.2585, Park,
+,1,Heritage Park Simpsonville,861 SE Main St,Simpsonville,SC,29681,34.7185,-82.2345, Park,
+,1,Sunset Park Mauldin,211 Fowler Cir,Mauldin,SC,29662,34.7785,-82.3045, Park,
+,1,Travelers Rest Trailblazer Park,235 Trailblazer Dr,Travelers Rest,SC,29690,34.9685,-82.4415, Park,
+,1,Suber Road Park Courts,Suber Rd,Greer,SC,29650,34.9145,-82.2415, Park,
+,1,Victor Park Courts,Victor Ave,Greer,SC,29651,34.9315,-82.2185, Park,
+,1,Duncan Park Spartanburg Courts,Duncan Park Dr,Spartanburg,SC,29302,34.9285,-81.9185, Park,
+,1,Va-Du-Mar McMillan Park,591 McMillin Blvd,Boiling Springs,SC,29316,35.0385,-81.9785, Park,
+,1,Inman Mills Park Courts,"Inman, SC",Inman,SC,29349,35.0485,-82.0915, Park,
+,1,Anderson Civic Center Courts,3027 Martin Luther King Jr Blvd,Anderson,SC,29625,34.5445,-82.6715, Park,
+,1,Cater's Lake Park Courts,E Greenville St,Anderson,SC,29621,34.5215,-82.6345, Park,
+,1,Mineral Spring Park Courts,"Williamston, SC",Williamston,SC,29697,34.6185,-82.4785, Park,
+,1,Nettles Park Pickleball Complex,102 Nettles Park Rd,Clemson,SC,29631,34.6915,-82.8085, Park,
+,1,Shaver Recreation Complex Seneca,698 W S 4th St,Seneca,SC,29678,34.6845,-82.9645, Park,
+,1,J.B. Red Owens Sports Complex,111 Walkers Way,Easley,SC,29642,34.8215,-82.5845, Park,
+,1,Pope Field Park Courts,Pope Field Rd,Easley,SC,29642,34.8385,-82.6045, Park,
+,1,Ebenezer Park Courts,4490 Boatshore Rd,Rock Hill,SC,29732,34.9945,-81.0885, Park,
+,1,Fewell Park Courts,1204 Alexander Rd,Rock Hill,SC,29732,34.9485,-81.0285, Park,
+,1,Harris Street Park Courts,465 Harris St,Fort Mill,SC,29715,35.0115,-80.9385, Park,
+,1,Doby Bridge Park Courts,1905 N Doby Bridge Rd,Fort Mill,SC,29715,34.9885,-80.9015, Park,
+,1,Rondeau Park Courts,"Tega Cay, SC",Tega Cay,SC,29708,35.0345,-81.0285, Park,
+,1,Trailhead Park Courts,Tega Cay Dr,Tega Cay,SC,29708,35.0415,-81.0185, Park,

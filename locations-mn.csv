@@ -1,106 +1,106 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,Lucky Shots Pickleball Club,3300 5th St NE,Minneapolis,MN,55418,45.0215, -93.2685,Business
-,1,1,Mega Pickle and Padel,13000 Bren Rd E,Minnetonka,MN,55343,44.9185, -93.4385,Business
-,1,1,Lake Marion Pickleball Club,"Lakeville, MN",Lakeville,MN,55044,44.6615, -93.2785,Business
-,1,1,Rochester Indoor Tennis & Pickleball,2100 1st St NE,Rochester,MN,55906,44.0315, -92.4415,Business
-,1,1,Lake Nokomis Pickleball Courts,4955 W Lake Nokomis Pkwy,Minneapolis,MN,55417,44.9145, -93.2485,Park
-,1,1,Kenwood Park Pickleball Courts,2101 W Franklin Ave,Minneapolis,MN,55405,44.9645, -93.3085,Park
-,1,1,Loring Park Courts,1382 Willow St,Minneapolis,MN,55403,44.9715, -93.2845,Park
-,1,1,McRae Park Courts,906 E 47th St,Minneapolis,MN,55407,44.9185, -93.2645,Park
-,1,1,Bohanon Park Courts,4917 Bryant Ave N,Minneapolis,MN,55430,45.0445, -93.2915,Park
-,1,1,Groveland Recreation Center Courts,2020 Saint Clair Ave,Saint Paul,MN,55105,44.9345, -93.1885,Park
-,1,1,Oxford Community Center Courts,270 Lexington Pkwy N,Saint Paul,MN,55104,44.9545, -93.1485,Park
-,1,1,Phalen Beach Park Courts,1400 Phalen Dr,Saint Paul,MN,55106,44.9885, -93.0645,Park
-,1,1,Westwood Park Pickleball Courts,3641 W 82nd St,Bloomington,MN,55431,44.8545, -93.3285,Park
-,1,1,Running Park Courts,9501 Columbus Ave S,Bloomington,MN,55420,44.8315, -93.2585,Park
-,1,1,Valley View Park Bloomington,201 E 90th St,Bloomington,MN,55420,44.8415, -93.2715,Park
-,1,1,Staring Lake Park Pickleball Complex,14800 Pioneer Trl,Eden Prairie,MN,55347,44.8485, -93.4685,Park
-,1,1,Miller Park Eden Prairie,8208 Eden Prairie Rd,Eden Prairie,MN,55344,44.8645, -93.4545,Park
-,1,1,Plymouth Creek Park Courts,3625 Fernbrook Ln N,Plymouth,MN,55446,45.0215, -93.4485,Park
-,1,1,Bass Lake Playfield,Bass Lake Rd,Plymouth,MN,55442,45.0485, -93.4285,Park
-,1,1,Lone Lake Park Courts,5624 Shady Oak Rd,Minnetonka,MN,55343,44.8985, -93.4215,Park
-,1,1,Big Willow Park Courts,11522 Minnetonka Blvd,Minnetonka,MN,55305,44.9385, -93.4285,Park
-,1,1,Elm Creek Playfield Courts,Elm Creek Rd,Maple Grove,MN,55369,45.1485, -93.4615,Park
-,1,1,Central Park Maple Grove,12000 Central Park Way,Maple Grove,MN,55369,45.0985, -93.4485,Park
-,1,1,Andrews Park Pickleball Complex,7200 117th Ave N,Champlin,MN,55316,45.1615, -93.3885,Park
-,1,1,Woodbury Lions Park Courts,2183 Keats Ave S,Woodbury,MN,55125,44.9285, -92.8945,Park
-,1,1,Ojibway Park Courts,2695 Ojibway Dr,Woodbury,MN,55125,44.9185, -92.9385,Park
-,1,1,Cooke Park Pickleball Complex,Cooke Park Rd,Rochester,MN,55901,44.0415, -92.4845,Park
-,1,1,McQuillan Field Pickleball Courts,1655 Marion Rd SE,Rochester,MN,55904,43.9985, -92.4285,Park
-,1,1,Wheeler Athletic Complex,3501 Grand Ave,Duluth,MN,55807,46.7415, -92.1715,Park
-,1,1,Riverside Park Courts,"St Cloud, MN",St Cloud,MN,56301,45.5485, -94.1485,Park
-,1,1,Minneapolis Lake Nokomis Community Center,2401 E Minnehaha Pkwy,Minneapolis,MN,55417,44.9123, -93.2389,Community
-,1,1,Minneapolis Loring Park Courts,1382 Willow St,Minneapolis,MN,55403,44.9712, -93.2812,Free
-,1,1,Minneapolis Waite Park,1810 34th Ave NE,Minneapolis,MN,55418,45.0289, -93.2389,Free
-,1,1,St Paul Highland Park Community Center,1978 Ford Pkwy,St Paul,MN,55116,44.9189, -93.1889,Community
-,1,1,St Paul Oxford Community Center,270 Lexington Pkwy N,St Paul,MN,55104,44.9512, -93.1489,Community
-,1,1,St Paul Phalen Beach Park,1400 Phalen Dr,St Paul,MN,55106,44.9889, -93.0612,Free
-,1,1,Rochester Soldiers Field Park,244 Soldiers Field Dr SW,Rochester,MN,55902,44.0123, -92.4689,Free
-,1,1,Rochester Cooke Park,722 7th St NW,Rochester,MN,55901,44.0312, -92.4712,Free
-,1,1,Bloomington Westwood Park,10801 France Ave S,Bloomington,MN,55431,44.8089, -93.3289,Free
-,1,1,Duluth Wheeler Athletic Complex,3501 Grand Ave,Duluth,MN,55807,46.7412, -92.1589,Free
-,1,1,Brooklyn Park Central Park,8440 Regent Ave N,Brooklyn Park,MN,55443,45.1089, -93.3389,Free
-,1,1,Plymouth Bass Lake Playfield,5450 Northwest Blvd,Plymouth,MN,55442,45.0489, -93.4389,Free
-,1,1,Woodbury Ojibway Park,2695 Ojibway Dr,Woodbury,MN,55125,44.9212, -92.9412,Free
-,1,1,Lakeville King Park,17305 Dodd Blvd,Lakeville,MN,55044,44.6812, -93.2412,Free
-,1,1,Blaine Lexington Athletic Complex,4286 121st Ave NE,Blaine,MN,55449,45.1712, -93.1612,Free
-,1,1,Maple Grove Lake Central Park,12000 Central Park Way,Maple Grove,MN,55369,45.0989, -93.4412,Free
-,1,1,St Cloud Calvary Hill Park,1800 13th St S,St Cloud,MN,56301,45.5412, -94.1812,Free
-,1,1,Eagan Trapp Farm Park,841 Wilderness Run Rd,Eagan,MN,55123,44.8012, -93.1589,Free
-,1,1,Burnsville North River Hills Park,11501 19th Ave,Burnsville,MN,55337,44.7889, -93.2689,Free
-,1,1,Eden Prairie Staring Lake Park,14800 Pioneer Trl,Eden Prairie,MN,55347,44.8412, -93.4489,Free
-,1,1,Coon Rapids Sand Creek Park,1008 Northdale Blvd NW,Coon Rapids,MN,55448,45.1889, -93.3189,Free
-,1,1,Apple Valley Redwood Park,311 150th St W,Apple Valley,MN,55124,44.7312, -93.2189,Free
-,1,1,Edina Rosland Park,4300 W 66th St,Edina,MN,55435,44.8845, -93.3389,Free
-,1,1,Minnetonka Lone Lake Park,5624 Shady Oak Rd,Minnetonka,MN,55343,44.9012, -93.4189,Free
-,1,1,St Louis Park Aquila Park,3110 Xylon Ave S,St Louis Park,MN,55426,44.9489, -93.3789,Free
-,1,1,Moorhead Riverfront Park,1225 1st Ave N,Moorhead,MN,56560,46.8789, -96.7789,Free
-,1,1,Mankato Tourtellotte Park,300 W Mabel St,Mankato,MN,56001,44.1712, -94.0012,Free
-,1,1,Maplewood Wakefield Park,1860 County Rd F E,Maplewood,MN,55109,45.0212, -93.0089,Free
-,1,1,Shakopee Westminster Park,801 Westminster Dr,Shakopee,MN,55379,44.7789, -93.5212,Free
-,1,1,Cottage Grove Woodridge Park,9000 90th St S,Cottage Grove,MN,55016,44.8189, -92.9312,Free
-,1,1,Richfield Christian Park,6900 Bloomington Ave,Richfield,MN,55423,44.8789, -93.2512,Free
-,1,1,Inver Grove Heights Rich Valley Athletic Complex,1841 105th St E,Inver Grove Heights,MN,55077,44.8112, -93.0789,Free
-,1,1,Roseville Central Park Courts,2540 Lexington Ave N,Roseville,MN,55113,45.0123, -93.1489,Free
-,1,1,Andover Sunshine Park,14300 Nightingale St NW,Andover,MN,55304,45.2289, -93.3489,Free
-,1,1,Savage Community Park,13500 Dakota Ave,Savage,MN,55378,44.7589, -93.3612,Free
-,1,1,Oakdale Walton Park,1584 Hadley Ave N,Oakdale,MN,55128,44.9889, -92.9612,Free
-,1,1,Fridley Commons Park,555 61st Ave NE,Fridley,MN,55432,45.0789, -93.2612,Free
-,1,1,Winona Sinclair Park,501 W 4th St,Winona,MN,55987,44.0512, -91.6412,Free
-,1,1,Shoreview Commons Park,4580 Victoria St N,Shoreview,MN,55126,45.0689, -93.1312,Free
-,1,1,Ramsey Central Park,7925 161st Ave NW,Ramsey,MN,55303,45.2612, -93.4512,Free
-,1,1,Chanhassen Lake Ann Park,1456 West 78th St,Chanhassen,MN,55317,44.8612, -93.5412,Free
-,1,1,Prior Lake Lakefront Park,5000 Kop Pkwy,Prior Lake,MN,55372,44.7189, -93.4289,Free
-,1,1,White Bear Lake Podvin Park,1700 9th St,White Bear Lake,MN,55110,45.0512, -93.0012,Free
-,1,1,Chaska Community Center Courts,1661 Park Ridge Dr,Chaska,MN,55318,44.7989, -93.6089,Community
-,1,1,Austin Todd Park,11th St NE,Austin,MN,55912,43.6812, -92.9489,Free
-,1,1,Elk River Lion John Weicht Park,1104 Proctor Ave NW,Elk River,MN,55330,45.3112, -93.5712,Free
-,1,1,Faribault North Alexander Park,1816 2nd Ave NW,Faribault,MN,55021,44.3089, -93.2789,Free
-,1,1,Hastings Lions Park,1000 W 5th St,Hastings,MN,55033,44.7412, -92.8612,Free
-,1,1,Northfield Sechler Park,Armstrong Rd,Northfield,MN,55057,44.4489, -93.1712,Free
-,1,1,Willmar Robbins Island Regional Park,N Business Hwy 71,Willmar,MN,56201,45.1412, -95.0412,Free
-,1,1,Bemidji City Park,23rd St NW,Bemidji,MN,56601,47.4812, -94.8812,Free
-,1,1,Brainerd Gregory Park,N 5th St,Brainerd,MN,56401,46.3612, -94.1989,Free
-,1,1,Fergus Falls Delagoon Park,Delagoon Park Rd,Fergus Falls,MN,56537,46.2689, -96.0689,Free
-,1,1,Alexandria City Park,Lake Darling Rd,Alexandria,MN,56308,45.8989, -95.3889,Free
-,1,1,Hibbing Bennett Park,E 13th St,Hibbing,MN,55746,47.4189, -92.9289,Free
-,1,1,Virginia Miners Memorial Park,S 9th Ave,Virginia,MN,55792,47.5189, -92.5389,Free
-,1,1,Grand Rapids IRA Civic Center Courts,898 NW 4th St,Grand Rapids,MN,55744,47.2412, -93.5389,Free
-,1,1,Detroit Lakes City Park,Washington Ave,Detroit Lakes,MN,56501,46.8112, -95.8489,Free
-,1,1,Marshall Amateur Sports Complex,Channel Pkwy,Marshall,MN,56258,44.4412, -95.8012,Free
-,1,1,New Ulm Harman Park,Garden St,New Ulm,MN,56073,44.3089, -94.4612,Free
-,1,1,Owatonna Morehouse Park,School St,Owatonna,MN,55060,44.0789, -93.2289,Free
-,1,1,Albert Lea Frank Hall Park,Frank Ave,Albert Lea,MN,56007,43.6412, -93.3612,Free
-,1,1,Red Wing Colvill Park,Nymphara Ln,Red Wing,MN,55066,44.5512, -92.5189,Free
-,1,1,Cloquet Athletic Park,14th St,Cloquet,MN,55720,46.7212, -92.4612,Free
-,1,1,International Falls Kerry Park,9th St,International Falls,MN,56649,48.5989, -93.4089,Free
-,1,1,Thief River Falls Engelstad Park,1st St W,Thief River Falls,MN,56701,48.1189, -96.1812,Free
-,1,1,Crookston Highland Park,Barrette St,Crookston,MN,56716,47.7712, -96.6012,Free
-,1,1,Little Falls Maple Island Park,SE 1st St,Little Falls,MN,56345,45.9789, -94.3612,Free
-,1,1,Hutchinson Roberts Park,Roberts Rd SW,Hutchinson,MN,55350,44.8812, -94.3789,Free
-,1,1,Waconia City Park,S Maple St,Waconia,MN,55387,44.8489, -93.7912,Free
-,1,1,Buffalo Sturges Park,Lake Blvd S,Buffalo,MN,55313,45.1789, -93.8789,Free
-,1,1,Monticello Ellison Park,River St,Monticello,MN,55362,45.3089, -93.7989,Free
-,1,1,St Michael Town Center Park,Town Center Dr,St Michael,MN,55376,45.2089, -93.6612,Free
-,1,1,Albertville Central Park,Main St NE,Albertville,MN,55301,45.2389, -93.6512,Free
-,1,1,Delano Central Park,River St N,Delano,MN,55328,45.0412, -93.7712,Free
+,1,Lucky Shots Pickleball Club,3300 5th St NE,Minneapolis,MN,55418,45.0215,-93.2685, Business,
+,1,Mega Pickle and Padel,13000 Bren Rd E,Minnetonka,MN,55343,44.9185,-93.4385, Business,
+,1,Lake Marion Pickleball Club,"Lakeville, MN",Lakeville,MN,55044,44.6615,-93.2785, Business,
+,1,Rochester Indoor Tennis & Pickleball,2100 1st St NE,Rochester,MN,55906,44.0315,-92.4415, Business,
+,1,Lake Nokomis Pickleball Courts,4955 W Lake Nokomis Pkwy,Minneapolis,MN,55417,44.9145,-93.2485, Park,
+,1,Kenwood Park Pickleball Courts,2101 W Franklin Ave,Minneapolis,MN,55405,44.9645,-93.3085, Park,
+,1,Loring Park Courts,1382 Willow St,Minneapolis,MN,55403,44.9715,-93.2845, Park,
+,1,McRae Park Courts,906 E 47th St,Minneapolis,MN,55407,44.9185,-93.2645, Park,
+,1,Bohanon Park Courts,4917 Bryant Ave N,Minneapolis,MN,55430,45.0445,-93.2915, Park,
+,1,Groveland Recreation Center Courts,2020 Saint Clair Ave,Saint Paul,MN,55105,44.9345,-93.1885, Park,
+,1,Oxford Community Center Courts,270 Lexington Pkwy N,Saint Paul,MN,55104,44.9545,-93.1485, Park,
+,1,Phalen Beach Park Courts,1400 Phalen Dr,Saint Paul,MN,55106,44.9885,-93.0645, Park,
+,1,Westwood Park Pickleball Courts,3641 W 82nd St,Bloomington,MN,55431,44.8545,-93.3285, Park,
+,1,Running Park Courts,9501 Columbus Ave S,Bloomington,MN,55420,44.8315,-93.2585, Park,
+,1,Valley View Park Bloomington,201 E 90th St,Bloomington,MN,55420,44.8415,-93.2715, Park,
+,1,Staring Lake Park Pickleball Complex,14800 Pioneer Trl,Eden Prairie,MN,55347,44.8485,-93.4685, Park,
+,1,Miller Park Eden Prairie,8208 Eden Prairie Rd,Eden Prairie,MN,55344,44.8645,-93.4545, Park,
+,1,Plymouth Creek Park Courts,3625 Fernbrook Ln N,Plymouth,MN,55446,45.0215,-93.4485, Park,
+,1,Bass Lake Playfield,Bass Lake Rd,Plymouth,MN,55442,45.0485,-93.4285, Park,
+,1,Lone Lake Park Courts,5624 Shady Oak Rd,Minnetonka,MN,55343,44.8985,-93.4215, Park,
+,1,Big Willow Park Courts,11522 Minnetonka Blvd,Minnetonka,MN,55305,44.9385,-93.4285, Park,
+,1,Elm Creek Playfield Courts,Elm Creek Rd,Maple Grove,MN,55369,45.1485,-93.4615, Park,
+,1,Central Park Maple Grove,12000 Central Park Way,Maple Grove,MN,55369,45.0985,-93.4485, Park,
+,1,Andrews Park Pickleball Complex,7200 117th Ave N,Champlin,MN,55316,45.1615,-93.3885, Park,
+,1,Woodbury Lions Park Courts,2183 Keats Ave S,Woodbury,MN,55125,44.9285,-92.8945, Park,
+,1,Ojibway Park Courts,2695 Ojibway Dr,Woodbury,MN,55125,44.9185,-92.9385, Park,
+,1,Cooke Park Pickleball Complex,Cooke Park Rd,Rochester,MN,55901,44.0415,-92.4845, Park,
+,1,McQuillan Field Pickleball Courts,1655 Marion Rd SE,Rochester,MN,55904,43.9985,-92.4285, Park,
+,1,Wheeler Athletic Complex,3501 Grand Ave,Duluth,MN,55807,46.7415,-92.1715, Park,
+,1,Riverside Park Courts,"St Cloud, MN",St Cloud,MN,56301,45.5485,-94.1485, Park,
+,1,Minneapolis Lake Nokomis Community Center,2401 E Minnehaha Pkwy,Minneapolis,MN,55417,44.9123,-93.2389, Community,
+,1,Minneapolis Loring Park Courts,1382 Willow St,Minneapolis,MN,55403,44.9712,-93.2812, Free,
+,1,Minneapolis Waite Park,1810 34th Ave NE,Minneapolis,MN,55418,45.0289,-93.2389, Free,
+,1,St Paul Highland Park Community Center,1978 Ford Pkwy,St Paul,MN,55116,44.9189,-93.1889, Community,
+,1,St Paul Oxford Community Center,270 Lexington Pkwy N,St Paul,MN,55104,44.9512,-93.1489, Community,
+,1,St Paul Phalen Beach Park,1400 Phalen Dr,St Paul,MN,55106,44.9889,-93.0612, Free,
+,1,Rochester Soldiers Field Park,244 Soldiers Field Dr SW,Rochester,MN,55902,44.0123,-92.4689, Free,
+,1,Rochester Cooke Park,722 7th St NW,Rochester,MN,55901,44.0312,-92.4712, Free,
+,1,Bloomington Westwood Park,10801 France Ave S,Bloomington,MN,55431,44.8089,-93.3289, Free,
+,1,Duluth Wheeler Athletic Complex,3501 Grand Ave,Duluth,MN,55807,46.7412,-92.1589, Free,
+,1,Brooklyn Park Central Park,8440 Regent Ave N,Brooklyn Park,MN,55443,45.1089,-93.3389, Free,
+,1,Plymouth Bass Lake Playfield,5450 Northwest Blvd,Plymouth,MN,55442,45.0489,-93.4389, Free,
+,1,Woodbury Ojibway Park,2695 Ojibway Dr,Woodbury,MN,55125,44.9212,-92.9412, Free,
+,1,Lakeville King Park,17305 Dodd Blvd,Lakeville,MN,55044,44.6812,-93.2412, Free,
+,1,Blaine Lexington Athletic Complex,4286 121st Ave NE,Blaine,MN,55449,45.1712,-93.1612, Free,
+,1,Maple Grove Lake Central Park,12000 Central Park Way,Maple Grove,MN,55369,45.0989,-93.4412, Free,
+,1,St Cloud Calvary Hill Park,1800 13th St S,St Cloud,MN,56301,45.5412,-94.1812, Free,
+,1,Eagan Trapp Farm Park,841 Wilderness Run Rd,Eagan,MN,55123,44.8012,-93.1589, Free,
+,1,Burnsville North River Hills Park,11501 19th Ave,Burnsville,MN,55337,44.7889,-93.2689, Free,
+,1,Eden Prairie Staring Lake Park,14800 Pioneer Trl,Eden Prairie,MN,55347,44.8412,-93.4489, Free,
+,1,Coon Rapids Sand Creek Park,1008 Northdale Blvd NW,Coon Rapids,MN,55448,45.1889,-93.3189, Free,
+,1,Apple Valley Redwood Park,311 150th St W,Apple Valley,MN,55124,44.7312,-93.2189, Free,
+,1,Edina Rosland Park,4300 W 66th St,Edina,MN,55435,44.8845,-93.3389, Free,
+,1,Minnetonka Lone Lake Park,5624 Shady Oak Rd,Minnetonka,MN,55343,44.9012,-93.4189, Free,
+,1,St Louis Park Aquila Park,3110 Xylon Ave S,St Louis Park,MN,55426,44.9489,-93.3789, Free,
+,1,Moorhead Riverfront Park,1225 1st Ave N,Moorhead,MN,56560,46.8789,-96.7789, Free,
+,1,Mankato Tourtellotte Park,300 W Mabel St,Mankato,MN,56001,44.1712,-94.0012, Free,
+,1,Maplewood Wakefield Park,1860 County Rd F E,Maplewood,MN,55109,45.0212,-93.0089, Free,
+,1,Shakopee Westminster Park,801 Westminster Dr,Shakopee,MN,55379,44.7789,-93.5212, Free,
+,1,Cottage Grove Woodridge Park,9000 90th St S,Cottage Grove,MN,55016,44.8189,-92.9312, Free,
+,1,Richfield Christian Park,6900 Bloomington Ave,Richfield,MN,55423,44.8789,-93.2512, Free,
+,1,Inver Grove Heights Rich Valley Athletic Complex,1841 105th St E,Inver Grove Heights,MN,55077,44.8112,-93.0789, Free,
+,1,Roseville Central Park Courts,2540 Lexington Ave N,Roseville,MN,55113,45.0123,-93.1489, Free,
+,1,Andover Sunshine Park,14300 Nightingale St NW,Andover,MN,55304,45.2289,-93.3489, Free,
+,1,Savage Community Park,13500 Dakota Ave,Savage,MN,55378,44.7589,-93.3612, Free,
+,1,Oakdale Walton Park,1584 Hadley Ave N,Oakdale,MN,55128,44.9889,-92.9612, Free,
+,1,Fridley Commons Park,555 61st Ave NE,Fridley,MN,55432,45.0789,-93.2612, Free,
+,1,Winona Sinclair Park,501 W 4th St,Winona,MN,55987,44.0512,-91.6412, Free,
+,1,Shoreview Commons Park,4580 Victoria St N,Shoreview,MN,55126,45.0689,-93.1312, Free,
+,1,Ramsey Central Park,7925 161st Ave NW,Ramsey,MN,55303,45.2612,-93.4512, Free,
+,1,Chanhassen Lake Ann Park,1456 West 78th St,Chanhassen,MN,55317,44.8612,-93.5412, Free,
+,1,Prior Lake Lakefront Park,5000 Kop Pkwy,Prior Lake,MN,55372,44.7189,-93.4289, Free,
+,1,White Bear Lake Podvin Park,1700 9th St,White Bear Lake,MN,55110,45.0512,-93.0012, Free,
+,1,Chaska Community Center Courts,1661 Park Ridge Dr,Chaska,MN,55318,44.7989,-93.6089, Community,
+,1,Austin Todd Park,11th St NE,Austin,MN,55912,43.6812,-92.9489, Free,
+,1,Elk River Lion John Weicht Park,1104 Proctor Ave NW,Elk River,MN,55330,45.3112,-93.5712, Free,
+,1,Faribault North Alexander Park,1816 2nd Ave NW,Faribault,MN,55021,44.3089,-93.2789, Free,
+,1,Hastings Lions Park,1000 W 5th St,Hastings,MN,55033,44.7412,-92.8612, Free,
+,1,Northfield Sechler Park,Armstrong Rd,Northfield,MN,55057,44.4489,-93.1712, Free,
+,1,Willmar Robbins Island Regional Park,N Business Hwy 71,Willmar,MN,56201,45.1412,-95.0412, Free,
+,1,Bemidji City Park,23rd St NW,Bemidji,MN,56601,47.4812,-94.8812, Free,
+,1,Brainerd Gregory Park,N 5th St,Brainerd,MN,56401,46.3612,-94.1989, Free,
+,1,Fergus Falls Delagoon Park,Delagoon Park Rd,Fergus Falls,MN,56537,46.2689,-96.0689, Free,
+,1,Alexandria City Park,Lake Darling Rd,Alexandria,MN,56308,45.8989,-95.3889, Free,
+,1,Hibbing Bennett Park,E 13th St,Hibbing,MN,55746,47.4189,-92.9289, Free,
+,1,Virginia Miners Memorial Park,S 9th Ave,Virginia,MN,55792,47.5189,-92.5389, Free,
+,1,Grand Rapids IRA Civic Center Courts,898 NW 4th St,Grand Rapids,MN,55744,47.2412,-93.5389, Free,
+,1,Detroit Lakes City Park,Washington Ave,Detroit Lakes,MN,56501,46.8112,-95.8489, Free,
+,1,Marshall Amateur Sports Complex,Channel Pkwy,Marshall,MN,56258,44.4412,-95.8012, Free,
+,1,New Ulm Harman Park,Garden St,New Ulm,MN,56073,44.3089,-94.4612, Free,
+,1,Owatonna Morehouse Park,School St,Owatonna,MN,55060,44.0789,-93.2289, Free,
+,1,Albert Lea Frank Hall Park,Frank Ave,Albert Lea,MN,56007,43.6412,-93.3612, Free,
+,1,Red Wing Colvill Park,Nymphara Ln,Red Wing,MN,55066,44.5512,-92.5189, Free,
+,1,Cloquet Athletic Park,14th St,Cloquet,MN,55720,46.7212,-92.4612, Free,
+,1,International Falls Kerry Park,9th St,International Falls,MN,56649,48.5989,-93.4089, Free,
+,1,Thief River Falls Engelstad Park,1st St W,Thief River Falls,MN,56701,48.1189,-96.1812, Free,
+,1,Crookston Highland Park,Barrette St,Crookston,MN,56716,47.7712,-96.6012, Free,
+,1,Little Falls Maple Island Park,SE 1st St,Little Falls,MN,56345,45.9789,-94.3612, Free,
+,1,Hutchinson Roberts Park,Roberts Rd SW,Hutchinson,MN,55350,44.8812,-94.3789, Free,
+,1,Waconia City Park,S Maple St,Waconia,MN,55387,44.8489,-93.7912, Free,
+,1,Buffalo Sturges Park,Lake Blvd S,Buffalo,MN,55313,45.1789,-93.8789, Free,
+,1,Monticello Ellison Park,River St,Monticello,MN,55362,45.3089,-93.7989, Free,
+,1,St Michael Town Center Park,Town Center Dr,St Michael,MN,55376,45.2089,-93.6612, Free,
+,1,Albertville Central Park,Main St NE,Albertville,MN,55301,45.2389,-93.6512, Free,
+,1,Delano Central Park,River St N,Delano,MN,55328,45.0412,-93.7712, Free,

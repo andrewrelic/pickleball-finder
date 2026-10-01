@@ -1,60 +1,60 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,Turkey Thicket Recreation Center Courts,1100 Michigan Ave NE,Washington,DC,20017,38.9345, -76.9915,Park
-,1,1,Banneker Community Center Courts,2500 Georgia Ave NW,Washington,DC,20001,38.9245, -77.0215,Park
-,1,1,Sherwood Recreation Center Courts,640 10th St NE,Washington,DC,20002,38.8985, -76.9915,Park
-,1,1,Edgewood Recreation Center Courts,300 Evarts St NE,Washington,DC,20002,38.9245, -77.0015,Park
-,1,1,Lafayette Recreation Center Courts,5900 33rd St NW,Washington,DC,20015,38.9685, -77.0685,Park
-,1,1,Randall Community Center Courts,820 S Capitol St SW,Washington,DC,20024,38.8815, -77.0085,Park
-,1,1,Palisades Community Center Courts,5200 Sherier Pl NW,Washington,DC,20016,38.9285, -77.0985,Park
-,1,1,Takoma Community Center Courts,300 Van Buren St NW,Washington,DC,20012,38.9715, -77.0185,Park
-,1,1,Hearst Recreation Center Courts,3950 37th St NW,Washington,DC,20008,38.9415, -77.0715,Park
-,1,1,Stead Recreation Center Courts,1625 P St NW,Washington,DC,20036,38.9095, -77.0385,Park
-,1,1,Guy Mason Recreation Center Courts,3600 Calvert St NW,Washington,DC,20007,38.9215, -77.0715,Park
-,1,1,Rose Park Pickleball Courts,2609 Dumbarton St NW,Washington,DC,20007,38.9085, -77.0545,Park
-,1,1,Chevy Chase Recreation Center Courts,5601 Connecticut Ave NW,Washington,DC,20015,38.9645, -77.0745,Park
-,1,1,Fort Stevens Recreation Center Courts,1327 Van Buren St NW,Washington,DC,20012,38.9715, -77.0315,Park
-,1,1,Petworth Recreation Center Courts,801 Taylor St NW,Washington,DC,20011,38.9415, -77.0245,Park
-,1,1,Raymond Recreation Center Courts,3725 10th St NW,Washington,DC,20010,38.9385, -77.0285,Park
-,1,1,Park View Community Center Courts,693 Otis Pl NW,Washington,DC,20010,38.9345, -77.0245,Park
-,1,1,Rosedale Recreation Center Courts,1701 Gales St NE,Washington,DC,20002,38.8985, -76.9785,Park
-,1,1,Kennedy Recreation Center Courts,1401 7th St NW,Washington,DC,20001,38.9085, -77.0215,Park
-,1,1,King-Greenleaf Recreation Center Courts,201 N St SW,Washington,DC,20024,38.8745, -77.0145,Park
-,1,1,Arthur Capper Community Center Courts,1000 5th St SE,Washington,DC,20003,38.8785, -77.0015,Park
-,1,1,Ridge Road Community Center Courts,830 Ridge Rd SE,Washington,DC,20019,38.8815, -76.9385,Park
-,1,1,Fort Davis Community Center Courts,1400 41st St SE,Washington,DC,20020,38.8685, -76.9485,Park
-,1,1,Hillcrest Recreation Center Courts,3100 Denver St SE,Washington,DC,20020,38.8645, -76.9615,Park
-,1,1,Anacostia Park Tennis & Pickleball Courts,1900 Anacostia Dr SE,Washington,DC,20020,38.8745, -76.9815,Park
-,1,1,Banneker Recreation Center Courts,2500 Georgia Ave NW,Washington,DC,20001,38.9212, -77.0212,Free
-,1,1,Chevy Chase Community Center Courts,5601 Connecticut Ave NW,Washington,DC,20015,38.9612, -77.0789,Free
-,1,1,Rose Park Courts,26th St & O St NW,Washington,DC,20007,38.9089, -77.0545,Free
-,1,1,Volta Park Courts,1555 34th St NW,Washington,DC,20007,38.9112, -77.0689,Free
-,1,1,Mitchell Park Courts,1801 23rd St NW,Washington,DC,20008,38.9145, -77.0512,Free
-,1,1,Kalorama Park Courts,1875 Columbia Rd NW,Washington,DC,20009,38.9189, -77.0445,Free
-,1,1,Hearst Park Courts,3950 37th St NW,Washington,DC,20008,38.9412, -77.0745,Free
-,1,1,Lafayette-Pointer Recreation Center Courts,5900 33rd St NW,Washington,DC,20015,38.9689, -77.0689,Free
-,1,1,Friendship Recreation Center Turtle Park Courts,4500 Van Ness St NW,Washington,DC,20016,38.9445, -77.0889,Free
-,1,1,Forest Hills Playground Courts,3220 Chesapeake St NW,Washington,DC,20008,38.9489, -77.0645,Free
-,1,1,Macomb Recreation Center Courts,3409 Macomb St NW,Washington,DC,20016,38.9345, -77.0689,Free
-,1,1,Newark Street Park Courts,39th St & Newark St NW,Washington,DC,20016,38.9345, -77.0789,Free
-,1,1,Hardy Recreation Center Courts,4500 Q St NW,Washington,DC,20007,38.9112, -77.0889,Free
-,1,1,Randall Recreation Center Courts,South Capitol & I St SW,Washington,DC,20024,38.8789, -77.0089,Free
-,1,1,King Greenleaf Recreation Center Courts,201 N St SW,Washington,DC,20024,38.8745, -77.0145,Free
-,1,1,Joy Evans Recreation Center Courts,555 L St SE,Washington,DC,20003,38.8789, -76.9989,Free
-,1,1,Fort Lincoln Recreation Center Courts,3160 Fort Lincoln Dr NE,Washington,DC,20018,38.9289, -76.9512,Free
-,1,1,Arboretum Community Center Courts,2412 Rand Pl NE,Washington,DC,20002,38.9145, -76.9712,Free
-,1,1,Benning Stoddert Recreation Center Courts,100 Stoddert Pl SE,Washington,DC,20019,38.8889, -76.9412,Free
-,1,1,Fort Dupont Ice Arena & Park Courts,3779 Ely Pl SE,Washington,DC,20019,38.8812, -76.9512,Free
-,1,1,Anacostia Park Recreation Courts,1900 Anacostia Dr SE,Washington,DC,20020,38.8712, -76.9812,Free
-,1,1,Barry Farm Recreation Center Courts,1230 Sumner Rd SE,Washington,DC,20020,38.8612, -76.9912,Free
-,1,1,Fort Greble Recreation Center Courts,Martin Luther King Jr Ave & Elmira St SW,Washington,DC,20032,38.8312, -77.0112,Free
-,1,1,Ferebee-Hope Recreation Center Courts,3999 8th St SE,Washington,DC,20032,38.8389, -76.9945,Free
-,1,1,Bald Eagle Recreation Center Courts,100 Joliet St SW,Washington,DC,20032,38.8245, -77.0145,Free
-,1,1,Congress Heights Recreation Center Courts,611 Alabama Ave SE,Washington,DC,20032,38.8445, -76.9912,Free
-,1,1,Harry Thomas Recreation Center Courts,1743 Lincoln Rd NE,Washington,DC,20002,38.9189, -77.0045,Free
-,1,1,Brentwood Recreation Center Courts,2311 14th St NE,Washington,DC,20018,38.9212, -76.9845,Free
-,1,1,Trinidad Recreation Center Courts,1310 Childress St NE,Washington,DC,20002,38.9089, -76.9845,Free
-,1,1,Kenilworth Recreation Center Courts,4321 Ord St NE,Washington,DC,20019,38.9012, -76.9412,Free
-,1,1,Marvin Gaye Park Courts,Division Ave & Foote St NE,Washington,DC,20019,38.8945, -76.9245,Free
-,1,1,Kelly Miller Recreation Center Courts,4900 Brooks St NE,Washington,DC,20019,38.8989, -76.9312,Free
-,1,1,Deanwood Community Center Courts,1350 49th St NE,Washington,DC,20019,38.9012, -76.9345,Community
-,1,1,Woody Ward Recreation Center Courts,5100 Southern Ave SE,Washington,DC,20019,38.8789, -76.9289,Free
+,1,Turkey Thicket Recreation Center Courts,1100 Michigan Ave NE,Washington,DC,20017,38.9345,-76.9915, Park,
+,1,Banneker Community Center Courts,2500 Georgia Ave NW,Washington,DC,20001,38.9245,-77.0215, Park,
+,1,Sherwood Recreation Center Courts,640 10th St NE,Washington,DC,20002,38.8985,-76.9915, Park,
+,1,Edgewood Recreation Center Courts,300 Evarts St NE,Washington,DC,20002,38.9245,-77.0015, Park,
+,1,Lafayette Recreation Center Courts,5900 33rd St NW,Washington,DC,20015,38.9685,-77.0685, Park,
+,1,Randall Community Center Courts,820 S Capitol St SW,Washington,DC,20024,38.8815,-77.0085, Park,
+,1,Palisades Community Center Courts,5200 Sherier Pl NW,Washington,DC,20016,38.9285,-77.0985, Park,
+,1,Takoma Community Center Courts,300 Van Buren St NW,Washington,DC,20012,38.9715,-77.0185, Park,
+,1,Hearst Recreation Center Courts,3950 37th St NW,Washington,DC,20008,38.9415,-77.0715, Park,
+,1,Stead Recreation Center Courts,1625 P St NW,Washington,DC,20036,38.9095,-77.0385, Park,
+,1,Guy Mason Recreation Center Courts,3600 Calvert St NW,Washington,DC,20007,38.9215,-77.0715, Park,
+,1,Rose Park Pickleball Courts,2609 Dumbarton St NW,Washington,DC,20007,38.9085,-77.0545, Park,
+,1,Chevy Chase Recreation Center Courts,5601 Connecticut Ave NW,Washington,DC,20015,38.9645,-77.0745, Park,
+,1,Fort Stevens Recreation Center Courts,1327 Van Buren St NW,Washington,DC,20012,38.9715,-77.0315, Park,
+,1,Petworth Recreation Center Courts,801 Taylor St NW,Washington,DC,20011,38.9415,-77.0245, Park,
+,1,Raymond Recreation Center Courts,3725 10th St NW,Washington,DC,20010,38.9385,-77.0285, Park,
+,1,Park View Community Center Courts,693 Otis Pl NW,Washington,DC,20010,38.9345,-77.0245, Park,
+,1,Rosedale Recreation Center Courts,1701 Gales St NE,Washington,DC,20002,38.8985,-76.9785, Park,
+,1,Kennedy Recreation Center Courts,1401 7th St NW,Washington,DC,20001,38.9085,-77.0215, Park,
+,1,King-Greenleaf Recreation Center Courts,201 N St SW,Washington,DC,20024,38.8745,-77.0145, Park,
+,1,Arthur Capper Community Center Courts,1000 5th St SE,Washington,DC,20003,38.8785,-77.0015, Park,
+,1,Ridge Road Community Center Courts,830 Ridge Rd SE,Washington,DC,20019,38.8815,-76.9385, Park,
+,1,Fort Davis Community Center Courts,1400 41st St SE,Washington,DC,20020,38.8685,-76.9485, Park,
+,1,Hillcrest Recreation Center Courts,3100 Denver St SE,Washington,DC,20020,38.8645,-76.9615, Park,
+,1,Anacostia Park Tennis & Pickleball Courts,1900 Anacostia Dr SE,Washington,DC,20020,38.8745,-76.9815, Park,
+,1,Banneker Recreation Center Courts,2500 Georgia Ave NW,Washington,DC,20001,38.9212,-77.0212, Free,
+,1,Chevy Chase Community Center Courts,5601 Connecticut Ave NW,Washington,DC,20015,38.9612,-77.0789, Free,
+,1,Rose Park Courts,26th St & O St NW,Washington,DC,20007,38.9089,-77.0545, Free,
+,1,Volta Park Courts,1555 34th St NW,Washington,DC,20007,38.9112,-77.0689, Free,
+,1,Mitchell Park Courts,1801 23rd St NW,Washington,DC,20008,38.9145,-77.0512, Free,
+,1,Kalorama Park Courts,1875 Columbia Rd NW,Washington,DC,20009,38.9189,-77.0445, Free,
+,1,Hearst Park Courts,3950 37th St NW,Washington,DC,20008,38.9412,-77.0745, Free,
+,1,Lafayette-Pointer Recreation Center Courts,5900 33rd St NW,Washington,DC,20015,38.9689,-77.0689, Free,
+,1,Friendship Recreation Center Turtle Park Courts,4500 Van Ness St NW,Washington,DC,20016,38.9445,-77.0889, Free,
+,1,Forest Hills Playground Courts,3220 Chesapeake St NW,Washington,DC,20008,38.9489,-77.0645, Free,
+,1,Macomb Recreation Center Courts,3409 Macomb St NW,Washington,DC,20016,38.9345,-77.0689, Free,
+,1,Newark Street Park Courts,39th St & Newark St NW,Washington,DC,20016,38.9345,-77.0789, Free,
+,1,Hardy Recreation Center Courts,4500 Q St NW,Washington,DC,20007,38.9112,-77.0889, Free,
+,1,Randall Recreation Center Courts,South Capitol & I St SW,Washington,DC,20024,38.8789,-77.0089, Free,
+,1,King Greenleaf Recreation Center Courts,201 N St SW,Washington,DC,20024,38.8745,-77.0145, Free,
+,1,Joy Evans Recreation Center Courts,555 L St SE,Washington,DC,20003,38.8789,-76.9989, Free,
+,1,Fort Lincoln Recreation Center Courts,3160 Fort Lincoln Dr NE,Washington,DC,20018,38.9289,-76.9512, Free,
+,1,Arboretum Community Center Courts,2412 Rand Pl NE,Washington,DC,20002,38.9145,-76.9712, Free,
+,1,Benning Stoddert Recreation Center Courts,100 Stoddert Pl SE,Washington,DC,20019,38.8889,-76.9412, Free,
+,1,Fort Dupont Ice Arena & Park Courts,3779 Ely Pl SE,Washington,DC,20019,38.8812,-76.9512, Free,
+,1,Anacostia Park Recreation Courts,1900 Anacostia Dr SE,Washington,DC,20020,38.8712,-76.9812, Free,
+,1,Barry Farm Recreation Center Courts,1230 Sumner Rd SE,Washington,DC,20020,38.8612,-76.9912, Free,
+,1,Fort Greble Recreation Center Courts,Martin Luther King Jr Ave & Elmira St SW,Washington,DC,20032,38.8312,-77.0112, Free,
+,1,Ferebee-Hope Recreation Center Courts,3999 8th St SE,Washington,DC,20032,38.8389,-76.9945, Free,
+,1,Bald Eagle Recreation Center Courts,100 Joliet St SW,Washington,DC,20032,38.8245,-77.0145, Free,
+,1,Congress Heights Recreation Center Courts,611 Alabama Ave SE,Washington,DC,20032,38.8445,-76.9912, Free,
+,1,Harry Thomas Recreation Center Courts,1743 Lincoln Rd NE,Washington,DC,20002,38.9189,-77.0045, Free,
+,1,Brentwood Recreation Center Courts,2311 14th St NE,Washington,DC,20018,38.9212,-76.9845, Free,
+,1,Trinidad Recreation Center Courts,1310 Childress St NE,Washington,DC,20002,38.9089,-76.9845, Free,
+,1,Kenilworth Recreation Center Courts,4321 Ord St NE,Washington,DC,20019,38.9012,-76.9412, Free,
+,1,Marvin Gaye Park Courts,Division Ave & Foote St NE,Washington,DC,20019,38.8945,-76.9245, Free,
+,1,Kelly Miller Recreation Center Courts,4900 Brooks St NE,Washington,DC,20019,38.8989,-76.9312, Free,
+,1,Deanwood Community Center Courts,1350 49th St NE,Washington,DC,20019,38.9012,-76.9345, Community,
+,1,Woody Ward Recreation Center Courts,5100 Southern Ave SE,Washington,DC,20019,38.8789,-76.9289, Free,

@@ -1,106 +1,106 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,Diadem Pickleball Tulsa,2795 E 91st St,Tulsa,OK,74137,36.03202, -95.92151,"Business,https://livepickleballcourts.com/facilities/diadem-pickleball-tulsa"
-,1,1,Chicken N Pickle - Oklahoma City,8400 N Oklahoma Ave,Oklahoma City,OK,73114,35.5585, -97.5085,"Business,"
-,1,1,Lafortune Tennis & Pickleball Center,5302 S Hudson Ave,Tulsa,OK,74135,36.0885, -95.9085,"Business,"
-,1,1,Hidden Trails Country Club Pickleball,6501 S Country Club Dr,Oklahoma City,OK,73159,35.3985, -97.5445,"Business,"
-,1,1,Greater Oklahoma City Pickleball Club,3000 E Britton Rd,Oklahoma City,OK,73131,35.5685, -97.4715,"Business,"
-,1,1,Scissortail Park Pickleball Courts,300 SW 7th St,Oklahoma City,OK,73109,35.4615, -97.5185,"Park,"
-,1,1,Earlywine Park Pickleball Complex,3033 SW 119th St,Oklahoma City,OK,73170,35.3485, -97.5685,"Park,"
-,1,1,Will Rogers Gardens Courts,3400 NW 36th St,Oklahoma City,OK,73112,35.5085, -97.5785,"Park,"
-,1,1,McCollum Park Courts,NW 10th St,Oklahoma City,OK,73127,35.4785, -97.6185,"Park,"
-,1,1,Hafer Park Pickleball Complex,1034 S Bryant Ave,Edmond,OK,73034,35.6415, -97.4585,"Park,"
-,1,1,Mitch Park Courts,1501 W Covell Rd,Edmond,OK,73003,35.6745, -97.4985,"Park,"
-,1,1,Bickham-Rudkin Park Courts,E 33rd St,Edmond,OK,73013,35.6185, -97.4585,"Park,"
-,1,1,Westwood Tennis & Pickleball Center,2400 Westport Dr,Norman,OK,73069,35.2445, -97.4685,"Park,"
-,1,1,Reaves Park Pickleball Courts,2501 Jenkins Ave,Norman,OK,73072,35.1985, -97.4385,"Park,"
-,1,1,Buck Thomas Park Courts,1903 S Eastern Ave,Moore,OK,73160,35.3185, -97.4785,"Park,"
-,1,1,Whitesell Park Courts,100 Whitesell Dr,Yukon,OK,73099,35.5015, -97.7485,"Park,"
-,1,1,Chisholm Trail Park,500 W Vandament Ave,Yukon,OK,73099,35.4985, -97.7615,"Park,"
-,1,1,Eldon Lyon Park Courts,7400 NW 36th St,Bethany,OK,73008,35.5085, -97.6445,"Park,"
-,1,1,Whiteside Park Pickleball Courts,4009 S Pittsburg Ave,Tulsa,OK,74135,36.1085, -95.9285,"Park,"
-,1,1,Manion Park Courts,3003 E 56th St,Tulsa,OK,74105,36.0845, -95.9515,"Park,"
-,1,1,Heller Park Courts,5328 S Wheeling Ave,Tulsa,OK,74105,36.0885, -95.9745,"Park,"
-,1,1,Haikey Creek Park Pickleball Complex,11327 S Garnett Rd,Broken Arrow,OK,74011,36.0015, -95.8545,"Park,"
-,1,1,Central Park Broken Arrow Courts,1500 S Main St,Broken Arrow,OK,74012,36.0385, -95.7885,"Park,"
-,1,1,Ray Harral Nature Park Courts,7101 S 3rd St,Broken Arrow,OK,74011,36.0615, -95.7845,"Park,"
-,1,1,Owasso Sports Park Courts,10320 E 116th St N,Owasso,OK,74055,36.3085, -95.8545,"Park,"
-,1,1,Sapulpa Sports Complex Courts,1201 E Cobb Ave,Sapulpa,OK,74066,35.9985, -96.1015,"Park,"
-,1,1,Elmer Thomas Park Courts,NW Ferris Ave,Lawton,OK,73507,34.6185, -98.3985,"Park,"
-,1,1,Couch Park Pickleball Courts,E 12th Ave,Stillwater,OK,74074,36.1115, -97.0485,"Park,"
-,1,1,Boomer Lake Park Courts,Lakeview Rd,Stillwater,OK,74075,36.1485, -97.0685,"Park,"
-,1,1,Honor Heights Park Courts,Honor Heights Dr,Muskogee,OK,74401,35.7685, -95.4085,"Park,"
-,1,1,Oklahoma City Scissortail Park Courts,300 SW 7th St,Oklahoma City,OK,73109,35.4612, -97.5189,"Free,"
-,1,1,Oklahoma City Memorial Park,1150 NW 36th St,Oklahoma City,OK,73118,35.5089, -97.5312,"Free,"
-,1,1,Oklahoma City Earlywine Park,3033 SW 119th St,Oklahoma City,OK,73170,35.3489, -97.5689,"Free,"
-,1,1,Tulsa Whiteside Park,4009 S Pittsburg Ave,Tulsa,OK,74135,36.1089, -95.9289,"Free,"
-,1,1,Tulsa Manion Park,3003 E 56th St,Tulsa,OK,74105,36.0889, -95.9512,"Free,"
-,1,1,Tulsa McClure Park,7440 E 7th St,Tulsa,OK,74112,36.1512, -95.8912,"Free,"
-,1,1,Norman Westwood Tennis & Pickleball Center,2420 Westport Dr,Norman,OK,73069,35.2412, -97.4789,"Community,"
-,1,1,Norman Griffin Community Park,1001 E Robinson St,Norman,OK,73071,35.2312, -97.4289,"Free,"
-,1,1,Broken Arrow Central Park,1500 S Main St,Broken Arrow,OK,74012,36.0389, -95.7889,"Free,"
-,1,1,Broken Arrow Country Aire Park,100 N Country Aire Dr,Broken Arrow,OK,74012,36.0589, -95.8212,"Free,"
-,1,1,Edmond Hafer Park,1034 S Bryant Ave,Edmond,OK,73034,35.6412, -97.4589,"Free,"
-,1,1,Edmond Mitch Park Courts,1501 W Covell Rd,Edmond,OK,73003,35.6712, -97.5012,"Free,"
-,1,1,Lawton Elmer Thomas Park,NW Ferris Ave,Lawton,OK,73507,34.6189, -98.3989,"Free,"
-,1,1,Moore Buck Thomas Park,1903 S Eastern Ave,Moore,OK,73160,35.3189, -97.4789,"Free,"
-,1,1,Midwest City Joe B. Barnes Regional Park,8700 E Reno Ave,Midwest City,OK,73110,35.4612, -97.3912,"Free,"
-,1,1,Enid Crosslin Park,1520 W Oxford Ave,Enid,OK,73703,36.4212, -97.8989,"Free,"
-,1,1,Stillwater Couch Park,1200 E 12th Ave,Stillwater,OK,74074,36.1089, -97.0412,"Free,"
-,1,1,Muskogee Civitan Park,3401 Gibson St,Muskogee,OK,74403,35.7412, -95.3989,"Free,"
-,1,1,Bartlesville Sooner Park,Madison Blvd,Bartlesville,OK,74006,36.7489, -95.9389,"Free,"
-,1,1,Owasso Rayola Park,8300 N Owasso Expy,Owasso,OK,74055,36.2712, -95.8489,"Free,"
-,1,1,Shawnee Woodland Veterans Memorial Park,Park & Highland,Shawnee,OK,74801,35.3389, -96.9189,"Free,"
-,1,1,Yukon Freedom Trail Park,2101 S Holly Ave,Yukon,OK,73099,35.4889, -97.7489,"Free,"
-,1,1,Bixby Bentley Park Sports Complex,8505 E 148th St S,Bixby,OK,74008,35.9389, -95.8789,"Free,"
-,1,1,Ardmore Regional Park,2704 N Rockford Rd,Ardmore,OK,73401,34.2012, -97.1212,"Free,"
-,1,1,Ponca City Lake Ponca Park,L.A. Cann Dr,Ponca City,OK,74604,36.7112, -97.0212,"Free,"
-,1,1,Duncan Fuqua Park,Beech Ave,Duncan,OK,73533,34.5089, -97.9612,"Free,"
-,1,1,Del City Eagle Harbor Park,SE 15th St,Del City,OK,73115,35.4412, -97.4389,"Free,"
-,1,1,Jenks Veterans Park,211 N Elm St,Jenks,OK,74037,36.0289, -95.9689,"Free,"
-,1,1,Mustang Wild Horse Park,1201 N Mustang Rd,Mustang,OK,73064,35.4012, -97.7212,"Free,"
-,1,1,Bethany Eldon Lyon Park,7400 NW 36th St,Bethany,OK,73008,35.5089, -97.6412,"Free,"
-,1,1,Altus Coley Park,N Park Ave,Altus,OK,73521,34.6489, -99.3312,"Free,"
-,1,1,Claremore Claremore Lake Park,East Blue Starr Dr,Claremore,OK,74017,36.3289, -95.5912,"Free,"
-,1,1,McAlester Chadick Park,3rd & Chadick,McAlester,OK,74501,34.9312, -95.7712,"Free,"
-,1,1,El Reno Adams Park,Country Club Rd,El Reno,OK,73036,35.5412, -97.9489,"Free,"
-,1,1,Ada Wintersmith Park,1801 Scenic Dr,Ada,OK,74820,34.7589, -96.6689,"Free,"
-,1,1,Durant Carl Albert Memorial Park,Carl Albert Dr,Durant,OK,74701,33.9989, -96.3889,"Free,"
-,1,1,Tahlequah Norris Park,E Downing St,Tahlequah,OK,74464,35.9189, -94.9712,"Free,"
-,1,1,Miami Riverview Park,Riverside Dr,Miami,OK,74354,36.8712, -94.8812,"Free,"
-,1,1,Chickasha Shannon Springs Park,S 9th St,Chickasha,OK,73018,35.0389, -97.9412,"Free,"
-,1,1,Woodward Crystal Beach Park,Temple Houston Dr,Woodward,OK,73801,36.4289, -99.3889,"Free,"
-,1,1,Weatherford Heritage Park,E Main St,Weatherford,OK,73096,35.5312, -98.6989,"Free,"
-,1,1,Guymon Sunset Park,Sunset Ln,Guymon,OK,73942,36.6789, -101.4889,"Free,"
-,1,1,Elk City Ackley Park,W 3rd St,Elk City,OK,73644,35.4089, -99.4312,"Free,"
-,1,1,Okmulgee Hawthorne Park,N Miami Ave,Okmulgee,OK,74447,35.6312, -95.9612,"Free,"
-,1,1,Choctaw Ten Acre Lake Park,NE 10th St,Choctaw,OK,73020,35.4812, -97.2612,"Free,"
-,1,1,Guthrie Highland Park,Warner Ave,Guthrie,OK,73044,35.8712, -97.4189,"Free,"
-,1,1,Warr Acres Cherokee Park,NW 50th St,Warr Acres,OK,73122,35.5212, -97.6189,"Free,"
-,1,1,Newcastle Veterans Park,Fox Ln,Newcastle,OK,73065,35.2489, -97.6012,"Free,"
-,1,1,Coweta Roland Park,S Broadway,Coweta,OK,74429,35.9512, -95.6512,"Free,"
-,1,1,Pryor Whitaker Park,Park St,Pryor,OK,74361,36.3112, -95.3189,"Free,"
-,1,1,Blanchard South Park,Main St,Blanchard,OK,73010,35.1389, -97.6589,"Free,"
-,1,1,Poteau Twyman Park,Twyman Park Dr,Poteau,OK,74953,35.0512, -94.6212,"Free,"
-,1,1,Sallisaw Sports Complex,J.T. Stites Blvd,Sallisaw,OK,74955,35.4589, -94.7912,"Free,"
-,1,1,Clinton McLain Rogers Park,S 10th St,Clinton,OK,73601,35.5089, -98.9689,"Free,"
-,1,1,Piedmont Community Park,Piedmont Rd,Piedmont,OK,73078,35.6412, -97.7489,"Free,"
-,1,1,Glenpool Black Gold Park,E 145th St S,Glenpool,OK,74033,35.9412, -95.9989,"Free,"
-,1,1,Seminole Municipal Park,Strother Ave,Seminole,OK,74868,35.2289, -96.6789,"Free,"
-,1,1,Purcell McCurdy Park,Green Ave,Purcell,OK,73080,35.0112, -97.3689,"Free,"
-,1,1,Catoosa Rodger Berry Sports Complex,Cherokee St,Catoosa,OK,74015,36.1889, -95.7512,"Free,"
-,1,1,Pauls Valley Wacker Park,S Willow St,Pauls Valley,OK,73075,34.7389, -97.2189,"Free,"
-,1,1,Harrah Heritage Park,Church Ave,Harrah,OK,73045,35.4889, -97.1612,"Free,"
-,1,1,Tuttle Schrock Park,Cemetery Rd,Tuttle,OK,73089,35.2912, -97.8112,"Free,"
-,1,1,Wagoner Maple Park,SE 2nd St,Wagoner,OK,74467,35.9589, -95.3689,"Free,"
-,1,1,Cushing Memorial Park,E 9th St,Cushing,OK,74023,35.9812, -96.7589,"Free,"
-,1,1,Idabel SE Sports Complex,SE Lincoln Rd,Idabel,OK,74745,33.8912, -94.8189,"Free,"
-,1,1,Anadarko Randlett Park,Randlett Park Dr,Anadarko,OK,73005,35.0789, -98.2412,"Free,"
-,1,1,Blackwell Memorial Park,Ferguson Ave,Blackwell,OK,74631,36.8089, -97.2889,"Free,"
-,1,1,Grove Sports Complex,Center St,Grove,OK,74344,36.5912, -94.7689,"Free,"
-,1,1,Henryetta Nichols Park,Nichols Park Rd,Henryetta,OK,74437,35.4289, -95.9789,"Free,"
-,1,1,Vinita Attucks Park,Attucks St,Vinita,OK,74301,36.6389, -95.1589,"Free,"
-,1,1,Tecumseh Slick Humphrey Park,Park Rd,Tecumseh,OK,74873,35.2589, -96.9389,"Free,"
-,1,1,Alva Hatfield Park,Barnes St,Alva,OK,73717,36.8012, -98.6689,"Free,"
-,1,1,Perry Lions West Park,Fir Ave,Perry,OK,73077,36.2889, -97.3012,"Free,"
-,1,1,Noble Rose Rock Park,Main St,Noble,OK,73068,35.1389, -97.3912,"Free,"
-,1,1,Marlow Redbud Park,Main St,Marlow,OK,73055,34.6489, -97.9589,"Free,"
+,1,Diadem Pickleball Tulsa,2795 E 91st St,Tulsa,OK,74137,36.03202,-95.92151," Business,https://livepickleballcourts.com/facilities/diadem-pickleball-tulsa",
+,1,Chicken N Pickle - Oklahoma City,8400 N Oklahoma Ave,Oklahoma City,OK,73114,35.5585,-97.5085, Business,
+,1,Lafortune Tennis & Pickleball Center,5302 S Hudson Ave,Tulsa,OK,74135,36.0885,-95.9085, Business,
+,1,Hidden Trails Country Club Pickleball,6501 S Country Club Dr,Oklahoma City,OK,73159,35.3985,-97.5445, Business,
+,1,Greater Oklahoma City Pickleball Club,3000 E Britton Rd,Oklahoma City,OK,73131,35.5685,-97.4715, Business,
+,1,Scissortail Park Pickleball Courts,300 SW 7th St,Oklahoma City,OK,73109,35.4615,-97.5185, Park,
+,1,Earlywine Park Pickleball Complex,3033 SW 119th St,Oklahoma City,OK,73170,35.3485,-97.5685, Park,
+,1,Will Rogers Gardens Courts,3400 NW 36th St,Oklahoma City,OK,73112,35.5085,-97.5785, Park,
+,1,McCollum Park Courts,NW 10th St,Oklahoma City,OK,73127,35.4785,-97.6185, Park,
+,1,Hafer Park Pickleball Complex,1034 S Bryant Ave,Edmond,OK,73034,35.6415,-97.4585, Park,
+,1,Mitch Park Courts,1501 W Covell Rd,Edmond,OK,73003,35.6745,-97.4985, Park,
+,1,Bickham-Rudkin Park Courts,E 33rd St,Edmond,OK,73013,35.6185,-97.4585, Park,
+,1,Westwood Tennis & Pickleball Center,2400 Westport Dr,Norman,OK,73069,35.2445,-97.4685, Park,
+,1,Reaves Park Pickleball Courts,2501 Jenkins Ave,Norman,OK,73072,35.1985,-97.4385, Park,
+,1,Buck Thomas Park Courts,1903 S Eastern Ave,Moore,OK,73160,35.3185,-97.4785, Park,
+,1,Whitesell Park Courts,100 Whitesell Dr,Yukon,OK,73099,35.5015,-97.7485, Park,
+,1,Chisholm Trail Park,500 W Vandament Ave,Yukon,OK,73099,35.4985,-97.7615, Park,
+,1,Eldon Lyon Park Courts,7400 NW 36th St,Bethany,OK,73008,35.5085,-97.6445, Park,
+,1,Whiteside Park Pickleball Courts,4009 S Pittsburg Ave,Tulsa,OK,74135,36.1085,-95.9285, Park,
+,1,Manion Park Courts,3003 E 56th St,Tulsa,OK,74105,36.0845,-95.9515, Park,
+,1,Heller Park Courts,5328 S Wheeling Ave,Tulsa,OK,74105,36.0885,-95.9745, Park,
+,1,Haikey Creek Park Pickleball Complex,11327 S Garnett Rd,Broken Arrow,OK,74011,36.0015,-95.8545, Park,
+,1,Central Park Broken Arrow Courts,1500 S Main St,Broken Arrow,OK,74012,36.0385,-95.7885, Park,
+,1,Ray Harral Nature Park Courts,7101 S 3rd St,Broken Arrow,OK,74011,36.0615,-95.7845, Park,
+,1,Owasso Sports Park Courts,10320 E 116th St N,Owasso,OK,74055,36.3085,-95.8545, Park,
+,1,Sapulpa Sports Complex Courts,1201 E Cobb Ave,Sapulpa,OK,74066,35.9985,-96.1015, Park,
+,1,Elmer Thomas Park Courts,NW Ferris Ave,Lawton,OK,73507,34.6185,-98.3985, Park,
+,1,Couch Park Pickleball Courts,E 12th Ave,Stillwater,OK,74074,36.1115,-97.0485, Park,
+,1,Boomer Lake Park Courts,Lakeview Rd,Stillwater,OK,74075,36.1485,-97.0685, Park,
+,1,Honor Heights Park Courts,Honor Heights Dr,Muskogee,OK,74401,35.7685,-95.4085, Park,
+,1,Oklahoma City Scissortail Park Courts,300 SW 7th St,Oklahoma City,OK,73109,35.4612,-97.5189, Free,
+,1,Oklahoma City Memorial Park,1150 NW 36th St,Oklahoma City,OK,73118,35.5089,-97.5312, Free,
+,1,Oklahoma City Earlywine Park,3033 SW 119th St,Oklahoma City,OK,73170,35.3489,-97.5689, Free,
+,1,Tulsa Whiteside Park,4009 S Pittsburg Ave,Tulsa,OK,74135,36.1089,-95.9289, Free,
+,1,Tulsa Manion Park,3003 E 56th St,Tulsa,OK,74105,36.0889,-95.9512, Free,
+,1,Tulsa McClure Park,7440 E 7th St,Tulsa,OK,74112,36.1512,-95.8912, Free,
+,1,Norman Westwood Tennis & Pickleball Center,2420 Westport Dr,Norman,OK,73069,35.2412,-97.4789, Community,
+,1,Norman Griffin Community Park,1001 E Robinson St,Norman,OK,73071,35.2312,-97.4289, Free,
+,1,Broken Arrow Central Park,1500 S Main St,Broken Arrow,OK,74012,36.0389,-95.7889, Free,
+,1,Broken Arrow Country Aire Park,100 N Country Aire Dr,Broken Arrow,OK,74012,36.0589,-95.8212, Free,
+,1,Edmond Hafer Park,1034 S Bryant Ave,Edmond,OK,73034,35.6412,-97.4589, Free,
+,1,Edmond Mitch Park Courts,1501 W Covell Rd,Edmond,OK,73003,35.6712,-97.5012, Free,
+,1,Lawton Elmer Thomas Park,NW Ferris Ave,Lawton,OK,73507,34.6189,-98.3989, Free,
+,1,Moore Buck Thomas Park,1903 S Eastern Ave,Moore,OK,73160,35.3189,-97.4789, Free,
+,1,Midwest City Joe B. Barnes Regional Park,8700 E Reno Ave,Midwest City,OK,73110,35.4612,-97.3912, Free,
+,1,Enid Crosslin Park,1520 W Oxford Ave,Enid,OK,73703,36.4212,-97.8989, Free,
+,1,Stillwater Couch Park,1200 E 12th Ave,Stillwater,OK,74074,36.1089,-97.0412, Free,
+,1,Muskogee Civitan Park,3401 Gibson St,Muskogee,OK,74403,35.7412,-95.3989, Free,
+,1,Bartlesville Sooner Park,Madison Blvd,Bartlesville,OK,74006,36.7489,-95.9389, Free,
+,1,Owasso Rayola Park,8300 N Owasso Expy,Owasso,OK,74055,36.2712,-95.8489, Free,
+,1,Shawnee Woodland Veterans Memorial Park,Park & Highland,Shawnee,OK,74801,35.3389,-96.9189, Free,
+,1,Yukon Freedom Trail Park,2101 S Holly Ave,Yukon,OK,73099,35.4889,-97.7489, Free,
+,1,Bixby Bentley Park Sports Complex,8505 E 148th St S,Bixby,OK,74008,35.9389,-95.8789, Free,
+,1,Ardmore Regional Park,2704 N Rockford Rd,Ardmore,OK,73401,34.2012,-97.1212, Free,
+,1,Ponca City Lake Ponca Park,L.A. Cann Dr,Ponca City,OK,74604,36.7112,-97.0212, Free,
+,1,Duncan Fuqua Park,Beech Ave,Duncan,OK,73533,34.5089,-97.9612, Free,
+,1,Del City Eagle Harbor Park,SE 15th St,Del City,OK,73115,35.4412,-97.4389, Free,
+,1,Jenks Veterans Park,211 N Elm St,Jenks,OK,74037,36.0289,-95.9689, Free,
+,1,Mustang Wild Horse Park,1201 N Mustang Rd,Mustang,OK,73064,35.4012,-97.7212, Free,
+,1,Bethany Eldon Lyon Park,7400 NW 36th St,Bethany,OK,73008,35.5089,-97.6412, Free,
+,1,Altus Coley Park,N Park Ave,Altus,OK,73521,34.6489,-99.3312, Free,
+,1,Claremore Claremore Lake Park,East Blue Starr Dr,Claremore,OK,74017,36.3289,-95.5912, Free,
+,1,McAlester Chadick Park,3rd & Chadick,McAlester,OK,74501,34.9312,-95.7712, Free,
+,1,El Reno Adams Park,Country Club Rd,El Reno,OK,73036,35.5412,-97.9489, Free,
+,1,Ada Wintersmith Park,1801 Scenic Dr,Ada,OK,74820,34.7589,-96.6689, Free,
+,1,Durant Carl Albert Memorial Park,Carl Albert Dr,Durant,OK,74701,33.9989,-96.3889, Free,
+,1,Tahlequah Norris Park,E Downing St,Tahlequah,OK,74464,35.9189,-94.9712, Free,
+,1,Miami Riverview Park,Riverside Dr,Miami,OK,74354,36.8712,-94.8812, Free,
+,1,Chickasha Shannon Springs Park,S 9th St,Chickasha,OK,73018,35.0389,-97.9412, Free,
+,1,Woodward Crystal Beach Park,Temple Houston Dr,Woodward,OK,73801,36.4289,-99.3889, Free,
+,1,Weatherford Heritage Park,E Main St,Weatherford,OK,73096,35.5312,-98.6989, Free,
+,1,Guymon Sunset Park,Sunset Ln,Guymon,OK,73942,36.6789,-101.4889, Free,
+,1,Elk City Ackley Park,W 3rd St,Elk City,OK,73644,35.4089,-99.4312, Free,
+,1,Okmulgee Hawthorne Park,N Miami Ave,Okmulgee,OK,74447,35.6312,-95.9612, Free,
+,1,Choctaw Ten Acre Lake Park,NE 10th St,Choctaw,OK,73020,35.4812,-97.2612, Free,
+,1,Guthrie Highland Park,Warner Ave,Guthrie,OK,73044,35.8712,-97.4189, Free,
+,1,Warr Acres Cherokee Park,NW 50th St,Warr Acres,OK,73122,35.5212,-97.6189, Free,
+,1,Newcastle Veterans Park,Fox Ln,Newcastle,OK,73065,35.2489,-97.6012, Free,
+,1,Coweta Roland Park,S Broadway,Coweta,OK,74429,35.9512,-95.6512, Free,
+,1,Pryor Whitaker Park,Park St,Pryor,OK,74361,36.3112,-95.3189, Free,
+,1,Blanchard South Park,Main St,Blanchard,OK,73010,35.1389,-97.6589, Free,
+,1,Poteau Twyman Park,Twyman Park Dr,Poteau,OK,74953,35.0512,-94.6212, Free,
+,1,Sallisaw Sports Complex,J.T. Stites Blvd,Sallisaw,OK,74955,35.4589,-94.7912, Free,
+,1,Clinton McLain Rogers Park,S 10th St,Clinton,OK,73601,35.5089,-98.9689, Free,
+,1,Piedmont Community Park,Piedmont Rd,Piedmont,OK,73078,35.6412,-97.7489, Free,
+,1,Glenpool Black Gold Park,E 145th St S,Glenpool,OK,74033,35.9412,-95.9989, Free,
+,1,Seminole Municipal Park,Strother Ave,Seminole,OK,74868,35.2289,-96.6789, Free,
+,1,Purcell McCurdy Park,Green Ave,Purcell,OK,73080,35.0112,-97.3689, Free,
+,1,Catoosa Rodger Berry Sports Complex,Cherokee St,Catoosa,OK,74015,36.1889,-95.7512, Free,
+,1,Pauls Valley Wacker Park,S Willow St,Pauls Valley,OK,73075,34.7389,-97.2189, Free,
+,1,Harrah Heritage Park,Church Ave,Harrah,OK,73045,35.4889,-97.1612, Free,
+,1,Tuttle Schrock Park,Cemetery Rd,Tuttle,OK,73089,35.2912,-97.8112, Free,
+,1,Wagoner Maple Park,SE 2nd St,Wagoner,OK,74467,35.9589,-95.3689, Free,
+,1,Cushing Memorial Park,E 9th St,Cushing,OK,74023,35.9812,-96.7589, Free,
+,1,Idabel SE Sports Complex,SE Lincoln Rd,Idabel,OK,74745,33.8912,-94.8189, Free,
+,1,Anadarko Randlett Park,Randlett Park Dr,Anadarko,OK,73005,35.0789,-98.2412, Free,
+,1,Blackwell Memorial Park,Ferguson Ave,Blackwell,OK,74631,36.8089,-97.2889, Free,
+,1,Grove Sports Complex,Center St,Grove,OK,74344,36.5912,-94.7689, Free,
+,1,Henryetta Nichols Park,Nichols Park Rd,Henryetta,OK,74437,35.4289,-95.9789, Free,
+,1,Vinita Attucks Park,Attucks St,Vinita,OK,74301,36.6389,-95.1589, Free,
+,1,Tecumseh Slick Humphrey Park,Park Rd,Tecumseh,OK,74873,35.2589,-96.9389, Free,
+,1,Alva Hatfield Park,Barnes St,Alva,OK,73717,36.8012,-98.6689, Free,
+,1,Perry Lions West Park,Fir Ave,Perry,OK,73077,36.2889,-97.3012, Free,
+,1,Noble Rose Rock Park,Main St,Noble,OK,73068,35.1389,-97.3912, Free,
+,1,Marlow Redbud Park,Main St,Marlow,OK,73055,34.6489,-97.9589, Free,

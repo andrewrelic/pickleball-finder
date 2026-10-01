@@ -1,104 +1,104 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,The Alaska Club East Pickleball,5201 E Tudor Rd,Anchorage,AK,99507,61.1815, -149.7885,Business
-,1,1,The Alaska Club South,10931 O'Malley Centre Dr,Anchorage,AK,99515,61.1215, -149.8645,Business
-,1,1,O'Malley Sports Center Pickleball,11051 O'Malley Centre Dr,Anchorage,AK,99515,61.1185, -149.8615,Business
-,1,1,Fairbanks Tennis & Pickleball Club,751 Old Steese Hwy N,Fairbanks,AK,99701,64.8515, -147.7115,Business
-,1,1,Pop Carr Park Pickleball Courts,3211 Robinson Ave,Anchorage,AK,99508,61.2085, -149.7985,Park
-,1,1,Campbell Creek Park Courts,48th Ave & Lake Otis Pkwy,Anchorage,AK,99507,61.1785, -149.8385,Park
-,1,1,Chester Valley Park Courts,Patterson St & Debarr Rd,Anchorage,AK,99504,61.2115, -149.7415,Park
-,1,1,Dave Rose Park Courts,Lane St,Anchorage,AK,99508,61.2215, -149.8085,Park
-,1,1,Fairview Park Courts,E 12th Ave & Medfra St,Anchorage,AK,99501,61.2115, -149.8685,Park
-,1,1,Jewel Lake Park Courts,4301 W 88th Ave,Anchorage,AK,99502,61.1415, -149.9545,Park
-,1,1,Lyn Ary Park Courts,3101 Foraker Dr,Anchorage,AK,99517,61.1945, -149.9485,Park
-,1,1,Russian Jack Springs Park Courts,1600 Lidia Selkregg Ln,Anchorage,AK,99508,61.2015, -149.7845,Park
-,1,1,South Anchorage Sports Complex,798 W Klatt Rd,Anchorage,AK,99515,61.1085, -149.8915,Park
-,1,1,Valley of the Sun Park,"Wasilla, AK",Wasilla,AK,99654,61.5815, -149.4415,Park
-,1,1,Wasilla Multi-Use Sports Complex Courts,1001 S Mack Dr,Wasilla,AK,99654,61.5685, -149.4685,Park
-,1,1,Palmer Mat-Su Pickleball Courts,Inner Springer Loop,Palmer,AK,99645,61.5985, -149.1115,Park
-,1,1,Growden Memorial Park Courts,Wilbur St,Fairbanks,AK,99701,64.8415, -147.7485,Park
-,1,1,Mary Siah Recreation Center Courts,1024 14th Ave,Fairbanks,AK,99701,64.8345, -147.7285,Park
-,1,1,South Davis Park Courts,Davis Rd,Fairbanks,AK,99701,64.8185, -147.7785,Park
-,1,1,Dimond Park Field House Pickleball,2961 Riverside Dr,Juneau,AK,99801,58.3715, -134.5885,Park
-,1,1,Cope Park Courts,Calhoun Ave,Juneau,AK,99801,58.3045, -134.4145,Park
-,1,1,Soldotna Regional Sports Complex Courts,538 Arena Dr,Soldotna,AK,99669,60.4845, -151.0845,Park
-,1,1,Kenai Multi-Purpose Facility Courts,9830 Spur Hwy,Kenai,AK,99611,60.5585, -151.2645,Park
-,1,1,Homer Community Recreation Center,600 E Fairview Ave,Homer,AK,99603,59.6485, -151.5415,Park
-,1,1,Ketchikan Recreation Center Courts,601 Schoenbar Rd,Ketchikan,AK,99901,55.3485, -131.6485,Park
-,1,1,Anchorage Delaney Park Strip Courts,W 9th Ave & P St,Anchorage,AK,99501,61.2145, -149.9012,Free
-,1,1,Anchorage Campbell Creek Park,E 48th Ave & Lake Otis Pkwy,Anchorage,AK,99507,61.1789, -149.8389,Free
-,1,1,Anchorage Fairview Lions Park,1201 E 8th Ave,Anchorage,AK,99501,61.2145, -149.8612,Free
-,1,1,Anchorage Russian Jack Springs Park,Debarr Rd & Pine St,Anchorage,AK,99508,61.2089, -149.8089,Free
-,1,1,Anchorage Abbott Loop Community Park,8101 Elmore Rd,Anchorage,AK,99507,61.1489, -149.7989,Free
-,1,1,Anchorage South Anchorage Sports Complex,798 W 100th Ave,Anchorage,AK,99515,61.1289, -149.8912,Free
-,1,1,Anchorage Kincaid Park Courts,9401 Raspberry Rd,Anchorage,AK,99502,61.1589, -150.0589,Free
-,1,1,Anchorage Pop Carr Park,Park Rd,Anchorage,AK,99508,61.1989, -149.8189,Free
-,1,1,Anchorage Lyn Ary Park,3101 Turnagain Dr,Anchorage,AK,99517,61.1912, -149.9512,Free
-,1,1,Anchorage Whisper Faith Kovach Park,E 72nd Ave,Anchorage,AK,99507,61.1589, -149.8212,Free
-,1,1,Eagle River Lions Park Courts,18344 Eagle River Rd,Eagle River,AK,99577,61.3212, -149.5689,Free
-,1,1,Eagle River Town Center Park,Business Blvd,Eagle River,AK,99577,61.3289, -149.5712,Free
-,1,1,Chugiak Loretta French Sports Complex,18100 Old Glenn Hwy,Chugiak,AK,99567,61.4089, -149.4989,Free
-,1,1,Wasilla Bumpus Recreation Complex,Bumpus St,Wasilla,AK,99654,61.5712, -149.4489,Free
-,1,1,Wasilla Menard Sports Center Courts,1001 S Clapp St,Wasilla,AK,99654,61.5689, -149.4712,Community
-,1,1,Wasilla Iditapark Courts,Nelson Ave & Wasilla Fishhook Rd,Wasilla,AK,99654,61.5889, -149.4312,Free
-,1,1,Palmer MTA Sports Center Courts,1537 N Outer Springer Loop,Palmer,AK,99645,61.6089, -149.1212,Community
-,1,1,Palmer Sherrod Sports Complex,E Arctic Ave,Palmer,AK,99645,61.5989, -149.1089,Free
-,1,1,Fairbanks Davis Sports Complex,Wilbur St & 2nd Ave,Fairbanks,AK,99701,64.8412, -147.7489,Free
-,1,1,Fairbanks Growden Memorial Park,Wilbur St,Fairbanks,AK,99701,64.8423, -147.7512,Free
-,1,1,Fairbanks Morning Star Community Park,Morning Star Dr,Fairbanks,AK,99712,64.8712, -147.6089,Free
-,1,1,North Pole Beaver Springs Park,Davis Blvd,North Pole,AK,99705,64.7512, -147.3512,Free
-,1,1,Juneau Dimond Park Field House Courts,2961 Riverside Dr,Juneau,AK,99801,58.3889, -134.5889,Community
-,1,1,Juneau Cope Park Courts,121 Calhoun Ave,Juneau,AK,99801,58.3089, -134.4189,Free
-,1,1,Juneau Savikko Park,Savikko Rd,Juneau,AK,99824,58.2712, -134.3989,Free
-,1,1,Kenai Municipal Park Courts,Park Ave,Kenai,AK,99611,60.5589, -151.2589,Free
-,1,1,Soldotna Swiftwater Park Courts,Swiftwater Park Rd,Soldotna,AK,99669,60.4889, -151.0489,Free
-,1,1,Soldotna Regional Sports Complex,538 Arena Ave,Soldotna,AK,99669,60.4912, -151.0712,Community
-,1,1,Homer Jack Gist Park,East End Rd,Homer,AK,99603,59.6589, -151.4889,Free
-,1,1,Homer Karen Hornaday Park,Fairview Ave,Homer,AK,99603,59.6489, -151.5612,Free
-,1,1,Seward City Sports Park Courts,Freshwater Ln,Seward,AK,99664,60.1289, -149.4412,Free
-,1,1,Kodiak Baranof Park Courts,Baranof St,Kodiak,AK,99615,57.7912, -152.4089,Free
-,1,1,Sitka Moller Field & Park,Sawmill Creek Rd,Sitka,AK,99835,57.0589, -135.3212,Free
-,1,1,Ketchikan Weiss Field Courts,Weiss Rd,Ketchikan,AK,99901,55.3589, -131.6789,Free
-,1,1,Valdez Civic Center Complex Courts,314 Clifton Dr,Valdez,AK,99686,61.1289, -146.3612,Free
-,1,1,Petersburg Community Gym Courts,Fram St,Petersburg,AK,99833,56.8112, -132.9512,Community
-,1,1,Wrangell Volunteer Park Courts,Zimovia Hwy,Wrangell,AK,99929,56.4689, -132.3789,Free
-,1,1,Haines Tlingit Park Courts,Front St,Haines,AK,99827,59.2389, -135.4412,Free
-,1,1,Skagway Seven Pastures Recreation Complex,Dyea Rd,Skagway,AK,99840,59.4612, -135.3189,Free
-,1,1,Cordova Bidarki Recreation Center Courts,103 Council Ave,Cordova,AK,99574,60.5412, -145.7512,Community
-,1,1,Delta Junction Community Park,Alcan Hwy,Delta Junction,AK,99737,64.0389, -145.7312,Free
-,1,1,Tok Memorial Park,Tok Cut-Off,Tok,AK,99780,63.3389, -142.9812,Free
-,1,1,Healy Tri-Valley Community Center Courts,Parks Hwy,Healy,AK,99743,63.8589, -148.9612,Community
-,1,1,Talkeetna Village Park,Main St,Talkeetna,AK,99676,62.3212, -150.1112,Free
-,1,1,Willow Community Center Courts,Mile 70 Parks Hwy,Willow,AK,99688,61.7489, -150.0389,Community
-,1,1,Big Lake Lions Recreation Center Courts,Big Lake Rd,Big Lake,AK,99652,61.5389, -149.9612,Community
-,1,1,Sutton Community Park,Glenn Hwy,Sutton,AK,99674,61.7112, -148.8889,Free
-,1,1,Girdwood Town Square Courts,Egloff Dr,Girdwood,AK,99587,60.9412, -149.1689,Free
-,1,1,Sterling Community Park,Sterling Hwy,Sterling,AK,99672,60.5389, -150.7612,Free
-,1,1,Anchor Point Community Courts,Sterling Hwy,Anchor Point,AK,99556,59.7789, -151.8389,Free
-,1,1,Ninilchik Fairgrounds Courts,Sterling Hwy,Ninilchik,AK,99639,60.0512, -151.6612,Free
-,1,1,Nikiski Community Recreation Center Courts,50097 Kenai Spur Hwy,Nikiski,AK,99635,60.6912, -151.2989,Community
-,1,1,Craig City Recreation Courts,Cold Storage Rd,Craig,AK,99921,55.4789, -133.1489,Free
-,1,1,Klawock Community Center Courts,Bayview Blvd,Klawock,AK,99925,55.5512, -133.0912,Community
-,1,1,Thorne Bay Bay Chalet Courts,Thorne Bay Rd,Thorne Bay,AK,99919,55.6812, -132.5312,Free
-,1,1,Metlakatla Community Courts,Airport Rd,Metlakatla,AK,99926,55.1289, -131.5712,Free
-,1,1,Hoonah City Park,Garteeni Hwy,Hoonah,AK,99829,58.1089, -135.4412,Free
-,1,1,Yakutat Community Gym Courts,Mallott Ave,Yakutat,AK,99689,59.5489, -139.7312,Community
-,1,1,Kotzebue Recreation Center Courts,3rd Ave,Kotzebue,AK,99752,66.8989, -162.5989,Community
-,1,1,Nome Recreation Center Courts,208 E 6th Ave,Nome,AK,99762,64.5012, -165.4089,Community
-,1,1,Bethel Parks & Recreation Center Courts,Ptarmigan St,Bethel,AK,99559,60.7912, -161.7589,Community
-,1,1,Utqiagvik Community Recreation Center,Okpik St,Utqiagvik,AK,99723,71.2912, -156.7889,Community
-,1,1,Unalaska Community Center Courts,570 Broadway Ave,Unalaska,AK,99685,53.8789, -166.5389,Community
-,1,1,Glennallen Community Courts,Glenn Hwy,Glennallen,AK,99588,62.1112, -145.5312,Free
-,1,1,Copper Center Community Courts,Old Richardson Hwy,Copper Center,AK,99573,61.9612, -145.3189,Free
-,1,1,Cantwell Community Center Courts,Denali Hwy,Cantwell,AK,99729,63.3889, -148.9512,Community
-,1,1,Nenana Civic Center Courts,A St,Nenana,AK,99760,64.5612, -149.0989,Free
-,1,1,Anderson City Park,Anderson Way,Anderson,AK,99744,64.3489, -149.1812,Free
-,1,1,Clear Community Recreation Courts,Air Station Rd,Clear,AK,99704,64.2989, -149.1912,Community
-,1,1,Eielson AFB Community Courts,Amber Ave,Eielson AFB,AK,99702,64.6612, -147.1012,Military
-,1,1,Fort Wainwright Physical Fitness Center Courts,Neely Rd,Fort Wainwright,AK,99703,64.8289, -147.6389,Military
-,1,1,JBER Buckner Physical Fitness Center Courts,Bldg 684,JBER,AK,99505,61.2512, -149.7112,Military
-,1,1,Kenai River Center Courts,514 Funny River Rd,Soldotna,AK,99669,60.4789, -151.0589,Free
-,1,1,Moose Pass Community Courts,Seward Hwy,Moose Pass,AK,99631,60.4889, -149.3689,Free
-,1,1,Cooper Landing Community Club Courts,Bean Creek Rd,Cooper Landing,AK,99572,60.4912, -149.9789,Community
-,1,1,Hope Community Courts,Hope Hwy,Hope,AK,99605,60.9189, -149.6412,Free
-,1,1,Houston City Hall Park,Armstrong Rd,Houston,AK,99694,61.6312, -149.8189,Free
-,1,1,Point MacKenzie Community Courts,Point MacKenzie Rd,Wasilla,AK,99654,61.3589, -149.9189,Free
+,1,The Alaska Club East Pickleball,5201 E Tudor Rd,Anchorage,AK,99507,61.1815,-149.7885, Business,
+,1,The Alaska Club South,10931 O'Malley Centre Dr,Anchorage,AK,99515,61.1215,-149.8645, Business,
+,1,O'Malley Sports Center Pickleball,11051 O'Malley Centre Dr,Anchorage,AK,99515,61.1185,-149.8615, Business,
+,1,Fairbanks Tennis & Pickleball Club,751 Old Steese Hwy N,Fairbanks,AK,99701,64.8515,-147.7115, Business,
+,1,Pop Carr Park Pickleball Courts,3211 Robinson Ave,Anchorage,AK,99508,61.2085,-149.7985, Park,
+,1,Campbell Creek Park Courts,48th Ave & Lake Otis Pkwy,Anchorage,AK,99507,61.1785,-149.8385, Park,
+,1,Chester Valley Park Courts,Patterson St & Debarr Rd,Anchorage,AK,99504,61.2115,-149.7415, Park,
+,1,Dave Rose Park Courts,Lane St,Anchorage,AK,99508,61.2215,-149.8085, Park,
+,1,Fairview Park Courts,E 12th Ave & Medfra St,Anchorage,AK,99501,61.2115,-149.8685, Park,
+,1,Jewel Lake Park Courts,4301 W 88th Ave,Anchorage,AK,99502,61.1415,-149.9545, Park,
+,1,Lyn Ary Park Courts,3101 Foraker Dr,Anchorage,AK,99517,61.1945,-149.9485, Park,
+,1,Russian Jack Springs Park Courts,1600 Lidia Selkregg Ln,Anchorage,AK,99508,61.2015,-149.7845, Park,
+,1,South Anchorage Sports Complex,798 W Klatt Rd,Anchorage,AK,99515,61.1085,-149.8915, Park,
+,1,Valley of the Sun Park,"Wasilla, AK",Wasilla,AK,99654,61.5815,-149.4415, Park,
+,1,Wasilla Multi-Use Sports Complex Courts,1001 S Mack Dr,Wasilla,AK,99654,61.5685,-149.4685, Park,
+,1,Palmer Mat-Su Pickleball Courts,Inner Springer Loop,Palmer,AK,99645,61.5985,-149.1115, Park,
+,1,Growden Memorial Park Courts,Wilbur St,Fairbanks,AK,99701,64.8415,-147.7485, Park,
+,1,Mary Siah Recreation Center Courts,1024 14th Ave,Fairbanks,AK,99701,64.8345,-147.7285, Park,
+,1,South Davis Park Courts,Davis Rd,Fairbanks,AK,99701,64.8185,-147.7785, Park,
+,1,Dimond Park Field House Pickleball,2961 Riverside Dr,Juneau,AK,99801,58.3715,-134.5885, Park,
+,1,Cope Park Courts,Calhoun Ave,Juneau,AK,99801,58.3045,-134.4145, Park,
+,1,Soldotna Regional Sports Complex Courts,538 Arena Dr,Soldotna,AK,99669,60.4845,-151.0845, Park,
+,1,Kenai Multi-Purpose Facility Courts,9830 Spur Hwy,Kenai,AK,99611,60.5585,-151.2645, Park,
+,1,Homer Community Recreation Center,600 E Fairview Ave,Homer,AK,99603,59.6485,-151.5415, Park,
+,1,Ketchikan Recreation Center Courts,601 Schoenbar Rd,Ketchikan,AK,99901,55.3485,-131.6485, Park,
+,1,Anchorage Delaney Park Strip Courts,W 9th Ave & P St,Anchorage,AK,99501,61.2145,-149.9012, Free,
+,1,Anchorage Campbell Creek Park,E 48th Ave & Lake Otis Pkwy,Anchorage,AK,99507,61.1789,-149.8389, Free,
+,1,Anchorage Fairview Lions Park,1201 E 8th Ave,Anchorage,AK,99501,61.2145,-149.8612, Free,
+,1,Anchorage Russian Jack Springs Park,Debarr Rd & Pine St,Anchorage,AK,99508,61.2089,-149.8089, Free,
+,1,Anchorage Abbott Loop Community Park,8101 Elmore Rd,Anchorage,AK,99507,61.1489,-149.7989, Free,
+,1,Anchorage South Anchorage Sports Complex,798 W 100th Ave,Anchorage,AK,99515,61.1289,-149.8912, Free,
+,1,Anchorage Kincaid Park Courts,9401 Raspberry Rd,Anchorage,AK,99502,61.1589,-150.0589, Free,
+,1,Anchorage Pop Carr Park,Park Rd,Anchorage,AK,99508,61.1989,-149.8189, Free,
+,1,Anchorage Lyn Ary Park,3101 Turnagain Dr,Anchorage,AK,99517,61.1912,-149.9512, Free,
+,1,Anchorage Whisper Faith Kovach Park,E 72nd Ave,Anchorage,AK,99507,61.1589,-149.8212, Free,
+,1,Eagle River Lions Park Courts,18344 Eagle River Rd,Eagle River,AK,99577,61.3212,-149.5689, Free,
+,1,Eagle River Town Center Park,Business Blvd,Eagle River,AK,99577,61.3289,-149.5712, Free,
+,1,Chugiak Loretta French Sports Complex,18100 Old Glenn Hwy,Chugiak,AK,99567,61.4089,-149.4989, Free,
+,1,Wasilla Bumpus Recreation Complex,Bumpus St,Wasilla,AK,99654,61.5712,-149.4489, Free,
+,1,Wasilla Menard Sports Center Courts,1001 S Clapp St,Wasilla,AK,99654,61.5689,-149.4712, Community,
+,1,Wasilla Iditapark Courts,Nelson Ave & Wasilla Fishhook Rd,Wasilla,AK,99654,61.5889,-149.4312, Free,
+,1,Palmer MTA Sports Center Courts,1537 N Outer Springer Loop,Palmer,AK,99645,61.6089,-149.1212, Community,
+,1,Palmer Sherrod Sports Complex,E Arctic Ave,Palmer,AK,99645,61.5989,-149.1089, Free,
+,1,Fairbanks Davis Sports Complex,Wilbur St & 2nd Ave,Fairbanks,AK,99701,64.8412,-147.7489, Free,
+,1,Fairbanks Growden Memorial Park,Wilbur St,Fairbanks,AK,99701,64.8423,-147.7512, Free,
+,1,Fairbanks Morning Star Community Park,Morning Star Dr,Fairbanks,AK,99712,64.8712,-147.6089, Free,
+,1,North Pole Beaver Springs Park,Davis Blvd,North Pole,AK,99705,64.7512,-147.3512, Free,
+,1,Juneau Dimond Park Field House Courts,2961 Riverside Dr,Juneau,AK,99801,58.3889,-134.5889, Community,
+,1,Juneau Cope Park Courts,121 Calhoun Ave,Juneau,AK,99801,58.3089,-134.4189, Free,
+,1,Juneau Savikko Park,Savikko Rd,Juneau,AK,99824,58.2712,-134.3989, Free,
+,1,Kenai Municipal Park Courts,Park Ave,Kenai,AK,99611,60.5589,-151.2589, Free,
+,1,Soldotna Swiftwater Park Courts,Swiftwater Park Rd,Soldotna,AK,99669,60.4889,-151.0489, Free,
+,1,Soldotna Regional Sports Complex,538 Arena Ave,Soldotna,AK,99669,60.4912,-151.0712, Community,
+,1,Homer Jack Gist Park,East End Rd,Homer,AK,99603,59.6589,-151.4889, Free,
+,1,Homer Karen Hornaday Park,Fairview Ave,Homer,AK,99603,59.6489,-151.5612, Free,
+,1,Seward City Sports Park Courts,Freshwater Ln,Seward,AK,99664,60.1289,-149.4412, Free,
+,1,Kodiak Baranof Park Courts,Baranof St,Kodiak,AK,99615,57.7912,-152.4089, Free,
+,1,Sitka Moller Field & Park,Sawmill Creek Rd,Sitka,AK,99835,57.0589,-135.3212, Free,
+,1,Ketchikan Weiss Field Courts,Weiss Rd,Ketchikan,AK,99901,55.3589,-131.6789, Free,
+,1,Valdez Civic Center Complex Courts,314 Clifton Dr,Valdez,AK,99686,61.1289,-146.3612, Free,
+,1,Petersburg Community Gym Courts,Fram St,Petersburg,AK,99833,56.8112,-132.9512, Community,
+,1,Wrangell Volunteer Park Courts,Zimovia Hwy,Wrangell,AK,99929,56.4689,-132.3789, Free,
+,1,Haines Tlingit Park Courts,Front St,Haines,AK,99827,59.2389,-135.4412, Free,
+,1,Skagway Seven Pastures Recreation Complex,Dyea Rd,Skagway,AK,99840,59.4612,-135.3189, Free,
+,1,Cordova Bidarki Recreation Center Courts,103 Council Ave,Cordova,AK,99574,60.5412,-145.7512, Community,
+,1,Delta Junction Community Park,Alcan Hwy,Delta Junction,AK,99737,64.0389,-145.7312, Free,
+,1,Tok Memorial Park,Tok Cut-Off,Tok,AK,99780,63.3389,-142.9812, Free,
+,1,Healy Tri-Valley Community Center Courts,Parks Hwy,Healy,AK,99743,63.8589,-148.9612, Community,
+,1,Talkeetna Village Park,Main St,Talkeetna,AK,99676,62.3212,-150.1112, Free,
+,1,Willow Community Center Courts,Mile 70 Parks Hwy,Willow,AK,99688,61.7489,-150.0389, Community,
+,1,Big Lake Lions Recreation Center Courts,Big Lake Rd,Big Lake,AK,99652,61.5389,-149.9612, Community,
+,1,Sutton Community Park,Glenn Hwy,Sutton,AK,99674,61.7112,-148.8889, Free,
+,1,Girdwood Town Square Courts,Egloff Dr,Girdwood,AK,99587,60.9412,-149.1689, Free,
+,1,Sterling Community Park,Sterling Hwy,Sterling,AK,99672,60.5389,-150.7612, Free,
+,1,Anchor Point Community Courts,Sterling Hwy,Anchor Point,AK,99556,59.7789,-151.8389, Free,
+,1,Ninilchik Fairgrounds Courts,Sterling Hwy,Ninilchik,AK,99639,60.0512,-151.6612, Free,
+,1,Nikiski Community Recreation Center Courts,50097 Kenai Spur Hwy,Nikiski,AK,99635,60.6912,-151.2989, Community,
+,1,Craig City Recreation Courts,Cold Storage Rd,Craig,AK,99921,55.4789,-133.1489, Free,
+,1,Klawock Community Center Courts,Bayview Blvd,Klawock,AK,99925,55.5512,-133.0912, Community,
+,1,Thorne Bay Bay Chalet Courts,Thorne Bay Rd,Thorne Bay,AK,99919,55.6812,-132.5312, Free,
+,1,Metlakatla Community Courts,Airport Rd,Metlakatla,AK,99926,55.1289,-131.5712, Free,
+,1,Hoonah City Park,Garteeni Hwy,Hoonah,AK,99829,58.1089,-135.4412, Free,
+,1,Yakutat Community Gym Courts,Mallott Ave,Yakutat,AK,99689,59.5489,-139.7312, Community,
+,1,Kotzebue Recreation Center Courts,3rd Ave,Kotzebue,AK,99752,66.8989,-162.5989, Community,
+,1,Nome Recreation Center Courts,208 E 6th Ave,Nome,AK,99762,64.5012,-165.4089, Community,
+,1,Bethel Parks & Recreation Center Courts,Ptarmigan St,Bethel,AK,99559,60.7912,-161.7589, Community,
+,1,Utqiagvik Community Recreation Center,Okpik St,Utqiagvik,AK,99723,71.2912,-156.7889, Community,
+,1,Unalaska Community Center Courts,570 Broadway Ave,Unalaska,AK,99685,53.8789,-166.5389, Community,
+,1,Glennallen Community Courts,Glenn Hwy,Glennallen,AK,99588,62.1112,-145.5312, Free,
+,1,Copper Center Community Courts,Old Richardson Hwy,Copper Center,AK,99573,61.9612,-145.3189, Free,
+,1,Cantwell Community Center Courts,Denali Hwy,Cantwell,AK,99729,63.3889,-148.9512, Community,
+,1,Nenana Civic Center Courts,A St,Nenana,AK,99760,64.5612,-149.0989, Free,
+,1,Anderson City Park,Anderson Way,Anderson,AK,99744,64.3489,-149.1812, Free,
+,1,Clear Community Recreation Courts,Air Station Rd,Clear,AK,99704,64.2989,-149.1912, Community,
+,1,Eielson AFB Community Courts,Amber Ave,Eielson AFB,AK,99702,64.6612,-147.1012, Military,
+,1,Fort Wainwright Physical Fitness Center Courts,Neely Rd,Fort Wainwright,AK,99703,64.8289,-147.6389, Military,
+,1,JBER Buckner Physical Fitness Center Courts,Bldg 684,JBER,AK,99505,61.2512,-149.7112, Military,
+,1,Kenai River Center Courts,514 Funny River Rd,Soldotna,AK,99669,60.4789,-151.0589, Free,
+,1,Moose Pass Community Courts,Seward Hwy,Moose Pass,AK,99631,60.4889,-149.3689, Free,
+,1,Cooper Landing Community Club Courts,Bean Creek Rd,Cooper Landing,AK,99572,60.4912,-149.9789, Community,
+,1,Hope Community Courts,Hope Hwy,Hope,AK,99605,60.9189,-149.6412, Free,
+,1,Houston City Hall Park,Armstrong Rd,Houston,AK,99694,61.6312,-149.8189, Free,
+,1,Point MacKenzie Community Courts,Point MacKenzie Rd,Wasilla,AK,99654,61.3589,-149.9189, Free,

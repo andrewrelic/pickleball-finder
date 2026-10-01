@@ -1,106 +1,106 @@
 image,courts,name,address,city,state,zip,lat,lng, type,cam
-,1,1,The Flying Pickle,1135 N Meridian Rd,Meridian,ID,83642,43.6215, -116.3985,Business
-,1,1,Boise Racquet & Pickleball Club,1116 N Cole Rd,Boise,ID,83704,43.6185, -116.2715,Business
-,1,1,Hobble Creek Park Pickleball Complex,6050 N Park Meadow Way,Boise,ID,83713,43.6645, -116.3285,Park
-,1,1,Manitou Park Pickleball Courts,2001 S Manitou Ave,Boise,ID,83706,43.5945, -116.1885,Park
-,1,1,Willow Lane Athletic Complex,4623 W Willow Ln,Boise,ID,83703,43.6485, -116.2485,Park
-,1,1,Cassia Park Courts,4600 W Camas St,Boise,ID,83705,43.5915, -116.2415,Park
-,1,1,Sunset Park Courts,2625 N 32nd St,Boise,ID,83703,43.6385, -116.2285,Park
-,1,1,Ann Morrison Park Courts,1000 S Americana Blvd,Boise,ID,83706,43.6085, -116.2185,Park
-,1,1,Settlers Park Pickleball Complex,3245 N Meridian Rd,Meridian,ID,83646,43.6385, -116.3985,Park
-,1,1,Kleiner Memorial Park Courts,1900 N Records Ave,Meridian,ID,83642,43.6215, -116.3585,Park
-,1,1,Discovery Park Courts,2121 E Lake Hazel Rd,Meridian,ID,83642,43.5515, -116.3685,Park
-,1,1,Midway Park Pickleball Complex,20799 Midway Rd,Nampa,ID,83651,43.5915, -116.6215,Park
-,1,1,Lakeview Park Nampa,1307 7th St N,Nampa,ID,83687,43.5845, -116.5515,Park
-,1,1,Lions Park Nampa,409 Constitution Way,Nampa,ID,83686,43.5685, -116.5685,Park
-,1,1,Mallard Park Courts,15261 S 10th Ave,Caldwell,ID,83607,43.6385, -116.7015,Park
-,1,1,Luby Park Courts,1119 S 11th Ave,Caldwell,ID,83605,43.6545, -116.6885,Park
-,1,1,Eagle Rock Park Courts,"Eagle, ID",Eagle,ID,83616,43.6985, -116.3515,Park
-,1,1,Guerber Park Courts,2200 Hill Rd,Eagle,ID,83616,43.7085, -116.3645,Park
-,1,1,Cherry Hill Park Courts,15th St,Coeur d'Alene,ID,83814,47.6985, -116.7645,Park
-,1,1,Northshire Park Courts,3889 W Nez Perce Rd,Coeur d'Alene,ID,83815,47.7185, -116.8285,Park
-,1,1,Post Falls Rotary Park Courts,E 3rd Ave,Post Falls,ID,83854,47.7115, -116.9445,Park
-,1,1,Tautphaus Park Pickleball Complex,2800 S Boulevard,Idaho Falls,ID,83402,43.4745, -112.0385,Park
-,1,1,Community Park Idaho Falls,S Holmes Ave,Idaho Falls,ID,83404,43.4685, -112.0185,Park
-,1,1,McCowin Park Courts,3000 S Edison St,Ammon,ID,83406,43.4715, -111.9685,Park
-,1,1,Brenden-Peter Memorial Park,"Pocatello, ID",Pocatello,ID,83201,42.8785, -112.4415,Park
-,1,1,Lower Ross Park Courts,2901 S 2nd Ave,Pocatello,ID,83204,42.8485, -112.4285,Park
-,1,1,Frontier Park Courts,"Twin Falls, ID",Twin Falls,ID,83301,42.5645, -114.4715,Park
-,1,1,Sunway Soccer & Pickleball Complex,"Twin Falls, ID",Twin Falls,ID,83301,42.5715, -114.4585,Park
-,1,1,Lewiston Hereth Park Courts,1534 Powers Ave,Lewiston,ID,83501,46.3985, -117.0015,Park
-,1,1,Mountain View Park Courts,Mountain View Rd,Moscow,ID,83843,46.7385, -116.9845,Park
-,1,1,Boise Manitou Park Courts,2001 S Manitou Ave,Boise,ID,83706,43.5912, -116.1889,Free
-,1,1,Boise Willow Lane Athletic Complex,4623 W Willow Ln,Boise,ID,83703,43.6489, -116.2412,Free
-,1,1,Boise Peppermint Park,2030 S Lindenwood Dr,Boise,ID,83709,43.5889, -116.2712,Free
-,1,1,Boise Cassia Park,4600 W Camas St,Boise,ID,83705,43.5989, -116.2412,Free
-,1,1,Meridian Settlers Park Courts,3245 N Meridian Rd,Meridian,ID,83646,43.6312, -116.3989,Free
-,1,1,Meridian Discovery Park,2121 E Lake Hazel Rd,Meridian,ID,83642,43.5512, -116.3689,Free
-,1,1,Meridian Kleiner Memorial Park,1900 E Fairview Ave,Meridian,ID,83642,43.6089, -116.3712,Free
-,1,1,Nampa Midway Park Pickleball Complex,14300 Midway Rd,Nampa,ID,83651,43.5989, -116.6389,Free
-,1,1,Nampa Lakeview Park,Garrity Blvd & 16th Ave N,Nampa,ID,83687,43.5812, -116.5512,Free
-,1,1,Idaho Falls Community Park,S Holmes Ave,Idaho Falls,ID,83404,43.4712, -112.0189,Free
-,1,1,Idaho Falls Tautphaus Park Courts,2800 S Boulevard,Idaho Falls,ID,83404,43.4689, -112.0312,Free
-,1,1,Caldwell Memorial Park,618 Irving St,Caldwell,ID,83605,43.6612, -116.6889,Free
-,1,1,Caldwell Luby Park,1100 S Kimball Ave,Caldwell,ID,83605,43.6512, -116.6789,Free
-,1,1,Pocatello Hawthorne Park,Hawthorne Rd,Pocatello,ID,83201,42.8989, -112.4689,Free
-,1,1,Pocatello Ross Park,S 2nd Ave,Pocatello,ID,83204,42.8489, -112.4312,Free
-,1,1,Coeur d'Alene McEuen Park,420 E Front Ave,Coeur d'Alene,ID,83814,47.6712, -116.7789,Free
-,1,1,Coeur d'Alene Cherry Hill Park,1718 N 15th St,Coeur d'Alene,ID,83814,47.6889, -116.7612,Free
-,1,1,Twin Falls Frontier Field Courts,2013 Frontier Rd,Twin Falls,ID,83301,42.5489, -114.4789,Free
-,1,1,Twin Falls Harmon Park Courts,Locust St N,Twin Falls,ID,83301,42.5689, -114.4512,Free
-,1,1,Post Falls Black Bay Park,1210 E 3rd Ave,Post Falls,ID,83854,47.7112, -116.9389,Free
-,1,1,Post Falls Tullamore Park,3673 E Bogie Dr,Post Falls,ID,83854,47.7312, -116.9189,Free
-,1,1,Lewiston Sunset Park,Sunset Dr,Lewiston,ID,83501,46.3989, -117.0012,Free
-,1,1,Lewiston Hereth Park,1534 Powers Ave,Lewiston,ID,83501,46.4012, -116.9889,Free
-,1,1,Rexburg Smith Park,E 1st N,Rexburg,ID,83440,43.8289, -111.7789,Free
-,1,1,Moscow Mountain View Park,Mountain View Rd,Moscow,ID,83843,46.7389, -116.9812,Free
-,1,1,Kuna Bernie Fisher Park,201 W Main St,Kuna,ID,83634,43.4912, -116.4212,Free
-,1,1,Ammon McCowin Park,3074 Targhee St,Ammon,ID,83406,43.4789, -111.9612,Free
-,1,1,Chubbuck Capell Park,E Chubbuck Rd,Chubbuck,ID,83202,42.9289, -112.4512,Free
-,1,1,Hayden Broadmoore Park,2691 W Broadmoore Dr,Hayden,ID,83835,47.7589, -116.8189,Free
-,1,1,Mountain Home Richard Aguirre Park,S 3rd W,Mountain Home,ID,83647,43.1312, -115.6989,Free
-,1,1,Blackfoot Jensen Grove Park,Airport Rd,Blackfoot,ID,83221,43.2012, -112.3512,Free
-,1,1,Garden City Riverside Park,300 W 34th St,Garden City,ID,83714,43.6312, -116.2312,Free
-,1,1,Jerome Forsyth Park,E Main St,Jerome,ID,83338,42.7212, -114.5089,Free
-,1,1,Burley Storybook Park,Park Ave,Burley,ID,83318,42.5389, -113.7889,Free
-,1,1,Hailey Jimmy's Garden Courts,Main St,Hailey,ID,83333,43.5189, -114.3189,Free
-,1,1,Sandpoint Lakeview Park,Ontario St,Sandpoint,ID,83864,48.2689, -116.5512,Free
-,1,1,Rathdrum Majestic Park,5400 W Majestic Ave,Rathdrum,ID,83858,47.8189, -116.8989,Free
-,1,1,Middleton Foote Park,Cornell St,Middleton,ID,83644,43.7089, -116.6189,Free
-,1,1,Payette Central Park,S 6th St,Payette,ID,83661,44.0789, -116.9289,Free
-,1,1,Emmett City Park,E Johns Ave,Emmett,ID,83617,43.8712, -116.4912,Free
-,1,1,Rupert City Park,F St,Rupert,ID,83350,42.6189, -113.6712,Free
-,1,1,Weiser Memorial Park,E 7th St,Weiser,ID,83672,44.2512, -116.9689,Free
-,1,1,Preston City Park,S 2nd E,Preston,ID,83263,42.0989, -111.8712,Free
-,1,1,Fruitland Mesa Park,SW 3rd St,Fruitland,ID,83619,44.0089, -116.9212,Free
-,1,1,American Falls Willow Bay Courts,Marina Rd,American Falls,ID,83211,42.7912, -112.8689,Free
-,1,1,Shelley City Park,Pine St,Shelley,ID,83274,43.3789, -112.1212,Free
-,1,1,Salmon City Park,Riverfront Dr,Salmon,ID,83467,45.1789, -113.8989,Free
-,1,1,Buhl Eastman Park,Poplar St,Buhl,ID,83316,42.6012, -114.7589,Free
-,1,1,Rigby City Park,1st S,Rigby,ID,83442,43.6712, -111.9189,Free
-,1,1,Kimberly City Park,Center St,Kimberly,ID,83341,42.5312, -114.3689,Free
-,1,1,Gooding West Park,Main St,Gooding,ID,83330,42.9389, -114.7189,Free
-,1,1,St Anthony Clark Park,E 2nd N,St Anthony,ID,83445,43.9689, -111.6789,Free
-,1,1,Heyburn Riverside Park,River Rd,Heyburn,ID,83336,42.5589, -113.7689,Free
-,1,1,McCall Mile High Marina Courts,1300 E Lake St,McCall,ID,83638,44.9189, -116.0989,Free
-,1,1,Grangeville Pioneer Park,Main St,Grangeville,ID,83530,45.9289, -116.1212,Free
-,1,1,Orofino City Park,Riverside Ave,Orofino,ID,83544,46.4812, -116.2512,Free
-,1,1,Soda Springs City Park,Main St,Soda Springs,ID,83276,42.6589, -111.6012,Free
-,1,1,Bonners Ferry Memorial Park,Main St,Bonners Ferry,ID,83805,48.6912, -116.3189,Free
-,1,1,Ketchum Atkinson Park,900 3rd Ave,Ketchum,ID,83340,43.6889, -114.3689,Free
-,1,1,Sun Valley Sun Valley Club Courts,200 Trail Creek Rd,Sun Valley,ID,83353,43.6989, -114.3489,Community
-,1,1,Driggs City Park,Main St,Driggs,ID,83422,43.7212, -111.1089,Free
-,1,1,Victor Pioneer Park,Center St,Victor,ID,83455,43.6012, -111.1112,Free
-,1,1,Kellogg City Park,Main St,Kellogg,ID,83837,47.5389, -116.1289,Free
-,1,1,Wallace City Park,Bank St,Wallace,ID,83873,47.4712, -115.9289,Free
-,1,1,St Maries City Park,College Ave,St Maries,ID,83861,47.3189, -116.5712,Free
-,1,1,Priest River City Park,High St,Priest River,ID,83856,48.1889, -116.9089,Free
-,1,1,Ashton City Park,Main St,Ashton,ID,83420,44.0712, -111.4489,Free
-,1,1,Homedale Riverside Park,Riverside Dr,Homedale,ID,83628,43.6189, -116.9389,Free
-,1,1,Montpelier Allinger Park,Washington St,Montpelier,ID,83254,42.3212, -111.2989,Free
-,1,1,Filer City Park,Main St,Filer,ID,83328,42.5689, -114.6112,Free
-,1,1,Wendell City Park,Main St,Wendell,ID,83355,42.7789, -114.7012,Free
-,1,1,Bellevue Memorial Park,Main St,Bellevue,ID,83313,43.4612, -114.2612,Free
-,1,1,Dalton Gardens City Park,Hanley Ave,Dalton Gardens,ID,83815,47.7289, -116.7712,Free
-,1,1,Star Hunters Creek Sports Complex,Star Rd,Star,ID,83669,43.7012, -116.4912,Free
-,1,1,Wilder City Park,A Ave,Wilder,ID,83676,43.6789, -116.9112,Free
+,1,The Flying Pickle,1135 N Meridian Rd,Meridian,ID,83642,43.6215,-116.3985, Business,
+,1,Boise Racquet & Pickleball Club,1116 N Cole Rd,Boise,ID,83704,43.6185,-116.2715, Business,
+,1,Hobble Creek Park Pickleball Complex,6050 N Park Meadow Way,Boise,ID,83713,43.6645,-116.3285, Park,
+,1,Manitou Park Pickleball Courts,2001 S Manitou Ave,Boise,ID,83706,43.5945,-116.1885, Park,
+,1,Willow Lane Athletic Complex,4623 W Willow Ln,Boise,ID,83703,43.6485,-116.2485, Park,
+,1,Cassia Park Courts,4600 W Camas St,Boise,ID,83705,43.5915,-116.2415, Park,
+,1,Sunset Park Courts,2625 N 32nd St,Boise,ID,83703,43.6385,-116.2285, Park,
+,1,Ann Morrison Park Courts,1000 S Americana Blvd,Boise,ID,83706,43.6085,-116.2185, Park,
+,1,Settlers Park Pickleball Complex,3245 N Meridian Rd,Meridian,ID,83646,43.6385,-116.3985, Park,
+,1,Kleiner Memorial Park Courts,1900 N Records Ave,Meridian,ID,83642,43.6215,-116.3585, Park,
+,1,Discovery Park Courts,2121 E Lake Hazel Rd,Meridian,ID,83642,43.5515,-116.3685, Park,
+,1,Midway Park Pickleball Complex,20799 Midway Rd,Nampa,ID,83651,43.5915,-116.6215, Park,
+,1,Lakeview Park Nampa,1307 7th St N,Nampa,ID,83687,43.5845,-116.5515, Park,
+,1,Lions Park Nampa,409 Constitution Way,Nampa,ID,83686,43.5685,-116.5685, Park,
+,1,Mallard Park Courts,15261 S 10th Ave,Caldwell,ID,83607,43.6385,-116.7015, Park,
+,1,Luby Park Courts,1119 S 11th Ave,Caldwell,ID,83605,43.6545,-116.6885, Park,
+,1,Eagle Rock Park Courts,"Eagle, ID",Eagle,ID,83616,43.6985,-116.3515, Park,
+,1,Guerber Park Courts,2200 Hill Rd,Eagle,ID,83616,43.7085,-116.3645, Park,
+,1,Cherry Hill Park Courts,15th St,Coeur d'Alene,ID,83814,47.6985,-116.7645, Park,
+,1,Northshire Park Courts,3889 W Nez Perce Rd,Coeur d'Alene,ID,83815,47.7185,-116.8285, Park,
+,1,Post Falls Rotary Park Courts,E 3rd Ave,Post Falls,ID,83854,47.7115,-116.9445, Park,
+,1,Tautphaus Park Pickleball Complex,2800 S Boulevard,Idaho Falls,ID,83402,43.4745,-112.0385, Park,
+,1,Community Park Idaho Falls,S Holmes Ave,Idaho Falls,ID,83404,43.4685,-112.0185, Park,
+,1,McCowin Park Courts,3000 S Edison St,Ammon,ID,83406,43.4715,-111.9685, Park,
+,1,Brenden-Peter Memorial Park,"Pocatello, ID",Pocatello,ID,83201,42.8785,-112.4415, Park,
+,1,Lower Ross Park Courts,2901 S 2nd Ave,Pocatello,ID,83204,42.8485,-112.4285, Park,
+,1,Frontier Park Courts,"Twin Falls, ID",Twin Falls,ID,83301,42.5645,-114.4715, Park,
+,1,Sunway Soccer & Pickleball Complex,"Twin Falls, ID",Twin Falls,ID,83301,42.5715,-114.4585, Park,
+,1,Lewiston Hereth Park Courts,1534 Powers Ave,Lewiston,ID,83501,46.3985,-117.0015, Park,
+,1,Mountain View Park Courts,Mountain View Rd,Moscow,ID,83843,46.7385,-116.9845, Park,
+,1,Boise Manitou Park Courts,2001 S Manitou Ave,Boise,ID,83706,43.5912,-116.1889, Free,
+,1,Boise Willow Lane Athletic Complex,4623 W Willow Ln,Boise,ID,83703,43.6489,-116.2412, Free,
+,1,Boise Peppermint Park,2030 S Lindenwood Dr,Boise,ID,83709,43.5889,-116.2712, Free,
+,1,Boise Cassia Park,4600 W Camas St,Boise,ID,83705,43.5989,-116.2412, Free,
+,1,Meridian Settlers Park Courts,3245 N Meridian Rd,Meridian,ID,83646,43.6312,-116.3989, Free,
+,1,Meridian Discovery Park,2121 E Lake Hazel Rd,Meridian,ID,83642,43.5512,-116.3689, Free,
+,1,Meridian Kleiner Memorial Park,1900 E Fairview Ave,Meridian,ID,83642,43.6089,-116.3712, Free,
+,1,Nampa Midway Park Pickleball Complex,14300 Midway Rd,Nampa,ID,83651,43.5989,-116.6389, Free,
+,1,Nampa Lakeview Park,Garrity Blvd & 16th Ave N,Nampa,ID,83687,43.5812,-116.5512, Free,
+,1,Idaho Falls Community Park,S Holmes Ave,Idaho Falls,ID,83404,43.4712,-112.0189, Free,
+,1,Idaho Falls Tautphaus Park Courts,2800 S Boulevard,Idaho Falls,ID,83404,43.4689,-112.0312, Free,
+,1,Caldwell Memorial Park,618 Irving St,Caldwell,ID,83605,43.6612,-116.6889, Free,
+,1,Caldwell Luby Park,1100 S Kimball Ave,Caldwell,ID,83605,43.6512,-116.6789, Free,
+,1,Pocatello Hawthorne Park,Hawthorne Rd,Pocatello,ID,83201,42.8989,-112.4689, Free,
+,1,Pocatello Ross Park,S 2nd Ave,Pocatello,ID,83204,42.8489,-112.4312, Free,
+,1,Coeur d'Alene McEuen Park,420 E Front Ave,Coeur d'Alene,ID,83814,47.6712,-116.7789, Free,
+,1,Coeur d'Alene Cherry Hill Park,1718 N 15th St,Coeur d'Alene,ID,83814,47.6889,-116.7612, Free,
+,1,Twin Falls Frontier Field Courts,2013 Frontier Rd,Twin Falls,ID,83301,42.5489,-114.4789, Free,
+,1,Twin Falls Harmon Park Courts,Locust St N,Twin Falls,ID,83301,42.5689,-114.4512, Free,
+,1,Post Falls Black Bay Park,1210 E 3rd Ave,Post Falls,ID,83854,47.7112,-116.9389, Free,
+,1,Post Falls Tullamore Park,3673 E Bogie Dr,Post Falls,ID,83854,47.7312,-116.9189, Free,
+,1,Lewiston Sunset Park,Sunset Dr,Lewiston,ID,83501,46.3989,-117.0012, Free,
+,1,Lewiston Hereth Park,1534 Powers Ave,Lewiston,ID,83501,46.4012,-116.9889, Free,
+,1,Rexburg Smith Park,E 1st N,Rexburg,ID,83440,43.8289,-111.7789, Free,
+,1,Moscow Mountain View Park,Mountain View Rd,Moscow,ID,83843,46.7389,-116.9812, Free,
+,1,Kuna Bernie Fisher Park,201 W Main St,Kuna,ID,83634,43.4912,-116.4212, Free,
+,1,Ammon McCowin Park,3074 Targhee St,Ammon,ID,83406,43.4789,-111.9612, Free,
+,1,Chubbuck Capell Park,E Chubbuck Rd,Chubbuck,ID,83202,42.9289,-112.4512, Free,
+,1,Hayden Broadmoore Park,2691 W Broadmoore Dr,Hayden,ID,83835,47.7589,-116.8189, Free,
+,1,Mountain Home Richard Aguirre Park,S 3rd W,Mountain Home,ID,83647,43.1312,-115.6989, Free,
+,1,Blackfoot Jensen Grove Park,Airport Rd,Blackfoot,ID,83221,43.2012,-112.3512, Free,
+,1,Garden City Riverside Park,300 W 34th St,Garden City,ID,83714,43.6312,-116.2312, Free,
+,1,Jerome Forsyth Park,E Main St,Jerome,ID,83338,42.7212,-114.5089, Free,
+,1,Burley Storybook Park,Park Ave,Burley,ID,83318,42.5389,-113.7889, Free,
+,1,Hailey Jimmy's Garden Courts,Main St,Hailey,ID,83333,43.5189,-114.3189, Free,
+,1,Sandpoint Lakeview Park,Ontario St,Sandpoint,ID,83864,48.2689,-116.5512, Free,
+,1,Rathdrum Majestic Park,5400 W Majestic Ave,Rathdrum,ID,83858,47.8189,-116.8989, Free,
+,1,Middleton Foote Park,Cornell St,Middleton,ID,83644,43.7089,-116.6189, Free,
+,1,Payette Central Park,S 6th St,Payette,ID,83661,44.0789,-116.9289, Free,
+,1,Emmett City Park,E Johns Ave,Emmett,ID,83617,43.8712,-116.4912, Free,
+,1,Rupert City Park,F St,Rupert,ID,83350,42.6189,-113.6712, Free,
+,1,Weiser Memorial Park,E 7th St,Weiser,ID,83672,44.2512,-116.9689, Free,
+,1,Preston City Park,S 2nd E,Preston,ID,83263,42.0989,-111.8712, Free,
+,1,Fruitland Mesa Park,SW 3rd St,Fruitland,ID,83619,44.0089,-116.9212, Free,
+,1,American Falls Willow Bay Courts,Marina Rd,American Falls,ID,83211,42.7912,-112.8689, Free,
+,1,Shelley City Park,Pine St,Shelley,ID,83274,43.3789,-112.1212, Free,
+,1,Salmon City Park,Riverfront Dr,Salmon,ID,83467,45.1789,-113.8989, Free,
+,1,Buhl Eastman Park,Poplar St,Buhl,ID,83316,42.6012,-114.7589, Free,
+,1,Rigby City Park,1st S,Rigby,ID,83442,43.6712,-111.9189, Free,
+,1,Kimberly City Park,Center St,Kimberly,ID,83341,42.5312,-114.3689, Free,
+,1,Gooding West Park,Main St,Gooding,ID,83330,42.9389,-114.7189, Free,
+,1,St Anthony Clark Park,E 2nd N,St Anthony,ID,83445,43.9689,-111.6789, Free,
+,1,Heyburn Riverside Park,River Rd,Heyburn,ID,83336,42.5589,-113.7689, Free,
+,1,McCall Mile High Marina Courts,1300 E Lake St,McCall,ID,83638,44.9189,-116.0989, Free,
+,1,Grangeville Pioneer Park,Main St,Grangeville,ID,83530,45.9289,-116.1212, Free,
+,1,Orofino City Park,Riverside Ave,Orofino,ID,83544,46.4812,-116.2512, Free,
+,1,Soda Springs City Park,Main St,Soda Springs,ID,83276,42.6589,-111.6012, Free,
+,1,Bonners Ferry Memorial Park,Main St,Bonners Ferry,ID,83805,48.6912,-116.3189, Free,
+,1,Ketchum Atkinson Park,900 3rd Ave,Ketchum,ID,83340,43.6889,-114.3689, Free,
+,1,Sun Valley Sun Valley Club Courts,200 Trail Creek Rd,Sun Valley,ID,83353,43.6989,-114.3489, Community,
+,1,Driggs City Park,Main St,Driggs,ID,83422,43.7212,-111.1089, Free,
+,1,Victor Pioneer Park,Center St,Victor,ID,83455,43.6012,-111.1112, Free,
+,1,Kellogg City Park,Main St,Kellogg,ID,83837,47.5389,-116.1289, Free,
+,1,Wallace City Park,Bank St,Wallace,ID,83873,47.4712,-115.9289, Free,
+,1,St Maries City Park,College Ave,St Maries,ID,83861,47.3189,-116.5712, Free,
+,1,Priest River City Park,High St,Priest River,ID,83856,48.1889,-116.9089, Free,
+,1,Ashton City Park,Main St,Ashton,ID,83420,44.0712,-111.4489, Free,
+,1,Homedale Riverside Park,Riverside Dr,Homedale,ID,83628,43.6189,-116.9389, Free,
+,1,Montpelier Allinger Park,Washington St,Montpelier,ID,83254,42.3212,-111.2989, Free,
+,1,Filer City Park,Main St,Filer,ID,83328,42.5689,-114.6112, Free,
+,1,Wendell City Park,Main St,Wendell,ID,83355,42.7789,-114.7012, Free,
+,1,Bellevue Memorial Park,Main St,Bellevue,ID,83313,43.4612,-114.2612, Free,
+,1,Dalton Gardens City Park,Hanley Ave,Dalton Gardens,ID,83815,47.7289,-116.7712, Free,
+,1,Star Hunters Creek Sports Complex,Star Rd,Star,ID,83669,43.7012,-116.4912, Free,
+,1,Wilder City Park,A Ave,Wilder,ID,83676,43.6789,-116.9112, Free,
