@@ -1,4 +1,4 @@
-image,courts,name,address,city,state,zip,lat,lng, type,cam
+image,courts,name,address,city,state,zip,lat,lng, type,cam,hours
 ace.png,1,Ace Pickleball Club Moorestown,1199 Nixon Dr,Moorestown,NJ,08057,39.94111,-74.96567, Business,
 ace.png,1,Ace Pickleball Club North Brunswick,512 Milltown Rd,North Brunswick,NJ,08902,40.46493,-74.45594, Business,
 ,1,Atlantic Club,1904 Atlantic Ave,Manasquan,NJ,08736,40.12481,-74.06211, Business,
@@ -9,7 +9,7 @@ ace.png,1,Ace Pickleball Club North Brunswick,512 Milltown Rd,North Brunswick,NJ
 picklerage.png,1,PickleRage Union County,900 North Ave,Plainfield,NJ,07062,40.62811,-74.41124, Business,
 pk.png,1,Pickleball Kingdom Hamilton,1100 Negron Dr,Hamilton Township,NJ,08691,40.20119,-74.79592, Business,
 pk.png,1,Pickleball Kingdom Watchung,1511 US-22,Watchung,NJ,07069,40.64096,-74.42396, Business,
-,1,Pickleball HQ,111 NJ-35,Cliffwood,NJ,07721,40.44157,-74.23561, Business,
+,1,Pickleball HQ,111 NJ-35,Cliffwood,NJ,07721,40.44157,-74.23561, Business,,pbhq.csv
 ,1,Pickleball Palace,9 Whippany Rd Bldg D,Whippany,NJ,07981,40.81823,-74.75545, Business,
 ,1,Byron Johnson Park,187 Ellisdale Rd,Allentown,NJ,08501,40.17096,-74.59469, Park,
 ,1,North Arlington Pickleball Courts,437 River Rd,North Arlington,NJ,07031,40.80051,-74.13681, Park,
