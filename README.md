@@ -104,59 +104,6 @@ Pickleball Finder connects pickleball players of all skill levels with courts, r
 
 ---
 
-## 🛠️ Tech Stack & Architecture
-
-- **Frontend**: [Flutter](https://flutter.dev) & [Dart](https://dart.dev) (Responsive Material Design 3)
-- **State Management**: [Provider](https://pub.dev/packages/provider) architecture for predictable, reactive UI updates
-- **Maps & Location**: `google_maps_flutter`, `geolocator`, and `map_launcher`
-- **Backend & Cloud**: [Firebase](https://firebase.google.com)
-  - Firebase Authentication (Email/Password, Google Sign-In, Guest mode)
-  - Cloud Firestore (Real-time user data, friends, favorites, and announcements)
-  - Firebase Storage & Cloud Functions
-- **Data Synchronization**:
-  - **Offline-First**: Packaged with local asset data bundles (`assets/data/locations-*.csv`) for instant startup and offline capability.
-  - **Live Cloud Sync**: Seamlessly falls back to and fetches updated remote datasets from GitHub raw repositories for continuous data freshness.
-- **Video & Camera Feeds**: Integrated with [LivePickleballCourts.com](https://livepickleballcourts.com) and EarthCam public streaming APIs.
-
----
-
-## 📦 Getting Started
-
-### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (`>= 3.3.0`)
-- [Dart SDK](https://dart.dev/get-dart)
-- Android Studio / Xcode / VS Code with Flutter extension
-- A modern web browser (for Web execution)
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone git@github.com:andrewrelic/pickleball-finder.git
-   cd "Pickleball finder"
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**:
-   ```bash
-   # Run on connected device or simulator
-   flutter run
-
-   # Or run on Chrome
-   flutter run -d chrome
-   ```
-
-4. **Run test suite**:
-   ```bash
-   flutter test
-   ```
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see the repository for details.
