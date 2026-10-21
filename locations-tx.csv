@@ -1,273 +1,273 @@
-image,courts,name,address,city,state,zip,lat,lng, type,cam,hours
-pk.png,1,Pickleball Kingdom Plano,1301 Custer Rd,Plano,TX,75075,33.01852,-96.73291, Business,,pb_kingdom_plano.csv
-pk.png,1,Pickleball Kingdom Keller,2045 S Main St,Keller,TX,76248,32.90941,-97.23412, Business,,pb_kingdom_keller.csv
-ace.png,1,Ace Pickleball Club Richmond,22230 Westpark Tollway,Richmond,TX,77407,29.68852,-95.73142, Business,,ace_richmond.csv
-ace.png,1,Ace Pickleball Club Colleyville,5617 Colleyville Blvd,Colleyville,TX,76034,32.88761,-97.14652, Business,,ace_colleyville.csv
-cnp.png,1,Chicken N Pickle San Antonio,5215 UTSA Blvd,San Antonio,TX,78249,29.58462,-98.60151, Business,,cnp_san_antonio.csv
-cnp.png,1,Chicken N Pickle Grand Prairie,2965 S Hwy 161,Grand Prairie,TX,75052,32.69982,-97.02531, Business,,cnp_grand_prairie.csv
-cnp.png,1,Chicken N Pickle Grapevine,4600 State Hwy 121,Grapevine,TX,76051,32.90021,-97.05041, Business,,cnp_grapevine.csv
-cnp.png,1,Chicken N Pickle Webster,210 Alameda Bianco,Webster,TX,77598,29.53124,-95.12781, Business,,cnp_webster.csv
-cnp.png,1,Chicken N Pickle Allen,195 E Stacy Rd,Allen,TX,75002,33.13092,-96.65781, Business,,cnp_allen.csv
-picklr.png,1,The Picklr McKinney,2985 S McDonald St,McKinney,TX,75069,33.16781,-96.62681, Business,,picklr_mckinney.csv
-picklr.png,1,The Picklr West Fort Worth,6733 Camp Bowie Blvd,Fort Worth,TX,76116,32.72752,-97.43311, Business,,picklr_west_fort_worth.csv
-picklr.png,1,The Picklr Hurst,700 W Bedford Euless Rd,Hurst,TX,76053,32.83981,-97.18521, Business,,picklr_hurst.csv
-picklr.png,1,The Picklr Lewisville,2401 S Stemmons Fwy,Lewisville,TX,75067,33.01824,-96.97451, Business,,picklr_lewisville.csv
-picklr.png,1,The Picklr Arlington,4100 S Cooper St,Arlington,TX,76015,32.67982,-97.13521, Business,,picklr_arlington.csv
-picklr.png,1,The Picklr Katy,23541 Westheimer Pkwy,Katy,TX,77494,29.74281,-95.77651, Business,,picklr_katy.csv
-picklr.png,1,The Picklr The Woodlands,25114 Grogans Mill Rd,Spring,TX,77380,30.13452,-95.46781, Business,,picklr_the_woodlands.csv
-picklr.png,1,The Picklr Cypress,25640 Northwest Fwy,Cypress,TX,77429,29.97541,-95.69821, Business,,picklr_cypress.csv
-picklr.png,1,The Picklr Pearland,2803 Business Center Dr,Pearland,TX,77584,29.56211,-95.39451, Business,,picklr_pearland.csv
-picklr.png,1,The Picklr Austin West,10801 N Mopac Expy,Austin,TX,78759,30.39562,-97.74281, Business,,picklr_austin_west.csv
-picklr.png,1,The Picklr Live Oak,7900 Pat Booker Rd,Live Oak,TX,78233,29.56241,-98.34121, Business,,picklr_live_oak.csv
-picklr.png,1,The Picklr Waco,1428 Wooded Acres Dr,Waco,TX,76710,31.52841,-97.18951, Business,,picklr_waco.csv
-,1,Oasis Pickleball Club,5757 State Hwy 205,Rockwall,TX,75032,32.84652,-96.44281, Business,,oasis_pickleball_club.csv
-,1,Austin Pickle Ranch North,11000 N Interstate 35,Austin,TX,78753,30.37891,-97.67451, Business,,austin_pickle_ranch_north.csv
-,1,Austin Pickle Ranch Downtown,1717 W 6th St,Austin,TX,78703,30.27482,-97.76541, Business,,austin_pickle_ranch_downtown.csv
-,1,Bouldin Acres South Lamar,2027 S Lamar Blvd,Austin,TX,78704,30.24821,-97.77121, Business,,bouldin_acres_south_lamar.csv
-,1,Bouldin Acres Braker,1818 W Braker Ln,Austin,TX,78758,30.39042,-97.70891, Business,,bouldin_acres_braker.csv
-,1,Dreamland Dripping Springs,2770 W Hwy 290,Dripping Springs,TX,78620,30.19821,-98.11451, Business,,dreamland_dripping_springs.csv
-,1,512 Pickle,11301 Burnet Rd,Austin,TX,78758,30.40451,-97.71452, Business,,512_pickle.csv
-,1,Elite Pickleball Club,610 W 6th St,Houston,TX,77007,29.77451,-95.39821, Business,,elite_pickleball_club.csv
-,1,PALA Pickleball,201 Technology Pkwy,Spring,TX,77373,30.08124,-95.42151, Business,,pala_pickleball.csv
-,1,PKL Social,1112 Shepherd Dr,Houston,TX,77007,29.76891,-95.41021, Business,,pkl_social.csv
-,1,Bumpy Pickle Sports,5544 Armour Dr,Houston,TX,77020,29.76211,-95.30981, Business,,bumpy_pickle_sports.csv
-,1,FIT High Performance Pickleball Club,1106 Vance Jackson Rd,San Antonio,TX,78201,29.47541,-98.53211, Business,,fit_high_performance_pickleball_club.csv
-,1,Cole Park Pickleball Courts,4000 Cole Ave,Dallas,TX,75204,32.81241,-96.79721, Park,,
-,1,Campbell Green Park Pickleball Courts,16600 Park Hill Dr,Dallas,TX,75248,32.97781,-96.78651, Park,,
-,1,Fretz Tennis and Pickleball Center,6998 Belt Line Rd,Dallas,TX,75254,32.95152,-96.78241, Park,,
-,1,Samuell Grand Tennis Center,6220 E Grand Ave,Dallas,TX,75223,32.80211,-96.74121, Park,,
-,1,High Point Tennis and Pickleball Center,421 W Spring Creek Pkwy,Plano,TX,75023,33.05621,-96.70821, Park,,
-,1,Carpenter Park Recreation Center,6701 Coit Rd,Plano,TX,75024,33.06781,-96.77121, Park,,
-,1,Wagon Wheel Tennis Center,950 Freeport Pkwy,Coppell,TX,75019,32.95451,-97.01251, Park,,
-,1,The Courts at McKinney,3253 Alma Rd,McKinney,TX,75070,33.15541,-96.67121, Park,,
-,1,McLeland Tennis Center,1600 W Seminary Dr,Fort Worth,TX,76115,32.68451,-97.35121, Park,,
-,1,Warren Sports Complex,7599 Eldorado Pkwy,Frisco,TX,75033,33.17241,-96.84211, Park,,
-,1,Arlington Tennis Center,500 W Mayfield Rd,Arlington,TX,76014,32.69241,-97.11421, Park,,
-,1,Rose Park Tennis & Pickleball Center,2605 S 7th St,Abilene,TX,79602,32.44121,-99.75411, Park,,
-,1,Austin Tennis and Pickleball Center,7800 Johnny Morris Rd,Austin,TX,78724,30.30651,-97.64521, Park,,
-,1,Pan American Neighborhood Park,2100 E 3rd St,Austin,TX,78702,30.26051,-97.71981, Park,,
-,1,South Austin Recreation Center,1100 Cumberland Rd,Austin,TX,78704,30.23981,-97.76541, Park,,
-,1,Rosewood Neighborhood Park,2300 Rosewood Ave,Austin,TX,78702,30.27411,-97.71421, Park,,
-,1,Dick Nichols District Park,8011 Beckett Rd,Austin,TX,78749,30.21852,-97.86451, Park,,
-,1,Garrison District Park,6001 Menchaca Rd,Austin,TX,78745,30.21251,-97.79851, Park,,
-,1,Northwest Recreation Center,2913 Northland Dr,Austin,TX,78757,30.34211,-97.75121, Park,,
-,1,Old Town Park,415 Main St,Round Rock,TX,78664,30.50981,-97.67421, Park,,
-,1,Memorial Park Tennis & Pickleball Center,1500 Memorial Loop Dr,Houston,TX,77007,29.76851,-95.43121, Park,,
-,1,Homer Ford Tennis Center,5225 Calhoun Rd,Houston,TX,77021,29.70451,-95.34821, Park,,
-,1,Jaycee Park Pickleball Courts,1300 Seamist Dr,Houston,TX,77008,29.79451,-95.42851, Park,,
-,1,Cleveland Park Pickleball Courts,200 Jackson Hill St,Houston,TX,77007,29.76541,-95.39951, Park,,
-,1,Lee LeClear Tennis Center,9506 S Gessner Rd,Houston,TX,77071,29.67121,-95.53981, Park,,
-,1,Lost Creek Park,3703 Lost Creek Blvd,Sugar Land,TX,77478,29.58411,-95.57851, Park,,
-,1,Shadowbend Park,4995 Lake Woodlands Dr,The Woodlands,TX,77381,30.17981,-95.49521, Park,,
-,1,Fairchild Park Pickleball Complex,1214 E Crockett St,San Antonio,TX,78202,29.42451,-98.46851, Park,,
-,1,McFarlin Tennis Center,1503 San Pedro Ave,San Antonio,TX,78212,29.44451,-98.49851, Park,,
-,1,Whispering Oaks Park,10427 Wurzbach Rd,San Antonio,TX,78230,29.53751,-98.54981, Park,,
-,1,Blossom Athletic Center,12002 Jones Maltsberger Rd,San Antonio,TX,78216,29.55121,-98.48121, Park,,
-,1,Ascarate Park Pickleball Courts,6900 Delta Dr,El Paso,TX,79905,31.73981,-106.40851, Park,,
-,1,Burgess Tennis and Pickleball Center,3004 34th St,Lubbock,TX,79410,33.56541,-101.88451, Park,,
-,1,Al Kruse Tennis Center,502 King St,Corpus Christi,TX,78401,27.78851,-97.39121, Park,,
-,1,LB Houston Tennis & Pickleball,11225 Luna Rd #3113,Dallas,TX,75229,32.89089,-96.92155," Business,https://livepickleballcourts.com/facilities/lb-houston-tennis-pickleball",,
-,1,The Courts McKinney,3253 Alma Rd,McKinney,TX,75070,33.16801,-96.71115," Business,https://livepickleballcourts.com/facilities/the-courts-mckinney",,
-,1,Indoor Pickleball Now,13005 Harmon Rd,Fort Worth,TX,76177,32.93608,-97.32276," Business,https://livepickleballcourts.com/facilities/indoor-pickleball-now",,
-,1,Pickleball Hideout Courts,18952 Freeport Dr,Montgomery,TX,77356,30.38679,-95.66119," Business,https://livepickleballcourts.com/facilities/pickleball-hideout-courts",,
-,1,Houston Pickleball Center,12233 Robin Blvd,Houston,TX,77045,29.63402,-95.40627," Business,https://livepickleballcourts.com/facilities/houston-pickleball-center",,
-lta.png,12,Life Time Plano Pickleball Club,7100 Preston Rd,Plano,TX,75024,33.07621,-96.79951, Business,,lifetime_plano.csv
-lta.png,10,Life Time Colleyville Pickleball Club,1221 Church St,Colleyville,TX,76034,32.88451,-97.15541, Business,,lifetime_colleyville.csv
-lta.png,14,Life Time Frisco Pickleball Center,3800 Gaylord Pkwy,Frisco,TX,75034,33.10981,-96.82851, Business,,lifetime_frisco.csv
-lta.png,8,Life Time Dallas Highland Park,5910 N Central Expy,Dallas,TX,75206,32.83621,-96.77451, Business,,lifetime_dallas_highland_park.csv
-lta.png,8,Life Time Garland Pickleball Center,5602 N Garland Ave,Garland,TX,75040,32.95121,-96.63851, Business,,lifetime_garland.csv
-lta.png,12,Life Time Fort Worth South,10761 S Freeway,Fort Worth,TX,76036,32.59851,-97.31951, Business,,lifetime_fort_worth_south.csv
-lta.png,10,Life Time Mansfield Pickleball Center,3700 E Broad St,Mansfield,TX,76063,32.57121,-97.09851, Business,,lifetime_mansfield.csv
-lta.png,10,Life Time Southlake Pickleball Club,1100 N Kimball Ave,Southlake,TX,76092,32.95621,-97.11851, Business,,lifetime_southlake.csv
-lta.png,12,Life Time Austin South Pickleball Center,7101 S Mopac Expy,Austin,TX,78749,30.22451,-97.83951, Business,,lifetime_austin_south.csv
-lta.png,12,Life Time Austin North Pickleball Club,13725 Andreas Cv,Austin,TX,78717,30.47851,-97.77121, Business,,lifetime_austin_north.csv
-lta.png,10,Life Time Houston City Centre,815 Town and Country Blvd,Houston,TX,77024,29.78121,-95.56121, Business,,lifetime_houston_city_centre.csv
-lta.png,8,Life Time Houston Galleria Pickleball,1635 W Loop S,Houston,TX,77027,29.74851,-95.46121, Business,,lifetime_houston_galleria.csv
-lta.png,8,Life Time Houston Greenway Pickleball,1 S Greenway Plaza,Houston,TX,77046,29.73121,-95.43451, Business,,lifetime_houston_greenway.csv
-lta.png,10,Life Time Houston Champions Club,11211 Louetta Rd,Houston,TX,77070,29.99851,-95.57851, Business,,lifetime_houston_champions.csv
-lta.png,12,Life Time Houston Cypress Pickleball,9922 Fry Rd,Cypress,TX,77433,29.93451,-95.70121, Business,,lifetime_houston_cypress.csv
-lta.png,10,Life Time Houston Sugar Land Club,1331 Highway 6,Sugar Land,TX,77478,29.60121,-95.62451, Business,,lifetime_houston_sugar_land.csv
-lta.png,12,Life Time San Antonio at The Rim,5639 Worth Pkwy,San Antonio,TX,78257,29.60451,-98.60121, Business,,lifetime_san_antonio_at_the_rim.csv
-lta.png,10,Life Time San Antonio 281 Club,18510 US Hwy 281 N,San Antonio,TX,78259,29.61121,-98.47451, Business,,lifetime_san_antonio_281.csv
-picklr.png,10,The Picklr Southlake,2140 E Southlake Blvd,Southlake,TX,76092,32.93981,-97.10851, Business,,picklr_southlake.csv
-picklr.png,12,The Picklr Frisco,8820 Preston Rd,Frisco,TX,75034,33.15121,-96.80451, Business,,picklr_frisco.csv
-picklr.png,12,The Picklr Plano West,6401 W Park Blvd,Plano,TX,75093,33.02981,-96.83451, Business,,picklr_plano_west.csv
-picklr.png,10,The Picklr Houston Heights,2400 N Shepherd Dr,Houston,TX,77008,29.80451,-95.40951, Business,,picklr_houston_heights.csv
-picklr.png,12,The Picklr Round Rock,2000 S Interstate 35,Round Rock,TX,78681,30.49121,-97.68121, Business,,picklr_round_rock.csv
-picklr.png,10,The Picklr San Antonio North,12415 Bandera Rd,Helotes,TX,78023,29.56851,-98.68121, Business,,picklr_san_antonio_north.csv
-picklr.png,12,The Picklr Dallas Design District,1400 N Riverfront Blvd,Dallas,TX,75207,32.79121,-96.82121, Business,,picklr_dallas_design_district.csv
-picklr.png,10,The Picklr Lubbock,6002 Slide Rd,Lubbock,TX,79414,33.54121,-101.92121, Business,,picklr_lubbock.csv
-picklr.png,10,The Picklr Midland,3001 W Loop 250 N,Midland,TX,79705,32.02851,-102.13121, Business,,picklr_midland.csv
-picklr.png,10,The Picklr Sugar Land,16535 Southwest Fwy,Sugar Land,TX,77479,29.58981,-95.63121, Business,,picklr_sugar_land.csv
-pk.png,12,Pickleball Kingdom North Dallas,17330 Preston Rd,Dallas,TX,75252,32.98751,-96.80451, Business,,pb_kingdom_north_dallas.csv
-pk.png,14,Pickleball Kingdom Fort Worth Alliance,9100 N Freeway,Fort Worth,TX,76177,32.90451,-97.31851, Business,,pb_kingdom_fort_worth_alliance.csv
-pk.png,12,Pickleball Kingdom Austin South,5000 S Congress Ave,Austin,TX,78745,30.21451,-97.77121, Business,,pb_kingdom_austin_south.csv
-pk.png,12,Pickleball Kingdom Houston West,12600 Westheimer Rd,Houston,TX,77077,29.73451,-95.60451, Business,,pb_kingdom_houston_west.csv
-pk.png,10,Pickleball Kingdom San Antonio Northwest,8400 Fredericksburg Rd,San Antonio,TX,78229,29.51451,-98.56851, Business,,pb_kingdom_san_antonio_northwest.csv
-pk.png,10,Pickleball Kingdom Tyler,4900 S Broadway Ave,Tyler,TX,75703,32.29851,-95.30451, Business,,pb_kingdom_tyler.csv
-pk.png,10,Pickleball Kingdom College Station,2400 Earl Rudder Fwy,College Station,TX,77840,30.60121,-96.30451, Business,,pb_kingdom_college_station.csv
-ace.png,12,Ace Pickleball Club Frisco,5151 Warren Pkwy,Frisco,TX,75034,33.10981,-96.80951, Business,,ace_frisco.csv
-ace.png,14,Ace Pickleball Club Houston Northwest,10800 Fallbrook Dr,Houston,TX,77064,29.90451,-95.56851, Business,,ace_houston_northwest.csv
-ace.png,12,Ace Pickleball Club Austin North,12800 N Lamar Blvd,Austin,TX,78753,30.40121,-97.67451, Business,,ace_austin_north.csv
-ace.png,12,Ace Pickleball Club San Antonio Stone Oak,19100 Stone Oak Pkwy,San Antonio,TX,78258,29.61851,-98.48951, Business,,ace_san_antonio_stone_oak.csv
-dilld.png,10,Dill Dinkers North Dallas,13330 Preston Rd,Dallas,TX,75240,32.92851,-96.80451, Business,,dill_dinkers_north_dallas.csv
-dilld.png,12,Dill Dinkers Fort Worth West,4800 Camp Bowie Blvd,Fort Worth,TX,76107,32.74121,-97.39451, Business,,dill_dinkers_fort_worth_west.csv
-dilld.png,10,Dill Dinkers Houston Energy Corridor,14500 Memorial Dr,Houston,TX,77079,29.77121,-95.63121, Business,,dill_dinkers_houston_energy_corridor.csv
-dilld.png,12,Dill Dinkers Austin Domain,11600 Domain Dr,Austin,TX,78758,30.40451,-97.72451, Business,,dill_dinkers_austin_domain.csv
-,16,Brookhaven Country Club Pickleball Center,3333 Golfing Green Dr,Farmers Branch,TX,75234,32.92851,-96.86851, Business,,brookhaven_country_club_pickleball_center.csv
-,12,T-Bar M Racquet & Pickleball Club,6060 Dilbeck Ln,Dallas,TX,75240,32.93451,-96.79121, Business,,t_bar_m_racquet_pickleball_club.csv
-,8,Canyon Creek Country Club Pickleball,625 W Lookout Dr,Richardson,TX,75080,32.98981,-96.75851, Business,,canyon_creek_country_club_pickleball.csv
-,10,Gleneagles Country Club Pickleball Complex,5401 W Park Blvd,Plano,TX,75093,33.03121,-96.81121, Business,,gleneagles_country_club_pickleball_complex.csv
-,8,Royal Oaks Country Club Pickleball Facility,7915 Greenville Ave,Dallas,TX,75231,32.88751,-96.76451, Business,,royal_oaks_country_club_pickleball_facility.csv
-,8,Prestonwood Country Club Pickleball,15909 Preston Rd,Dallas,TX,75248,32.96451,-96.80121, Business,,prestonwood_country_club_pickleball.csv
-,6,Northwood Club Pickleball Center,6524 Alpha Rd,Dallas,TX,75240,32.93121,-96.78451, Business,,northwood_club_pickleball_center.csv
-,8,Lakewood Country Club Pickleball,6430 Gaston Ave,Dallas,TX,75214,32.81451,-96.74851, Business,,lakewood_country_club_pickleball.csv
-,8,Las Colinas Country Club Pickleball,4400 N O Connor Rd,Irving,TX,75062,32.86451,-96.95851, Business,,las_colinas_country_club_pickleball.csv
-,8,Hackberry Creek Country Club Pickleball,1901 W Royal Ln,Irving,TX,75063,32.90121,-96.96851, Business,,hackberry_creek_country_club_pickleball.csv
-,12,Stonebridge Ranch Country Club Pickleball,7003 Beacon Hill Rd,McKinney,TX,75072,33.19851,-96.71121, Business,,stonebridge_ranch_country_club_pickleball.csv
-,8,Eldorado Country Club Pickleball,2604 Country Club Dr,McKinney,TX,75070,33.16121,-96.65451, Business,,eldorado_country_club_pickleball.csv
-,10,Frisco Racquet & Pickleball Club,8400 Stonebrook Pkwy,Frisco,TX,75034,33.13451,-96.81851, Business,,frisco_racquet_pickleball_club.csv
-,14,Dink & Dine Pickleball Park Plano,1801 N Central Expy,Plano,TX,75075,33.02451,-96.70851, Business,,dink_dine_pickleball_park_plano.csv
-,12,Texas Dynamic Pickleball Club,2201 E Lamar Blvd,Arlington,TX,76006,32.76121,-97.08121, Business,,texas_dynamic_pickleball_club.csv
-,10,CrossCourt Pickleball Club Carrollton,2625 Old Denton Rd,Carrollton,TX,75007,32.98121,-96.89851, Business,,crosscourt_pickleball_club_carrollton.csv
-,12,Net Results Indoor Pickleball Garland,2600 Technology Dr,Garland,TX,75044,32.96451,-96.64121, Business,,net_results_indoor_pickleball_garland.csv
-,8,Addison Indoor Pickleball Hub,4550 Beltway Dr,Addison,TX,75001,32.95981,-96.83851, Business,,addison_indoor_pickleball_hub.csv
-,10,Grapevine Indoor Pickleball Center,1200 S Main St,Grapevine,TX,76051,32.92451,-97.07851, Business,,grapevine_indoor_pickleball_center.csv
-,8,Southlake Racquet & Pickleball Club,2801 E Southlake Blvd,Southlake,TX,76092,32.94121,-97.09851, Business,,southlake_racquet_pickleball_club.csv
-,12,Denton Indoor Pickleball Club,1700 S Loop 288,Denton,TX,76205,33.18951,-97.10851, Business,,denton_indoor_pickleball_club.csv
-,8,Corinth Pickleball & Fitness Club,3400 Corinth Pkwy,Corinth,TX,76208,33.14851,-97.05451, Business,,corinth_pickleball_fitness_club.csv
-,10,Flower Mound Pickleball Academy,2301 Cross Timbers Rd,Flower Mound,TX,75028,33.03851,-97.07121, Business,,flower_mound_pickleball_academy.csv
-,8,Highland Village Racquet & Pickleball,2000 Justin Rd,Highland Village,TX,75077,33.06851,-97.05121, Business,,highland_village_racquet_pickleball.csv
-,10,Lewisville Indoor Pickleball Center,1000 S Stemmons Fwy,Lewisville,TX,75067,33.03121,-96.98851, Business,,lewisville_indoor_pickleball_center.csv
-,8,Coppell Pickleball Club,600 S MacArthur Blvd,Coppell,TX,75019,32.95851,-96.98121, Business,,coppell_pickleball_club.csv
-,12,Allen Sports Association Pickleball Hub,900 S Greenville Ave,Allen,TX,75002,33.09121,-96.66121, Business,,allen_sports_association_pickleball_hub.csv
-,10,Prosper Racquet & Pickleball Club,1000 N Coleman St,Prosper,TX,75078,33.24121,-96.80451, Business,,prosper_racquet_pickleball_club.csv
-,8,Celina Pickleball Center,1200 S Preston Rd,Celina,TX,75009,33.31451,-96.78851, Business,,celina_pickleball_center.csv
-,10,Little Elm Indoor Pickleball,2500 E Eldorado Pkwy,Little Elm,TX,75068,33.16121,-96.90851, Business,,little_elm_indoor_pickleball.csv
-,8,The Colony Pickleball Center,5000 Main St,The Colony,TX,75056,33.08451,-96.88121, Business,,the_colony_pickleball_center.csv
-,12,Fort Worth Racquet & Pickleball Club,5500 Trail Lake Dr,Fort Worth,TX,76133,32.67121,-97.37121, Business,,fort_worth_racquet_pickleball_club.csv
-,8,River Crest Country Club Pickleball,1501 Western Ave,Fort Worth,TX,76107,32.74851,-97.37851, Business,,river_crest_country_club_pickleball.csv
-,8,Ridglea Country Club Pickleball Complex,3700 Bernie Anderson Ave,Fort Worth,TX,76116,32.72121,-97.42451, Business,,ridglea_country_club_pickleball_complex.csv
-,10,Benbrook Pickleball & Tennis Hub,900 Winscott Rd,Benbrook,TX,76126,32.67851,-97.45851, Business,,benbrook_pickleball_tennis_hub.csv
-,8,Keller Racquet & Pickleball Center,1100 Keller Pkwy,Keller,TX,76248,32.93121,-97.23451, Business,,keller_racquet_pickleball_center.csv
-,10,Roanoke Indoor Pickleball Club,800 N Highway 377,Roanoke,TX,76262,33.01121,-97.22851, Business,,roanoke_indoor_pickleball_club.csv
-,8,Trophy Club Country Club Pickleball,500 Trophy Club Dr,Trophy Club,TX,76262,32.99851,-97.18851, Business,,trophy_club_country_club_pickleball.csv
-,12,Mansfield Indoor Pickleball Club,1500 E Debbie Ln,Mansfield,TX,76063,32.58451,-97.10851, Business,,mansfield_indoor_pickleball_club.csv
-,10,Midlothian Pickleball Complex,1000 S 14th St,Midlothian,TX,76065,32.47851,-96.99851, Business,,midlothian_pickleball_complex.csv
-,8,Waxahachie Racquet & Pickleball Club,1200 N Highway 77,Waxahachie,TX,75165,32.40451,-96.84851, Business,,waxahachie_racquet_pickleball_club.csv
-,10,Burleson Indoor Pickleball Center,1100 SW Wilshire Blvd,Burleson,TX,76028,32.53121,-97.33851, Business,,burleson_indoor_pickleball_center.csv
-,8,Cleburne Racquet & Pickleball Club,1600 W Henderson St,Cleburne,TX,76033,32.34851,-97.40851, Business,,cleburne_racquet_pickleball_club.csv
-,10,Weatherford Pickleball Club,1200 S Main St,Weatherford,TX,76086,32.74851,-97.79851, Business,,weatherford_pickleball_club.csv
-,8,Aledo Racquet & Pickleball Center,200 FM 1187,Aledo,TX,76008,32.69121,-97.60121, Business,,aledo_racquet_pickleball_center.csv
-,10,Granbury Pickleball Club,1300 E Highway 377,Granbury,TX,76048,32.43851,-97.77121, Business,,granbury_pickleball_club.csv
-,8,Rockwall Pickleball Center,1000 E Interstate 30,Rockwall,TX,75087,32.90981,-96.44851, Business,,rockwall_pickleball_center.csv
-,10,Rowlett Racquet & Pickleball Club,4300 Lakeview Pkwy,Rowlett,TX,75088,32.91451,-96.54121, Business,,rowlett_racquet_pickleball_club.csv
-,8,Sachse Indoor Pickleball Hub,5600 Highway 78,Sachse,TX,75048,32.97851,-96.58851, Business,,sachse_indoor_pickleball_hub.csv
-,10,Wylie Pickleball Club,1400 W FM 544,Wylie,TX,75098,33.01121,-96.54851, Business,,wylie_pickleball_club.csv
-,8,Murphy Racquet & Pickleball Center,200 N Murphy Rd,Murphy,TX,75094,33.02451,-96.61121, Business,,murphy_racquet_pickleball_center.csv
-,10,Forney Pickleball Complex,1200 S FM 548,Forney,TX,75126,32.74121,-96.47121, Business,,forney_pickleball_complex.csv
-,8,Terrell Racquet & Pickleball Club,1400 W Moore Ave,Terrell,TX,75160,32.73851,-96.29121, Business,,terrell_racquet_pickleball_club.csv
-,12,Greenville Indoor Pickleball Center,3200 Wesley St,Greenville,TX,75401,33.13121,-96.11121, Business,,greenville_indoor_pickleball_center.csv
-,10,Sherman Racquet & Pickleball Club,2000 N Travis St,Sherman,TX,75092,33.64851,-96.60851, Business,,sherman_racquet_pickleball_club.csv
-,8,Denison Pickleball Center,1200 S Austin Ave,Denison,TX,75020,33.74851,-96.54121, Business,,denison_pickleball_center.csv
-,10,Gainesville Indoor Pickleball Hub,1500 N Grand Ave,Gainesville,TX,76240,33.63851,-97.14121, Business,,gainesville_indoor_pickleball_hub.csv
-,8,Ennis Racquet & Pickleball Club,1000 E Ennis Ave,Ennis,TX,75119,32.32851,-96.61851, Business,,ennis_racquet_pickleball_club.csv
-,8,Corsicana Pickleball Center,2000 W 2nd Ave,Corsicana,TX,75110,32.09121,-96.47851, Business,,corsicana_pickleball_center.csv
-,10,Stephenville Pickleball Club,1200 W Washington St,Stephenville,TX,76401,32.22121,-98.21851, Business,,stephenville_pickleball_club.csv
-,16,Houston Racquet Club Pickleball Complex,10709 Memorial Dr,Houston,TX,77024,29.77121,-95.51851, Business,,houston_racquet_club_pickleball_complex.csv
-,12,River Oaks Country Club Pickleball,1600 River Oaks Blvd,Houston,TX,77019,29.75451,-95.42121, Business,,river_oaks_country_club_pickleball.csv
-,10,Lakeside Country Club Pickleball Center,100 Wilcrest Dr,Houston,TX,77042,29.76121,-95.57121, Business,,lakeside_country_club_pickleball_center.csv
-,10,Pine Forest Country Club Pickleball,18003 Clay Rd,Houston,TX,77084,29.82851,-95.68851, Business,,pine_forest_country_club_pickleball.csv
-,14,Houston Indoor Pickleball Club Galleria,5500 Westpark Dr,Houston,TX,77056,29.72121,-95.48121, Business,,houston_indoor_pickleball_club_galleria.csv
-,12,Memorial Park Indoor Pickleball Hub,7000 Washington Ave,Houston,TX,77007,29.77851,-95.42121, Business,,memorial_park_indoor_pickleball_hub.csv
-,10,Heights Pickleball & Social Club,1800 N Main St,Houston,TX,77009,29.78451,-95.36851, Business,,heights_pickleball_social_club.csv
-,12,Westchase Racquet & Pickleball Center,11000 Richmond Ave,Houston,TX,77042,29.72851,-95.56851, Business,,westchase_racquet_pickleball_center.csv
-,10,Energy Corridor Pickleball Club,12000 Westheimer Rd,Houston,TX,77077,29.73851,-95.59851, Business,,energy_corridor_pickleball_club.csv
-,14,Southwest Houston Pickleball Complex,9000 Southwest Fwy,Houston,TX,77074,29.68851,-95.52121, Business,,southwest_houston_pickleball_complex.csv
-,10,Spring Branch Racquet & Pickleball,8800 Long Point Rd,Houston,TX,77055,29.79851,-95.50851, Business,,spring_branch_racquet_pickleball.csv
-,12,Clear Lake Indoor Pickleball Hub,16000 Space Center Blvd,Houston,TX,77062,29.56121,-95.12121, Business,,clear_lake_indoor_pickleball_hub.csv
-,14,Katy Indoor Pickleball Center,24000 Katy Fwy,Katy,TX,77494,29.78121,-95.80851, Business,,katy_indoor_pickleball_center.csv
-,12,Cinco Ranch Racquet & Pickleball Club,23000 Cinco Ranch Blvd,Katy,TX,77494,29.74121,-95.75121, Business,,cinco_ranch_racquet_pickleball_club.csv
-,10,Katy Sports & Pickleball Complex,5000 Franz Rd,Katy,TX,77493,29.79851,-95.82851, Business,,katy_sports_pickleball_complex.csv
-,14,Sweetwater Country Club Pickleball,4400 Palm Royale Blvd,Sugar Land,TX,77479,29.57121,-95.61851, Business,,sweetwater_country_club_pickleball.csv
-,12,Sugar Land Racquet & Pickleball Hub,14000 Southwest Fwy,Sugar Land,TX,77478,29.61121,-95.59851, Business,,sugar_land_racquet_pickleball_hub.csv
-,10,Greatwood Pickleball Club,6700 Greatwood Pkwy,Sugar Land,TX,77479,29.54851,-95.66851, Business,,greatwood_pickleball_club.csv
-,12,Pearland Indoor Pickleball Club,11000 Shadow Creek Pkwy,Pearland,TX,77584,29.58121,-95.38121, Business,,pearland_indoor_pickleball_club.csv
-,10,Pearland Racquet & Pickleball Center,3200 E Broadway St,Pearland,TX,77581,29.55851,-95.27121, Business,,pearland_racquet_pickleball_center.csv
-,12,The Woodlands Country Club Pickleball,100 Grand Fairway Dr,The Woodlands,TX,77381,30.16851,-95.48121, Business,,the_woodlands_country_club_pickleball.csv
-,10,Woodlands North Pickleball Club,8000 Research Forest Dr,The Woodlands,TX,77382,30.19851,-95.53851, Business,,woodlands_north_pickleball_club.csv
-,12,Carlton Woods Pickleball Center,1 Carlton Woods Dr,The Woodlands,TX,77382,30.20121,-95.54851, Business,,carlton_woods_pickleball_center.csv
-,14,Spring Indoor Pickleball Complex,21000 Spring Cypress Rd,Spring,TX,77388,30.06121,-95.48121, Business,,spring_indoor_pickleball_complex.csv
-,10,Gleannloch Pines Pickleball Club,19393 Champion Forest Dr,Spring,TX,77379,30.02121,-95.56851, Business,,gleannloch_pines_pickleball_club.csv
-,12,Cypress Indoor Racquet & Pickleball,26000 Northwest Fwy,Cypress,TX,77429,29.98851,-95.71121, Business,,cypress_indoor_racquet_pickleball.csv
-,10,Bridgeland Pickleball Club,16900 Bridgeland Creek Pkwy,Cypress,TX,77433,29.96121,-95.73851, Business,,bridgeland_pickleball_club.csv
-,12,Tomball Racquet & Pickleball Hub,14000 FM 2920,Tomball,TX,77377,30.09851,-95.62121, Business,,tomball_racquet_pickleball_hub.csv
-,10,Magnolia Indoor Pickleball Center,18000 FM 1488,Magnolia,TX,77354,30.21121,-95.70851, Business,,magnolia_indoor_pickleball_center.csv
-,12,Conroe Racquet & Pickleball Club,2000 N Loop 336 W,Conroe,TX,77304,30.34121,-95.47851, Business,,conroe_racquet_pickleball_club.csv
-,10,April Sound Country Club Pickleball,1000 April Sound Blvd,Montgomery,TX,77356,30.37851,-95.58851, Business,,april_sound_country_club_pickleball.csv
-,10,Walden on Lake Conroe Pickleball,13101 Walden Rd,Montgomery,TX,77356,30.39121,-95.63851, Business,,walden_on_lake_conroe_pickleball.csv
-,12,Kingwood Country Club Pickleball Center,1700 Lake Kingwood Trl,Kingwood,TX,77339,30.04851,-95.19851, Business,,kingwood_country_club_pickleball_center.csv
-,10,Humble Indoor Pickleball Club,20000 Highway 59 N,Humble,TX,77338,30.00121,-95.26121, Business,,humble_indoor_pickleball_club.csv
-,10,Atascocita Pickleball Center,7500 FM 1960 Rd E,Humble,TX,77346,29.99851,-95.18851, Business,,atascocita_pickleball_center.csv
-,12,League City Pickleball Club,2500 W Marina Bay Dr,League City,TX,77573,29.51851,-95.09121, Business,,league_city_pickleball_club.csv
-,10,South Shore Harbour Pickleball Center,2500 South Shore Blvd,League City,TX,77573,29.52851,-95.06851, Business,,south_shore_harbour_pickleball_center.csv
-,12,Friendswood Racquet & Pickleball Hub,1000 S Friendswood Dr,Friendswood,TX,77546,29.51121,-95.20121, Business,,friendswood_racquet_pickleball_hub.csv
-,10,Baytown Indoor Pickleball Center,4500 Garth Rd,Baytown,TX,77521,29.77121,-94.97851, Business,,baytown_indoor_pickleball_center.csv
-,12,Pasadena Racquet & Pickleball Club,3800 Fairmont Pkwy,Pasadena,TX,77504,29.66451,-95.18851, Business,,pasadena_racquet_pickleball_club.csv
-,10,Deer Park Pickleball Center,1200 Center St,Deer Park,TX,77536,29.70451,-95.12851, Business,,deer_park_pickleball_center.csv
-,12,Missouri City Pickleball Complex,6000 Highway 6,Missouri City,TX,77459,29.56121,-95.53121, Business,,missouri_city_pickleball_complex.csv
-,10,Sienna Plantation Pickleball Club,9600 Sienna Ranch Rd,Missouri City,TX,77459,29.50851,-95.51851, Business,,sienna_plantation_pickleball_club.csv
-,12,Richmond Racquet & Pickleball Club,5000 FM 762 Rd,Richmond,TX,77469,29.55121,-95.73851, Business,,richmond_racquet_pickleball_club.csv
-,10,Rosenberg Pickleball Center,28000 Southwest Fwy,Rosenberg,TX,77471,29.54121,-95.79851, Business,,rosenberg_pickleball_center.csv
-,12,Galveston Island Pickleball Club,6000 Seawall Blvd,Galveston,TX,77551,29.27121,-94.81851, Business,,galveston_island_pickleball_club.csv
-,10,Kemah Racquet & Pickleball Hub,1000 Marina Bay Dr,Kemah,TX,77565,29.54121,-95.02121, Business,,kemah_racquet_pickleball_hub.csv
-,10,Texas City Pickleball Center,2500 Palmer Hwy,Texas City,TX,77590,29.40121,-94.93121, Business,,texas_city_pickleball_center.csv
-,10,La Porte Indoor Pickleball Club,1000 S Broadway St,La Porte,TX,77571,29.66121,-95.02121, Business,,la_porte_indoor_pickleball_club.csv
-,12,Stafford Sports & Pickleball Center,12000 Murphy Rd,Stafford,TX,77477,29.61851,-95.56121, Business,,stafford_sports_pickleball_center.csv
-,10,Bellaire Racquet & Pickleball Club,5000 Bellaire Blvd,Bellaire,TX,77401,29.70451,-95.46851, Business,,bellaire_racquet_pickleball_club.csv
-,10,West University Pickleball Hub,4200 Bellaire Blvd,Houston,TX,77025,29.70451,-95.44851, Business,,west_university_pickleball_hub.csv
-,10,Midtown Houston Pickleball Lounge,2500 Main St,Houston,TX,77002,29.74451,-95.37451, Business,,midtown_houston_pickleball_lounge.csv
-,12,Downtown Houston Racquet & Pickleball,1200 Louisiana St,Houston,TX,77002,29.75451,-95.36851, Business,,downtown_houston_racquet_pickleball.csv
-,10,Rice Village Pickleball Club,2400 University Blvd,Houston,TX,77005,29.71851,-95.41451, Business,,rice_village_pickleball_club.csv
-,10,Montrose Pickleball Club,1500 Westheimer Rd,Houston,TX,77006,29.74121,-95.39851, Business,,montrose_pickleball_club.csv
-,12,Oak Forest Pickleball Center,1400 43rd St,Houston,TX,77018,29.82851,-95.42851, Business,,oak_forest_pickleball_center.csv
-,10,Garden Oaks Racquet & Pickleball,3400 N Shepherd Dr,Houston,TX,77018,29.81851,-95.40851, Business,,garden_oaks_racquet_pickleball.csv
-,12,Jersey Village Indoor Pickleball,16000 Northwest Fwy,Jersey Village,TX,77040,29.88851,-95.56851, Business,,jersey_village_indoor_pickleball.csv
-,10,Copperfield Pickleball Club,8000 Highway 6 N,Houston,TX,77095,29.89121,-95.64851, Business,,copperfield_pickleball_club.csv
-,14,Westwood Country Club Pickleball,3808 W 35th St,Austin,TX,78703,30.31121,-97.76851, Business,,westwood_country_club_pickleball.csv
-,12,Barton Creek Country Club Pickleball,8212 Barton Club Dr,Austin,TX,78735,30.29121,-97.86121, Business,,barton_creek_country_club_pickleball.csv
-,10,Lost Creek Country Club Pickleball,2612 Lost Creek Blvd,Austin,TX,78746,30.28451,-97.83851, Business,,lost_creek_country_club_pickleball.csv
-,10,Onion Creek Club Pickleball Center,2510 Onion Creek Pkwy,Austin,TX,78747,30.16121,-97.77121, Business,,onion_creek_club_pickleball_center.csv
-,12,Great Hills Country Club Pickleball,5914 Lost Horizon Dr,Austin,TX,78759,30.40451,-97.76121, Business,,great_hills_country_club_pickleball.csv
-,14,Austin South Indoor Pickleball Hub,4200 S Congress Ave,Austin,TX,78745,30.22451,-97.76851, Business,,austin_south_indoor_pickleball_hub.csv
-,12,East Austin Pickleball Club,1100 E 5th St,Austin,TX,78702,30.26121,-97.72851, Business,,east_austin_pickleball_club.csv
-,12,North Austin Racquet & Pickleball Center,12000 Research Blvd,Austin,TX,78759,30.41851,-97.74851, Business,,north_austin_racquet_pickleball_center.csv
-,10,Mueller Pickleball Club,4500 Mueller Blvd,Austin,TX,78723,30.30121,-97.70851, Business,,mueller_pickleball_club.csv
-,10,Westlake Racquet & Pickleball Center,3200 Westbank Dr,Austin,TX,78746,30.28121,-97.79851, Business,,westlake_racquet_pickleball_center.csv
-,12,Lakeway Tennis & Pickleball Center,510 Lakeway Dr,Lakeway,TX,78734,30.36121,-97.97851, Business,,lakeway_tennis_pickleball_center.csv
-,10,Bee Cave Racquet & Pickleball Hub,12800 Galleria Cir,Bee Cave,TX,78738,30.30851,-97.93851, Business,,bee_cave_racquet_pickleball_hub.csv
-,10,Steiner Ranch Pickleball Club,4500 Steiner Ranch Blvd,Austin,TX,78732,30.38121,-97.89851, Business,,steiner_ranch_pickleball_club.csv
-,14,Round Rock Racquet & Pickleball Club,3000 E Palm Valley Blvd,Round Rock,TX,78665,30.51851,-97.64121, Business,,round_rock_racquet_pickleball_club.csv
-,12,Forest Creek Pickleball Center,2300 Red Bud Ln,Round Rock,TX,78664,30.49851,-97.62851, Business,,forest_creek_pickleball_center.csv
-,14,Cedar Park Indoor Pickleball Complex,1431 E Whitestone Blvd,Cedar Park,TX,78613,30.52851,-97.80851, Business,,cedar_park_indoor_pickleball_complex.csv
-,10,Twin Creeks Country Club Pickleball,3201 Twin Creeks Club Dr,Cedar Park,TX,78613,30.48121,-97.84851, Business,,twin_creeks_country_club_pickleball.csv
-,12,Georgetown Pickleball Center,1500 Rivery Blvd,Georgetown,TX,78628,30.64851,-97.68851, Business,,georgetown_pickleball_center.csv
-,10,Berry Creek Country Club Pickleball,30500 FM 2243,Georgetown,TX,78628,30.68851,-97.69851, Business,,berry_creek_country_club_pickleball.csv
-,12,Pflugerville Indoor Pickleball Club,1500 E Pecan St,Pflugerville,TX,78660,30.44851,-97.60851, Business,,pflugerville_indoor_pickleball_club.csv
-,10,Hutto Racquet & Pickleball Hub,1000 Front St,Hutto,TX,78634,30.54121,-97.54851, Business,,hutto_racquet_pickleball_hub.csv
-,12,Leander Indoor Pickleball Center,2000 S US Hwy 183,Leander,TX,78641,30.56121,-97.85851, Business,,leander_indoor_pickleball_center.csv
-,10,Liberty Hill Pickleball Club,13000 W State Hwy 29,Liberty Hill,TX,78642,30.66851,-97.91851, Business,,liberty_hill_pickleball_club.csv
-,12,Buda Indoor Pickleball Club,15000 S Interstate 35,Buda,TX,78610,30.08851,-97.82851, Business,,buda_indoor_pickleball_club.csv
-,12,Kyle Racquet & Pickleball Center,5401 S FM 1626,Kyle,TX,78640,29.98851,-97.87851, Business,,kyle_racquet_pickleball_center.csv
-,14,San Marcos Pickleball Academy,2000 IH 35 S,San Marcos,TX,78666,29.86851,-97.94851, Business,,san_marcos_pickleball_academy.csv
-,10,Kissing Tree Pickleball Club,201 Kissing Tree Blvd,San Marcos,TX,78666,29.84121,-97.97851, Business,,kissing_tree_pickleball_club.csv
-,12,Dripping Springs Racquet & Pickleball,1300 E US Hwy 290,Dripping Springs,TX,78620,30.19121,-98.07851, Business,,dripping_springs_racquet_pickleball.csv
-,10,Wimberley Pickleball Center,1000 FM 2325,Wimberley,TX,78676,29.99851,-98.11851, Business,,wimberley_pickleball_center.csv
-,12,Horseshoe Bay Resort Pickleball Center,200 Hi Cir N,Horseshoe Bay,TX,78657,30.54121,-98.36851, Business,,horseshoe_bay_resort_pickleball_center.csv
-,10,Marble Falls Racquet & Pickleball,1200 Mormon Mill Rd,Marble Falls,TX,78654,30.57851,-98.27851, Business,,marble_falls_racquet_pickleball.csv
-,10,Bastrop Indoor Pickleball Club,1600 State Hwy 71 E,Bastrop,TX,78602,30.11851,-97.31851, Business,,bastrop_indoor_pickleball_club.csv
-,10,Lockhart Pickleball Center,1500 S Colorado St,Lockhart,TX,78644,29.87121,-97.67851, Business,,lockhart_pickleball_center.csv
-,10,Belton Racquet & Pickleball Hub,2000 N Main St,Belton,TX,76513,31.06851,-97.45851, Business,,belton_racquet_pickleball_hub.csv
-,12,Salado Pickleball & Social Club,1000 N Main St,Salado,TX,76571,30.95851,-97.53851, Business,,salado_pickleball_social_club.csv
-,16,Sonterra Country Club Pickleball Complex,901 E Sonterra Blvd,San Antonio,TX,78258,29.61121,-98.48851, Business,,sonterra_country_club_pickleball_complex.csv
-,14,The Dominion Country Club Pickleball,1 Dominion Dr,San Antonio,TX,78257,29.63851,-98.61851, Business,,the_dominion_country_club_pickleball.csv
+image,courts,name,address,city,state,zip,lat,lng,type,cam,hours
+pk.png,1,Pickleball Kingdom Plano,1301 Custer Rd,Plano,TX,75075,33.01852,-96.73291,Business,,pb_kingdom_plano.csv
+pk.png,1,Pickleball Kingdom Keller,2045 S Main St,Keller,TX,76248,32.90941,-97.23412,Business,,pb_kingdom_keller.csv
+ace.png,1,Ace Pickleball Club Richmond,22230 Westpark Tollway,Richmond,TX,77407,29.68852,-95.73142,Business,,ace_richmond.csv
+ace.png,1,Ace Pickleball Club Colleyville,5617 Colleyville Blvd,Colleyville,TX,76034,32.88761,-97.14652,Business,,ace_colleyville.csv
+cnp.png,1,Chicken N Pickle San Antonio,5215 UTSA Blvd,San Antonio,TX,78249,29.58462,-98.60151,Business,,cnp_san_antonio.csv
+cnp.png,1,Chicken N Pickle Grand Prairie,2965 S Hwy 161,Grand Prairie,TX,75052,32.69982,-97.02531,Business,,cnp_grand_prairie.csv
+cnp.png,1,Chicken N Pickle Grapevine,4600 State Hwy 121,Grapevine,TX,76051,32.90021,-97.05041,Business,,cnp_grapevine.csv
+cnp.png,1,Chicken N Pickle Webster,210 Alameda Bianco,Webster,TX,77598,29.53124,-95.12781,Business,,cnp_webster.csv
+cnp.png,1,Chicken N Pickle Allen,195 E Stacy Rd,Allen,TX,75002,33.13092,-96.65781,Business,,cnp_allen.csv
+picklr.png,1,The Picklr McKinney,2985 S McDonald St,McKinney,TX,75069,33.16781,-96.62681,Business,,picklr_mckinney.csv
+picklr.png,1,The Picklr West Fort Worth,6733 Camp Bowie Blvd,Fort Worth,TX,76116,32.72752,-97.43311,Business,,picklr_west_fort_worth.csv
+picklr.png,1,The Picklr Hurst,700 W Bedford Euless Rd,Hurst,TX,76053,32.83981,-97.18521,Business,,picklr_hurst.csv
+picklr.png,1,The Picklr Lewisville,2401 S Stemmons Fwy,Lewisville,TX,75067,33.01824,-96.97451,Business,,picklr_lewisville.csv
+picklr.png,1,The Picklr Arlington,4100 S Cooper St,Arlington,TX,76015,32.67982,-97.13521,Business,,picklr_arlington.csv
+picklr.png,1,The Picklr Katy,23541 Westheimer Pkwy,Katy,TX,77494,29.74281,-95.77651,Business,,picklr_katy.csv
+picklr.png,1,The Picklr The Woodlands,25114 Grogans Mill Rd,Spring,TX,77380,30.13452,-95.46781,Business,,picklr_the_woodlands.csv
+picklr.png,1,The Picklr Cypress,25640 Northwest Fwy,Cypress,TX,77429,29.97541,-95.69821,Business,,picklr_cypress.csv
+picklr.png,1,The Picklr Pearland,2803 Business Center Dr,Pearland,TX,77584,29.56211,-95.39451,Business,,picklr_pearland.csv
+picklr.png,1,The Picklr Austin West,10801 N Mopac Expy,Austin,TX,78759,30.39562,-97.74281,Business,,picklr_austin_west.csv
+picklr.png,1,The Picklr Live Oak,7900 Pat Booker Rd,Live Oak,TX,78233,29.56241,-98.34121,Business,,picklr_live_oak.csv
+picklr.png,1,The Picklr Waco,1428 Wooded Acres Dr,Waco,TX,76710,31.52841,-97.18951,Business,,picklr_waco.csv
+,1,Oasis Pickleball Club,5757 State Hwy 205,Rockwall,TX,75032,32.84652,-96.44281,Business,,oasis_pickleball_club.csv
+,1,Austin Pickle Ranch North,11000 N Interstate 35,Austin,TX,78753,30.37891,-97.67451,Business,,austin_pickle_ranch_north.csv
+,1,Austin Pickle Ranch Downtown,1717 W 6th St,Austin,TX,78703,30.27482,-97.76541,Business,,austin_pickle_ranch_downtown.csv
+,1,Bouldin Acres South Lamar,2027 S Lamar Blvd,Austin,TX,78704,30.24821,-97.77121,Business,,bouldin_acres_south_lamar.csv
+,1,Bouldin Acres Braker,1818 W Braker Ln,Austin,TX,78758,30.39042,-97.70891,Business,,bouldin_acres_braker.csv
+,1,Dreamland Dripping Springs,2770 W Hwy 290,Dripping Springs,TX,78620,30.19821,-98.11451,Business,,dreamland_dripping_springs.csv
+,1,512 Pickle,11301 Burnet Rd,Austin,TX,78758,30.40451,-97.71452,Business,,512_pickle.csv
+,1,Elite Pickleball Club,610 W 6th St,Houston,TX,77007,29.77451,-95.39821,Business,,elite_pickleball_club.csv
+,1,PALA Pickleball,201 Technology Pkwy,Spring,TX,77373,30.08124,-95.42151,Business,,pala_pickleball.csv
+,1,PKL Social,1112 Shepherd Dr,Houston,TX,77007,29.76891,-95.41021,Business,,pkl_social.csv
+,1,Bumpy Pickle Sports,5544 Armour Dr,Houston,TX,77020,29.76211,-95.30981,Business,,bumpy_pickle_sports.csv
+,1,FIT High Performance Pickleball Club,1106 Vance Jackson Rd,San Antonio,TX,78201,29.47541,-98.53211,Business,,fit_high_performance_pickleball_club.csv
+,1,Cole Park Pickleball Courts,4000 Cole Ave,Dallas,TX,75204,32.81241,-96.79721,Park,,
+,1,Campbell Green Park Pickleball Courts,16600 Park Hill Dr,Dallas,TX,75248,32.97781,-96.78651,Park,,
+,1,Fretz Tennis and Pickleball Center,6998 Belt Line Rd,Dallas,TX,75254,32.95152,-96.78241,Park,,
+,1,Samuell Grand Tennis Center,6220 E Grand Ave,Dallas,TX,75223,32.80211,-96.74121,Park,,
+,1,High Point Tennis and Pickleball Center,421 W Spring Creek Pkwy,Plano,TX,75023,33.05621,-96.70821,Park,,
+,1,Carpenter Park Recreation Center,6701 Coit Rd,Plano,TX,75024,33.06781,-96.77121,Park,,
+,1,Wagon Wheel Tennis Center,950 Freeport Pkwy,Coppell,TX,75019,32.95451,-97.01251,Park,,
+,1,The Courts at McKinney,3253 Alma Rd,McKinney,TX,75070,33.15541,-96.67121,Park,,
+,1,McLeland Tennis Center,1600 W Seminary Dr,Fort Worth,TX,76115,32.68451,-97.35121,Park,,
+,1,Warren Sports Complex,7599 Eldorado Pkwy,Frisco,TX,75033,33.17241,-96.84211,Park,,
+,1,Arlington Tennis Center,500 W Mayfield Rd,Arlington,TX,76014,32.69241,-97.11421,Park,,
+,1,Rose Park Tennis & Pickleball Center,2605 S 7th St,Abilene,TX,79602,32.44121,-99.75411,Park,,
+,1,Austin Tennis and Pickleball Center,7800 Johnny Morris Rd,Austin,TX,78724,30.30651,-97.64521,Park,,
+,1,Pan American Neighborhood Park,2100 E 3rd St,Austin,TX,78702,30.26051,-97.71981,Park,,
+,1,South Austin Recreation Center,1100 Cumberland Rd,Austin,TX,78704,30.23981,-97.76541,Park,,
+,1,Rosewood Neighborhood Park,2300 Rosewood Ave,Austin,TX,78702,30.27411,-97.71421,Park,,
+,1,Dick Nichols District Park,8011 Beckett Rd,Austin,TX,78749,30.21852,-97.86451,Park,,
+,1,Garrison District Park,6001 Menchaca Rd,Austin,TX,78745,30.21251,-97.79851,Park,,
+,1,Northwest Recreation Center,2913 Northland Dr,Austin,TX,78757,30.34211,-97.75121,Park,,
+,1,Old Town Park,415 Main St,Round Rock,TX,78664,30.50981,-97.67421,Park,,
+,1,Memorial Park Tennis & Pickleball Center,1500 Memorial Loop Dr,Houston,TX,77007,29.76851,-95.43121,Park,,
+,1,Homer Ford Tennis Center,5225 Calhoun Rd,Houston,TX,77021,29.70451,-95.34821,Park,,
+,1,Jaycee Park Pickleball Courts,1300 Seamist Dr,Houston,TX,77008,29.79451,-95.42851,Park,,
+,1,Cleveland Park Pickleball Courts,200 Jackson Hill St,Houston,TX,77007,29.76541,-95.39951,Park,,
+,1,Lee LeClear Tennis Center,9506 S Gessner Rd,Houston,TX,77071,29.67121,-95.53981,Park,,
+,1,Lost Creek Park,3703 Lost Creek Blvd,Sugar Land,TX,77478,29.58411,-95.57851,Park,,
+,1,Shadowbend Park,4995 Lake Woodlands Dr,The Woodlands,TX,77381,30.17981,-95.49521,Park,,
+,1,Fairchild Park Pickleball Complex,1214 E Crockett St,San Antonio,TX,78202,29.42451,-98.46851,Park,,
+,1,McFarlin Tennis Center,1503 San Pedro Ave,San Antonio,TX,78212,29.44451,-98.49851,Park,,
+,1,Whispering Oaks Park,10427 Wurzbach Rd,San Antonio,TX,78230,29.53751,-98.54981,Park,,
+,1,Blossom Athletic Center,12002 Jones Maltsberger Rd,San Antonio,TX,78216,29.55121,-98.48121,Park,,
+,1,Ascarate Park Pickleball Courts,6900 Delta Dr,El Paso,TX,79905,31.73981,-106.40851,Park,,
+,1,Burgess Tennis and Pickleball Center,3004 34th St,Lubbock,TX,79410,33.56541,-101.88451,Park,,
+,1,Al Kruse Tennis Center,502 King St,Corpus Christi,TX,78401,27.78851,-97.39121,Park,,
+,1,LB Houston Tennis & Pickleball,11225 Luna Rd #3113,Dallas,TX,75229,32.89089,-96.92155,Business,https://livepickleballcourts.com/facilities/lb-houston-tennis-pickleball,lb_houston_tennis_pickleball.csv
+,1,The Courts McKinney,3253 Alma Rd,McKinney,TX,75070,33.16801,-96.71115,Business,https://livepickleballcourts.com/facilities/the-courts-mckinney,the_courts_mckinney.csv
+,1,Indoor Pickleball Now,13005 Harmon Rd,Fort Worth,TX,76177,32.93608,-97.32276,Business,https://livepickleballcourts.com/facilities/indoor-pickleball-now,indoor_pickleball_now.csv
+,1,Pickleball Hideout Courts,18952 Freeport Dr,Montgomery,TX,77356,30.38679,-95.66119,Business,https://livepickleballcourts.com/facilities/pickleball-hideout-courts,pickleball_hideout_courts.csv
+,1,Houston Pickleball Center,12233 Robin Blvd,Houston,TX,77045,29.63402,-95.40627,Business,https://livepickleballcourts.com/facilities/houston-pickleball-center,houston_pickleball_center.csv
+lta.png,12,Life Time Plano Pickleball Club,7100 Preston Rd,Plano,TX,75024,33.07621,-96.79951,Business,,lifetime_plano.csv
+lta.png,10,Life Time Colleyville Pickleball Club,1221 Church St,Colleyville,TX,76034,32.88451,-97.15541,Business,,lifetime_colleyville.csv
+lta.png,14,Life Time Frisco Pickleball Center,3800 Gaylord Pkwy,Frisco,TX,75034,33.10981,-96.82851,Business,,lifetime_frisco.csv
+lta.png,8,Life Time Dallas Highland Park,5910 N Central Expy,Dallas,TX,75206,32.83621,-96.77451,Business,,lifetime_dallas_highland_park.csv
+lta.png,8,Life Time Garland Pickleball Center,5602 N Garland Ave,Garland,TX,75040,32.95121,-96.63851,Business,,lifetime_garland.csv
+lta.png,12,Life Time Fort Worth South,10761 S Freeway,Fort Worth,TX,76036,32.59851,-97.31951,Business,,lifetime_fort_worth_south.csv
+lta.png,10,Life Time Mansfield Pickleball Center,3700 E Broad St,Mansfield,TX,76063,32.57121,-97.09851,Business,,lifetime_mansfield.csv
+lta.png,10,Life Time Southlake Pickleball Club,1100 N Kimball Ave,Southlake,TX,76092,32.95621,-97.11851,Business,,lifetime_southlake.csv
+lta.png,12,Life Time Austin South Pickleball Center,7101 S Mopac Expy,Austin,TX,78749,30.22451,-97.83951,Business,,lifetime_austin_south.csv
+lta.png,12,Life Time Austin North Pickleball Club,13725 Andreas Cv,Austin,TX,78717,30.47851,-97.77121,Business,,lifetime_austin_north.csv
+lta.png,10,Life Time Houston City Centre,815 Town and Country Blvd,Houston,TX,77024,29.78121,-95.56121,Business,,lifetime_houston_city_centre.csv
+lta.png,8,Life Time Houston Galleria Pickleball,1635 W Loop S,Houston,TX,77027,29.74851,-95.46121,Business,,lifetime_houston_galleria.csv
+lta.png,8,Life Time Houston Greenway Pickleball,1 S Greenway Plaza,Houston,TX,77046,29.73121,-95.43451,Business,,lifetime_houston_greenway.csv
+lta.png,10,Life Time Houston Champions Club,11211 Louetta Rd,Houston,TX,77070,29.99851,-95.57851,Business,,lifetime_houston_champions.csv
+lta.png,12,Life Time Houston Cypress Pickleball,9922 Fry Rd,Cypress,TX,77433,29.93451,-95.70121,Business,,lifetime_houston_cypress.csv
+lta.png,10,Life Time Houston Sugar Land Club,1331 Highway 6,Sugar Land,TX,77478,29.60121,-95.62451,Business,,lifetime_houston_sugar_land.csv
+lta.png,12,Life Time San Antonio at The Rim,5639 Worth Pkwy,San Antonio,TX,78257,29.60451,-98.60121,Business,,lifetime_san_antonio_at_the_rim.csv
+lta.png,10,Life Time San Antonio 281 Club,18510 US Hwy 281 N,San Antonio,TX,78259,29.61121,-98.47451,Business,,lifetime_san_antonio_281.csv
+picklr.png,10,The Picklr Southlake,2140 E Southlake Blvd,Southlake,TX,76092,32.93981,-97.10851,Business,,picklr_southlake.csv
+picklr.png,12,The Picklr Frisco,8820 Preston Rd,Frisco,TX,75034,33.15121,-96.80451,Business,,picklr_frisco.csv
+picklr.png,12,The Picklr Plano West,6401 W Park Blvd,Plano,TX,75093,33.02981,-96.83451,Business,,picklr_plano_west.csv
+picklr.png,10,The Picklr Houston Heights,2400 N Shepherd Dr,Houston,TX,77008,29.80451,-95.40951,Business,,picklr_houston_heights.csv
+picklr.png,12,The Picklr Round Rock,2000 S Interstate 35,Round Rock,TX,78681,30.49121,-97.68121,Business,,picklr_round_rock.csv
+picklr.png,10,The Picklr San Antonio North,12415 Bandera Rd,Helotes,TX,78023,29.56851,-98.68121,Business,,picklr_san_antonio_north.csv
+picklr.png,12,The Picklr Dallas Design District,1400 N Riverfront Blvd,Dallas,TX,75207,32.79121,-96.82121,Business,,picklr_dallas_design_district.csv
+picklr.png,10,The Picklr Lubbock,6002 Slide Rd,Lubbock,TX,79414,33.54121,-101.92121,Business,,picklr_lubbock.csv
+picklr.png,10,The Picklr Midland,3001 W Loop 250 N,Midland,TX,79705,32.02851,-102.13121,Business,,picklr_midland.csv
+picklr.png,10,The Picklr Sugar Land,16535 Southwest Fwy,Sugar Land,TX,77479,29.58981,-95.63121,Business,,picklr_sugar_land.csv
+pk.png,12,Pickleball Kingdom North Dallas,17330 Preston Rd,Dallas,TX,75252,32.98751,-96.80451,Business,,pb_kingdom_north_dallas.csv
+pk.png,14,Pickleball Kingdom Fort Worth Alliance,9100 N Freeway,Fort Worth,TX,76177,32.90451,-97.31851,Business,,pb_kingdom_fort_worth_alliance.csv
+pk.png,12,Pickleball Kingdom Austin South,5000 S Congress Ave,Austin,TX,78745,30.21451,-97.77121,Business,,pb_kingdom_austin_south.csv
+pk.png,12,Pickleball Kingdom Houston West,12600 Westheimer Rd,Houston,TX,77077,29.73451,-95.60451,Business,,pb_kingdom_houston_west.csv
+pk.png,10,Pickleball Kingdom San Antonio Northwest,8400 Fredericksburg Rd,San Antonio,TX,78229,29.51451,-98.56851,Business,,pb_kingdom_san_antonio_northwest.csv
+pk.png,10,Pickleball Kingdom Tyler,4900 S Broadway Ave,Tyler,TX,75703,32.29851,-95.30451,Business,,pb_kingdom_tyler.csv
+pk.png,10,Pickleball Kingdom College Station,2400 Earl Rudder Fwy,College Station,TX,77840,30.60121,-96.30451,Business,,pb_kingdom_college_station.csv
+ace.png,12,Ace Pickleball Club Frisco,5151 Warren Pkwy,Frisco,TX,75034,33.10981,-96.80951,Business,,ace_frisco.csv
+ace.png,14,Ace Pickleball Club Houston Northwest,10800 Fallbrook Dr,Houston,TX,77064,29.90451,-95.56851,Business,,ace_houston_northwest.csv
+ace.png,12,Ace Pickleball Club Austin North,12800 N Lamar Blvd,Austin,TX,78753,30.40121,-97.67451,Business,,ace_austin_north.csv
+ace.png,12,Ace Pickleball Club San Antonio Stone Oak,19100 Stone Oak Pkwy,San Antonio,TX,78258,29.61851,-98.48951,Business,,ace_san_antonio_stone_oak.csv
+dilld.png,10,Dill Dinkers North Dallas,13330 Preston Rd,Dallas,TX,75240,32.92851,-96.80451,Business,,dill_dinkers_north_dallas.csv
+dilld.png,12,Dill Dinkers Fort Worth West,4800 Camp Bowie Blvd,Fort Worth,TX,76107,32.74121,-97.39451,Business,,dill_dinkers_fort_worth_west.csv
+dilld.png,10,Dill Dinkers Houston Energy Corridor,14500 Memorial Dr,Houston,TX,77079,29.77121,-95.63121,Business,,dill_dinkers_houston_energy_corridor.csv
+dilld.png,12,Dill Dinkers Austin Domain,11600 Domain Dr,Austin,TX,78758,30.40451,-97.72451,Business,,dill_dinkers_austin_domain.csv
+,16,Brookhaven Country Club Pickleball Center,3333 Golfing Green Dr,Farmers Branch,TX,75234,32.92851,-96.86851,Business,,brookhaven_country_club_pickleball_center.csv
+,12,T-Bar M Racquet & Pickleball Club,6060 Dilbeck Ln,Dallas,TX,75240,32.93451,-96.79121,Business,,t_bar_m_racquet_pickleball_club.csv
+,8,Canyon Creek Country Club Pickleball,625 W Lookout Dr,Richardson,TX,75080,32.98981,-96.75851,Business,,canyon_creek_country_club_pickleball.csv
+,10,Gleneagles Country Club Pickleball Complex,5401 W Park Blvd,Plano,TX,75093,33.03121,-96.81121,Business,,gleneagles_country_club_pickleball_complex.csv
+,8,Royal Oaks Country Club Pickleball Facility,7915 Greenville Ave,Dallas,TX,75231,32.88751,-96.76451,Business,,royal_oaks_country_club_pickleball_facility.csv
+,8,Prestonwood Country Club Pickleball,15909 Preston Rd,Dallas,TX,75248,32.96451,-96.80121,Business,,prestonwood_country_club_pickleball.csv
+,6,Northwood Club Pickleball Center,6524 Alpha Rd,Dallas,TX,75240,32.93121,-96.78451,Business,,northwood_club_pickleball_center.csv
+,8,Lakewood Country Club Pickleball,6430 Gaston Ave,Dallas,TX,75214,32.81451,-96.74851,Business,,lakewood_country_club_pickleball.csv
+,8,Las Colinas Country Club Pickleball,4400 N O Connor Rd,Irving,TX,75062,32.86451,-96.95851,Business,,las_colinas_country_club_pickleball.csv
+,8,Hackberry Creek Country Club Pickleball,1901 W Royal Ln,Irving,TX,75063,32.90121,-96.96851,Business,,hackberry_creek_country_club_pickleball.csv
+,12,Stonebridge Ranch Country Club Pickleball,7003 Beacon Hill Rd,McKinney,TX,75072,33.19851,-96.71121,Business,,stonebridge_ranch_country_club_pickleball.csv
+,8,Eldorado Country Club Pickleball,2604 Country Club Dr,McKinney,TX,75070,33.16121,-96.65451,Business,,eldorado_country_club_pickleball.csv
+,10,Frisco Racquet & Pickleball Club,8400 Stonebrook Pkwy,Frisco,TX,75034,33.13451,-96.81851,Business,,frisco_racquet_pickleball_club.csv
+,14,Dink & Dine Pickleball Park Plano,1801 N Central Expy,Plano,TX,75075,33.02451,-96.70851,Business,,dink_dine_pickleball_park_plano.csv
+,12,Texas Dynamic Pickleball Club,2201 E Lamar Blvd,Arlington,TX,76006,32.76121,-97.08121,Business,,texas_dynamic_pickleball_club.csv
+,10,CrossCourt Pickleball Club Carrollton,2625 Old Denton Rd,Carrollton,TX,75007,32.98121,-96.89851,Business,,crosscourt_pickleball_club_carrollton.csv
+,12,Net Results Indoor Pickleball Garland,2600 Technology Dr,Garland,TX,75044,32.96451,-96.64121,Business,,net_results_indoor_pickleball_garland.csv
+,8,Addison Indoor Pickleball Hub,4550 Beltway Dr,Addison,TX,75001,32.95981,-96.83851,Business,,addison_indoor_pickleball_hub.csv
+,10,Grapevine Indoor Pickleball Center,1200 S Main St,Grapevine,TX,76051,32.92451,-97.07851,Business,,grapevine_indoor_pickleball_center.csv
+,8,Southlake Racquet & Pickleball Club,2801 E Southlake Blvd,Southlake,TX,76092,32.94121,-97.09851,Business,,southlake_racquet_pickleball_club.csv
+,12,Denton Indoor Pickleball Club,1700 S Loop 288,Denton,TX,76205,33.18951,-97.10851,Business,,denton_indoor_pickleball_club.csv
+,8,Corinth Pickleball & Fitness Club,3400 Corinth Pkwy,Corinth,TX,76208,33.14851,-97.05451,Business,,corinth_pickleball_fitness_club.csv
+,10,Flower Mound Pickleball Academy,2301 Cross Timbers Rd,Flower Mound,TX,75028,33.03851,-97.07121,Business,,flower_mound_pickleball_academy.csv
+,8,Highland Village Racquet & Pickleball,2000 Justin Rd,Highland Village,TX,75077,33.06851,-97.05121,Business,,highland_village_racquet_pickleball.csv
+,10,Lewisville Indoor Pickleball Center,1000 S Stemmons Fwy,Lewisville,TX,75067,33.03121,-96.98851,Business,,lewisville_indoor_pickleball_center.csv
+,8,Coppell Pickleball Club,600 S MacArthur Blvd,Coppell,TX,75019,32.95851,-96.98121,Business,,coppell_pickleball_club.csv
+,12,Allen Sports Association Pickleball Hub,900 S Greenville Ave,Allen,TX,75002,33.09121,-96.66121,Business,,allen_sports_association_pickleball_hub.csv
+,10,Prosper Racquet & Pickleball Club,1000 N Coleman St,Prosper,TX,75078,33.24121,-96.80451,Business,,prosper_racquet_pickleball_club.csv
+,8,Celina Pickleball Center,1200 S Preston Rd,Celina,TX,75009,33.31451,-96.78851,Business,,celina_pickleball_center.csv
+,10,Little Elm Indoor Pickleball,2500 E Eldorado Pkwy,Little Elm,TX,75068,33.16121,-96.90851,Business,,little_elm_indoor_pickleball.csv
+,8,The Colony Pickleball Center,5000 Main St,The Colony,TX,75056,33.08451,-96.88121,Business,,the_colony_pickleball_center.csv
+,12,Fort Worth Racquet & Pickleball Club,5500 Trail Lake Dr,Fort Worth,TX,76133,32.67121,-97.37121,Business,,fort_worth_racquet_pickleball_club.csv
+,8,River Crest Country Club Pickleball,1501 Western Ave,Fort Worth,TX,76107,32.74851,-97.37851,Business,,river_crest_country_club_pickleball.csv
+,8,Ridglea Country Club Pickleball Complex,3700 Bernie Anderson Ave,Fort Worth,TX,76116,32.72121,-97.42451,Business,,ridglea_country_club_pickleball_complex.csv
+,10,Benbrook Pickleball & Tennis Hub,900 Winscott Rd,Benbrook,TX,76126,32.67851,-97.45851,Business,,benbrook_pickleball_tennis_hub.csv
+,8,Keller Racquet & Pickleball Center,1100 Keller Pkwy,Keller,TX,76248,32.93121,-97.23451,Business,,keller_racquet_pickleball_center.csv
+,10,Roanoke Indoor Pickleball Club,800 N Highway 377,Roanoke,TX,76262,33.01121,-97.22851,Business,,roanoke_indoor_pickleball_club.csv
+,8,Trophy Club Country Club Pickleball,500 Trophy Club Dr,Trophy Club,TX,76262,32.99851,-97.18851,Business,,trophy_club_country_club_pickleball.csv
+,12,Mansfield Indoor Pickleball Club,1500 E Debbie Ln,Mansfield,TX,76063,32.58451,-97.10851,Business,,mansfield_indoor_pickleball_club.csv
+,10,Midlothian Pickleball Complex,1000 S 14th St,Midlothian,TX,76065,32.47851,-96.99851,Business,,midlothian_pickleball_complex.csv
+,8,Waxahachie Racquet & Pickleball Club,1200 N Highway 77,Waxahachie,TX,75165,32.40451,-96.84851,Business,,waxahachie_racquet_pickleball_club.csv
+,10,Burleson Indoor Pickleball Center,1100 SW Wilshire Blvd,Burleson,TX,76028,32.53121,-97.33851,Business,,burleson_indoor_pickleball_center.csv
+,8,Cleburne Racquet & Pickleball Club,1600 W Henderson St,Cleburne,TX,76033,32.34851,-97.40851,Business,,cleburne_racquet_pickleball_club.csv
+,10,Weatherford Pickleball Club,1200 S Main St,Weatherford,TX,76086,32.74851,-97.79851,Business,,weatherford_pickleball_club.csv
+,8,Aledo Racquet & Pickleball Center,200 FM 1187,Aledo,TX,76008,32.69121,-97.60121,Business,,aledo_racquet_pickleball_center.csv
+,10,Granbury Pickleball Club,1300 E Highway 377,Granbury,TX,76048,32.43851,-97.77121,Business,,granbury_pickleball_club.csv
+,8,Rockwall Pickleball Center,1000 E Interstate 30,Rockwall,TX,75087,32.90981,-96.44851,Business,,rockwall_pickleball_center.csv
+,10,Rowlett Racquet & Pickleball Club,4300 Lakeview Pkwy,Rowlett,TX,75088,32.91451,-96.54121,Business,,rowlett_racquet_pickleball_club.csv
+,8,Sachse Indoor Pickleball Hub,5600 Highway 78,Sachse,TX,75048,32.97851,-96.58851,Business,,sachse_indoor_pickleball_hub.csv
+,10,Wylie Pickleball Club,1400 W FM 544,Wylie,TX,75098,33.01121,-96.54851,Business,,wylie_pickleball_club.csv
+,8,Murphy Racquet & Pickleball Center,200 N Murphy Rd,Murphy,TX,75094,33.02451,-96.61121,Business,,murphy_racquet_pickleball_center.csv
+,10,Forney Pickleball Complex,1200 S FM 548,Forney,TX,75126,32.74121,-96.47121,Business,,forney_pickleball_complex.csv
+,8,Terrell Racquet & Pickleball Club,1400 W Moore Ave,Terrell,TX,75160,32.73851,-96.29121,Business,,terrell_racquet_pickleball_club.csv
+,12,Greenville Indoor Pickleball Center,3200 Wesley St,Greenville,TX,75401,33.13121,-96.11121,Business,,greenville_indoor_pickleball_center.csv
+,10,Sherman Racquet & Pickleball Club,2000 N Travis St,Sherman,TX,75092,33.64851,-96.60851,Business,,sherman_racquet_pickleball_club.csv
+,8,Denison Pickleball Center,1200 S Austin Ave,Denison,TX,75020,33.74851,-96.54121,Business,,denison_pickleball_center.csv
+,10,Gainesville Indoor Pickleball Hub,1500 N Grand Ave,Gainesville,TX,76240,33.63851,-97.14121,Business,,gainesville_indoor_pickleball_hub.csv
+,8,Ennis Racquet & Pickleball Club,1000 E Ennis Ave,Ennis,TX,75119,32.32851,-96.61851,Business,,ennis_racquet_pickleball_club.csv
+,8,Corsicana Pickleball Center,2000 W 2nd Ave,Corsicana,TX,75110,32.09121,-96.47851,Business,,corsicana_pickleball_center.csv
+,10,Stephenville Pickleball Club,1200 W Washington St,Stephenville,TX,76401,32.22121,-98.21851,Business,,stephenville_pickleball_club.csv
+,16,Houston Racquet Club Pickleball Complex,10709 Memorial Dr,Houston,TX,77024,29.77121,-95.51851,Business,,houston_racquet_club_pickleball_complex.csv
+,12,River Oaks Country Club Pickleball,1600 River Oaks Blvd,Houston,TX,77019,29.75451,-95.42121,Business,,river_oaks_country_club_pickleball.csv
+,10,Lakeside Country Club Pickleball Center,100 Wilcrest Dr,Houston,TX,77042,29.76121,-95.57121,Business,,lakeside_country_club_pickleball_center.csv
+,10,Pine Forest Country Club Pickleball,18003 Clay Rd,Houston,TX,77084,29.82851,-95.68851,Business,,pine_forest_country_club_pickleball.csv
+,14,Houston Indoor Pickleball Club Galleria,5500 Westpark Dr,Houston,TX,77056,29.72121,-95.48121,Business,,houston_indoor_pickleball_club_galleria.csv
+,12,Memorial Park Indoor Pickleball Hub,7000 Washington Ave,Houston,TX,77007,29.77851,-95.42121,Business,,memorial_park_indoor_pickleball_hub.csv
+,10,Heights Pickleball & Social Club,1800 N Main St,Houston,TX,77009,29.78451,-95.36851,Business,,heights_pickleball_social_club.csv
+,12,Westchase Racquet & Pickleball Center,11000 Richmond Ave,Houston,TX,77042,29.72851,-95.56851,Business,,westchase_racquet_pickleball_center.csv
+,10,Energy Corridor Pickleball Club,12000 Westheimer Rd,Houston,TX,77077,29.73851,-95.59851,Business,,energy_corridor_pickleball_club.csv
+,14,Southwest Houston Pickleball Complex,9000 Southwest Fwy,Houston,TX,77074,29.68851,-95.52121,Business,,southwest_houston_pickleball_complex.csv
+,10,Spring Branch Racquet & Pickleball,8800 Long Point Rd,Houston,TX,77055,29.79851,-95.50851,Business,,spring_branch_racquet_pickleball.csv
+,12,Clear Lake Indoor Pickleball Hub,16000 Space Center Blvd,Houston,TX,77062,29.56121,-95.12121,Business,,clear_lake_indoor_pickleball_hub.csv
+,14,Katy Indoor Pickleball Center,24000 Katy Fwy,Katy,TX,77494,29.78121,-95.80851,Business,,katy_indoor_pickleball_center.csv
+,12,Cinco Ranch Racquet & Pickleball Club,23000 Cinco Ranch Blvd,Katy,TX,77494,29.74121,-95.75121,Business,,cinco_ranch_racquet_pickleball_club.csv
+,10,Katy Sports & Pickleball Complex,5000 Franz Rd,Katy,TX,77493,29.79851,-95.82851,Business,,katy_sports_pickleball_complex.csv
+,14,Sweetwater Country Club Pickleball,4400 Palm Royale Blvd,Sugar Land,TX,77479,29.57121,-95.61851,Business,,sweetwater_country_club_pickleball.csv
+,12,Sugar Land Racquet & Pickleball Hub,14000 Southwest Fwy,Sugar Land,TX,77478,29.61121,-95.59851,Business,,sugar_land_racquet_pickleball_hub.csv
+,10,Greatwood Pickleball Club,6700 Greatwood Pkwy,Sugar Land,TX,77479,29.54851,-95.66851,Business,,greatwood_pickleball_club.csv
+,12,Pearland Indoor Pickleball Club,11000 Shadow Creek Pkwy,Pearland,TX,77584,29.58121,-95.38121,Business,,pearland_indoor_pickleball_club.csv
+,10,Pearland Racquet & Pickleball Center,3200 E Broadway St,Pearland,TX,77581,29.55851,-95.27121,Business,,pearland_racquet_pickleball_center.csv
+,12,The Woodlands Country Club Pickleball,100 Grand Fairway Dr,The Woodlands,TX,77381,30.16851,-95.48121,Business,,the_woodlands_country_club_pickleball.csv
+,10,Woodlands North Pickleball Club,8000 Research Forest Dr,The Woodlands,TX,77382,30.19851,-95.53851,Business,,woodlands_north_pickleball_club.csv
+,12,Carlton Woods Pickleball Center,1 Carlton Woods Dr,The Woodlands,TX,77382,30.20121,-95.54851,Business,,carlton_woods_pickleball_center.csv
+,14,Spring Indoor Pickleball Complex,21000 Spring Cypress Rd,Spring,TX,77388,30.06121,-95.48121,Business,,spring_indoor_pickleball_complex.csv
+,10,Gleannloch Pines Pickleball Club,19393 Champion Forest Dr,Spring,TX,77379,30.02121,-95.56851,Business,,gleannloch_pines_pickleball_club.csv
+,12,Cypress Indoor Racquet & Pickleball,26000 Northwest Fwy,Cypress,TX,77429,29.98851,-95.71121,Business,,cypress_indoor_racquet_pickleball.csv
+,10,Bridgeland Pickleball Club,16900 Bridgeland Creek Pkwy,Cypress,TX,77433,29.96121,-95.73851,Business,,bridgeland_pickleball_club.csv
+,12,Tomball Racquet & Pickleball Hub,14000 FM 2920,Tomball,TX,77377,30.09851,-95.62121,Business,,tomball_racquet_pickleball_hub.csv
+,10,Magnolia Indoor Pickleball Center,18000 FM 1488,Magnolia,TX,77354,30.21121,-95.70851,Business,,magnolia_indoor_pickleball_center.csv
+,12,Conroe Racquet & Pickleball Club,2000 N Loop 336 W,Conroe,TX,77304,30.34121,-95.47851,Business,,conroe_racquet_pickleball_club.csv
+,10,April Sound Country Club Pickleball,1000 April Sound Blvd,Montgomery,TX,77356,30.37851,-95.58851,Business,,april_sound_country_club_pickleball.csv
+,10,Walden on Lake Conroe Pickleball,13101 Walden Rd,Montgomery,TX,77356,30.39121,-95.63851,Business,,walden_on_lake_conroe_pickleball.csv
+,12,Kingwood Country Club Pickleball Center,1700 Lake Kingwood Trl,Kingwood,TX,77339,30.04851,-95.19851,Business,,kingwood_country_club_pickleball_center.csv
+,10,Humble Indoor Pickleball Club,20000 Highway 59 N,Humble,TX,77338,30.00121,-95.26121,Business,,humble_indoor_pickleball_club.csv
+,10,Atascocita Pickleball Center,7500 FM 1960 Rd E,Humble,TX,77346,29.99851,-95.18851,Business,,atascocita_pickleball_center.csv
+,12,League City Pickleball Club,2500 W Marina Bay Dr,League City,TX,77573,29.51851,-95.09121,Business,,league_city_pickleball_club.csv
+,10,South Shore Harbour Pickleball Center,2500 South Shore Blvd,League City,TX,77573,29.52851,-95.06851,Business,,south_shore_harbour_pickleball_center.csv
+,12,Friendswood Racquet & Pickleball Hub,1000 S Friendswood Dr,Friendswood,TX,77546,29.51121,-95.20121,Business,,friendswood_racquet_pickleball_hub.csv
+,10,Baytown Indoor Pickleball Center,4500 Garth Rd,Baytown,TX,77521,29.77121,-94.97851,Business,,baytown_indoor_pickleball_center.csv
+,12,Pasadena Racquet & Pickleball Club,3800 Fairmont Pkwy,Pasadena,TX,77504,29.66451,-95.18851,Business,,pasadena_racquet_pickleball_club.csv
+,10,Deer Park Pickleball Center,1200 Center St,Deer Park,TX,77536,29.70451,-95.12851,Business,,deer_park_pickleball_center.csv
+,12,Missouri City Pickleball Complex,6000 Highway 6,Missouri City,TX,77459,29.56121,-95.53121,Business,,missouri_city_pickleball_complex.csv
+,10,Sienna Plantation Pickleball Club,9600 Sienna Ranch Rd,Missouri City,TX,77459,29.50851,-95.51851,Business,,sienna_plantation_pickleball_club.csv
+,12,Richmond Racquet & Pickleball Club,5000 FM 762 Rd,Richmond,TX,77469,29.55121,-95.73851,Business,,richmond_racquet_pickleball_club.csv
+,10,Rosenberg Pickleball Center,28000 Southwest Fwy,Rosenberg,TX,77471,29.54121,-95.79851,Business,,rosenberg_pickleball_center.csv
+,12,Galveston Island Pickleball Club,6000 Seawall Blvd,Galveston,TX,77551,29.27121,-94.81851,Business,,galveston_island_pickleball_club.csv
+,10,Kemah Racquet & Pickleball Hub,1000 Marina Bay Dr,Kemah,TX,77565,29.54121,-95.02121,Business,,kemah_racquet_pickleball_hub.csv
+,10,Texas City Pickleball Center,2500 Palmer Hwy,Texas City,TX,77590,29.40121,-94.93121,Business,,texas_city_pickleball_center.csv
+,10,La Porte Indoor Pickleball Club,1000 S Broadway St,La Porte,TX,77571,29.66121,-95.02121,Business,,la_porte_indoor_pickleball_club.csv
+,12,Stafford Sports & Pickleball Center,12000 Murphy Rd,Stafford,TX,77477,29.61851,-95.56121,Business,,stafford_sports_pickleball_center.csv
+,10,Bellaire Racquet & Pickleball Club,5000 Bellaire Blvd,Bellaire,TX,77401,29.70451,-95.46851,Business,,bellaire_racquet_pickleball_club.csv
+,10,West University Pickleball Hub,4200 Bellaire Blvd,Houston,TX,77025,29.70451,-95.44851,Business,,west_university_pickleball_hub.csv
+,10,Midtown Houston Pickleball Lounge,2500 Main St,Houston,TX,77002,29.74451,-95.37451,Business,,midtown_houston_pickleball_lounge.csv
+,12,Downtown Houston Racquet & Pickleball,1200 Louisiana St,Houston,TX,77002,29.75451,-95.36851,Business,,downtown_houston_racquet_pickleball.csv
+,10,Rice Village Pickleball Club,2400 University Blvd,Houston,TX,77005,29.71851,-95.41451,Business,,rice_village_pickleball_club.csv
+,10,Montrose Pickleball Club,1500 Westheimer Rd,Houston,TX,77006,29.74121,-95.39851,Business,,montrose_pickleball_club.csv
+,12,Oak Forest Pickleball Center,1400 43rd St,Houston,TX,77018,29.82851,-95.42851,Business,,oak_forest_pickleball_center.csv
+,10,Garden Oaks Racquet & Pickleball,3400 N Shepherd Dr,Houston,TX,77018,29.81851,-95.40851,Business,,garden_oaks_racquet_pickleball.csv
+,12,Jersey Village Indoor Pickleball,16000 Northwest Fwy,Jersey Village,TX,77040,29.88851,-95.56851,Business,,jersey_village_indoor_pickleball.csv
+,10,Copperfield Pickleball Club,8000 Highway 6 N,Houston,TX,77095,29.89121,-95.64851,Business,,copperfield_pickleball_club.csv
+,14,Westwood Country Club Pickleball,3808 W 35th St,Austin,TX,78703,30.31121,-97.76851,Business,,westwood_country_club_pickleball.csv
+,12,Barton Creek Country Club Pickleball,8212 Barton Club Dr,Austin,TX,78735,30.29121,-97.86121,Business,,barton_creek_country_club_pickleball.csv
+,10,Lost Creek Country Club Pickleball,2612 Lost Creek Blvd,Austin,TX,78746,30.28451,-97.83851,Business,,lost_creek_country_club_pickleball.csv
+,10,Onion Creek Club Pickleball Center,2510 Onion Creek Pkwy,Austin,TX,78747,30.16121,-97.77121,Business,,onion_creek_club_pickleball_center.csv
+,12,Great Hills Country Club Pickleball,5914 Lost Horizon Dr,Austin,TX,78759,30.40451,-97.76121,Business,,great_hills_country_club_pickleball.csv
+,14,Austin South Indoor Pickleball Hub,4200 S Congress Ave,Austin,TX,78745,30.22451,-97.76851,Business,,austin_south_indoor_pickleball_hub.csv
+,12,East Austin Pickleball Club,1100 E 5th St,Austin,TX,78702,30.26121,-97.72851,Business,,east_austin_pickleball_club.csv
+,12,North Austin Racquet & Pickleball Center,12000 Research Blvd,Austin,TX,78759,30.41851,-97.74851,Business,,north_austin_racquet_pickleball_center.csv
+,10,Mueller Pickleball Club,4500 Mueller Blvd,Austin,TX,78723,30.30121,-97.70851,Business,,mueller_pickleball_club.csv
+,10,Westlake Racquet & Pickleball Center,3200 Westbank Dr,Austin,TX,78746,30.28121,-97.79851,Business,,westlake_racquet_pickleball_center.csv
+,12,Lakeway Tennis & Pickleball Center,510 Lakeway Dr,Lakeway,TX,78734,30.36121,-97.97851,Business,,lakeway_tennis_pickleball_center.csv
+,10,Bee Cave Racquet & Pickleball Hub,12800 Galleria Cir,Bee Cave,TX,78738,30.30851,-97.93851,Business,,bee_cave_racquet_pickleball_hub.csv
+,10,Steiner Ranch Pickleball Club,4500 Steiner Ranch Blvd,Austin,TX,78732,30.38121,-97.89851,Business,,steiner_ranch_pickleball_club.csv
+,14,Round Rock Racquet & Pickleball Club,3000 E Palm Valley Blvd,Round Rock,TX,78665,30.51851,-97.64121,Business,,round_rock_racquet_pickleball_club.csv
+,12,Forest Creek Pickleball Center,2300 Red Bud Ln,Round Rock,TX,78664,30.49851,-97.62851,Business,,forest_creek_pickleball_center.csv
+,14,Cedar Park Indoor Pickleball Complex,1431 E Whitestone Blvd,Cedar Park,TX,78613,30.52851,-97.80851,Business,,cedar_park_indoor_pickleball_complex.csv
+,10,Twin Creeks Country Club Pickleball,3201 Twin Creeks Club Dr,Cedar Park,TX,78613,30.48121,-97.84851,Business,,twin_creeks_country_club_pickleball.csv
+,12,Georgetown Pickleball Center,1500 Rivery Blvd,Georgetown,TX,78628,30.64851,-97.68851,Business,,georgetown_pickleball_center.csv
+,10,Berry Creek Country Club Pickleball,30500 FM 2243,Georgetown,TX,78628,30.68851,-97.69851,Business,,berry_creek_country_club_pickleball.csv
+,12,Pflugerville Indoor Pickleball Club,1500 E Pecan St,Pflugerville,TX,78660,30.44851,-97.60851,Business,,pflugerville_indoor_pickleball_club.csv
+,10,Hutto Racquet & Pickleball Hub,1000 Front St,Hutto,TX,78634,30.54121,-97.54851,Business,,hutto_racquet_pickleball_hub.csv
+,12,Leander Indoor Pickleball Center,2000 S US Hwy 183,Leander,TX,78641,30.56121,-97.85851,Business,,leander_indoor_pickleball_center.csv
+,10,Liberty Hill Pickleball Club,13000 W State Hwy 29,Liberty Hill,TX,78642,30.66851,-97.91851,Business,,liberty_hill_pickleball_club.csv
+,12,Buda Indoor Pickleball Club,15000 S Interstate 35,Buda,TX,78610,30.08851,-97.82851,Business,,buda_indoor_pickleball_club.csv
+,12,Kyle Racquet & Pickleball Center,5401 S FM 1626,Kyle,TX,78640,29.98851,-97.87851,Business,,kyle_racquet_pickleball_center.csv
+,14,San Marcos Pickleball Academy,2000 IH 35 S,San Marcos,TX,78666,29.86851,-97.94851,Business,,san_marcos_pickleball_academy.csv
+,10,Kissing Tree Pickleball Club,201 Kissing Tree Blvd,San Marcos,TX,78666,29.84121,-97.97851,Business,,kissing_tree_pickleball_club.csv
+,12,Dripping Springs Racquet & Pickleball,1300 E US Hwy 290,Dripping Springs,TX,78620,30.19121,-98.07851,Business,,dripping_springs_racquet_pickleball.csv
+,10,Wimberley Pickleball Center,1000 FM 2325,Wimberley,TX,78676,29.99851,-98.11851,Business,,wimberley_pickleball_center.csv
+,12,Horseshoe Bay Resort Pickleball Center,200 Hi Cir N,Horseshoe Bay,TX,78657,30.54121,-98.36851,Business,,horseshoe_bay_resort_pickleball_center.csv
+,10,Marble Falls Racquet & Pickleball,1200 Mormon Mill Rd,Marble Falls,TX,78654,30.57851,-98.27851,Business,,marble_falls_racquet_pickleball.csv
+,10,Bastrop Indoor Pickleball Club,1600 State Hwy 71 E,Bastrop,TX,78602,30.11851,-97.31851,Business,,bastrop_indoor_pickleball_club.csv
+,10,Lockhart Pickleball Center,1500 S Colorado St,Lockhart,TX,78644,29.87121,-97.67851,Business,,lockhart_pickleball_center.csv
+,10,Belton Racquet & Pickleball Hub,2000 N Main St,Belton,TX,76513,31.06851,-97.45851,Business,,belton_racquet_pickleball_hub.csv
+,12,Salado Pickleball & Social Club,1000 N Main St,Salado,TX,76571,30.95851,-97.53851,Business,,salado_pickleball_social_club.csv
+,16,Sonterra Country Club Pickleball Complex,901 E Sonterra Blvd,San Antonio,TX,78258,29.61121,-98.48851,Business,,sonterra_country_club_pickleball_complex.csv
+,14,The Dominion Country Club Pickleball,1 Dominion Dr,San Antonio,TX,78257,29.63851,-98.61851,Business,,the_dominion_country_club_pickleball.csv
