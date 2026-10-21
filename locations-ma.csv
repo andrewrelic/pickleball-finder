@@ -7,20 +7,20 @@ image,courts,name,address,city,state,zip,lat,lng,type,cam,hours
 ,1,Foss Park,Fellsway W and Broadway,Somerville,MA,02145,42.38851,-71.08851,Park,,
 ,1,Amory Park,45 Amory St,Brookline,MA,02446,42.34851,-71.11851,Park,,
 ,1,Newton Centre Playground,81 Tyler Terr,Newton Centre,MA,02459,42.33121,-71.19451,Park,,
-,1,Cabot Park,109 Cabot St,Newton,MA,02458,42.35451,-71.20121,Park,,
+,1,Cabot Park,109 Cabot St,Newton,MA,02458,42.34730,-71.19398,Park,,
 ,1,Kincaide Park,Water St and Crescent St,Quincy,MA,02169,42.24121,-70.99451,Park,,
-,1,Merrymount Park,1 Merrymount Pkwy,Quincy,MA,02169,42.24851,-71.00451,Park,,
+,1,Merrymount Park,1 Merrymount Pkwy,Quincy,MA,02169,42.25611,-71.00696,Park,,
 ,1,Dedham Health and Athletic Complex,400 Washington St,Dedham,MA,02026,42.24451,-71.17121,Business,,dedham_health_and_athletic_complex.csv
-,1,Mills Field,80 Gould St,Needham,MA,02494,42.28451,-71.22851,Park,,
+,1,Mills Field,80 Gould St,Needham,MA,02494,42.30839,-71.23203,Park,,
 ,1,Cornelia Warren Park,210 Waverley Oaks Rd,Waltham,MA,02452,42.38451,-71.21851,Park,,
 ,1,Tufts Park,431 Main St,Medford,MA,02155,42.40451,-71.11121,Park,,
-,1,Amerige Park,200 Fellsway E,Malden,MA,02148,42.42851,-71.06121,Park,,
+,1,Amerige Park,200 Fellsway E,Malden,MA,02148,42.42669,-71.08590,Park,,
 ,1,Bosse Pickleball,141 Boston Post Rd,Sudbury,MA,01776,42.36121,-71.41121,Business,,bosse_pickleball.csv
 picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42.68451,-71.13451,Business,,picklr_north_andover.csv
 ,1,Westborough Tennis and Pickleball Club,35 Chauncy St,Westborough,MA,01581,42.27451,-71.61451,Business,,westborough_tennis_and_pickleball_club.csv
 ,1,Wayside Athletic Club,80 Broadmeadow St,Marlborough,MA,01752,42.33851,-71.53451,Business,,wayside_athletic_club.csv
 ,1,Ghiloni Park,239 Concord Rd,Marlborough,MA,01752,42.35851,-71.51451,Park,,
-,1,Butterworth Park,40 Grant St,Framingham,MA,01702,42.28451,-71.42451,Park,,
+,1,Butterworth Park,40 Grant St,Framingham,MA,01702,42.27927,-71.41230,Park,,
 ,1,Cushing Memorial Park,Keefe Way,Framingham,MA,01702,42.26851,-71.41451,Park,,
 ,1,Natick Memorial Beach Courts,117 E Central St,Natick,MA,01760,42.28851,-71.33451,Park,,
 ,1,Life Time Athletic Framingham,490 Old Connecticut Path,Framingham,MA,01701,42.31121,-71.39851,Business,,lifetime_athletic_framingham.csv
@@ -33,22 +33,22 @@ picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42
 ,1,Forest River Park,32 Clifton Ave,Salem,MA,01970,42.50851,-70.89121,Park,,
 ,1,Danvers Indoor Sports,150 Andover St,Danvers,MA,01923,42.55121,-70.95451,Business,,danvers_indoor_sports.csv
 ,1,Manning Park,39 Manning St,Ipswich,MA,01938,42.67851,-70.84121,Park,,
-,1,Shedd Park,433 Boylston St,Lowell,MA,01852,42.63121,-71.28851,Park,,
-,1,Mulligan Park,215 Salem St,Lawrence,MA,01843,42.69451,-71.15451,Park,,
-,1,Pomeroy Park,150 West St,Haverhill,MA,01832,42.77851,-71.10851,Park,,
+,1,Shedd Park,433 Boylston St,Lowell,MA,01852,42.61982,-71.28065,Park,,
+,1,Mulligan Park,215 Salem St,Lawrence,MA,01843,42.69700,-71.16376,Park,,
+,1,Pomeroy Park,150 West St,Haverhill,MA,01832,42.72308,-71.03182,Park,,
 ,1,Starland Sportsplex,637 Washington St,Hanover,MA,02339,42.12451,-70.84451,Business,,starland_sportsplex.csv
 ,1,South Shore YMCA Emilson Branch,75 Mill St,Hanover,MA,02339,42.13851,-70.85451,Business,,south_shore_ymca_emilson_branch.csv
 ,1,Braintree High School Courts,128 Town St,Braintree,MA,02184,42.20851,-71.01121,Park,,
 ,1,Whitman Town Park,1 Whitman Ave,Whitman,MA,02382,42.08121,-70.93451,Park,,
 ,1,Marshfield Community Park,96 Library St,Marshfield,MA,02050,42.09121,-70.71451,Park,,
 ,1,Plymouth Tennis and Pickleball Club,165 S Meadow Rd,Plymouth,MA,02360,41.91121,-70.73851,Business,,plymouth_tennis_and_pickleball_club.csv
-,1,Forges Field Sports Complex,83 Jordan Rd,Plymouth,MA,02360,41.91851,-70.66851,Park,,
+,1,Forges Field Sports Complex,83 Jordan Rd,Plymouth,MA,02360,41.90904,-70.62909,Park,,
 ,1,Falmouth Sports Center,33 Highfield Dr,Falmouth,MA,02540,41.55451,-70.61451,Business,,falmouth_sports_center.csv
 ,1,Gifford Street Courts,141 Gifford St,Falmouth,MA,02540,41.55851,-70.60851,Park,,
-,1,Johnny Kelley Recreation Area,180 Old Bass River Rd,South Dennis,MA,02660,41.70851,-70.16121,Park,,
-,1,Oak Ridge School Courts,260 Quaker Meetinghouse Rd,East Sandwich,MA,02537,41.72451,-70.47121,Park,,
+,1,Johnny Kelley Recreation Area,180 Old Bass River Rd,South Dennis,MA,02660,41.69920,-70.16120,Park,,
+,1,Oak Ridge School Courts,260 Quaker Meetinghouse Rd,East Sandwich,MA,02537,41.72128,-70.46140,Park,,
 ,1,Brooks Park,1 Oak St,Harwich,MA,02645,41.68851,-70.07121,Park,,
-,1,Lake Park Pickleball Courts,283 Lake Ave,Worcester,MA,01604,42.26121,-71.76451,Park,,
+,1,Lake Park Pickleball Courts,283 Lake Ave,Worcester,MA,01604,42.26396,-71.75450,Park,,
 ,1,Green Hill Park,50 Skyline Dr,Worcester,MA,01605,42.27851,-71.77851,Park,,
 ,1,Worcester Fitness,440 Grove St,Worcester,MA,01605,42.29451,-71.80851,Business,,worcester_fitness.csv
 ,1,Fore Kicks Sports Complex,219 Forest St,Marlborough,MA,01752,42.32851,-71.56451,Business,,fore_kicks_sports_complex.csv
@@ -61,7 +61,7 @@ picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42
 ,1,Boston Common Courts,Charles St & Boylston St,Boston,MA,02116,42.35241,-71.06912,Park,,
 ,1,East Boston Memorial Park,143 Porter St,East Boston,MA,02128,42.37121,-71.03121,Park,,
 ,1,Ryan Playground,53 River St,Mattapan,MA,02126,42.27121,-71.07451,Park,,
-,1,Billings Field,369 LaGrange St,West Roxbury,MA,02132,42.28851,-71.16121,Park,,
+,1,Billings Field,369 LaGrange St,West Roxbury,MA,02132,42.28021,-71.15707,Park,,
 ,1,Kelly Field,Turtle Pond Pkwy,Hyde Park,MA,02136,42.25851,-71.13451,Park,,
 ,1,McKinney Playground,64 Faneuil St,Brighton,MA,02135,42.35451,-71.15851,Park,,
 ,1,Doherty Playground,St Martin St,Charlestown,MA,02129,42.37851,-71.06451,Park,,
@@ -108,7 +108,7 @@ picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42
 ,1,Horn Pond Recreation Area,Sturgis St,Woburn,MA,01801,42.46851,-71.15851,Park,,
 ,1,North Reading Town Common Courts,Park St,North Reading,MA,01864,42.57851,-71.08121,Park,,
 ,1,Wilmington Town Park,Main St,Wilmington,MA,01887,42.55121,-71.17121,Park,,
-,1,NARA Park,25 Ledge Rock Way,Acton,MA,01720,42.51121,-71.43851,Park,,
+,1,NARA Park,25 Ledge Rock Way,Acton,MA,01720,42.51468,-71.41169,Park,,
 ,1,Emerson Playground,Stow St,Concord,MA,01742,42.45851,-71.35121,Park,,
 ,1,Center Recreation Complex,Worthen Rd,Lexington,MA,02421,42.44851,-71.23121,Park,,
 ,1,Muzzey Courts,Mass Ave,Lexington,MA,02420,42.44121,-71.21851,Park,,
@@ -166,7 +166,7 @@ picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42
 ,1,Mattakeesett Field,Mattakeesett St,Pembroke,MA,02359,42.06451,-70.80121,Park,,
 ,1,Halifax Town Hall Courts,Plymouth St,Halifax,MA,02338,41.99121,-70.86121,Park,,
 ,1,Hanson Town Hall Field,High St,Hanson,MA,02341,42.07121,-70.88121,Park,,
-,1,Brooklawn Park,1997 Acushnet Ave,New Bedford,MA,02745,41.67851,-70.93121,Park,,
+,1,Brooklawn Park,1997 Acushnet Ave,New Bedford,MA,02745,41.67346,-70.92407,Park,,
 ,1,Buttonwood Park,Rockdale Ave,New Bedford,MA,02740,41.63451,-70.95121,Park,,
 ,1,Kennedy Park,S Main St,Fall River,MA,02721,41.69121,-71.16121,Park,,
 ,1,Bicentennial Park,Davol St,Fall River,MA,02720,41.71451,-71.15851,Park,,
