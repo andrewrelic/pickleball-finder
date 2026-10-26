@@ -46,8 +46,8 @@ picklr.png,1,The Picklr Rancho Cordova,11000 Olson Dr,Rancho Cordova,CA,95670,38
 ,1,Goldman Tennis and Pickleball Center,Nancy Pelosi Dr & Bowling Green Dr,San Francisco,CA,94122,37.76981,-122.46121,Park,,
 ,1,Louis Sutter Playground Pickleball Courts,614 University St,San Francisco,CA,94134,37.72121,-122.41981,Park,,
 ,1,Leo J Ryan Park Pickleball Courts,650 Shell Blvd,Foster City,CA,94404,37.55851,-122.27121,Park,,
-,1,Mitchell Park Pickleball Courts,600 E Meadow Dr,Palo Alto,CA,94306,37.42121,-122.12121,Park,,
-,1,Sunnyvale Tennis and Pickleball Center,755 S Mathilda Ave,Sunnyvale,CA,94087,37.36851,-122.03451,Park,,
+,15,Mitchell Park Pickleball Courts,600 E Meadow Dr,Palo Alto,CA,94306,37.42221,-122.11467,Park,,mitchell_park.csv
+,8,Sunnyvale Tennis and Pickleball Center,755 S Mathilda Ave,Sunnyvale,CA,94087,37.36596,-122.03772,Park,,sunnyvale_tennis_center.csv
 ,1,Paul Moore Park Pickleball Courts,1426 Hillsdale Ave,San Jose,CA,95118,37.26981,-121.89851,Park,,
 ,1,Frank Bramhall Willow Street Park,1320 Willow St,San Jose,CA,95125,37.30476,-121.90910,Park,,
 ,1,Bushrod Recreation Center,560 59th St,Oakland,CA,94609,37.84121,-122.26451,Park,,
@@ -64,3 +64,11 @@ picklr.png,1,The Picklr Rancho Cordova,11000 Olson Dr,Rancho Cordova,CA,95670,38
 ,1,Emerald Glen Park Pickleball Courts,4201 Central Pkwy,Dublin,CA,94568,37.70851,-121.88451,Park,,
 ,1,Pleasanton Tennis and Pickleball Center,5801 Valley Ave,Pleasanton,CA,94566,37.66981,-121.89451,Park,,
 ,1,Indoor Pickleball X - Concord,1695 Willow Pass Rd Ste 2,Concord,CA,94520,37.97495,-122.04242,Business,https://livepickleballcourts.com/facilities/indoor-pickleball-x,indoor_pickleball_x_concord.csv
+,9,Rengstorff Park Pickleball Courts,201 S Rengstorff Ave,Mountain View,CA,94040,37.40150,-122.09762,Park,,rengstorff_park.csv
+,2,Mountain View Sports Pavilion,1185 Castro St,Mountain View,CA,94040,37.38070,-122.08615,Park,,mv_sports_pavilion.csv
+,3,El Camino YMCA,2400 Grant Rd,Mountain View,CA,94040,37.37060,-122.07790,Business,,el_camino_ymca.csv
+,9,Clyde Avenue Pickleball Facility,485 Clyde Ave,Mountain View,CA,94043,37.39970,-122.04580,Park,,clyde_ave_facility.csv
+,4,Cuesta Park Pickleball,615 Cuesta Dr,Mountain View,CA,94040,37.37750,-122.08250,Park,,cuesta_park.csv
+,2,Whisman Park Pickleball Courts,310 Easy St,Mountain View,CA,94043,37.39998,-122.06697,Park,,whisman_park.csv
+,4,McKenzie Park Pickleball Courts,707 Fremont Ave,Los Altos,CA,94024,37.35837,-122.09300,Park,,mckenzie_park.csv
+,6,Bay Club Santa Clara,3250 Central Expy,Santa Clara,CA,95054,37.37530,-121.98620,Business,,bay_club_santa_clara.csv

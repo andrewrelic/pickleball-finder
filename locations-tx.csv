@@ -271,3 +271,122 @@ dilld.png,12,Dill Dinkers Austin Domain,11600 Domain Dr,Austin,TX,78758,30.40451
 ,12,Salado Pickleball & Social Club,1000 N Main St,Salado,TX,76571,30.95851,-97.53851,Business,,salado_pickleball_social_club.csv
 ,16,Sonterra Country Club Pickleball Complex,901 E Sonterra Blvd,San Antonio,TX,78258,29.61121,-98.48851,Business,,sonterra_country_club_pickleball_complex.csv
 ,14,The Dominion Country Club Pickleball,1 Dominion Dr,San Antonio,TX,78257,29.63851,-98.61851,Business,,the_dominion_country_club_pickleball.csv
+,4,Churchill Park Pickleball Courts,7025 Churchill Way,Dallas,TX,75230,32.9168,-96.7865,Park,,churchill_park_pickleball.csv
+,4,Reverchon Park Tennis & Pickleball Courts,3505 Maple Ave,Dallas,TX,75219,32.8021,-96.8142,Park,,reverchon_park_pickleball.csv
+,8,Kiest Park Tennis & Pickleball Center,2324 W Kiest Blvd,Dallas,TX,75224,32.7095,-96.8601,Park,,kiest_park_tennis_pickleball.csv
+,4,Lake Highlands North Recreation Center,9940 White Rock Trail,Dallas,TX,75238,32.8854,-96.7212,Park,,lake_highlands_north_rec.csv
+,4,Marcus Recreation Center Pickleball Courts,3003 Northaven Rd,Dallas,TX,75229,32.9095,-96.8682,Park,,marcus_rec_center_pickleball.csv
+,4,Walnut Hill Recreation Center Courts,10011 Midway Rd,Dallas,TX,75229,32.8851,-96.8402,Park,,walnut_hill_rec_courts.csv
+,4,Ridgewood/Belcher Recreation Center,6818 Fisher Rd,Dallas,TX,75214,32.8425,-96.7501,Park,,ridgewood_belcher_rec_center.csv
+,2,Glencoe Park Pickleball Courts,5300 E Mockingbird Ln,Dallas,TX,75206,32.8385,-96.7724,Park,,glencoe_park_pickleball.csv
+,2,Exall Park Pickleball Courts,1355 Adair St,Dallas,TX,75204,32.7932,-96.7885,Park,,exall_park_pickleball.csv
+,4,Tietze Park Pickleball Courts,2700 Skillman St,Dallas,TX,75206,32.8312,-96.7621,Park,,tietze_park_pickleball.csv
+,4,Bachman Recreation Center Pickleball,2750 Bachman Dr,Dallas,TX,75220,32.8595,-96.8685,Park,,bachman_rec_pickleball.csv
+,4,Pleasant Oaks Recreation Center,8701 Greenmound Ave,Dallas,TX,75227,32.7412,-96.6985,Park,,pleasant_oaks_rec_center.csv
+,4,Martin Weiss Recreation Center,1111 Martindell Ave,Dallas,TX,75211,32.7385,-96.8795,Park,,martin_weiss_rec_center.csv
+,4,Harry Stone Recreation Center,2403 Millmar Dr,Dallas,TX,75228,32.8251,-96.6981,Park,,harry_stone_rec_center.csv
+,4,Thurgood Marshall Recreation Center,5150 Mark Trail Way,Dallas,TX,75232,32.6685,-96.8745,Park,,thurgood_marshall_rec.csv
+,4,Cummings Recreation Center,2976 Cummings St,Dallas,TX,75216,32.7152,-96.8042,Park,,cummings_rec_center.csv
+,2,Eloise Lundy Recreation Center,1229 Reverend CBT Smith St,Dallas,TX,75203,32.7521,-96.8085,Park,,eloise_lundy_rec_center.csv
+,2,Anita Martinez Recreation Center,3212 N Winnetka Ave,Dallas,TX,75212,32.7845,-96.8612,Park,,anita_martinez_rec_center.csv
+,6,Willie B. Johnson Recreation Center,12225 Willowdell Dr,Dallas,TX,75243,32.9152,-96.7451,Park,,willie_b_johnson_rec.csv
+,2,Jaycee Zaragoza Recreation Center,3114 Niblo St,Dallas,TX,75212,32.7785,-96.8621,Park,,jaycee_zaragoza_rec.csv
+,4,Northaven Park Pickleball Courts,3875 Northaven Rd,Dallas,TX,75229,32.9098,-96.8521,Park,,northaven_park_pickleball.csv
+,2,Royal Park Pickleball Courts,3461 Royal Ln,Dallas,TX,75229,32.8945,-96.8612,Park,,royal_park_pickleball.csv
+,4,Norbuck Park Pickleball Courts,200 N Buckner Blvd,Dallas,TX,75218,32.8485,-96.7025,Park,,norbuck_park_pickleball.csv
+,2,Preston Hollow Park Pickleball Courts,9000 Thackery St,Dallas,TX,75225,32.8712,-96.8015,Park,,preston_hollow_park_pickleball.csv
+,2,Moss Glen Park Pickleball Courts,9100 Moss Glen Dr,Dallas,TX,75231,32.8985,-96.7421,Park,,moss_glen_park_pickleball.csv
+,6,Dallas Athletic Club Pickleball Courts,4111 Skillman St,Dallas,TX,75206,32.8125,-96.7645,Business,,dallas_athletic_club_pickleball.csv
+,8,Village Country Club Dallas Pickleball,5670 Village Glen Dr,Dallas,TX,75206,32.8512,-96.7612,Business,,village_country_club_dallas.csv
+,4,Semones Family YMCA Pickleball (Town North),4333 Northaven Rd,Dallas,TX,75229,32.9085,-96.8425,Business,,semones_family_ymca_pickleball.csv
+,4,White Rock YMCA Pickleball Courts,7305 Gaston Ave,Dallas,TX,75214,32.8185,-96.7312,Business,,white_rock_ymca_pickleball.csv
+,4,Moody Family YMCA Pickleball Center,6000 Preston Rd,Dallas,TX,75205,32.8421,-96.8052,Business,,moody_family_ymca_pickleball.csv
+,6,Phil Hardberger Park Pickleball Courts,13203 Blanco Rd,San Antonio,TX,78216,29.5612,-98.5142,Park,,phil_hardberger_park_pickleball.csv
+,4,Woodlawn Lake Park Pickleball Complex,1103 Cincinnati Ave,San Antonio,TX,78201,29.4521,-98.5325,Park,,woodlawn_lake_park_pickleball.csv
+,8,Hamilton Wolfe Pickleball Center,8200 Hamilton Wolfe Rd,San Antonio,TX,78240,29.5125,-98.5812,Business,,hamilton_wolfe_pickleball.csv
+,10,Alamo City Pickleball Club,12903 Jones Maltsberger Rd,San Antonio,TX,78247,29.5585,-98.4712,Business,,alamo_city_pickleball_club.csv
+,4,Southside Lions Park Pickleball Courts,3100 Hiawatha St,San Antonio,TX,78210,29.3812,-98.4352,Park,,southside_lions_park_pickleball.csv
+,6,Mission Concepcion Sports Park,714 E Theo Ave,San Antonio,TX,78210,29.3951,-98.4985,Business,,mission_concepcion_sports_park.csv
+,4,O.P. Schnabel Park Pickleball Courts,9606 Bandera Rd,San Antonio,TX,78250,29.5312,-98.6651,Park,,op_schnabel_park_pickleball.csv
+,8,McAllister Park Pickleball Center,13102 Jones Maltsberger Rd,San Antonio,TX,78247,29.5521,-98.4685,Park,,mcallister_park_pickleball.csv
+,6,Lady Bird Johnson Park Pickleball Courts,10700 Nacogdoches Rd,San Antonio,TX,78217,29.5352,-98.4185,Park,,lady_bird_johnson_park_pickleball.csv
+,4,Thousand Oaks Family YMCA Pickleball,14530 Henderson Pass,San Antonio,TX,78232,29.5745,-98.4412,Business,,thousand_oaks_family_ymca.csv
+,4,Westside Family YMCA Pickleball,2900 Ruiz St,San Antonio,TX,78228,29.4385,-98.5521,Business,,westside_family_ymca_pickleball.csv
+,6,Mays Family YMCA at Potranco,8765 TX-151,San Antonio,TX,78251,29.4312,-98.6612,Business,,mays_family_ymca_potranco.csv
+,4,D.R. Semmes Family YMCA at Tripoint,3233 N St Marys St,San Antonio,TX,78212,29.4585,-98.4812,Business,,dr_semmes_family_ymca_tripoint.csv
+,4,Braundera YMCA Pickleball Center,9443 Bandera Rd,San Antonio,TX,78250,29.5285,-98.6582,Business,,braundera_ymca_pickleball.csv
+,4,Lincoln Park Tennis & Pickleball Courts,2915 E Commerce St,San Antonio,TX,78203,29.4212,-98.4385,Park,,lincoln_park_tennis_pickleball.csv
+,4,Copernicus Park Pickleball Courts,5003 Lord Rd,San Antonio,TX,78220,29.4125,-98.4012,Park,,copernicus_park_pickleball.csv
+,2,Sunset Hills Park Pickleball,6614 Sunset Rd,San Antonio,TX,78209,29.4985,-98.4485,Park,,sunset_hills_park_pickleball.csv
+,4,Walker Ranch Historic Landmark Park,12603 West Ave,San Antonio,TX,78216,29.5525,-98.5112,Park,,walker_ranch_park_pickleball.csv
+,4,Eisenhower Park Pickleball Courts,19399 NW Military Hwy,San Antonio,TX,78257,29.6245,-98.5812,Park,,eisenhower_park_pickleball.csv
+,4,Culebra Creek Park Pickleball Courts,10919 Westwood Loop,San Antonio,TX,78254,29.4912,-98.7125,Park,,culebra_creek_park_pickleball.csv
+,2,Cuellar Park Pickleball Courts,5626 San Fernando St,San Antonio,TX,78237,29.4185,-98.5912,Park,,cuellar_park_pickleball.csv
+,4,South San Athletic Complex,2515 Navajo St,San Antonio,TX,78211,29.3685,-98.5412,Park,,south_san_athletic_complex.csv
+,8,The Rim Pickleball Social Club,17503 La Cantera Pkwy,San Antonio,TX,78257,29.6052,-98.6112,Business,,the_rim_pickleball_social.csv
+,6,St. Mary's University Tennis & Pickleball Courts,1 Camino Santa Maria,San Antonio,TX,78228,29.4525,-98.5612,Business,,st_marys_university_pickleball.csv
+,6,Althea Gibson Tennis & Pickleball Center,420 E Mulberry Ave,San Antonio,TX,78212,29.4585,-98.4895,Park,,althea_gibson_tennis_pickleball.csv
+,6,Cibolo Canyons Pickleball Center,25615 Cibolo Canyon Dr,San Antonio,TX,78261,29.6812,-98.4215,Business,,cibolo_canyons_pickleball.csv
+,6,San Antonio Country Club Pickleball,4100 N New Braunfels Ave,San Antonio,TX,78209,29.4625,-98.4552,Business,,san_antonio_country_club_pickleball.csv
+,2,Tezel Road Park Pickleball Courts,9700 Tezel Rd,San Antonio,TX,78250,29.5215,-98.6821,Park,,tezel_road_park_pickleball.csv
+,4,Stone Oak Park Pickleball Courts,20395 Stone Oak Pkwy,San Antonio,TX,78258,29.6312,-98.4785,Park,,stone_oak_park_pickleball.csv
+,4,Beverly S. Sheffield Northwest District Park,7000 Ardath Dr,Austin,TX,78757,30.3521,-97.7412,Park,,beverly_sheffield_northwest_park.csv
+,2,Shipe Neighborhood Park Pickleball Courts,4400 Ave G,Austin,TX,78751,30.3085,-97.7245,Park,,shipe_neighborhood_park_courts.csv
+,2,Ramsey Neighborhood Park Courts,4301 Rosedale Ave,Austin,TX,78756,30.3125,-97.7452,Park,,ramsey_neighborhood_park_courts.csv
+,2,Bailey Neighborhood Park Courts,1101 W 33rd St,Austin,TX,78705,30.2985,-97.7485,Park,,bailey_neighborhood_park_courts.csv
+,2,Metz Neighborhood Park Pickleball,2407 Canterbury St,Austin,TX,78702,30.2542,-97.7185,Park,,metz_neighborhood_park_pickleball.csv
+,2,Patterson Neighborhood Park Courts,4200 Brookview Rd,Austin,TX,78722,30.2952,-97.7125,Park,,patterson_neighborhood_park_courts.csv
+,4,Circle C Ranch Metropolitan Park Courts,6301 W Slaughter Ln,Austin,TX,78739,30.1985,-97.8912,Park,,circle_c_ranch_metro_park.csv
+,4,Springwoods Neighborhood Park Courts,9117 Anderson Mill Rd,Austin,TX,78729,30.4412,-97.7785,Park,,springwoods_neighborhood_park_courts.csv
+,4,Dove Springs District Park Courts,5801 Ainez Dr,Austin,TX,78744,30.1952,-97.7452,Park,,dove_springs_district_park_courts.csv
+,4,Givens District Park Pickleball Courts,3811 E 12th St,Austin,TX,78721,30.2785,-97.6985,Park,,givens_district_park_pickleball.csv
+,4,Montopolis Community Recreation Center,1200 Montopolis Dr,Austin,TX,78741,30.2385,-97.7012,Park,,montopolis_community_rec_center.csv
+,4,Turner-Roberts Recreation Center Courts,7201 Colony Loop Dr,Austin,TX,78724,30.3125,-97.6542,Park,,turner_roberts_rec_center.csv
+,4,Gus Garcia Recreation Center Courts,1201 E Rundberg Ln,Austin,TX,78753,30.3625,-97.6785,Park,,gus_garcia_rec_center_courts.csv
+,4,Dittmar Recreation Center Pickleball,1009 W Dittmar Rd,Austin,TX,78745,30.1912,-97.7985,Park,,dittmar_rec_center_pickleball.csv
+,2,Delores Duffie Recreation Center,1182 Rosewood Ave,Austin,TX,78702,30.2685,-97.7212,Park,,delores_duffie_rec_center.csv
+,2,Dottie Jordan Neighborhood Park Courts,2803 Loyola Ln,Austin,TX,78723,30.3112,-97.6845,Park,,dottie_jordan_park_courts.csv
+,2,Mountain View Park Pickleball Courts,9000 Mountain View Dr,Austin,TX,78759,30.3785,-97.7512,Park,,mountain_view_park_pickleball.csv
+,4,Balcones District Park Courts,12017 Amherst Dr,Austin,TX,78759,30.4125,-97.7125,Park,,balcones_district_park_courts.csv
+,4,Bartholomew District Park Courts,5201 Berkeley Ave,Austin,TX,78723,30.3085,-97.7012,Park,,bartholomew_district_park_courts.csv
+,4,Walnut Creek Metropolitan Park Courts,12138 N Lamar Blvd,Austin,TX,78753,30.4012,-97.6712,Park,,walnut_creek_metro_park_courts.csv
+,4,Southwest YMCA Austin Pickleball,6219 Oakclaire Dr,Austin,TX,78735,30.2312,-97.8452,Business,,southwest_ymca_austin_pickleball.csv
+,4,TownLake YMCA Pickleball Courts,1100 Town Lake Cir,Austin,TX,78741,30.2452,-97.7312,Business,,townlake_ymca_pickleball_courts.csv
+,4,North Austin YMCA Pickleball Center,1000 W Rundberg Ln,Austin,TX,78758,30.3645,-97.7052,Business,,north_austin_ymca_pickleball.csv
+,4,East Communities YMCA Pickleball,5315 Ed Bluestein Blvd,Austin,TX,78723,30.3085,-97.6712,Business,,east_communities_ymca_pickleball.csv
+,8,Polo Tennis & Fitness Club Pickleball,13730 US-290,Austin,TX,78737,30.2085,-97.9852,Business,,polo_tennis_fitness_pickleball.csv
+,8,Grey Rock Tennis & Pickleball Club,7401 State Hwy 71,Austin,TX,78735,30.2385,-97.8912,Business,,grey_rock_tennis_pickleball_club.csv
+,4,Caswell Tennis & Pickleball Center,601 W 26th St,Austin,TX,78705,30.2912,-97.7485,Park,,caswell_tennis_pickleball_center.csv
+,2,Brentwood Neighborhood Park Courts,6710 Arroyo Seco,Austin,TX,78757,30.3412,-97.7312,Park,,brentwood_neighborhood_park_courts.csv
+,6,Austin Country Club Pickleball Complex,4408 Long Champ Dr,Austin,TX,78746,30.3385,-97.7985,Business,,austin_country_club_pickleball.csv
+,8,MacGregor Park Tennis & Pickleball Center,5225 Calhoun Rd,Houston,TX,77021,29.7085,-95.3452,Park,,macgregor_park_tennis_pickleball.csv
+,4,Agnes Moffitt Park Pickleball Courts,10645 Hammerly Blvd,Houston,TX,77043,29.8085,-95.5612,Park,,agnes_moffitt_park_pickleball.csv
+,8,Memorial Drive Tennis & Pickleball Club,110 Bending Bough Dr,Houston,TX,77024,29.7712,-95.5312,Business,,memorial_drive_tennis_pickleball.csv
+,6,Houston Country Club Pickleball Facility,1 Potomac Dr,Houston,TX,77057,29.7585,-95.4912,Business,,houston_country_club_pickleball.csv
+,6,The Briar Club Pickleball Complex,2603 Timmons Ln,Houston,TX,77027,29.7385,-95.4385,Business,,the_briar_club_pickleball.csv
+,4,Weekley Family YMCA Pickleball,7101 Stella Link Rd,Houston,TX,77025,29.7012,-95.4312,Business,,weekley_family_ymca_pickleball.csv
+,4,Trotter Family YMCA Pickleball Courts,1331 Augusta Dr,Houston,TX,77057,29.7512,-95.4852,Business,,trotter_family_ymca_pickleball.csv
+,4,Tellepsen Family Downtown YMCA,808 Pease St,Houston,TX,77002,29.7512,-95.3685,Business,,tellepsen_family_downtown_ymca.csv
+,4,Duncan Family YMCA Pickleball,10655 Clay Rd,Houston,TX,77041,29.8352,-95.5612,Business,,duncan_family_ymca_pickleball.csv
+,4,Post Oak Family YMCA Pickleball,1331 Augusta Dr,Houston,TX,77057,29.7525,-95.4842,Business,,post_oak_family_ymca_pickleball.csv
+,4,Harriet & Joe Foster Family YMCA,1234 W 34th St,Houston,TX,77018,29.8185,-95.4285,Business,,harriet_joe_foster_ymca.csv
+,4,West Orem Family YMCA Pickleball,5801 W Orem Dr,Houston,TX,77085,29.6285,-95.4812,Business,,west_orem_family_ymca_pickleball.csv
+,8,Houston West Tennis & Pickleball Center,14002 Westpark Dr,Houston,TX,77082,29.7212,-95.6312,Business,,houston_west_tennis_pickleball.csv
+,10,Chancellors Family Center Pickleball,6501 Antoine Dr,Houston,TX,77091,29.8512,-95.4785,Business,,chancellors_family_center_pickleball.csv
+,12,Westside Tennis & Pickleball Club,1200 Wilcrest Dr,Houston,TX,77042,29.7612,-95.5712,Business,,westside_tennis_pickleball_club.csv
+,4,Bendwood Park Pickleball Courts,12700 Kimberley Ln,Houston,TX,77024,29.7785,-95.5985,Park,,bendwood_park_pickleball.csv
+,4,Sunnyside Community Center Courts,3502 Bellfort Ave,Houston,TX,77051,29.6712,-95.3712,Park,,sunnyside_community_center_courts.csv
+,4,Denver Harbor Community Center Courts,6402 Market St,Houston,TX,77020,29.7712,-95.3012,Park,,denver_harbor_community_center.csv
+,4,Fonde Community Center Pickleball,110 Sabine St,Houston,TX,77007,29.7612,-95.3785,Park,,fonde_community_center_pickleball.csv
+,4,Judson Robinson Jr. Community Center,2020 Hermann Dr,Houston,TX,77004,29.7185,-95.3852,Park,,judson_robinson_jr_rec.csv
+,4,Mason Park Pickleball Courts,541 S 75th St,Houston,TX,77023,29.7285,-95.2912,Park,,mason_park_pickleball_courts.csv
+,4,Melrose Park Pickleball Courts,1001 Canino Rd,Houston,TX,77076,29.8652,-95.3785,Park,,melrose_park_pickleball_courts.csv
+,4,Candlelight Park Pickleball Courts,1520 Candlelight Ln,Houston,TX,77018,29.8312,-95.4385,Park,,candlelight_park_pickleball.csv
+,4,Ingrando Park Pickleball Courts,7302 Keller St,Houston,TX,77012,29.7085,-95.2812,Park,,ingrando_park_pickleball.csv
+,2,Linkwood Park Pickleball Courts,3699 Norris Dr,Houston,TX,77025,29.6885,-95.4385,Park,,linkwood_park_pickleball.csv
+,2,Godwin Park Pickleball Courts,5101 Rutherglenn Dr,Houston,TX,77096,29.6785,-95.4712,Park,,godwin_park_pickleball.csv
+,2,Milroy Park Pickleball Courts,1205 Yale St,Houston,TX,77008,29.7912,-95.3985,Park,,milroy_park_pickleball.csv
+,4,Stude Park Pickleball Courts,1031 Stude St,Houston,TX,77007,29.7812,-95.3852,Park,,stude_park_pickleball.csv
+,4,Woodland Park Pickleball Courts,212 Parkview St,Houston,TX,77009,29.7885,-95.3685,Park,,woodland_park_pickleball.csv
+,4,Herman Brown Park Pickleball Courts,400 Oates Rd,Houston,TX,77013,29.7852,-95.2312,Park,,herman_brown_park_pickleball.csv
+,4,Ray Miller Park Pickleball Courts,1800 Eldridge Pkwy,Houston,TX,77077,29.7612,-95.6212,Park,,ray_miller_park_pickleball.csv
