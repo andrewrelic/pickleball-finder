@@ -1,0 +1,46 @@
+# Inland Empire & Desert (Riverside & San Bernardino Counties) (38 courts)
+INLAND_EMPIRE_COURTS = [
+    # Western & Southwest Riverside County
+    {"image": "", "courts": "8", "name": "Andalka Community Park Pickleball Courts", "address": "5000 Chicago Ave", "city": "Riverside", "state": "CA", "zip": "92507", "lat": 33.9585, "lng": -117.3485, "type": "Park"},
+    {"image": "", "courts": "8", "name": "California Oaks Sports Park Pickleball", "address": "40600 California Oaks Rd", "city": "Murrieta", "state": "CA", "zip": "92562", "lat": 33.5685, "lng": -117.1885, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Canyon Hills Community Park Pickleball", "address": "34360 Canyon Hills Rd", "city": "Lake Elsinore", "state": "CA", "zip": "92532", "lat": 33.6785, "lng": -117.2685, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Los Alamos Hills Sports Park Pickleball", "address": "37000 Ruth Ellen Way", "city": "Murrieta", "state": "CA", "zip": "92563", "lat": 33.5785, "lng": -117.1512, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Margarita Community Park Pickleball Courts", "address": "29119 Margarita Rd", "city": "Temecula", "state": "CA", "zip": "92591", "lat": 33.5045, "lng": -117.1345, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Mountain Gate Community Park Pickleball", "address": "3100 S Main St", "city": "Corona", "state": "CA", "zip": "92882", "lat": 33.8445, "lng": -117.5685, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Orange Terrace Community Park Pickleball", "address": "20010 Orange Terrace Pkwy", "city": "Riverside", "state": "CA", "zip": "92508", "lat": 33.8785, "lng": -117.3245, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Patricia H Birdsall Sports Park Courts", "address": "32380 Deer Hollow Way", "city": "Temecula", "state": "CA", "zip": "92592", "lat": 33.4685, "lng": -117.0985, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Promenade Community Park Pickleball", "address": "615 N McKinley St", "city": "Corona", "state": "CA", "zip": "92879", "lat": 33.8885, "lng": -117.5185, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Reid Community Park Pickleball Courts", "address": "700 N Orange St", "city": "Riverside", "state": "CA", "zip": "92501", "lat": 33.9885, "lng": -117.3812, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Ronald Reagan Sports Park Pickleball Hub", "address": "30875 Rancho Vista Rd", "city": "Temecula", "state": "CA", "zip": "92592", "lat": 33.4985, "lng": -117.1285, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Santana Regional Park Pickleball Courts", "address": "598 Santana Way", "city": "Corona", "state": "CA", "zip": "92881", "lat": 33.8545, "lng": -117.5345, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Towngate Memorial Park Pickleball Courts", "address": "13051 Elsworth St", "city": "Moreno Valley", "state": "CA", "zip": "92553", "lat": 33.9385, "lng": -117.2712, "type": "Park"},
+
+    # Coachella Valley & Desert
+    {"image": "", "courts": "6", "name": "Century Park Pickleball Courts", "address": "Da Vall Dr & Dinah Shore Dr", "city": "Cathedral City", "state": "CA", "zip": "92234", "lat": 33.8112, "lng": -116.4485, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Desert Highlands Community Park Courts", "address": "480 Tramview Rd", "city": "Palm Springs", "state": "CA", "zip": "92262", "lat": 33.8612, "lng": -116.5412, "type": "Park"},
+    {"image": "", "courts": "12", "name": "Freedom Community Park Pickleball Courts", "address": "77400 Country Club Dr", "city": "Palm Desert", "state": "CA", "zip": "92211", "lat": 33.7545, "lng": -116.3285, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Fritz Burns Park Pickleball Complex", "address": "78107 Avenue 52", "city": "La Quinta", "state": "CA", "zip": "92253", "lat": 33.6712, "lng": -116.3112, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Hovley Soccer and Pickleball Park", "address": "74735 Hovley Ln E", "city": "Palm Desert", "state": "CA", "zip": "92260", "lat": 33.7385, "lng": -116.3542, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Indio Community Center Pickleball", "address": "45871 Clinton St", "city": "Indio", "state": "CA", "zip": "92201", "lat": 33.7212, "lng": -116.2285, "type": "Park"},
+    {"image": "", "courts": "6", "name": "La Quinta Community Park Pickleball", "address": "77865 Avenida Montezuma", "city": "La Quinta", "state": "CA", "zip": "92253", "lat": 33.6645, "lng": -116.3085, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Miles Avenue Community Park Pickleball", "address": "82524 Miles Ave", "city": "Indio", "state": "CA", "zip": "92201", "lat": 33.7245, "lng": -116.2185, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Ruth Hardy Community Park Pickleball", "address": "700 Tierra Hermosa", "city": "Palm Springs", "state": "CA", "zip": "92262", "lat": 33.8345, "lng": -116.5385, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Sunrise Community Park Pickleball", "address": "480 S Sunrise Way", "city": "Palm Springs", "state": "CA", "zip": "92262", "lat": 33.8185, "lng": -116.5285, "type": "Park"},
+
+    # San Bernardino County
+    {"image": "", "courts": "8", "name": "Ayala Community Park Pickleball Courts", "address": "14225 Central Ave", "city": "Chino", "state": "CA", "zip": "91710", "lat": 33.9945, "lng": -117.6885, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Cabrillo Community Park Pickleball", "address": "595 W 11th St", "city": "Upland", "state": "CA", "zip": "91786", "lat": 34.0985, "lng": -117.6585, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Central Park Pickleball Rancho Cucamonga", "address": "11200 Baseline Rd", "city": "Rancho Cucamonga", "state": "CA", "zip": "91701", "lat": 34.1212, "lng": -117.5585, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Colony Community Park Pickleball Courts", "address": "2130 S Archibald Ave", "city": "Ontario", "state": "CA", "zip": "91761", "lat": 34.0345, "lng": -117.5912, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Crossroads Community Park Pickleball", "address": "2765 Chino Hills Pkwy", "city": "Chino Hills", "state": "CA", "zip": "91709", "lat": 33.9745, "lng": -117.7285, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Ford Community Park Pickleball Courts", "address": "Redlands Blvd & Ford St", "city": "Redlands", "state": "CA", "zip": "92373", "lat": 34.0445, "lng": -117.1685, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Grand Avenue Park Pickleball Courts", "address": "1301 Grand Ave", "city": "Chino Hills", "state": "CA", "zip": "91709", "lat": 33.9885, "lng": -117.7345, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Jack Bulik Park Pickleball Courts", "address": "16581 Filbert St", "city": "Fontana", "state": "CA", "zip": "92335", "lat": 34.1085, "lng": -117.4412, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Red Hill Community Park Pickleball", "address": "7484 Vineyard Ave", "city": "Rancho Cucamonga", "state": "CA", "zip": "91730", "lat": 34.1145, "lng": -117.6045, "type": "Park"},
+    {"image": "", "courts": "8", "name": "Redlands Sports Complex Pickleball", "address": "1790 Dearborn St", "city": "Redlands", "state": "CA", "zip": "92374", "lat": 34.0712, "lng": -117.1412, "type": "Park"},
+    {"image": "", "courts": "8", "name": "San Bernardino Pickleball Complex", "address": "2500 N E St", "city": "San Bernardino", "state": "CA", "zip": "92405", "lat": 34.1385, "lng": -117.2945, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Southridge Community Park Pickleball", "address": "14501 Live Oak Ave", "city": "Fontana", "state": "CA", "zip": "92337", "lat": 34.0585, "lng": -117.4485, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Upland Memorial Park Pickleball Courts", "address": "1100 E Foothill Blvd", "city": "Upland", "state": "CA", "zip": "91786", "lat": 34.1085, "lng": -117.6385, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Victoria Groves Park Pickleball Courts", "address": "10615 Victoria Park Ln", "city": "Rancho Cucamonga", "state": "CA", "zip": "91701", "lat": 34.1285, "lng": -117.5745, "type": "Park"},
+    {"image": "", "courts": "6", "name": "Wildwood Community Park Pickleball", "address": "Waterman Ave & 40th St", "city": "San Bernardino", "state": "CA", "zip": "92404", "lat": 34.1612, "lng": -117.2785, "type": "Park"},
+]
