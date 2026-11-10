@@ -13,8 +13,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Plainfield",
         "state": "IN",
         "zip": "46168",
-        "lat": 39.68255,
-        "lng": -86.38998,
+        "lat": 39.68238,
+        "lng": -86.39100,
         "type": "Park"
     },
     {
@@ -25,8 +25,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Plainfield",
         "state": "IN",
         "zip": "46168",
-        "lat": 39.70596,
-        "lng": -86.41376,
+        "lat": 39.70872,
+        "lng": -86.41319,
         "type": "Park"
     },
     {
@@ -37,8 +37,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Plainfield",
         "state": "IN",
         "zip": "46168",
-        "lat": 39.70404,
-        "lng": -86.39874,
+        "lat": 39.70801,
+        "lng": -86.40550,
         "type": "Park"
     },
     {
@@ -49,8 +49,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Plainfield",
         "state": "IN",
         "zip": "46168",
-        "lat": 39.69498,
-        "lng": -86.39609,
+        "lat": 39.69284,
+        "lng": -86.39287,
         "type": "Park"
     },
     {
@@ -61,8 +61,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Avon",
         "state": "IN",
         "zip": "46123",
-        "lat": 39.76642,
-        "lng": -86.36838,
+        "lat": 39.76787,
+        "lng": -86.36857,
         "type": "Business"
     },
     {
@@ -73,8 +73,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Brownsburg",
         "state": "IN",
         "zip": "46112",
-        "lat": 39.84046,
-        "lng": -86.39950,
+        "lat": 39.84824,
+        "lng": -86.39989,
         "type": "Park"
     },
     {
@@ -85,8 +85,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Brownsburg",
         "state": "IN",
         "zip": "46112",
-        "lat": 39.83082,
-        "lng": -86.40600,
+        "lat": 39.82993,
+        "lng": -86.40754,
         "type": "Park"
     },
     {
@@ -97,8 +97,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Brownsburg",
         "state": "IN",
         "zip": "46112",
-        "lat": 39.83511,
-        "lng": -86.40301,
+        "lat": 39.83411,
+        "lng": -86.40298,
         "type": "Park"
     },
     {
@@ -109,8 +109,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Brownsburg",
         "state": "IN",
         "zip": "46112",
-        "lat": 39.81071,
-        "lng": -86.38184,
+        "lat": 39.81223,
+        "lng": -86.38282,
         "type": "Park"
     },
     {
@@ -121,8 +121,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Brownsburg",
         "state": "IN",
         "zip": "46112",
-        "lat": 39.82352,
-        "lng": -86.37502,
+        "lat": 39.82275,
+        "lng": -86.37411,
         "type": "Park"
     },
     {
@@ -133,8 +133,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Brownsburg",
         "state": "IN",
         "zip": "46112",
-        "lat": 39.82207,
-        "lng": -86.38688,
+        "lat": 39.82024,
+        "lng": -86.38540,
         "type": "Park"
     },
     {
@@ -145,8 +145,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Avon",
         "state": "IN",
         "zip": "46123",
-        "lat": 39.76269,
-        "lng": -86.40841,
+        "lat": 39.76364,
+        "lng": -86.40808,
         "type": "Park"
     },
     {
@@ -157,8 +157,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Avon",
         "state": "IN",
         "zip": "46123",
-        "lat": 39.76150,
-        "lng": -86.42376,
+        "lat": 39.76063,
+        "lng": -86.41957,
         "type": "Park"
     },
     {
@@ -169,8 +169,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Avon",
         "state": "IN",
         "zip": "46123",
-        "lat": 39.76289,
-        "lng": -86.38125,
+        "lat": 39.74866,
+        "lng": -86.38186,
         "type": "Park"
     },
     {
@@ -181,8 +181,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Danville",
         "state": "IN",
         "zip": "46122",
-        "lat": 39.76061,
-        "lng": -86.53109,
+        "lat": 39.76186,
+        "lng": -86.51604,
         "type": "Park"
     },
     {
@@ -193,8 +193,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Danville",
         "state": "IN",
         "zip": "46122",
-        "lat": 39.76165,
-        "lng": -86.48862,
+        "lat": 39.76317,
+        "lng": -86.48738,
         "type": "Park"
     },
 
@@ -207,8 +207,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46142",
-        "lat": 39.60655,
-        "lng": -86.10558,
+        "lat": 39.60775,
+        "lng": -86.10443,
         "type": "Park"
     },
     {
@@ -219,8 +219,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46143",
-        "lat": 39.59437,
-        "lng": -86.08891,
+        "lat": 39.59308,
+        "lng": -86.12694,
         "type": "Park"
     },
     {
@@ -231,8 +231,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46142",
-        "lat": 39.62804,
-        "lng": -86.14363,
+        "lat": 39.62854,
+        "lng": -86.14359,
         "type": "Park"
     },
     {
@@ -243,8 +243,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46143",
-        "lat": 39.62943,
-        "lng": -86.09899,
+        "lat": 39.63008,
+        "lng": -86.10265,
         "type": "Park"
     },
     {
@@ -255,8 +255,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46142",
-        "lat": 39.61098,
-        "lng": -86.10526,
+        "lat": 39.61138,
+        "lng": -86.10481,
         "type": "Park"
     },
     {
@@ -267,8 +267,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46143",
-        "lat": 39.60446,
-        "lng": -86.07604,
+        "lat": 39.60789,
+        "lng": -86.07535,
         "type": "Business"
     },
     {
@@ -279,8 +279,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46142",
-        "lat": 39.61098,
-        "lng": -86.10526,
+        "lat": 39.61138,
+        "lng": -86.10481,
         "type": "Park"
     },
     {
@@ -291,8 +291,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46142",
-        "lat": 39.60615,
-        "lng": -86.11726,
+        "lat": 39.60290,
+        "lng": -86.11746,
         "type": "Park"
     },
     {
@@ -303,8 +303,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46143",
-        "lat": 39.57686,
-        "lng": -86.19688,
+        "lat": 39.57684,
+        "lng": -86.19622,
         "type": "Park"
     },
     {
@@ -315,8 +315,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenwood",
         "state": "IN",
         "zip": "46142",
-        "lat": 39.61358,
-        "lng": -86.12356,
+        "lat": 39.61470,
+        "lng": -86.12269,
         "type": "Park"
     },
     {
@@ -327,8 +327,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Franklin",
         "state": "IN",
         "zip": "46131",
-        "lat": 39.47660,
-        "lng": -86.04750,
+        "lat": 39.47658,
+        "lng": -86.04752,
         "type": "Park"
     },
     {
@@ -339,8 +339,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Franklin",
         "state": "IN",
         "zip": "46131",
-        "lat": 39.47362,
-        "lng": -86.06557,
+        "lat": 39.47195,
+        "lng": -86.06595,
         "type": "Park"
     },
     {
@@ -351,8 +351,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Franklin",
         "state": "IN",
         "zip": "46131",
-        "lat": 39.47939,
-        "lng": -86.05781,
+        "lat": 39.47968,
+        "lng": -86.05824,
         "type": "Park"
     },
     {
@@ -363,8 +363,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Franklin",
         "state": "IN",
         "zip": "46131",
-        "lat": 39.48346,
-        "lng": -86.06067,
+        "lat": 39.48362,
+        "lng": -86.06059,
         "type": "Park"
     },
     {
@@ -376,7 +376,7 @@ CENTRAL_SUBURBS_COURTS = [
         "state": "IN",
         "zip": "46131",
         "lat": 39.48265,
-        "lng": -86.03127,
+        "lng": -86.03109,
         "type": "Park"
     },
     {
@@ -387,8 +387,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Franklin",
         "state": "IN",
         "zip": "46131",
-        "lat": 39.47661,
-        "lng": -86.03726,
+        "lat": 39.47817,
+        "lng": -86.04340,
         "type": "Business"
     },
     {
@@ -399,8 +399,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Bargersville",
         "state": "IN",
         "zip": "46106",
-        "lat": 39.53337,
-        "lng": -86.17905,
+        "lat": 39.53164,
+        "lng": -86.17478,
         "type": "Park"
     },
     {
@@ -411,8 +411,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Bargersville",
         "state": "IN",
         "zip": "46106",
-        "lat": 39.52387,
-        "lng": -86.17013,
+        "lat": 39.52427,
+        "lng": -86.17099,
         "type": "Park"
     },
     {
@@ -423,8 +423,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Whiteland",
         "state": "IN",
         "zip": "46184",
-        "lat": 39.55005,
-        "lng": -86.07971,
+        "lat": 39.55307,
+        "lng": -86.07543,
         "type": "Park"
     },
     {
@@ -435,8 +435,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Edinburgh",
         "state": "IN",
         "zip": "46124",
-        "lat": 39.34397,
-        "lng": -85.97197,
+        "lat": 39.34488,
+        "lng": -85.97347,
         "type": "Park"
     },
 
@@ -449,8 +449,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Martinsville",
         "state": "IN",
         "zip": "46151",
-        "lat": 39.43188,
-        "lng": -86.41533,
+        "lat": 39.43257,
+        "lng": -86.41595,
         "type": "Park"
     },
     {
@@ -461,8 +461,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Martinsville",
         "state": "IN",
         "zip": "46151",
-        "lat": 39.43740,
-        "lng": -86.39183,
+        "lat": 39.42946,
+        "lng": -86.40398,
         "type": "Business"
     },
     {
@@ -473,8 +473,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Martinsville",
         "state": "IN",
         "zip": "46151",
-        "lat": 39.41994,
-        "lng": -86.41343,
+        "lat": 39.42783,
+        "lng": -86.42833,
         "type": "Park"
     },
     {
@@ -485,8 +485,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Mooresville",
         "state": "IN",
         "zip": "46158",
-        "lat": 39.62905,
-        "lng": -86.36562,
+        "lat": 39.62755,
+        "lng": -86.36026,
         "type": "Park"
     },
     {
@@ -497,8 +497,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Mooresville",
         "state": "IN",
         "zip": "46158",
-        "lat": 39.61939,
-        "lng": -86.37503,
+        "lat": 39.61855,
+        "lng": -86.37679,
         "type": "Park"
     },
     {
@@ -509,8 +509,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Mooresville",
         "state": "IN",
         "zip": "46158",
-        "lat": 39.60342,
-        "lng": -86.36786,
+        "lat": 39.60825,
+        "lng": -86.36771,
         "type": "Park"
     },
 
@@ -523,8 +523,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenfield",
         "state": "IN",
         "zip": "46140",
-        "lat": 39.78589,
-        "lng": -85.75549,
+        "lat": 39.78644,
+        "lng": -85.75567,
         "type": "Park"
     },
     {
@@ -535,8 +535,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenfield",
         "state": "IN",
         "zip": "46140",
-        "lat": 39.77211,
-        "lng": -85.76362,
+        "lat": 39.77394,
+        "lng": -85.75683,
         "type": "Park"
     },
     {
@@ -547,8 +547,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenfield",
         "state": "IN",
         "zip": "46140",
-        "lat": 39.81397,
-        "lng": -85.78066,
+        "lat": 39.81482,
+        "lng": -85.78228,
         "type": "Business"
     },
     {
@@ -559,8 +559,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenfield",
         "state": "IN",
         "zip": "46140",
-        "lat": 39.81867,
-        "lng": -85.79351,
+        "lat": 39.82643,
+        "lng": -85.79934,
         "type": "Park"
     },
     {
@@ -571,8 +571,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Greenfield",
         "state": "IN",
         "zip": "46140",
-        "lat": 39.79219,
-        "lng": -85.77951,
+        "lat": 39.79296,
+        "lng": -85.78151,
         "type": "Park"
     },
     {
@@ -583,8 +583,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "McCordsville",
         "state": "IN",
         "zip": "46055",
-        "lat": 39.89280,
-        "lng": -85.92411,
+        "lat": 39.89429,
+        "lng": -85.91978,
         "type": "Park"
     },
     {
@@ -595,8 +595,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Fortville",
         "state": "IN",
         "zip": "46040",
-        "lat": 39.93724,
-        "lng": -85.84994,
+        "lat": 39.93520,
+        "lng": -85.84901,
         "type": "Park"
     },
     {
@@ -607,8 +607,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Fortville",
         "state": "IN",
         "zip": "46040",
-        "lat": 39.93341,
-        "lng": -85.85560,
+        "lat": 39.93293,
+        "lng": -85.85475,
         "type": "Park"
     },
     {
@@ -619,8 +619,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "New Palestine",
         "state": "IN",
         "zip": "46163",
-        "lat": 39.72547,
-        "lng": -85.93273,
+        "lat": 39.72468,
+        "lng": -85.93256,
         "type": "Park"
     },
     {
@@ -631,8 +631,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "New Palestine",
         "state": "IN",
         "zip": "46163",
-        "lat": 39.71892,
-        "lng": -85.89039,
+        "lat": 39.71866,
+        "lng": -85.89055,
         "type": "Park"
     },
 
@@ -645,8 +645,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.53262,
-        "lng": -85.74906,
+        "lat": 39.53050,
+        "lng": -85.75527,
         "type": "Park"
     },
     {
@@ -657,8 +657,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.51344,
-        "lng": -85.78052,
+        "lat": 39.52144,
+        "lng": -85.77692,
         "type": "Park"
     },
     {
@@ -669,8 +669,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.55650,
-        "lng": -85.77871,
+        "lat": 39.55742,
+        "lng": -85.77641,
         "type": "Business"
     },
     {
@@ -681,8 +681,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.52081,
-        "lng": -85.78165,
+        "lat": 39.51639,
+        "lng": -85.78295,
         "type": "Park"
     },
     {
@@ -693,8 +693,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.52811,
-        "lng": -85.78499,
+        "lat": 39.52818,
+        "lng": -85.78741,
         "type": "Park"
     },
     {
@@ -705,8 +705,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.50631,
-        "lng": -85.78659,
+        "lat": 39.50577,
+        "lng": -85.79256,
         "type": "Park"
     },
     {
@@ -717,8 +717,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Shelbyville",
         "state": "IN",
         "zip": "46176",
-        "lat": 39.52582,
-        "lng": -85.76336,
+        "lat": 39.52641,
+        "lng": -85.76373,
         "type": "Park"
     },
     {
@@ -729,8 +729,8 @@ CENTRAL_SUBURBS_COURTS = [
         "city": "Waldron",
         "state": "IN",
         "zip": "46182",
-        "lat": 39.45192,
-        "lng": -85.66687,
+        "lat": 39.45346,
+        "lng": -85.66696,
         "type": "Park"
     },
 ]

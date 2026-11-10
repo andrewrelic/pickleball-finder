@@ -14,8 +14,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46616",
-        "lat": 41.68709,
-        "lng": -86.25449,
+        "lat": 41.68673,
+        "lng": -86.25459,
         "type": "Park"
     },
     {
@@ -26,8 +26,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46615",
-        "lat": 41.65012,
-        "lng": -86.22615,
+        "lat": 41.65020,
+        "lng": -86.22614,
         "type": "Park"
     },
     {
@@ -38,8 +38,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46628",
-        "lat": 41.69509,
-        "lng": -86.30687,
+        "lat": 41.69482,
+        "lng": -86.30774,
         "type": "Business"
     },
     {
@@ -50,8 +50,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46545",
-        "lat": 41.69797,
-        "lng": -86.19699,
+        "lat": 41.69785,
+        "lng": -86.19652,
         "type": "Business"
     },
     {
@@ -62,8 +62,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46619",
-        "lat": 41.67738,
-        "lng": -86.29735,
+        "lat": 41.66470,
+        "lng": -86.29710,
         "type": "Park"
     },
     {
@@ -74,8 +74,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46615",
-        "lat": 41.67049,
-        "lng": -86.22072,
+        "lat": 41.67060,
+        "lng": -86.21776,
         "type": "Park"
     },
     {
@@ -86,8 +86,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46614",
-        "lat": 41.63104,
-        "lng": -86.24644,
+        "lat": 41.63230,
+        "lng": -86.24623,
         "type": "Park"
     },
     {
@@ -98,8 +98,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46614",
-        "lat": 41.64493,
-        "lng": -86.24422,
+        "lat": 41.62707,
+        "lng": -86.24493,
         "type": "Park"
     },
     {
@@ -110,8 +110,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46619",
-        "lat": 41.67547,
-        "lng": -86.28262,
+        "lat": 41.68282,
+        "lng": -86.28759,
         "type": "Park"
     },
     {
@@ -122,8 +122,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46614",
-        "lat": 41.63242,
-        "lng": -86.23473,
+        "lat": 41.63171,
+        "lng": -86.23560,
         "type": "Park"
     },
     {
@@ -134,8 +134,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Granger",
         "state": "IN",
         "zip": "46530",
-        "lat": 41.75401,
-        "lng": -86.19007,
+        "lat": 41.75441,
+        "lng": -86.19057,
         "type": "Business"
     },
     {
@@ -146,8 +146,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "South Bend",
         "state": "IN",
         "zip": "46616",
-        "lat": 41.71399,
-        "lng": -86.27124,
+        "lat": 41.71379,
+        "lng": -86.27394,
         "type": "Park"
     },
 
@@ -160,8 +160,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46544",
-        "lat": 41.66058,
-        "lng": -86.17878,
+        "lat": 41.64848,
+        "lng": -86.18853,
         "type": "Park"
     },
     {
@@ -172,8 +172,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46544",
-        "lat": 41.66617,
-        "lng": -86.17810,
+        "lat": 41.66524,
+        "lng": -86.17836,
         "type": "Park"
     },
     {
@@ -184,8 +184,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46544",
-        "lat": 41.63600,
-        "lng": -86.15506,
+        "lat": 41.63826,
+        "lng": -86.15257,
         "type": "Park"
     },
     {
@@ -196,8 +196,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46544",
-        "lat": 41.66329,
-        "lng": -86.11841,
+        "lat": 41.66360,
+        "lng": -86.11767,
         "type": "Park"
     },
     {
@@ -208,8 +208,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46544",
-        "lat": 41.66039,
-        "lng": -86.19260,
+        "lat": 41.66034,
+        "lng": -86.19253,
         "type": "Park"
     },
     {
@@ -220,8 +220,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46544",
-        "lat": 41.65524,
-        "lng": -86.19026,
+        "lat": 41.65514,
+        "lng": -86.19035,
         "type": "Park"
     },
     {
@@ -232,8 +232,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Mishawaka",
         "state": "IN",
         "zip": "46545",
-        "lat": 41.68262,
-        "lng": -86.17797,
+        "lat": 41.68147,
+        "lng": -86.17929,
         "type": "Park"
     },
 
@@ -246,8 +246,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Granger",
         "state": "IN",
         "zip": "46530",
-        "lat": 41.74579,
-        "lng": -86.13981,
+        "lat": 41.74525,
+        "lng": -86.13841,
         "type": "Park"
     },
     {
@@ -258,8 +258,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Granger",
         "state": "IN",
         "zip": "46530",
-        "lat": 41.74306,
-        "lng": -86.13966,
+        "lat": 41.75332,
+        "lng": -86.13976,
         "type": "Park"
     },
     {
@@ -270,8 +270,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Granger",
         "state": "IN",
         "zip": "46530",
-        "lat": 41.72476,
-        "lng": -86.17525,
+        "lat": 41.72571,
+        "lng": -86.17486,
         "type": "Business"
     },
 
@@ -284,8 +284,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Elkhart",
         "state": "IN",
         "zip": "46516",
-        "lat": 41.67584,
-        "lng": -85.95292,
+        "lat": 41.67658,
+        "lng": -85.95472,
         "type": "Park"
     },
     {
@@ -296,8 +296,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Goshen",
         "state": "IN",
         "zip": "46526",
-        "lat": 41.58312,
-        "lng": -85.86732,
+        "lat": 41.58314,
+        "lng": -85.86686,
         "type": "Park"
     },
     {
@@ -308,8 +308,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Elkhart",
         "state": "IN",
         "zip": "46517",
-        "lat": 41.66698,
-        "lng": -86.00324,
+        "lat": 41.66673,
+        "lng": -86.00364,
         "type": "Park"
     },
     {
@@ -320,8 +320,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Elkhart",
         "state": "IN",
         "zip": "46514",
-        "lat": 41.69329,
-        "lng": -85.96972,
+        "lat": 41.69385,
+        "lng": -85.96957,
         "type": "Park"
     },
     {
@@ -332,8 +332,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Elkhart",
         "state": "IN",
         "zip": "46516",
-        "lat": 41.67560,
-        "lng": -85.97031,
+        "lat": 41.67524,
+        "lng": -85.96970,
         "type": "Park"
     },
     {
@@ -344,8 +344,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Elkhart",
         "state": "IN",
         "zip": "46514",
-        "lat": 41.68578,
-        "lng": -85.98900,
+        "lat": 41.68599,
+        "lng": -85.98914,
         "type": "Park"
     },
     {
@@ -356,8 +356,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Goshen",
         "state": "IN",
         "zip": "46526",
-        "lat": 41.57535,
-        "lng": -85.83676,
+        "lat": 41.58041,
+        "lng": -85.84004,
         "type": "Park"
     },
     {
@@ -368,8 +368,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Goshen",
         "state": "IN",
         "zip": "46528",
-        "lat": 41.58965,
-        "lng": -85.81593,
+        "lat": 41.58924,
+        "lng": -85.81628,
         "type": "Park"
     },
     {
@@ -380,8 +380,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Goshen",
         "state": "IN",
         "zip": "46526",
-        "lat": 41.58648,
-        "lng": -85.84270,
+        "lat": 41.58791,
+        "lng": -85.84159,
         "type": "Park"
     },
     {
@@ -392,8 +392,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Goshen",
         "state": "IN",
         "zip": "46526",
-        "lat": 41.56535,
-        "lng": -85.82850,
+        "lat": 41.56462,
+        "lng": -85.82811,
         "type": "Business"
     },
     {
@@ -404,8 +404,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Middlebury",
         "state": "IN",
         "zip": "46540",
-        "lat": 41.67462,
-        "lng": -85.70599,
+        "lat": 41.66737,
+        "lng": -85.72019,
         "type": "Business"
     },
     {
@@ -416,8 +416,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Nappanee",
         "state": "IN",
         "zip": "46550",
-        "lat": 41.44449,
-        "lng": -85.98214,
+        "lat": 41.45131,
+        "lng": -85.98434,
         "type": "Park"
     },
 
@@ -430,8 +430,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Warsaw",
         "state": "IN",
         "zip": "46580",
-        "lat": 41.24002,
-        "lng": -85.84400,
+        "lat": 41.24004,
+        "lng": -85.84646,
         "type": "Park"
     },
     {
@@ -442,8 +442,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Warsaw",
         "state": "IN",
         "zip": "46580",
-        "lat": 41.24195,
-        "lng": -85.85513,
+        "lat": 41.23810,
+        "lng": -85.85305,
         "type": "Park"
     },
     {
@@ -454,8 +454,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Warsaw",
         "state": "IN",
         "zip": "46580",
-        "lat": 41.24646,
-        "lng": -85.85006,
+        "lat": 41.24706,
+        "lng": -85.84942,
         "type": "Park"
     },
     {
@@ -466,8 +466,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Winona Lake",
         "state": "IN",
         "zip": "46590",
-        "lat": 41.22144,
-        "lng": -85.82092,
+        "lat": 41.22250,
+        "lng": -85.82142,
         "type": "Park"
     },
     {
@@ -478,8 +478,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Winona Lake",
         "state": "IN",
         "zip": "46590",
-        "lat": 41.22547,
-        "lng": -85.81647,
+        "lat": 41.22526,
+        "lng": -85.81496,
         "type": "Business"
     },
     {
@@ -490,8 +490,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Syracuse",
         "state": "IN",
         "zip": "46567",
-        "lat": 41.43139,
-        "lng": -85.75006,
+        "lat": 41.43118,
+        "lng": -85.75044,
         "type": "Park"
     },
     {
@@ -502,8 +502,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Plymouth",
         "state": "IN",
         "zip": "46563",
-        "lat": 41.35455,
-        "lng": -86.31088,
+        "lat": 41.35323,
+        "lng": -86.30897,
         "type": "Park"
     },
     {
@@ -514,8 +514,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Plymouth",
         "state": "IN",
         "zip": "46563",
-        "lat": 41.34119,
-        "lng": -86.30372,
+        "lat": 41.34599,
+        "lng": -86.30697,
         "type": "Park"
     },
     {
@@ -526,8 +526,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Bremen",
         "state": "IN",
         "zip": "46506",
-        "lat": 41.44478,
-        "lng": -86.14641,
+        "lat": 41.44286,
+        "lng": -86.14175,
         "type": "Park"
     },
     {
@@ -538,8 +538,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "Rochester",
         "state": "IN",
         "zip": "46975",
-        "lat": 41.06874,
-        "lng": -86.20786,
+        "lat": 41.06497,
+        "lng": -86.21601,
         "type": "Park"
     },
     {
@@ -550,8 +550,8 @@ MICHIANA_NORTH_COURTS = [
         "city": "North Webster",
         "state": "IN",
         "zip": "46555",
-        "lat": 41.32698,
-        "lng": -85.69786,
+        "lat": 41.32806,
+        "lng": -85.69722,
         "type": "Park"
     },
 ]

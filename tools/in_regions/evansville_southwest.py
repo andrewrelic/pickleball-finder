@@ -13,8 +13,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47715",
-        "lat": 38.01171,
-        "lng": -87.48677,
+        "lat": 38.01238,
+        "lng": -87.48489,
         "type": "Business",
         "hours": "evansville_tennis_pickleball_center.csv"
     },
@@ -26,8 +26,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47711",
-        "lat": 37.98358,
-        "lng": -87.52007,
+        "lat": 37.98556,
+        "lng": -87.52012,
         "type": "Park"
     },
     {
@@ -38,8 +38,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47725",
-        "lat": 38.12265,
-        "lng": -87.53163,
+        "lat": 38.12307,
+        "lng": -87.53007,
         "type": "Park"
     },
     {
@@ -50,8 +50,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47712",
-        "lat": 37.94270,
-        "lng": -87.64232,
+        "lat": 37.94269,
+        "lng": -87.64021,
         "type": "Park"
     },
     {
@@ -62,8 +62,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47725",
-        "lat": 38.01028,
-        "lng": -87.49442,
+        "lat": 38.03971,
+        "lng": -87.49599,
         "type": "Park"
     },
     {
@@ -74,8 +74,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47715",
-        "lat": 37.98160,
-        "lng": -87.50008,
+        "lat": 37.98103,
+        "lng": -87.50004,
         "type": "Business"
     },
     {
@@ -86,8 +86,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47711",
-        "lat": 37.98822,
-        "lng": -87.53848,
+        "lat": 37.98872,
+        "lng": -87.53943,
         "type": "Business"
     },
     {
@@ -98,8 +98,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47708",
-        "lat": 37.97488,
-        "lng": -87.57143,
+        "lat": 37.97411,
+        "lng": -87.57146,
         "type": "Business"
     },
     {
@@ -110,8 +110,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47714",
-        "lat": 37.96081,
-        "lng": -87.52156,
+        "lat": 37.96028,
+        "lng": -87.52089,
         "type": "Park"
     },
     {
@@ -122,8 +122,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47711",
-        "lat": 37.99216,
-        "lng": -87.56372,
+        "lat": 37.99591,
+        "lng": -87.56470,
         "type": "Park"
     },
     {
@@ -134,8 +134,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47712",
-        "lat": 37.96500,
-        "lng": -87.61016,
+        "lat": 37.96482,
+        "lng": -87.61032,
         "type": "Park"
     },
     {
@@ -146,8 +146,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47714",
-        "lat": 37.97154,
-        "lng": -87.51092,
+        "lat": 37.97160,
+        "lng": -87.51099,
         "type": "Park"
     },
     {
@@ -158,8 +158,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47710",
-        "lat": 38.03433,
-        "lng": -87.57353,
+        "lat": 38.03350,
+        "lng": -87.56986,
         "type": "Park"
     },
     {
@@ -170,8 +170,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47713",
-        "lat": 37.95827,
-        "lng": -87.55238,
+        "lat": 37.95833,
+        "lng": -87.55245,
         "type": "Park"
     },
     {
@@ -182,8 +182,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47713",
-        "lat": 37.97158,
-        "lng": -87.56650,
+        "lat": 37.97417,
+        "lng": -87.55422,
         "type": "Park"
     },
     {
@@ -194,8 +194,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47711",
-        "lat": 37.98017,
-        "lng": -87.56299,
+        "lat": 37.98010,
+        "lng": -87.56249,
         "type": "Park"
     },
     {
@@ -206,8 +206,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47713",
-        "lat": 37.97383,
-        "lng": -87.56125,
+        "lat": 37.97449,
+        "lng": -87.56140,
         "type": "Park"
     },
     {
@@ -218,8 +218,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47715",
-        "lat": 37.98769,
-        "lng": -87.48005,
+        "lat": 37.98763,
+        "lng": -87.47982,
         "type": "Business"
     },
     {
@@ -230,8 +230,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47708",
-        "lat": 37.97478,
-        "lng": -87.57188,
+        "lat": 37.97523,
+        "lng": -87.57178,
         "type": "Business"
     },
     {
@@ -242,8 +242,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Evansville",
         "state": "IN",
         "zip": "47722",
-        "lat": 37.97000,
-        "lng": -87.53233,
+        "lat": 37.97211,
+        "lng": -87.53089,
         "type": "Park"
     },
 
@@ -256,8 +256,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Newburgh",
         "state": "IN",
         "zip": "47630",
-        "lat": 37.99641,
-        "lng": -87.34752,
+        "lat": 37.99499,
+        "lng": -87.34558,
         "type": "Park"
     },
     {
@@ -268,8 +268,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Newburgh",
         "state": "IN",
         "zip": "47630",
-        "lat": 37.98377,
-        "lng": -87.34718,
+        "lat": 37.98152,
+        "lng": -87.34209,
         "type": "Park"
     },
     {
@@ -280,8 +280,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Newburgh",
         "state": "IN",
         "zip": "47630",
-        "lat": 37.98496,
-        "lng": -87.41397,
+        "lat": 37.98432,
+        "lng": -87.41534,
         "type": "Park"
     },
     {
@@ -292,8 +292,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Boonville",
         "state": "IN",
         "zip": "47601",
-        "lat": 38.04887,
-        "lng": -87.27205,
+        "lat": 38.04888,
+        "lng": -87.27197,
         "type": "Park"
     },
     {
@@ -304,8 +304,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Boonville",
         "state": "IN",
         "zip": "47601",
-        "lat": 38.05706,
-        "lng": -87.22912,
+        "lat": 38.05466,
+        "lng": -87.25691,
         "type": "Park"
     },
     {
@@ -316,8 +316,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Boonville",
         "state": "IN",
         "zip": "47601",
-        "lat": 38.04807,
-        "lng": -87.27673,
+        "lat": 38.05260,
+        "lng": -87.27718,
         "type": "Park"
     },
 
@@ -330,8 +330,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Jasper",
         "state": "IN",
         "zip": "47546",
-        "lat": 38.39214,
-        "lng": -86.93723,
+        "lat": 38.39202,
+        "lng": -86.93781,
         "type": "Park"
     },
     {
@@ -342,8 +342,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Jasper",
         "state": "IN",
         "zip": "47546",
-        "lat": 38.40138,
-        "lng": -86.95181,
+        "lat": 38.40271,
+        "lng": -86.95074,
         "type": "Park"
     },
     {
@@ -354,8 +354,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Jasper",
         "state": "IN",
         "zip": "47546",
-        "lat": 38.39075,
-        "lng": -86.93267,
+        "lat": 38.38491,
+        "lng": -86.94434,
         "type": "Park"
     },
     {
@@ -366,8 +366,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Huntingburg",
         "state": "IN",
         "zip": "47542",
-        "lat": 38.28769,
-        "lng": -86.95586,
+        "lat": 38.29894,
+        "lng": -86.95500,
         "type": "Park"
     },
     {
@@ -378,8 +378,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Huntingburg",
         "state": "IN",
         "zip": "47542",
-        "lat": 38.28920,
-        "lng": -86.94692,
+        "lat": 38.29894,
+        "lng": -86.95500,
         "type": "Park"
     },
     {
@@ -390,8 +390,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Santa Claus",
         "state": "IN",
         "zip": "47579",
-        "lat": 38.11693,
-        "lng": -86.92533,
+        "lat": 38.12005,
+        "lng": -86.91416,
         "type": "Park"
     },
     {
@@ -402,8 +402,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Tell City",
         "state": "IN",
         "zip": "47586",
-        "lat": 37.95604,
-        "lng": -86.76188,
+        "lat": 37.95144,
+        "lng": -86.76777,
         "type": "Park"
     },
     {
@@ -414,8 +414,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Rockport",
         "state": "IN",
         "zip": "47635",
-        "lat": 37.89036,
-        "lng": -87.04957,
+        "lat": 37.88162,
+        "lng": -87.06055,
         "type": "Park"
     },
 
@@ -428,8 +428,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Vincennes",
         "state": "IN",
         "zip": "47591",
-        "lat": 38.68308,
-        "lng": -87.50393,
+        "lat": 38.68619,
+        "lng": -87.50291,
         "type": "Park"
     },
     {
@@ -440,8 +440,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Vincennes",
         "state": "IN",
         "zip": "47591",
-        "lat": 38.68668,
-        "lng": -87.52086,
+        "lat": 38.69051,
+        "lng": -87.51921,
         "type": "Business"
     },
     {
@@ -452,8 +452,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Vincennes",
         "state": "IN",
         "zip": "47591",
-        "lat": 38.66455,
-        "lng": -87.53230,
+        "lat": 38.66878,
+        "lng": -87.53473,
         "type": "Park"
     },
     {
@@ -464,8 +464,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Mount Vernon",
         "state": "IN",
         "zip": "47620",
-        "lat": 37.93332,
-        "lng": -87.88705,
+        "lat": 37.93227,
+        "lng": -87.89503,
         "type": "Park"
     },
     {
@@ -476,8 +476,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Mount Vernon",
         "state": "IN",
         "zip": "47620",
-        "lat": 37.92925,
-        "lng": -87.89439,
+        "lat": 37.93227,
+        "lng": -87.89503,
         "type": "Park"
     },
     {
@@ -488,8 +488,8 @@ EVANSVILLE_SOUTHWEST_COURTS = [
         "city": "Princeton",
         "state": "IN",
         "zip": "47670",
-        "lat": 38.35628,
-        "lng": -87.57243,
+        "lat": 38.36235,
+        "lng": -87.57450,
         "type": "Park"
     },
 ]

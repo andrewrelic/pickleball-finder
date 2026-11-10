@@ -7,6 +7,7 @@ back into the 9 regional files under tools/in_regions/.
 import json
 import os
 import re
+import sys
 
 REGIONS_DIR = 'tools/in_regions'
 
@@ -51,7 +52,9 @@ def update_region_file(filepath: str, coords_map: dict):
     return len(updated_courts)
 
 def main():
-    json_path = 'tools/in_geocoded_coords.json'
+    json_path = sys.argv[1] if len(sys.argv) > 1 else 'tools/in_google_maps_coords.json'
+    if not os.path.exists(json_path):
+        json_path = 'tools/in_geocoded_coords.json'
     if not os.path.exists(json_path):
         print(f"File {json_path} does not exist.")
         return

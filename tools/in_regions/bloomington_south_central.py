@@ -13,8 +13,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47403",
-        "lat": 39.14949,
-        "lng": -86.53873,
+        "lat": 39.14677,
+        "lng": -86.53707,
         "type": "Park"
     },
     {
@@ -25,8 +25,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47403",
-        "lat": 39.14519,
-        "lng": -86.55007,
+        "lat": 39.14427,
+        "lng": -86.54606,
         "type": "Park"
     },
     {
@@ -37,8 +37,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47401",
-        "lat": 39.14858,
-        "lng": -86.53321,
+        "lat": 39.14942,
+        "lng": -86.53738,
         "type": "Business"
     },
     {
@@ -49,8 +49,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47401",
-        "lat": 39.12945,
-        "lng": -86.51360,
+        "lat": 39.12915,
+        "lng": -86.51372,
         "type": "Park"
     },
     {
@@ -61,8 +61,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47403",
-        "lat": 39.15545,
-        "lng": -86.56255,
+        "lat": 39.15605,
+        "lng": -86.56325,
         "type": "Park"
     },
     {
@@ -73,8 +73,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47408",
-        "lat": 39.16634,
-        "lng": -86.48138,
+        "lat": 39.16574,
+        "lng": -86.48875,
         "type": "Park"
     },
     {
@@ -85,8 +85,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47401",
-        "lat": 39.15641,
-        "lng": -86.52697,
+        "lat": 39.15568,
+        "lng": -86.52572,
         "type": "Park"
     },
     {
@@ -97,8 +97,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47401",
-        "lat": 39.14447,
-        "lng": -86.51678,
+        "lat": 39.13860,
+        "lng": -86.51522,
         "type": "Park"
     },
     {
@@ -109,8 +109,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47401",
-        "lat": 39.14508,
-        "lng": -86.53206,
+        "lat": 39.14299,
+        "lng": -86.52913,
         "type": "Park"
     },
     {
@@ -121,8 +121,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47404",
-        "lat": 39.20103,
-        "lng": -86.54730,
+        "lat": 39.19927,
+        "lng": -86.54852,
         "type": "Park"
     },
     {
@@ -133,8 +133,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bloomington",
         "state": "IN",
         "zip": "47408",
-        "lat": 39.17405,
-        "lng": -86.51883,
+        "lat": 39.17352,
+        "lng": -86.51240,
         "type": "Business"
     },
 
@@ -147,8 +147,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47201",
-        "lat": 39.21991,
-        "lng": -85.91754,
+        "lat": 39.21605,
+        "lng": -85.91745,
         "type": "Park"
     },
     {
@@ -159,8 +159,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47201",
-        "lat": 39.22308,
-        "lng": -85.90153,
+        "lat": 39.22548,
+        "lng": -85.89969,
         "type": "Business"
     },
     {
@@ -171,8 +171,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47201",
-        "lat": 39.20673,
-        "lng": -85.92514,
+        "lat": 39.20738,
+        "lng": -85.92694,
         "type": "Park"
     },
     {
@@ -183,8 +183,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47203",
-        "lat": 39.16442,
-        "lng": -85.81389,
+        "lat": 39.16473,
+        "lng": -85.81403,
         "type": "Park"
     },
     {
@@ -195,8 +195,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47201",
-        "lat": 39.20318,
-        "lng": -85.89966,
+        "lat": 39.20291,
+        "lng": -85.89900,
         "type": "Business"
     },
     {
@@ -208,7 +208,7 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "state": "IN",
         "zip": "47201",
         "lat": 39.19919,
-        "lng": -85.96944,
+        "lng": -85.96945,
         "type": "Business"
     },
     {
@@ -219,8 +219,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47203",
-        "lat": 39.23316,
-        "lng": -85.87116,
+        "lat": 39.23416,
+        "lng": -85.86974,
         "type": "Park"
     },
     {
@@ -231,8 +231,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47203",
-        "lat": 39.22364,
-        "lng": -85.87059,
+        "lat": 39.22426,
+        "lng": -85.87148,
         "type": "Park"
     },
     {
@@ -243,8 +243,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Columbus",
         "state": "IN",
         "zip": "47201",
-        "lat": 39.22299,
-        "lng": -85.89705,
+        "lat": 39.22091,
+        "lng": -85.89759,
         "type": "Park"
     },
 
@@ -257,8 +257,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bedford",
         "state": "IN",
         "zip": "47421",
-        "lat": 38.86116,
-        "lng": -86.48721,
+        "lat": 38.85517,
+        "lng": -86.49634,
         "type": "Park"
     },
     {
@@ -269,8 +269,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Bedford",
         "state": "IN",
         "zip": "47421",
-        "lat": 38.85974,
-        "lng": -86.49454,
+        "lat": 38.85992,
+        "lng": -86.49555,
         "type": "Park"
     },
     {
@@ -281,8 +281,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Seymour",
         "state": "IN",
         "zip": "47274",
-        "lat": 38.95582,
-        "lng": -85.88924,
+        "lat": 38.94774,
+        "lng": -85.88860,
         "type": "Park"
     },
     {
@@ -293,8 +293,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Seymour",
         "state": "IN",
         "zip": "47274",
-        "lat": 38.96488,
-        "lng": -85.88810,
+        "lat": 38.96526,
+        "lng": -85.88668,
         "type": "Park"
     },
     {
@@ -305,8 +305,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "North Vernon",
         "state": "IN",
         "zip": "47265",
-        "lat": 39.00897,
-        "lng": -85.63295,
+        "lat": 39.00913,
+        "lng": -85.63318,
         "type": "Park"
     },
     {
@@ -317,8 +317,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "North Vernon",
         "state": "IN",
         "zip": "47265",
-        "lat": 38.98950,
-        "lng": -85.61590,
+        "lat": 38.98819,
+        "lng": -85.62426,
         "type": "Park"
     },
     {
@@ -329,8 +329,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Martinsville",
         "state": "IN",
         "zip": "46151",
-        "lat": 39.43326,
-        "lng": -86.41545,
+        "lat": 39.43257,
+        "lng": -86.41595,
         "type": "Park"
     },
     {
@@ -341,8 +341,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Nashville",
         "state": "IN",
         "zip": "47448",
-        "lat": 39.19952,
-        "lng": -86.24009,
+        "lat": 39.19904,
+        "lng": -86.24012,
         "type": "Business"
     },
 
@@ -355,8 +355,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Greensburg",
         "state": "IN",
         "zip": "47240",
-        "lat": 39.32979,
-        "lng": -85.51554,
+        "lat": 39.32895,
+        "lng": -85.49507,
         "type": "Park"
     },
     {
@@ -367,8 +367,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Greensburg",
         "state": "IN",
         "zip": "47240",
-        "lat": 39.34429,
-        "lng": -85.50073,
+        "lat": 39.34439,
+        "lng": -85.50081,
         "type": "Business"
     },
     {
@@ -379,8 +379,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Rushville",
         "state": "IN",
         "zip": "46173",
-        "lat": 39.61274,
-        "lng": -85.45093,
+        "lat": 39.61745,
+        "lng": -85.45013,
         "type": "Park"
     },
     {
@@ -391,8 +391,8 @@ BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
         "city": "Linton",
         "state": "IN",
         "zip": "47441",
-        "lat": 39.03714,
-        "lng": -87.14949,
+        "lat": 39.03815,
+        "lng": -87.14991,
         "type": "Park"
     },
 ]

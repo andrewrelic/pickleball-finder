@@ -13,8 +13,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46825",
-        "lat": 41.12640,
-        "lng": -85.15259,
+        "lat": 41.12663,
+        "lng": -85.15087,
         "type": "Business",
         "hours": "fort_wayne_pickleball_club.csv"
     },
@@ -26,8 +26,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46804",
-        "lat": 41.04506,
-        "lng": -85.27745,
+        "lat": 41.04237,
+        "lng": -85.27585,
         "type": "Park"
     },
     {
@@ -38,8 +38,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46807",
-        "lat": 41.05003,
-        "lng": -85.13743,
+        "lat": 41.05008,
+        "lng": -85.13737,
         "type": "Park"
     },
     {
@@ -50,8 +50,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.08832,
-        "lng": -85.12089,
+        "lat": 41.08953,
+        "lng": -85.11973,
         "type": "Park"
     },
     {
@@ -62,8 +62,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46808",
-        "lat": 41.09018,
-        "lng": -85.16091,
+        "lat": 41.09058,
+        "lng": -85.15992,
         "type": "Park"
     },
     {
@@ -74,8 +74,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.10579,
-        "lng": -85.10871,
+        "lat": 41.10619,
+        "lng": -85.10878,
         "type": "Park"
     },
     {
@@ -86,8 +86,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46807",
-        "lat": 41.03219,
-        "lng": -85.14242,
+        "lat": 41.03329,
+        "lng": -85.14180,
         "type": "Park"
     },
     {
@@ -98,8 +98,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46816",
-        "lat": 41.01708,
-        "lng": -85.12812,
+        "lat": 41.01550,
+        "lng": -85.13043,
         "type": "Park"
     },
     {
@@ -110,8 +110,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46819",
-        "lat": 41.00060,
-        "lng": -85.13729,
+        "lat": 40.99962,
+        "lng": -85.13985,
         "type": "Park"
     },
     {
@@ -122,8 +122,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.09055,
-        "lng": -85.13237,
+        "lat": 41.07948,
+        "lng": -85.13629,
         "type": "Park"
     },
     {
@@ -134,8 +134,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46835",
-        "lat": 41.13986,
-        "lng": -85.09363,
+        "lat": 41.14048,
+        "lng": -85.09340,
         "type": "Park"
     },
     {
@@ -146,8 +146,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46815",
-        "lat": 41.08618,
-        "lng": -85.04000,
+        "lat": 41.09022,
+        "lng": -85.04023,
         "type": "Park"
     },
     {
@@ -158,8 +158,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46806",
-        "lat": 41.05006,
-        "lng": -85.10775,
+        "lat": 41.05158,
+        "lng": -85.10559,
         "type": "Park"
     },
     {
@@ -170,8 +170,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46802",
-        "lat": 41.07197,
-        "lng": -85.16151,
+        "lat": 41.07235,
+        "lng": -85.15928,
         "type": "Park"
     },
     {
@@ -182,8 +182,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46802",
-        "lat": 41.08452,
-        "lng": -85.13937,
+        "lat": 41.08496,
+        "lng": -85.13932,
         "type": "Park"
     },
     {
@@ -194,8 +194,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46825",
-        "lat": 41.12640,
-        "lng": -85.15259,
+        "lat": 41.12678,
+        "lng": -85.15076,
         "type": "Business"
     },
     {
@@ -206,8 +206,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46818",
-        "lat": 41.19568,
-        "lng": -85.16850,
+        "lat": 41.19566,
+        "lng": -85.16680,
         "type": "Business"
     },
     {
@@ -218,8 +218,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46804",
-        "lat": 41.08292,
-        "lng": -85.23635,
+        "lat": 41.08344,
+        "lng": -85.23459,
         "type": "Business"
     },
     {
@@ -230,8 +230,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46802",
-        "lat": 41.07747,
-        "lng": -85.13602,
+        "lat": 41.07691,
+        "lng": -85.13621,
         "type": "Business"
     },
     {
@@ -242,8 +242,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46804",
-        "lat": 41.04506,
-        "lng": -85.27745,
+        "lat": 41.04382,
+        "lng": -85.27865,
         "type": "Business"
     },
     {
@@ -254,8 +254,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46835",
-        "lat": 41.13375,
-        "lng": -85.07068,
+        "lat": 41.13211,
+        "lng": -85.07032,
         "type": "Business"
     },
     {
@@ -266,8 +266,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46825",
-        "lat": 41.16138,
-        "lng": -85.10513,
+        "lat": 41.17749,
+        "lng": -85.07782,
         "type": "Business"
     },
     {
@@ -278,8 +278,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46802",
-        "lat": 41.07826,
-        "lng": -85.14247,
+        "lat": 41.07814,
+        "lng": -85.14202,
         "type": "Business"
     },
     {
@@ -290,8 +290,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46814",
-        "lat": 41.04299,
-        "lng": -85.28442,
+        "lat": 41.04273,
+        "lng": -85.28647,
         "type": "Park"
     },
     {
@@ -302,8 +302,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46815",
-        "lat": 41.10864,
-        "lng": -85.08483,
+        "lat": 41.10773,
+        "lng": -85.08243,
         "type": "Park"
     },
     {
@@ -314,8 +314,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46818",
-        "lat": 41.19136,
-        "lng": -85.19250,
+        "lat": 41.18995,
+        "lng": -85.19364,
         "type": "Park"
     },
     {
@@ -326,8 +326,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46825",
-        "lat": 41.14486,
-        "lng": -85.13653,
+        "lat": 41.14574,
+        "lng": -85.13945,
         "type": "Park"
     },
     {
@@ -338,8 +338,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.10944,
-        "lng": -85.11858,
+        "lat": 41.10984,
+        "lng": -85.11767,
         "type": "Park"
     },
     {
@@ -350,8 +350,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46816",
-        "lat": 41.03167,
-        "lng": -85.13324,
+        "lat": 41.03194,
+        "lng": -85.13370,
         "type": "Park"
     },
     {
@@ -362,8 +362,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.11536,
-        "lng": -85.12565,
+        "lat": 41.11464,
+        "lng": -85.12425,
         "type": "Park"
     },
     {
@@ -374,8 +374,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46802",
-        "lat": 41.07377,
-        "lng": -85.17748,
+        "lat": 41.07371,
+        "lng": -85.17710,
         "type": "Park"
     },
     {
@@ -386,8 +386,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.09181,
-        "lng": -85.13973,
+        "lat": 41.08870,
+        "lng": -85.13831,
         "type": "Park"
     },
     {
@@ -398,8 +398,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46803",
-        "lat": 41.06421,
-        "lng": -85.13650,
+        "lat": 41.06344,
+        "lng": -85.13432,
         "type": "Park"
     },
     {
@@ -410,8 +410,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46805",
-        "lat": 41.09656,
-        "lng": -85.12733,
+        "lat": 41.09830,
+        "lng": -85.13136,
         "type": "Park"
     },
     {
@@ -422,8 +422,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Fort Wayne",
         "state": "IN",
         "zip": "46806",
-        "lat": 41.05656,
-        "lng": -85.12659,
+        "lat": 41.05552,
+        "lng": -85.12525,
         "type": "Park"
     },
 
@@ -436,8 +436,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "New Haven",
         "state": "IN",
         "zip": "46774",
-        "lat": 41.06477,
-        "lng": -85.00754,
+        "lat": 41.06418,
+        "lng": -85.00450,
         "type": "Park"
     },
     {
@@ -448,8 +448,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "New Haven",
         "state": "IN",
         "zip": "46774",
-        "lat": 41.06954,
-        "lng": -85.04588,
+        "lat": 41.06820,
+        "lng": -85.04564,
         "type": "Park"
     },
     {
@@ -460,8 +460,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "New Haven",
         "state": "IN",
         "zip": "46774",
-        "lat": 41.07010,
-        "lng": -85.02506,
+        "lat": 41.07975,
+        "lng": -85.01770,
         "type": "Park"
     },
     {
@@ -472,8 +472,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Leo-Cedarville",
         "state": "IN",
         "zip": "46765",
-        "lat": 41.22286,
-        "lng": -85.00786,
+        "lat": 41.21255,
+        "lng": -85.01664,
         "type": "Park"
     },
     {
@@ -484,8 +484,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Grabill",
         "state": "IN",
         "zip": "46741",
-        "lat": 41.21032,
-        "lng": -84.96852,
+        "lat": 41.20724,
+        "lng": -84.97036,
         "type": "Park"
     },
 
@@ -498,8 +498,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Auburn",
         "state": "IN",
         "zip": "46706",
-        "lat": 41.35831,
-        "lng": -85.05428,
+        "lat": 41.35805,
+        "lng": -85.05313,
         "type": "Park"
     },
     {
@@ -510,8 +510,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Auburn",
         "state": "IN",
         "zip": "46706",
-        "lat": 41.37245,
-        "lng": -85.05560,
+        "lat": 41.36130,
+        "lng": -85.06426,
         "type": "Park"
     },
     {
@@ -522,8 +522,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Auburn",
         "state": "IN",
         "zip": "46706",
-        "lat": 41.37232,
-        "lng": -85.06268,
+        "lat": 41.37169,
+        "lng": -85.06504,
         "type": "Business"
     },
     {
@@ -534,8 +534,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Waterloo",
         "state": "IN",
         "zip": "46793",
-        "lat": 41.40507,
-        "lng": -85.04014,
+        "lat": 41.40672,
+        "lng": -85.04060,
         "type": "Park"
     },
 
@@ -548,8 +548,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Angola",
         "state": "IN",
         "zip": "46703",
-        "lat": 41.63319,
-        "lng": -84.99916,
+        "lat": 41.63324,
+        "lng": -84.99118,
         "type": "Park"
     },
     {
@@ -560,8 +560,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Angola",
         "state": "IN",
         "zip": "46703",
-        "lat": 41.63443,
-        "lng": -85.00521,
+        "lat": 41.63093,
+        "lng": -85.01477,
         "type": "Business"
     },
     {
@@ -572,8 +572,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Angola",
         "state": "IN",
         "zip": "46703",
-        "lat": 41.65635,
-        "lng": -84.99221,
+        "lat": 41.65504,
+        "lng": -84.99363,
         "type": "Business"
     },
     {
@@ -584,8 +584,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Angola",
         "state": "IN",
         "zip": "46703",
-        "lat": 41.63566,
-        "lng": -85.00258,
+        "lat": 41.64023,
+        "lng": -84.99540,
         "type": "Park"
     },
 
@@ -598,8 +598,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Kendallville",
         "state": "IN",
         "zip": "46755",
-        "lat": 41.44546,
-        "lng": -85.25467,
+        "lat": 41.44335,
+        "lng": -85.25153,
         "type": "Park"
     },
     {
@@ -610,8 +610,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Kendallville",
         "state": "IN",
         "zip": "46755",
-        "lat": 41.43657,
-        "lng": -85.25846,
+        "lat": 41.43615,
+        "lng": -85.25874,
         "type": "Business"
     },
     {
@@ -622,8 +622,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Kendallville",
         "state": "IN",
         "zip": "46755",
-        "lat": 41.43489,
-        "lng": -85.25896,
+        "lat": 41.43477,
+        "lng": -85.25747,
         "type": "Park"
     },
 
@@ -636,8 +636,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Decatur",
         "state": "IN",
         "zip": "46733",
-        "lat": 40.82650,
-        "lng": -84.93425,
+        "lat": 40.82164,
+        "lng": -84.91080,
         "type": "Park"
     },
     {
@@ -648,8 +648,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Decatur",
         "state": "IN",
         "zip": "46733",
-        "lat": 40.83178,
-        "lng": -84.92169,
+        "lat": 40.83235,
+        "lng": -84.92051,
         "type": "Park"
     },
     {
@@ -660,8 +660,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Berne",
         "state": "IN",
         "zip": "46711",
-        "lat": 40.64844,
-        "lng": -84.95486,
+        "lat": 40.65782,
+        "lng": -84.95191,
         "type": "Park"
     },
 
@@ -674,8 +674,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Bluffton",
         "state": "IN",
         "zip": "46714",
-        "lat": 40.73117,
-        "lng": -85.18181,
+        "lat": 40.73144,
+        "lng": -85.18200,
         "type": "Park"
     },
     {
@@ -686,8 +686,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Bluffton",
         "state": "IN",
         "zip": "46714",
-        "lat": 40.73503,
-        "lng": -85.18409,
+        "lat": 40.73469,
+        "lng": -85.18424,
         "type": "Business"
     },
     {
@@ -698,8 +698,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Bluffton",
         "state": "IN",
         "zip": "46714",
-        "lat": 40.72815,
-        "lng": -85.17134,
+        "lat": 40.72807,
+        "lng": -85.17122,
         "type": "Park"
     },
 
@@ -712,8 +712,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Columbia City",
         "state": "IN",
         "zip": "46725",
-        "lat": 41.15889,
-        "lng": -85.46994,
+        "lat": 41.15705,
+        "lng": -85.48839,
         "type": "Park"
     },
     {
@@ -724,8 +724,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Columbia City",
         "state": "IN",
         "zip": "46725",
-        "lat": 41.15693,
-        "lng": -85.48846,
+        "lat": 41.15718,
+        "lng": -85.47321,
         "type": "Business"
     },
     {
@@ -736,8 +736,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Columbia City",
         "state": "IN",
         "zip": "46725",
-        "lat": 41.16237,
-        "lng": -85.48548,
+        "lat": 41.15705,
+        "lng": -85.48839,
         "type": "Park"
     },
 
@@ -750,8 +750,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Huntington",
         "state": "IN",
         "zip": "46750",
-        "lat": 40.87781,
-        "lng": -85.50857,
+        "lat": 40.87967,
+        "lng": -85.51061,
         "type": "Park"
     },
     {
@@ -762,8 +762,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Huntington",
         "state": "IN",
         "zip": "46750",
-        "lat": 40.90277,
-        "lng": -85.48677,
+        "lat": 40.90365,
+        "lng": -85.48678,
         "type": "Business"
     },
     {
@@ -774,8 +774,8 @@ FORT_WAYNE_NORTHEAST_COURTS = [
         "city": "Wabash",
         "state": "IN",
         "zip": "46992",
-        "lat": 40.81109,
-        "lng": -85.83418,
+        "lat": 40.80628,
+        "lng": -85.82936,
         "type": "Park"
     },
 ]

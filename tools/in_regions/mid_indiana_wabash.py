@@ -14,8 +14,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Lafayette",
         "state": "IN",
         "zip": "47905",
-        "lat": 40.42489,
-        "lng": -86.84200,
+        "lat": 40.42363,
+        "lng": -86.84166,
         "type": "Park"
     },
     {
@@ -26,8 +26,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Lafayette",
         "state": "IN",
         "zip": "47909",
-        "lat": 40.38803,
-        "lng": -86.88574,
+        "lat": 40.38634,
+        "lng": -86.88789,
         "type": "Park"
     },
     {
@@ -38,8 +38,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "West Lafayette",
         "state": "IN",
         "zip": "47906",
-        "lat": 40.46186,
-        "lng": -86.91569,
+        "lat": 40.46321,
+        "lng": -86.91716,
         "type": "Park"
     },
     {
@@ -50,8 +50,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "West Lafayette",
         "state": "IN",
         "zip": "47906",
-        "lat": 40.46846,
-        "lng": -86.91931,
+        "lat": 40.46684,
+        "lng": -86.91934,
         "type": "Park"
     },
     {
@@ -62,8 +62,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Lafayette",
         "state": "IN",
         "zip": "47904",
-        "lat": 40.44063,
-        "lng": -86.87437,
+        "lat": 40.44087,
+        "lng": -86.87379,
         "type": "Park"
     },
 
@@ -76,8 +76,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Kokomo",
         "state": "IN",
         "zip": "46902",
-        "lat": 40.43379,
-        "lng": -86.09520,
+        "lat": 40.43373,
+        "lng": -86.09516,
         "type": "Park"
     },
     {
@@ -88,8 +88,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Kokomo",
         "state": "IN",
         "zip": "46902",
-        "lat": 40.46994,
-        "lng": -86.12179,
+        "lat": 40.46877,
+        "lng": -86.14070,
         "type": "Park"
     },
     {
@@ -100,8 +100,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Kokomo",
         "state": "IN",
         "zip": "46901",
-        "lat": 40.48413,
-        "lng": -86.09469,
+        "lat": 40.48405,
+        "lng": -86.09716,
         "type": "Park"
     },
     {
@@ -112,8 +112,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Kokomo",
         "state": "IN",
         "zip": "46901",
-        "lat": 40.48666,
-        "lng": -86.12991,
+        "lat": 40.48694,
+        "lng": -86.12974,
         "type": "Business"
     },
 
@@ -126,8 +126,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Terre Haute",
         "state": "IN",
         "zip": "47803",
-        "lat": 39.45651,
-        "lng": -87.37876,
+        "lat": 39.44454,
+        "lng": -87.38510,
         "type": "Park"
     },
     {
@@ -138,8 +138,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Terre Haute",
         "state": "IN",
         "zip": "47802",
-        "lat": 39.44113,
-        "lng": -87.41462,
+        "lat": 39.44285,
+        "lng": -87.42017,
         "type": "Park"
     },
     {
@@ -150,8 +150,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Terre Haute",
         "state": "IN",
         "zip": "47803",
-        "lat": 39.46730,
-        "lng": -87.36006,
+        "lat": 39.46553,
+        "lng": -87.35501,
         "type": "Park"
     },
     {
@@ -162,8 +162,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Brazil",
         "state": "IN",
         "zip": "47834",
-        "lat": 39.52589,
-        "lng": -87.12464,
+        "lat": 39.52571,
+        "lng": -87.12439,
         "type": "Business"
     },
     {
@@ -174,8 +174,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Greencastle",
         "state": "IN",
         "zip": "46135",
-        "lat": 39.64405,
-        "lng": -86.86020,
+        "lat": 39.63845,
+        "lng": -86.85263,
         "type": "Park"
     },
 
@@ -188,8 +188,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Pendleton",
         "state": "IN",
         "zip": "46064",
-        "lat": 39.99933,
-        "lng": -85.76745,
+        "lat": 39.99821,
+        "lng": -85.76263,
         "type": "Business",
         "hours": "community_sports_wellness_pickleball.csv"
     },
@@ -201,8 +201,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Muncie",
         "state": "IN",
         "zip": "47305",
-        "lat": 40.19102,
-        "lng": -85.38778,
+        "lat": 40.19040,
+        "lng": -85.38811,
         "type": "Business"
     },
     {
@@ -213,8 +213,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Muncie",
         "state": "IN",
         "zip": "47303",
-        "lat": 40.19744,
-        "lng": -85.38967,
+        "lat": 40.19641,
+        "lng": -85.39178,
         "type": "Park"
     },
     {
@@ -225,8 +225,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Anderson",
         "state": "IN",
         "zip": "46012",
-        "lat": 40.12581,
-        "lng": -85.67825,
+        "lat": 40.12632,
+        "lng": -85.67815,
         "type": "Park"
     },
     {
@@ -249,8 +249,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "New Castle",
         "state": "IN",
         "zip": "47362",
-        "lat": 39.91137,
-        "lng": -85.36387,
+        "lat": 39.91213,
+        "lng": -85.37201,
         "type": "Park"
     },
     {
@@ -261,8 +261,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Richmond",
         "state": "IN",
         "zip": "47374",
-        "lat": 39.83021,
-        "lng": -84.87269,
+        "lat": 39.83569,
+        "lng": -84.86331,
         "type": "Park"
     },
 
@@ -275,8 +275,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Clarksville",
         "state": "IN",
         "zip": "47129",
-        "lat": 38.30605,
-        "lng": -85.76724,
+        "lat": 38.30597,
+        "lng": -85.76728,
         "type": "Business"
     },
     {
@@ -287,8 +287,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Sellersburg",
         "state": "IN",
         "zip": "47172",
-        "lat": 38.35404,
-        "lng": -85.74633,
+        "lat": 38.35410,
+        "lng": -85.74689,
         "type": "Business"
     },
     {
@@ -299,8 +299,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "Jeffersonville",
         "state": "IN",
         "zip": "47130",
-        "lat": 38.27972,
-        "lng": -85.73785,
+        "lat": 38.27975,
+        "lng": -85.73798,
         "type": "Park"
     },
     {
@@ -311,8 +311,8 @@ MID_INDIANA_WABASH_COURTS = [
         "city": "New Albany",
         "state": "IN",
         "zip": "47150",
-        "lat": 38.32074,
-        "lng": -85.82012,
+        "lat": 38.32047,
+        "lng": -85.82539,
         "type": "Park"
     },
 ]

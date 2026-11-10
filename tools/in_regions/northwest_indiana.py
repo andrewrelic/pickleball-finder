@@ -15,8 +15,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.41698,
-        "lng": -87.36531,
+        "lat": 41.39845,
+        "lng": -87.36926,
         "type": "Business"
     },
     {
@@ -27,8 +27,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.39791,
-        "lng": -87.36854,
+        "lat": 41.39842,
+        "lng": -87.35479,
         "type": "Park"
     },
     {
@@ -39,8 +39,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.41582,
-        "lng": -87.36670,
+        "lat": 41.41607,
+        "lng": -87.36696,
         "type": "Park"
     },
     {
@@ -51,8 +51,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.42343,
-        "lng": -87.36070,
+        "lat": 41.42436,
+        "lng": -87.36016,
         "type": "Park"
     },
     {
@@ -63,8 +63,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.44483,
-        "lng": -87.35348,
+        "lat": 41.44560,
+        "lng": -87.35430,
         "type": "Park"
     },
     {
@@ -75,8 +75,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.42030,
-        "lng": -87.35123,
+        "lat": 41.42024,
+        "lng": -87.35113,
         "type": "Park"
     },
     {
@@ -87,8 +87,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.41312,
-        "lng": -87.37769,
+        "lat": 41.41219,
+        "lng": -87.34972,
         "type": "Park"
     },
     {
@@ -99,8 +99,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.39274,
-        "lng": -87.36920,
+        "lat": 41.39226,
+        "lng": -87.36826,
         "type": "Business"
     },
     {
@@ -111,8 +111,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.40373,
-        "lng": -87.36865,
+        "lat": 41.40088,
+        "lng": -87.36996,
         "type": "Park"
     },
     {
@@ -123,8 +123,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Crown Point",
         "state": "IN",
         "zip": "46307",
-        "lat": 41.39111,
-        "lng": -87.36436,
+        "lat": 41.38978,
+        "lng": -87.36079,
         "type": "Park"
     },
 
@@ -137,8 +137,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Munster",
         "state": "IN",
         "zip": "46321",
-        "lat": 41.53763,
-        "lng": -87.49046,
+        "lat": 41.53618,
+        "lng": -87.49059,
         "type": "Park"
     },
     {
@@ -149,8 +149,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Munster",
         "state": "IN",
         "zip": "46321",
-        "lat": 41.54441,
-        "lng": -87.50228,
+        "lat": 41.54367,
+        "lng": -87.50083,
         "type": "Park"
     },
     {
@@ -161,8 +161,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Munster",
         "state": "IN",
         "zip": "46321",
-        "lat": 41.55731,
-        "lng": -87.50889,
+        "lat": 41.55657,
+        "lng": -87.50696,
         "type": "Park"
     },
     {
@@ -173,8 +173,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Munster",
         "state": "IN",
         "zip": "46321",
-        "lat": 41.55535,
-        "lng": -87.50234,
+        "lat": 41.55454,
+        "lng": -87.50481,
         "type": "Park"
     },
     {
@@ -185,8 +185,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Munster",
         "state": "IN",
         "zip": "46321",
-        "lat": 41.56662,
-        "lng": -87.49393,
+        "lat": 41.56459,
+        "lng": -87.49320,
         "type": "Park"
     },
     {
@@ -197,8 +197,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Munster",
         "state": "IN",
         "zip": "46321",
-        "lat": 41.56479,
-        "lng": -87.52215,
+        "lat": 41.56389,
+        "lng": -87.50403,
         "type": "Park"
     },
 
@@ -211,8 +211,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Schererville",
         "state": "IN",
         "zip": "46375",
-        "lat": 41.47420,
-        "lng": -87.42448,
+        "lat": 41.47415,
+        "lng": -87.42485,
         "type": "Park"
     },
     {
@@ -223,8 +223,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Schererville",
         "state": "IN",
         "zip": "46375",
-        "lat": 41.49317,
-        "lng": -87.43948,
+        "lat": 41.49530,
+        "lng": -87.44035,
         "type": "Park"
     },
     {
@@ -235,8 +235,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Schererville",
         "state": "IN",
         "zip": "46375",
-        "lat": 41.49147,
-        "lng": -87.44663,
+        "lat": 41.49142,
+        "lng": -87.44670,
         "type": "Park"
     },
     {
@@ -247,8 +247,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Schererville",
         "state": "IN",
         "zip": "46375",
-        "lat": 41.49125,
-        "lng": -87.46891,
+        "lat": 41.48168,
+        "lng": -87.46494,
         "type": "Park"
     },
     {
@@ -259,8 +259,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Schererville",
         "state": "IN",
         "zip": "46375",
-        "lat": 41.49042,
-        "lng": -87.44625,
+        "lat": 41.48964,
+        "lng": -87.44514,
         "type": "Park"
     },
 
@@ -273,8 +273,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Highland",
         "state": "IN",
         "zip": "46322",
-        "lat": 41.54748,
-        "lng": -87.46401,
+        "lat": 41.54304,
+        "lng": -87.47551,
         "type": "Park"
     },
     {
@@ -285,8 +285,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Highland",
         "state": "IN",
         "zip": "46322",
-        "lat": 41.53739,
-        "lng": -87.45445,
+        "lat": 41.54084,
+        "lng": -87.44894,
         "type": "Park"
     },
     {
@@ -297,8 +297,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Highland",
         "state": "IN",
         "zip": "46322",
-        "lat": 41.55314,
-        "lng": -87.47137,
+        "lat": 41.55325,
+        "lng": -87.47164,
         "type": "Park"
     },
     {
@@ -309,8 +309,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Highland",
         "state": "IN",
         "zip": "46322",
-        "lat": 41.55552,
-        "lng": -87.45673,
+        "lat": 41.55465,
+        "lng": -87.45602,
         "type": "Park"
     },
     {
@@ -321,8 +321,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Highland",
         "state": "IN",
         "zip": "46322",
-        "lat": 41.55188,
-        "lng": -87.43635,
+        "lat": 41.55146,
+        "lng": -87.43573,
         "type": "Park"
     },
 
@@ -335,8 +335,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hammond",
         "state": "IN",
         "zip": "46327",
-        "lat": 41.64654,
-        "lng": -87.51714,
+        "lat": 41.64655,
+        "lng": -87.51720,
         "type": "Park"
     },
     {
@@ -347,8 +347,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hammond",
         "state": "IN",
         "zip": "46323",
-        "lat": 41.57894,
-        "lng": -87.46129,
+        "lat": 41.57521,
+        "lng": -87.45573,
         "type": "Park"
     },
     {
@@ -359,8 +359,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hammond",
         "state": "IN",
         "zip": "46320",
-        "lat": 41.60795,
-        "lng": -87.51368,
+        "lat": 41.60750,
+        "lng": -87.51315,
         "type": "Park"
     },
     {
@@ -371,8 +371,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hammond",
         "state": "IN",
         "zip": "46320",
-        "lat": 41.69263,
-        "lng": -87.50860,
+        "lat": 41.57061,
+        "lng": -87.50089,
         "type": "Park"
     },
     {
@@ -383,8 +383,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hammond",
         "state": "IN",
         "zip": "46323",
-        "lat": 41.58096,
-        "lng": -87.45667,
+        "lat": 41.58155,
+        "lng": -87.46142,
         "type": "Park"
     },
     {
@@ -395,8 +395,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hammond",
         "state": "IN",
         "zip": "46324",
-        "lat": 41.58066,
-        "lng": -87.48733,
+        "lat": 41.58047,
+        "lng": -87.48758,
         "type": "Business"
     },
 
@@ -409,8 +409,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Merrillville",
         "state": "IN",
         "zip": "46410",
-        "lat": 41.49861,
-        "lng": -87.33610,
+        "lat": 41.49794,
+        "lng": -87.33710,
         "type": "Park"
     },
     {
@@ -421,8 +421,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Merrillville",
         "state": "IN",
         "zip": "46410",
-        "lat": 41.50291,
-        "lng": -87.33597,
+        "lat": 41.50164,
+        "lng": -87.33018,
         "type": "Park"
     },
     {
@@ -433,8 +433,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Merrillville",
         "state": "IN",
         "zip": "46410",
-        "lat": 41.51715,
-        "lng": -87.34703,
+        "lat": 41.51394,
+        "lng": -87.34758,
         "type": "Park"
     },
     {
@@ -445,8 +445,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Merrillville",
         "state": "IN",
         "zip": "46410",
-        "lat": 41.49341,
-        "lng": -87.33225,
+        "lat": 41.49445,
+        "lng": -87.32987,
         "type": "Park"
     },
 
@@ -459,8 +459,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "St John",
         "state": "IN",
         "zip": "46373",
-        "lat": 41.44974,
-        "lng": -87.44699,
+        "lat": 41.44978,
+        "lng": -87.44739,
         "type": "Park"
     },
     {
@@ -471,8 +471,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "St John",
         "state": "IN",
         "zip": "46373",
-        "lat": 41.43564,
-        "lng": -87.48931,
+        "lat": 41.42634,
+        "lng": -87.49309,
         "type": "Park"
     },
     {
@@ -483,8 +483,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Dyer",
         "state": "IN",
         "zip": "46311",
-        "lat": 41.50817,
-        "lng": -87.51462,
+        "lat": 41.50350,
+        "lng": -87.50499,
         "type": "Park"
     },
     {
@@ -495,8 +495,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Dyer",
         "state": "IN",
         "zip": "46311",
-        "lat": 41.48843,
-        "lng": -87.51777,
+        "lat": 41.48929,
+        "lng": -87.51887,
         "type": "Park"
     },
     {
@@ -507,8 +507,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Griffith",
         "state": "IN",
         "zip": "46319",
-        "lat": 41.53193,
-        "lng": -87.42774,
+        "lat": 41.53293,
+        "lng": -87.42974,
         "type": "Park"
     },
     {
@@ -519,8 +519,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Griffith",
         "state": "IN",
         "zip": "46319",
-        "lat": 41.51038,
-        "lng": -87.42774,
+        "lat": 41.51463,
+        "lng": -87.42964,
         "type": "Park"
     },
 
@@ -533,8 +533,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hobart",
         "state": "IN",
         "zip": "46342",
-        "lat": 41.53685,
-        "lng": -87.25873,
+        "lat": 41.53602,
+        "lng": -87.25918,
         "type": "Park"
     },
     {
@@ -545,8 +545,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Hobart",
         "state": "IN",
         "zip": "46342",
-        "lat": 41.53685,
-        "lng": -87.25873,
+        "lat": 41.53613,
+        "lng": -87.25719,
         "type": "Park"
     },
     {
@@ -557,8 +557,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Lake Station",
         "state": "IN",
         "zip": "46405",
-        "lat": 41.56905,
-        "lng": -87.28342,
+        "lat": 41.56897,
+        "lng": -87.28323,
         "type": "Park"
     },
 
@@ -571,8 +571,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.48537,
-        "lng": -87.04430,
+        "lat": 41.48371,
+        "lng": -87.04338,
         "type": "Park"
     },
     {
@@ -583,8 +583,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.47811,
-        "lng": -87.04907,
+        "lat": 41.47741,
+        "lng": -87.05944,
         "type": "Park"
     },
     {
@@ -595,8 +595,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.47170,
-        "lng": -87.04646,
+        "lat": 41.47276,
+        "lng": -87.04565,
         "type": "Park"
     },
     {
@@ -607,8 +607,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.50730,
-        "lng": -87.05956,
+        "lat": 41.50720,
+        "lng": -87.06381,
         "type": "Park"
     },
     {
@@ -619,8 +619,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46385",
-        "lat": 41.47034,
-        "lng": -87.06587,
+        "lat": 41.46523,
+        "lng": -87.06614,
         "type": "Business"
     },
     {
@@ -631,8 +631,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.49679,
-        "lng": -87.04961,
+        "lat": 41.49756,
+        "lng": -87.04775,
         "type": "Business"
     },
     {
@@ -643,8 +643,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46385",
-        "lat": 41.49669,
-        "lng": -87.06590,
+        "lat": 41.49828,
+        "lng": -87.06382,
         "type": "Park"
     },
     {
@@ -655,8 +655,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46385",
-        "lat": 41.51756,
-        "lng": -87.06597,
+        "lat": 41.51663,
+        "lng": -87.06592,
         "type": "Park"
     },
     {
@@ -667,8 +667,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.48058,
-        "lng": -87.05226,
+        "lat": 41.47927,
+        "lng": -87.05306,
         "type": "Park"
     },
     {
@@ -679,8 +679,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46383",
-        "lat": 41.46628,
-        "lng": -87.06089,
+        "lat": 41.46650,
+        "lng": -87.06087,
         "type": "Park"
     },
     {
@@ -691,8 +691,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Valparaiso",
         "state": "IN",
         "zip": "46385",
-        "lat": 41.49166,
-        "lng": -87.06605,
+        "lat": 41.49309,
+        "lng": -87.06780,
         "type": "Park"
     },
 
@@ -705,8 +705,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Portage",
         "state": "IN",
         "zip": "46368",
-        "lat": 41.59387,
-        "lng": -87.18350,
+        "lat": 41.59148,
+        "lng": -87.18639,
         "type": "Park"
     },
     {
@@ -717,8 +717,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Portage",
         "state": "IN",
         "zip": "46368",
-        "lat": 41.58552,
-        "lng": -87.14384,
+        "lat": 41.58659,
+        "lng": -87.14358,
         "type": "Park"
     },
     {
@@ -729,8 +729,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Portage",
         "state": "IN",
         "zip": "46368",
-        "lat": 41.56176,
-        "lng": -87.18285,
+        "lat": 41.56222,
+        "lng": -87.18446,
         "type": "Business"
     },
     {
@@ -741,8 +741,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Portage",
         "state": "IN",
         "zip": "46368",
-        "lat": 41.55065,
-        "lng": -87.21186,
+        "lat": 41.55182,
+        "lng": -87.21151,
         "type": "Park"
     },
 
@@ -755,8 +755,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Chesterton",
         "state": "IN",
         "zip": "46304",
-        "lat": 41.60037,
-        "lng": -87.08149,
+        "lat": 41.59545,
+        "lng": -87.08388,
         "type": "Park"
     },
     {
@@ -767,8 +767,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Chesterton",
         "state": "IN",
         "zip": "46304",
-        "lat": 41.60940,
-        "lng": -87.04313,
+        "lat": 41.60909,
+        "lng": -87.04253,
         "type": "Business"
     },
     {
@@ -779,8 +779,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Chesterton",
         "state": "IN",
         "zip": "46304",
-        "lat": 41.61150,
-        "lng": -87.07444,
+        "lat": 41.61162,
+        "lng": -87.07435,
         "type": "Park"
     },
 
@@ -793,8 +793,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Michigan City",
         "state": "IN",
         "zip": "46360",
-        "lat": 41.72943,
-        "lng": -86.89634,
+        "lat": 41.72820,
+        "lng": -86.89595,
         "type": "Park"
     },
     {
@@ -805,8 +805,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Michigan City",
         "state": "IN",
         "zip": "46360",
-        "lat": 41.71400,
-        "lng": -86.90012,
+        "lat": 41.71830,
+        "lng": -86.88915,
         "type": "Park"
     },
     {
@@ -817,8 +817,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Michigan City",
         "state": "IN",
         "zip": "46360",
-        "lat": 41.72394,
-        "lng": -86.90747,
+        "lat": 41.72545,
+        "lng": -86.89090,
         "type": "Park"
     },
     {
@@ -829,8 +829,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Michigan City",
         "state": "IN",
         "zip": "46360",
-        "lat": 41.71756,
-        "lng": -86.87349,
+        "lat": 41.72191,
+        "lng": -86.87096,
         "type": "Park"
     },
     {
@@ -841,8 +841,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Michigan City",
         "state": "IN",
         "zip": "46360",
-        "lat": 41.68017,
-        "lng": -86.86546,
+        "lat": 41.67822,
+        "lng": -86.86281,
         "type": "Park"
     },
     {
@@ -853,8 +853,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "Michigan City",
         "state": "IN",
         "zip": "46360",
-        "lat": 41.71079,
-        "lng": -86.89514,
+        "lat": 41.70966,
+        "lng": -86.89490,
         "type": "Park"
     },
     {
@@ -865,8 +865,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "La Porte",
         "state": "IN",
         "zip": "46350",
-        "lat": 41.58939,
-        "lng": -86.71634,
+        "lat": 41.58422,
+        "lng": -86.71962,
         "type": "Park"
     },
     {
@@ -877,8 +877,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "La Porte",
         "state": "IN",
         "zip": "46350",
-        "lat": 41.61060,
-        "lng": -86.72252,
+        "lat": 41.61114,
+        "lng": -86.72272,
         "type": "Park"
     },
     {
@@ -889,8 +889,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "La Porte",
         "state": "IN",
         "zip": "46350",
-        "lat": 41.61733,
-        "lng": -86.73373,
+        "lat": 41.61643,
+        "lng": -86.74076,
         "type": "Park"
     },
     {
@@ -901,8 +901,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "La Porte",
         "state": "IN",
         "zip": "46350",
-        "lat": 41.61613,
-        "lng": -86.73196,
+        "lat": 41.62190,
+        "lng": -86.72583,
         "type": "Park"
     },
     {
@@ -913,8 +913,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "La Porte",
         "state": "IN",
         "zip": "46350",
-        "lat": 41.60830,
-        "lng": -86.71296,
+        "lat": 41.60795,
+        "lng": -86.71217,
         "type": "Park"
     },
     {
@@ -925,8 +925,8 @@ NORTHWEST_INDIANA_COURTS = [
         "city": "La Porte",
         "state": "IN",
         "zip": "46350",
-        "lat": 41.60971,
-        "lng": -86.71993,
+        "lat": 41.61006,
+        "lng": -86.71916,
         "type": "Business"
     },
 ]
