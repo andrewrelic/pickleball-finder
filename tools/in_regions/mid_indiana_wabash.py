@@ -231,14 +231,14 @@ MID_INDIANA_WABASH_COURTS = [
     },
     {
         "image": "",
-        "courts": "4",
-        "name": "Jackson Park Anderson PB",
-        "address": "2200 Jackson St",
-        "city": "Anderson",
+        "courts": "6",
+        "name": "Kevin Hammersmith Memorial Park PB",
+        "address": "4400 Lewis Endres Pkwy",
+        "city": "New Albany",
         "state": "IN",
-        "zip": "46016",
-        "lat": 40.09439,
-        "lng": -85.68038,
+        "zip": "47150",
+        "lat": 38.35660,
+        "lng": -85.79695,
         "type": "Park"
     },
     {

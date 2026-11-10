@@ -2397,12 +2397,6 @@
     "source": "census",
     "matched": "1115 BROADWAY ST, ANDERSON, IN, 46012"
   },
-  "Jackson Park Anderson PB": {
-    "lat": 40.094386917894,
-    "lng": -85.680376777541,
-    "source": "census",
-    "matched": "2200 JACKSON ST, ANDERSON, IN, 46016"
-  },
   "Baker Park New Castle Dedicated PB": {
     "lat": 39.911373096163,
     "lng": -85.363866648862,
@@ -3006,5 +3000,11 @@
     "lat": 38.32074,
     "lng": -85.82012,
     "source": "census"
+  },
+  "Kevin Hammersmith Memorial Park PB": {
+    "lat": 38.3566,
+    "lng": -85.79695,
+    "source": "google_maps_direct",
+    "address": "4400 Lewis Endres Pkwy, New Albany, IN 47150"
   }
 }
