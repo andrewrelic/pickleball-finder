@@ -2962,12 +2962,6 @@
     "source": "photon",
     "matched": "Brazil Clay County Airport"
   },
-  "Kevin Hammersmith Memorial Park PB": {
-    "lat": 38.3078745,
-    "lng": -85.7739091,
-    "source": "photon",
-    "matched": "Clarksville Schwinn"
-  },
   "Finch Creek Fieldhouse PB Courts": {
     "lat": 40.02597,
     "lng": -85.9381,
@@ -3006,6 +3000,11 @@
   "Pickleball Euphoria Clarksville": {
     "lat": 38.35404,
     "lng": -85.74633,
+    "source": "census"
+  },
+  "Sam Peden Community Park Pickleball Courts": {
+    "lat": 38.32074,
+    "lng": -85.82012,
     "source": "census"
   }
 }

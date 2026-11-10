@@ -306,13 +306,13 @@ MID_INDIANA_WABASH_COURTS = [
     {
         "image": "",
         "courts": "6",
-        "name": "Kevin Hammersmith Memorial Park PB",
-        "address": "4400 Lewis and Clark Pkwy",
-        "city": "Clarksville",
+        "name": "Sam Peden Community Park Pickleball Courts",
+        "address": "3037 Grant Line Rd",
+        "city": "New Albany",
         "state": "IN",
-        "zip": "47129",
-        "lat": 38.30787,
-        "lng": -85.77391,
+        "zip": "47150",
+        "lat": 38.32074,
+        "lng": -85.82012,
         "type": "Park"
     },
 ]
