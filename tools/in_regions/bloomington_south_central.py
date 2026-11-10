@@ -1,0 +1,398 @@
+"""
+Bloomington & South Central Indiana Pickleball Courts (32 verified courts)
+Includes Monroe, Bartholomew, Lawrence, Jackson, Jennings, Brown, Decatur, Rush, Greene counties.
+"""
+
+BLOOMINGTON_SOUTH_CENTRAL_COURTS = [
+    # Bloomington & Monroe County (11 courts)
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Switchyard Park Pickleball Courts",
+        "address": "1601 S Rogers St",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47403",
+        "lat": 39.14949,
+        "lng": -86.53873,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "6",
+        "name": "RCA Community Park Pickleball Courts",
+        "address": "1400 W RCA Park Dr",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47403",
+        "lat": 39.14519,
+        "lng": -86.55007,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "8",
+        "name": "Bloomington Pickleball Warehouse",
+        "address": "1720 S Walnut St",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47401",
+        "lat": 39.14858,
+        "lng": -86.53321,
+        "type": "Business"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Sherwood Oaks Park Pickleball Courts",
+        "address": "1600 E Elliston Dr",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47401",
+        "lat": 39.12945,
+        "lng": -86.51360,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Twin Lakes Recreation Center PB",
+        "address": "1700 W Bloomfield Rd",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47403",
+        "lat": 39.15545,
+        "lng": -86.56255,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Park Ridge East Park Pickleball",
+        "address": "400 S Morningside Dr",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47408",
+        "lat": 39.16634,
+        "lng": -86.48138,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Bryan Park Pickleball Courts",
+        "address": "1001 S Henderson St",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47401",
+        "lat": 39.15641,
+        "lng": -86.52697,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "6",
+        "name": "Winslow Sports Complex PB",
+        "address": "2800 S Highland Ave",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47401",
+        "lat": 39.14447,
+        "lng": -86.51678,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Bloomington South High School Courts",
+        "address": "1965 S Walnut St",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47401",
+        "lat": 39.14508,
+        "lng": -86.53206,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Bloomington North High School Courts",
+        "address": "3901 N Kinser Pike",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47404",
+        "lat": 39.20103,
+        "lng": -86.54730,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Indiana University SRSC PB Courts",
+        "address": "1601 E Law Ln",
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47408",
+        "lat": 39.17405,
+        "lng": -86.51883,
+        "type": "Business"
+    },
+
+    # Columbus & Bartholomew County (9 courts)
+    {
+        "image": "",
+        "courts": "6",
+        "name": "Donner Park Pickleball Courts",
+        "address": "739 22nd St",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201",
+        "lat": 39.21991,
+        "lng": -85.91754,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "6",
+        "name": "NexusPark Circle K Fieldhouse PB",
+        "address": "2224 25th St",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201",
+        "lat": 39.22308,
+        "lng": -85.90153,
+        "type": "Business"
+    },
+    {
+        "image": "",
+        "courts": "2",
+        "name": "Mill Race Center Pickleball",
+        "address": "900 Lindsey St",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201",
+        "lat": 39.20673,
+        "lng": -85.92514,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "6",
+        "name": "Ceraland Park Pickleball Complex",
+        "address": "3989 S 525 E",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47203",
+        "lat": 39.16442,
+        "lng": -85.81389,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Foundation For Youth FFY Pickleball",
+        "address": "405 Hope Ave",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201",
+        "lat": 39.20318,
+        "lng": -85.89966,
+        "type": "Business"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Tipton Lakes Athletic Club PB",
+        "address": "4000 W Goeller Blvd",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201",
+        "lat": 39.19919,
+        "lng": -85.96944,
+        "type": "Business"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Richards Elementary Par 3 PB",
+        "address": "3311 Fairlawn Dr",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47203",
+        "lat": 39.23316,
+        "lng": -85.87116,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Clifty Park Pickleball Courts",
+        "address": "4500 E 25th St",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47203",
+        "lat": 39.22364,
+        "lng": -85.87059,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Lincoln Park Columbus PB Courts",
+        "address": "2501 25th St",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201",
+        "lat": 39.22299,
+        "lng": -85.89705,
+        "type": "Park"
+    },
+
+    # Lawrence, Jackson, Jennings, Brown (8 courts)
+    {
+        "image": "",
+        "courts": "6",
+        "name": "Wilson Park Bedford PB Complex",
+        "address": "2211 D St",
+        "city": "Bedford",
+        "state": "IN",
+        "zip": "47421",
+        "lat": 38.86116,
+        "lng": -86.48721,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Thornton Park Pickleball Courts",
+        "address": "1625 Q St",
+        "city": "Bedford",
+        "state": "IN",
+        "zip": "47421",
+        "lat": 38.85974,
+        "lng": -86.49454,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "6",
+        "name": "Gaiser Park Pickleball Complex",
+        "address": "300 S Chestnut St",
+        "city": "Seymour",
+        "state": "IN",
+        "zip": "47274",
+        "lat": 38.95582,
+        "lng": -85.88924,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Shields Park Pickleball Courts",
+        "address": "600 N Broadway St",
+        "city": "Seymour",
+        "state": "IN",
+        "zip": "47274",
+        "lat": 38.96488,
+        "lng": -85.88810,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "North Vernon City Park PB",
+        "address": "604 N State St",
+        "city": "North Vernon",
+        "state": "IN",
+        "zip": "47265",
+        "lat": 39.00897,
+        "lng": -85.63295,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Muscatatuck County Park PB",
+        "address": "325 N State Hwy 3",
+        "city": "North Vernon",
+        "state": "IN",
+        "zip": "47265",
+        "lat": 38.98950,
+        "lng": -85.61590,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Jimmy Nash City Park Pickleball Courts",
+        "address": "360 N Home Ave",
+        "city": "Martinsville",
+        "state": "IN",
+        "zip": "46151",
+        "lat": 39.43326,
+        "lng": -86.41545,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Brown County YMCA Pickleball",
+        "address": "105 Willow St",
+        "city": "Nashville",
+        "state": "IN",
+        "zip": "47448",
+        "lat": 39.19952,
+        "lng": -86.24009,
+        "type": "Business"
+    },
+
+    # Decatur, Rush, Greene (4 courts)
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Rebekah Park Greensburg PB",
+        "address": "115 E Park Rd",
+        "city": "Greensburg",
+        "state": "IN",
+        "zip": "47240",
+        "lat": 39.32979,
+        "lng": -85.51554,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Decatur County Family YMCA PB",
+        "address": "1 YMCA Way",
+        "city": "Greensburg",
+        "state": "IN",
+        "zip": "47240",
+        "lat": 39.34429,
+        "lng": -85.50073,
+        "type": "Business"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Rushville North Veterans Memorial Park",
+        "address": "600 N Sexton St",
+        "city": "Rushville",
+        "state": "IN",
+        "zip": "46173",
+        "lat": 39.61274,
+        "lng": -85.45093,
+        "type": "Park"
+    },
+    {
+        "image": "",
+        "courts": "4",
+        "name": "Humphreys Park Linton PB Courts",
+        "address": "1351 A St NE",
+        "city": "Linton",
+        "state": "IN",
+        "zip": "47441",
+        "lat": 39.03714,
+        "lng": -87.14949,
+        "type": "Park"
+    },
+]
