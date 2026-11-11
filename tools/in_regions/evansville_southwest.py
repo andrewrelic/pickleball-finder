@@ -310,14 +310,14 @@ EVANSVILLE_SOUTHWEST_COURTS = [
     },
     {
         "image": "",
-        "courts": "4",
-        "name": "Boonville High School PB Courts",
-        "address": "300 S 1st St",
-        "city": "Boonville",
+        "courts": "8",
+        "name": "Longfellow Park Pickleball Courts",
+        "address": "800 Longfellow Dr",
+        "city": "Washington",
         "state": "IN",
-        "zip": "47601",
-        "lat": 38.05260,
-        "lng": -87.27718,
+        "zip": "47501",
+        "lat": 38.66633,
+        "lng": -87.18521,
         "type": "Park"
     },
 
@@ -336,14 +336,14 @@ EVANSVILLE_SOUTHWEST_COURTS = [
     },
     {
         "image": "",
-        "courts": "6",
-        "name": "Jasper High School Pickleball Courts",
-        "address": "1600 St Charles St",
-        "city": "Jasper",
+        "courts": "3",
+        "name": "Garry E Cavan Park Pickleball Courts",
+        "address": "6485 Corydon Ridge Rd",
+        "city": "Georgetown",
         "state": "IN",
-        "zip": "47546",
-        "lat": 38.40271,
-        "lng": -86.95074,
+        "zip": "47122",
+        "lat": 38.27663,
+        "lng": -85.92600,
         "type": "Park"
     },
     {

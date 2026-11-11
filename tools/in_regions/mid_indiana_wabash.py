@@ -231,14 +231,14 @@ MID_INDIANA_WABASH_COURTS = [
     },
     {
         "image": "",
-        "courts": "6",
-        "name": "Kevin Hammersmith Memorial Park PB",
-        "address": "4400 Lewis Endres Pkwy",
-        "city": "New Albany",
+        "courts": "8",
+        "name": "Ray Lawrence Park",
+        "address": "1021 Irving Dr",
+        "city": "Clarksville",
         "state": "IN",
-        "zip": "47150",
-        "lat": 38.35660,
-        "lng": -85.79695,
+        "zip": "47129",
+        "lat": 38.30955,
+        "lng": -85.76038,
         "type": "Park"
     },
     {

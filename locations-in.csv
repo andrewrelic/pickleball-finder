@@ -42,7 +42,7 @@ picklr.png,12,The Picklr Castleton,6020 E 82nd St,Indianapolis,IN,46250,39.90776
 ,4,Wayne Township Recreation PB Courts,7010 W 56th St,Indianapolis,IN,46254,39.85261,-86.28479,Park,,wayne_township_recreation_pb_courts.csv
 ,4,Decatur Township Community PB Courts,5106 S High School Rd,Indianapolis,IN,46221,39.68991,-86.27000,Park,,decatur_township_community_pb_courts.csv
 ,6,Northwestway Park Pickleball Courts,5253 W 62nd St,Indianapolis,IN,46268,39.86613,-86.25029,Park,,northwestway_park_pickleball_courts.csv
-,4,Eagle Creek Park Pin Oak PB Courts,7840 W 56th St,Indianapolis,IN,46254,39.85309,-86.30028,Park,,eagle_creek_park_pin_oak_pb_courts.csv
+,4,The Retreat Northwest Pickleball,1130 Racquet Club N Dr,Indianapolis,IN,46260,39.92488,-86.17950,Business,,the_retreat_northwest_pickleball.csv
 ,4,Southwestway Park Pickleball,8400 S Mann Rd,Indianapolis,IN,46221,39.65536,-86.24537,Park,,southwestway_park_pickleball.csv
 ,4,Franklin Township Community Park PB,8801 E Edgewood Ave,Indianapolis,IN,46239,39.68020,-86.01088,Park,,franklin_township_community_park_pb.csv
 ,4,Martin Luther King Jr Park PB Courts,601 E 17th St,Indianapolis,IN,46202,39.79011,-86.14666,Park,,martin_luther_king_jr_park_pb_courts.csv
@@ -56,7 +56,7 @@ picklr.png,12,The Picklr Castleton,6020 E 82nd St,Indianapolis,IN,46250,39.90776
 ,4,Willard Park Pickleball Courts,1901 E Washington St,Indianapolis,IN,46201,39.76683,-86.12775,Park,,willard_park_pickleball_courts.csv
 ,4,Fall Creek and 30th PB Courts,3000 Fall Creek Pkwy N Dr,Indianapolis,IN,46205,39.81955,-86.13765,Park,,fall_creek_and_30th_pb_courts.csv
 ,6,Washington Park Pickleball Complex,3130 E 30th St,Indianapolis,IN,46218,39.81191,-86.11439,Park,,washington_park_pickleball_complex.csv
-,6,Arsenal Tech High School PB Courts,1500 E Michigan St,Indianapolis,IN,46201,39.77733,-86.13267,Park,,arsenal_tech_high_school_pb_courts.csv
+,6,Chapel Hill Park Pickleball Courts,900 Girls School Rd,Indianapolis,IN,46214,39.77656,-86.28854,Park,,chapel_hill_park_pickleball_courts.csv
 ,4,George Washington Community Courts,2215 W Washington St,Indianapolis,IN,46222,39.76516,-86.19917,Park,,george_washington_community_courts.csv
 ,4,Riverside Park Lined Courts,2420 E Riverside Dr,Indianapolis,IN,46208,39.80168,-86.19305,Park,,riverside_park_lined_courts.csv
 ,3,Riverside Family Center Indoor PB,2420 E Riverside Dr,Indianapolis,IN,46208,39.80170,-86.19321,Park,,riverside_family_center_indoor_pb.csv
@@ -69,14 +69,14 @@ picklr.png,12,The Picklr Castleton,6020 E 82nd St,Indianapolis,IN,46250,39.90776
 ,6,Perry Meridian Sports Complex PB,401 W Meridian School Rd,Indianapolis,IN,46217,39.64646,-86.16454,Park,,perry_meridian_sports_complex_pb.csv
 ,4,Southport City Park Pickleball Courts,6901 Derbyshire Rd,Southport,IN,46227,39.66188,-86.11665,Park,,southport_city_park_pickleball_courts.csv
 ,4,Meadowood Park Pickleball Courts,5700 W 30th St,Speedway,IN,46224,39.80937,-86.26035,Park,,meadowood_park_pickleball_courts.csv
-,4,Speedway Junior High PB Courts,5151 W 14th St,Speedway,IN,46224,39.78494,-86.24775,Park,,speedway_junior_high_pb_courts.csv
+,8,Go West Sports Pickleball Center,4215 W 86th St,Indianapolis,IN,46268,39.77724,-86.32566,Business,,go_west_sports_pickleball_center.csv
 ,4,Leonard Park Pickleball Courts,5400 W 15th St,Speedway,IN,46224,39.78566,-86.25273,Park,,leonard_park_pickleball_courts.csv
 ,4,Sarah T Bolton Park Pickleball,1300 Churchman Ave,Beech Grove,IN,46107,39.71736,-86.09856,Park,,sarah_t_bolton_park_pickleball.csv
 ,3,Beech Grove Community Center PB,5245 Hornet Ave,Beech Grove,IN,46107,39.71041,-86.07925,Park,,beech_grove_community_center_pb.csv
 ,2,Don Challis Park Pickleball Courts,1100 S 9th Ave,Beech Grove,IN,46107,39.70641,-86.09087,Park,,don_challis_park_pickleball_courts.csv
 ,6,Lawrence Community Park Pickleball,5301 N Franklin Rd,Lawrence,IN,46226,39.84955,-86.02611,Park,,lawrence_community_park_pickleball.csv
-,4,Fort Harrison State Park PB Courts,6000 N Post Rd,Lawrence,IN,46216,39.86839,-86.01934,Park,,fort_harrison_state_park_pb_courts.csv
-,4,Lawrence Soccer and PB Complex,4700 Richardt Ave,Lawrence,IN,46226,39.84234,-86.03674,Park,,lawrence_soccer_and_pb_complex.csv
+,8,Indianapolis Pickleball Club South,6650 Bluff Rd,Indianapolis,IN,46217,39.66934,-86.18071,Business,,indianapolis_pickleball_club_south.csv
+,4,Southside Park Pickleball Courts,1941 E Hanna Ave,Indianapolis,IN,46227,39.70761,-86.12513,Park,,southside_park_pickleball_courts.csv
 ,3,Jennings Field Pickleball Courts,5400 N Franklin Rd,Lawrence,IN,46226,39.85142,-86.02820,Park,,jennings_field_pickleball_courts.csv
 ,2,Dubarry Park Pickleball Courts,3698 N Dubarry Rd,Indianapolis,IN,46226,39.82077,-86.01634,Park,,dubarry_park_pickleball_courts.csv
 ,4,Grassy Creek Regional Park PB,10510 E 30th St,Indianapolis,IN,46229,39.81189,-85.97977,Park,,grassy_creek_regional_park_pb.csv
@@ -100,10 +100,10 @@ picklr.png,12,The Picklr Castleton,6020 E 82nd St,Indianapolis,IN,46250,39.90776
 ,4,Flowing Well Park Courts,1050 E 116th St,Carmel,IN,46032,39.95750,-86.13854,Park,,flowing_well_park_courts.csv
 ,4,Hazel Dell Park Pickleball Courts,12698 Hazel Dell Pkwy,Carmel,IN,46033,39.97106,-86.07084,Park,,hazel_dell_park_pickleball_courts.csv
 ,4,Founders Park Carmel PB Courts,11675 Hazel Dell Pkwy,Carmel,IN,46033,39.95939,-86.07307,Park,,founders_park_carmel_pb_courts.csv
-,8,Carmel High School Tennis & PB Courts,520 E Main St,Carmel,IN,46032,39.98007,-86.11987,Park,,carmel_high_school_tennis_pb_courts.csv
-,4,Creekside Middle School PB Courts,3525 W 126th St,Carmel,IN,46032,39.96845,-86.21990,Park,,creekside_middle_school_pb_courts.csv
-,4,Clay Middle School PB Courts,5150 E 126th St,Carmel,IN,46033,39.97278,-86.08250,Park,,clay_middle_school_pb_courts.csv
-,4,Carmel Ice Skadium PB Courts,1048 3rd Ave SW,Carmel,IN,46032,39.96466,-86.13247,Business,,carmel_ice_skadium_pb_courts.csv
+,12,3rd Shot Pickleball Indy,11625 N Pennsylvania St,Carmel,IN,46032,39.92761,-86.23596,Business,,3rd_shot_pickleball_indy.csv
+,4,Avian Glen Pickleball Courts,Avian Way,Carmel,IN,46033,39.98930,-86.07446,Park,,avian_glen_pickleball_courts.csv
+,4,Waterstone Clubhouse Pickleball,Waterstone Pkwy,Carmel,IN,46033,39.96173,-86.08768,Business,,waterstone_clubhouse_pickleball.csv
+,4,Woodland Springs Clubhouse PB,3020 E 106th St,Carmel,IN,46033,39.95582,-86.10269,Business,,woodland_springs_clubhouse_pb.csv
 ,8,Cyntheanne Park Pickleball Complex,12385 Cyntheanne Rd,Fishers,IN,46037,39.97158,-85.88080,Park,,cyntheanne_park_pickleball_complex.csv
 ,5,Roy G Holland Memorial Park PB,1 Park Dr,Fishers,IN,46038,39.96523,-86.02073,Park,,roy_g_holland_memorial_park_pb.csv
 ,4,Billericay Park Courts,12690 Promise Rd,Fishers,IN,46038,39.97436,-85.96913,Park,,billericay_park_courts.csv
@@ -118,9 +118,9 @@ picklr.png,12,The Picklr Castleton,6020 E 82nd St,Indianapolis,IN,46250,39.90776
 ,4,Fishers YMCA Pickleball Center,9012 E 126th St,Fishers,IN,46038,39.97289,-86.01032,Business,,fishers_ymca_pickleball_center.csv
 ,4,MashCraft Fishers Pickleball,11069 Allisonville Rd,Fishers,IN,46038,39.95074,-86.04160,Business,,mashcraft_fishers_pickleball.csv
 ,20,IPC North 24-7 Dink Fishers,10220 E 116th St,Fishers,IN,46037,39.95708,-85.98910,Business,,ipc_north_24_7_dink_fishers.csv
-,6,Fishers High School PB Courts,13000 Promise Rd,Fishers,IN,46038,39.97872,-85.96748,Park,,fishers_high_school_pb_courts.csv
-,6,Hamilton Southeastern HS PB Courts,13910 E 126th St,Fishers,IN,46037,39.97171,-85.91400,Park,,hamilton_southeastern_hs_pb_courts.csv
-,4,Riverside Junior High PB Courts,10910 Eller Rd,Fishers,IN,46038,39.94593,-86.06261,Park,,riverside_junior_high_pb_courts.csv
+,8,Matter Park Dedicated PB Courts,N River Dr,Marion,IN,46952,40.58722,-85.66673,Park,,matter_park_dedicated_pb_courts.csv
+,6,Marion Family YMCA PB Center,123 E 39th St,Marion,IN,46953,40.56261,-85.65842,Business,,marion_family_ymca_pb_center.csv
+,4,Wesley Free Methodist Church PB,3017 W 8th St,Anderson,IN,46011,40.10835,-85.72331,Business,,wesley_free_methodist_church_pb.csv
 ,4,Potter's Bridge Park Pickleball Courts,19401 Allisonville Rd,Noblesville,IN,46060,40.07207,-86.00387,Park,,potters_bridge_park_pickleball_courts.csv
 picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40.04646,-85.99159,Business,,the_picklr_noblesville.csv
 ,4,Finch Creek Park Pickleball Courts,16224 Boden Rd,Noblesville,IN,46060,40.02344,-85.93801,Park,,finch_creek_park_pickleball_courts.csv
@@ -132,10 +132,10 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Noblesville Boys and Girls Club PB,1700 Conner St,Noblesville,IN,46060,40.04712,-86.00303,Business,,noblesville_boys_and_girls_club_pb.csv
 ,4,Riverview Health Wellness PB,29799 State Rd 38,Noblesville,IN,46062,40.04562,-86.01224,Business,,riverview_health_wellness_pb.csv
 ,6,Finch Creek Fieldhouse PB Courts,16289 Boden Rd,Noblesville,IN,46060,40.02586,-85.93958,Business,,finch_creek_fieldhouse_pb_courts.csv
-,6,Noblesville High School PB Courts,18111 Cumberland Rd,Noblesville,IN,46060,40.05626,-85.99695,Park,,noblesville_high_school_pb_courts.csv
-,4,Noblesville West Middle School Courts,19900 Hague Rd,Noblesville,IN,46062,40.07671,-86.03144,Park,,noblesville_west_middle_school_courts.csv
+,4,Tipton City Park Dedicated PB Courts,S West St,Tipton,IN,46072,40.27583,-86.04382,Park,,tipton_city_park_dedicated_pb_courts.csv
+,6,TPA Park Pickleball Courts,1 Adrian Marks Way,Frankfort,IN,46041,40.29330,-86.50522,Park,,tpa_park_pickleball_courts.csv
 ,4,Hague Road Park Pickleball Courts,19200 Hague Rd,Noblesville,IN,46062,40.06722,-86.03347,Park,,hague_road_park_pickleball_courts.csv
-,6,Noblesville East Middle School PB Courts,16252 Boden Rd,Noblesville,IN,46060,40.02344,-85.93801,Park,,noblesville_east_middle_school_pb_courts.csv
+,6,Milligan Park Pickleball Courts,S Milligan Dr,Crawfordsville,IN,47933,40.04115,-86.87445,Park,,milligan_park_pickleball_courts.csv
 ,6,Quaker Park Pickleball Complex,17501 Dartown Rd,Westfield,IN,46074,40.04086,-86.15006,Park,,quaker_park_pickleball_complex.csv
 ,12,Grand Park Sports Campus PB Pavilion,19000 Grand Park Blvd,Westfield,IN,46074,40.06277,-86.15017,Park,,grand_park_sports_campus_pb_pavilion.csv
 ,6,Centennial Tennis and Pickleball Courts,14800 Declaration Dr,Westfield,IN,46074,40.01334,-86.16754,Park,,centennial_tennis_and_pickleball_courts.csv
@@ -143,16 +143,16 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Asa Bales Park Pickleball Courts,205 W Hoover St,Westfield,IN,46074,40.04914,-86.12970,Park,,asa_bales_park_pickleball_courts.csv
 ,4,Freedom Trail Park PB Courts,500 Deer Walk Trace,Westfield,IN,46074,40.04872,-86.12103,Park,,freedom_trail_park_pb_courts.csv
 ,4,Armstrong Park Westfield PB,16100 Oak Ridge Rd,Westfield,IN,46074,40.02187,-86.14598,Park,,armstrong_park_westfield_pb.csv
-,4,Wood Wind Golf Club Pickleball,2302 W 161st St,Westfield,IN,46074,40.02112,-86.20158,Business,,wood_wind_golf_club_pickleball.csv
-,6,Westfield High School PB Courts,18250 N Union St,Westfield,IN,46074,40.05152,-86.12967,Park,,westfield_high_school_pb_courts.csv
-,4,Westfield Middle School PB Courts,345 W Hoover St,Westfield,IN,46074,40.04850,-86.13197,Park,,westfield_middle_school_pb_courts.csv
+,4,Boys & Girls Club of Boone County PB,1575 S 1000 E,Zionsville,IN,46077,39.93717,-86.27807,Business,,boys_girls_club_of_boone_county_pb.csv
+,4,Concord Neighborhood Center PB,1310 S Meridian St,Indianapolis,IN,46225,39.75000,-86.15947,Business,,concord_neighborhood_center_pb.csv
+,8,Sportzone Indy Pickleball Hub,3901 W 62nd St,Indianapolis,IN,46268,39.87613,-86.24001,Business,,sportzone_indy_pickleball_hub.csv
 ,4,Monon Trail Crossing PB Courts,19600 Grand Park Blvd,Westfield,IN,46074,40.06272,-86.14817,Park,,monon_trail_crossing_pb_courts.csv
 ,4,Mulberry Fields Park Pickleball,9645 Whitestown Rd,Zionsville,IN,46077,39.96295,-86.28532,Park,,mulberry_fields_park_pickleball.csv
 ,4,Lions Park Zionsville Pickleball,115 S Elm St,Zionsville,IN,46077,39.95072,-86.26035,Park,,lions_park_zionsville_pickleball.csv
 ,4,Overley-Worman Park Pickleball Hub,6040 E 400 S,Zionsville,IN,46077,39.95004,-86.27889,Park,,overley_worman_park_pickleball_hub.csv
 ,4,Heritage Trail Park PB Courts,4050 S 875 E,Zionsville,IN,46077,39.98215,-86.30375,Park,,heritage_trail_park_pb_courts.csv
 ,4,Carter Station Park Pickleball,4230 S 875 E,Zionsville,IN,46077,39.97778,-86.30312,Park,,carter_station_park_pickleball.csv
-,4,Zionsville West Middle School Courts,5565 S 700 E,Whitestown,IN,46075,39.95960,-86.33447,Park,,zionsville_west_middle_school_courts.csv
+,6,West Indy Racquet Club PB,445 S Lynhurst Dr,Indianapolis,IN,46241,39.83511,-86.22979,Business,,west_indy_racquet_club_pb.csv
 ,4,Main Street Park Whitestown PB,4210 S Main St,Whitestown,IN,46075,39.97839,-86.34702,Park,,main_street_park_whitestown_pb.csv
 ,4,Panther Park Pickleball Courts,300 S Buck St,Whitestown,IN,46075,39.99427,-86.34828,Park,,panther_park_pickleball_courts.csv
 ,4,Abner Longley Park Dedicated PB Courts,1601 Longley Dr,Lebanon,IN,46052,40.03327,-86.46425,Park,,abner_longley_park_dedicated_pb_courts.csv
@@ -168,8 +168,8 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Williams Park Pickleball Courts,940 S Locust Ln,Brownsburg,IN,46112,39.82993,-86.40754,Park,,williams_park_pickleball_courts.csv
 ,4,Stephens Park Pickleball Hub,605 S Stephen Dr,Brownsburg,IN,46112,39.83411,-86.40298,Park,,stephens_park_pickleball_hub.csv
 ,4,Cardinal Park PB Complex,3432 Hornaday Rd,Brownsburg,IN,46112,39.81223,-86.38282,Park,,cardinal_park_pb_complex.csv
-,4,Brownsburg East Middle School Courts,1250 Airport Rd,Brownsburg,IN,46112,39.82275,-86.37411,Park,,brownsburg_east_middle_school_courts.csv
-,4,Brownsburg West Middle School Courts,1555 S Odell St,Brownsburg,IN,46112,39.82024,-86.38540,Park,,brownsburg_west_middle_school_courts.csv
+,10,The Picklr Avon,7954 E US Hwy 36,Avon,IN,46123,39.76308,-86.38238,Business,,the_picklr_avon.csv
+,4,Avon United Methodist Church PB,6850 E US Hwy 36,Avon,IN,46123,39.76367,-86.40376,Business,,avon_united_methodist_church_pb.csv
 ,4,Avon Town Hall Park Pickleball,6570 E US Hwy 36,Avon,IN,46123,39.76364,-86.40808,Park,,avon_town_hall_park_pickleball.csv
 ,6,Washington Township Park PB Courts,115 S County Rd 575 E,Avon,IN,46123,39.76063,-86.41957,Park,,washington_township_park_pb_courts.csv
 ,4,WWII Memorial Park Pickleball,7995 E US Hwy 36,Avon,IN,46123,39.74866,-86.38186,Park,,wwii_memorial_park_pickleball.csv
@@ -180,10 +180,10 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Northwest Park Pickleball Courts,1300 Fry Rd,Greenwood,IN,46142,39.62854,-86.14359,Park,,northwest_park_pickleball_courts.csv
 ,4,University Park PB Courts,200 Crestview Dr,Greenwood,IN,46143,39.63008,-86.10265,Park,,university_park_pb_courts.csv
 ,4,Greenwood Community Center PB,100 Surina Way,Greenwood,IN,46142,39.61138,-86.10481,Park,,greenwood_community_center_pb.csv
-,6,Otte Golf and PB Center,681 Sheek Rd,Greenwood,IN,46143,39.60789,-86.07535,Business,,otte_golf_and_pb_center.csv
+,4,Anderson Family YMCA PB Center,2629 Lindberg Rd,Anderson,IN,46012,40.11922,-85.64628,Business,,anderson_family_ymca_pb_center.csv
 ,4,Surina Way Park Pickleball,100 Surina Way,Greenwood,IN,46142,39.61138,-86.10481,Park,,surina_way_park_pickleball.csv
-,6,Greenwood High School PB Courts,615 W Smith Valley Rd,Greenwood,IN,46142,39.60290,-86.11746,Park,,greenwood_high_school_pb_courts.csv
-,6,Center Grove High School Courts,2717 S Morgantown Rd,Greenwood,IN,46143,39.57684,-86.19622,Park,,center_grove_high_school_courts.csv
+,4,General Pulaski Park Pickleball Courts,1100 W 8th St,Anderson,IN,46016,40.07554,-85.65974,Park,,general_pulaski_park_pickleball_courts.csv
+,4,Bethany Christian Church Pickleball,1920 N Rangeline Rd,Anderson,IN,46012,40.13445,-85.63301,Business,,bethany_christian_church_pickleball.csv
 ,4,Westside Park Greenwood PB,820 W Main St,Greenwood,IN,46142,39.61470,-86.12269,Park,,westside_park_greenwood_pb.csv
 ,6,Franklin Recreation Complex Courts,396 Branigin Blvd,Franklin,IN,46131,39.47658,-86.04752,Park,,franklin_recreation_complex_courts.csv
 ,4,Blue Heron Park Pickleball Courts,405 Driftwood Ct,Franklin,IN,46131,39.47195,-86.06595,Park,,blue_heron_park_pickleball_courts.csv
@@ -197,26 +197,26 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Edinburgh Sports Complex PB,722 S Eisenhower Dr,Edinburgh,IN,46124,39.34488,-85.97347,Park,,edinburgh_sports_complex_pb.csv
 ,6,Jimmy Nash City Park Pickleball,360 N Home Ave,Martinsville,IN,46151,39.43257,-86.41595,Park,,jimmy_nash_city_park_pickleball.csv
 ,4,Barbara B Jordan YMCA PB,2039 E Morgan St,Martinsville,IN,46151,39.42946,-86.40398,Business,,barbara_b_jordan_ymca_pb.csv
-,4,Martinsville High School PB Courts,1360 E Gray St,Martinsville,IN,46151,39.42783,-86.42833,Park,,martinsville_high_school_pb_courts.csv
+,4,Brookville Pickleball Courts,1000 6th St,Brookville,IN,47012,39.42303,-85.01272,Park,,brookville_pickleball_courts.csv
 ,6,Pioneer Park Mooresville PB,1101 Indianapolis Rd,Mooresville,IN,46158,39.62755,-86.36026,Park,,pioneer_park_mooresville_pb.csv
-,4,Mooresville High School PB Courts,550 N Indiana St,Mooresville,IN,46158,39.61855,-86.37679,Park,,mooresville_high_school_pb_courts.csv
+,4,Bright Christian Church Pickleball,24457 State Line Rd,Lawrenceburg,IN,47025,39.22468,-84.85977,Business,,bright_christian_church_pickleball.csv
 ,4,Old Town Park Mooresville PB,150 N Park Dr,Mooresville,IN,46158,39.60825,-86.36771,Park,,old_town_park_mooresville_pb.csv
 ,6,Riley Park Greenfield Pickleball,Apple St and US 40,Greenfield,IN,46140,39.78644,-85.75567,Park,,riley_park_greenfield_pickleball.csv
 ,4,Brandywine Park Pickleball Courts,900 E Davis Rd,Greenfield,IN,46140,39.77394,-85.75683,Park,,brandywine_park_pickleball_courts.csv
 ,4,Hancock Wellness Center Greenfield,888 W New Rd,Greenfield,IN,46140,39.81482,-85.78228,Business,,hancock_wellness_center_greenfield.csv
 ,4,Beckenholdt Park Pickleball Courts,2304 N Franklin St,Greenfield,IN,46140,39.82643,-85.79934,Park,,beckenholdt_park_pickleball_courts.csv
-,6,Greenfield-Central High School Courts,810 N Broadway St,Greenfield,IN,46140,39.79296,-85.78151,Park,,greenfield_central_high_school_courts.csv
+,2,Hancock County Memorial Building PB,98 E North St,Greenfield,IN,46140,39.78649,-85.76842,Business,,hancock_county_memorial_building_pb.csv
 ,4,McCordsville Town Center Park,7575 N Forman Dr,McCordsville,IN,46055,39.89429,-85.91978,Park,,mccordsville_town_center_park.csv
 ,4,Landmark Park Fortville PB,216 E Michigan St,Fortville,IN,46040,39.93520,-85.84901,Park,,landmark_park_fortville_pb.csv
 ,4,Memorial Park Fortville PB Courts,400 W Church St,Fortville,IN,46040,39.93293,-85.85475,Park,,memorial_park_fortville_pb_courts.csv
 ,4,Sugar Creek Township Park PB,4115 S 700 W,New Palestine,IN,46163,39.72468,-85.93256,Park,,sugar_creek_township_park_pb.csv
-,4,New Palestine High School Courts,4485 S Victory Dr,New Palestine,IN,46163,39.71866,-85.89055,Park,,new_palestine_high_school_courts.csv
+,3,Carl McNeely Civic Center PB,South Tompkins St,Shelbyville,IN,46176,39.51408,-85.77969,Park,,carl_mcneely_civic_center_pb.csv
 ,8,Blue River Memorial Park PB Complex,725 Lee Blvd,Shelbyville,IN,46176,39.53050,-85.75527,Park,,blue_river_memorial_park_pb_complex.csv
 ,4,Meridian Park Pickleball Courts,1111 S Meridian St,Shelbyville,IN,46176,39.52144,-85.77692,Park,,meridian_park_pickleball_courts.csv
 ,4,Shelby County Family YMCA PB Hub,2120 Intelliplex Dr,Shelbyville,IN,46176,39.55742,-85.77641,Business,,shelby_county_family_ymca_pb_hub.csv
 ,4,Morrison Park Pickleball Courts,400 S West St,Shelbyville,IN,46176,39.51639,-85.78295,Park,,morrison_park_pickleball_courts.csv
 ,4,Sunset Park Pickleball Courts,600 Sunset Dr,Shelbyville,IN,46176,39.52818,-85.78741,Park,,sunset_park_pickleball_courts.csv
-,6,Shelbyville High School PB Courts,2003 S Miller St,Shelbyville,IN,46176,39.50577,-85.79256,Park,,shelbyville_high_school_pb_courts.csv
+,4,SE Indiana YMCA Pickleball Center,30 State Rd 129 S,Batesville,IN,47006,39.28820,-85.20147,Business,,se_indiana_ymca_pickleball_center.csv
 ,4,Kennedy Park Shelbyville PB,215 Kennedy Dr,Shelbyville,IN,46176,39.52641,-85.76373,Park,,kennedy_park_shelbyville_pb.csv
 ,4,Waldron Community Park PB,200 S Main St,Waldron,IN,46182,39.45346,-85.66696,Park,,waldron_community_park_pb.csv
 ,8,Fort Wayne Pickleball Club,5310 Merchandise Dr,Fort Wayne,IN,46825,41.12663,-85.15087,Business,,fort_wayne_pickleball_club.csv
@@ -227,7 +227,7 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,5,Lions Park Fort Wayne PB,3299 Carew St,Fort Wayne,IN,46805,41.10619,-85.10878,Park,,lions_park_fort_wayne_pb.csv
 ,4,Kettler Park Pickleball Courts,5715 Buell Dr,Fort Wayne,IN,46807,41.03329,-85.14180,Park,,kettler_park_pickleball_courts.csv
 ,8,Tillman Park Pickleball Hub,600 E Tillman Rd,Fort Wayne,IN,46816,41.01550,-85.13043,Park,,tillman_park_pickleball_hub.csv
-,10,Wayne High School Pickleball Courts,9100 Winchester Rd,Fort Wayne,IN,46819,40.99962,-85.13985,Park,,wayne_high_school_pickleball_courts.csv
+,21,Power Courts Pickleball,5310 Merchandise Dr,Fort Wayne,IN,46825,41.12663,-85.15087,Business,,power_courts_pickleball.csv
 ,2,Riverside Park Fort Wayne PB,1208 Riverside Dr,Fort Wayne,IN,46805,41.07948,-85.13629,Park,,riverside_park_fort_wayne_pb.csv
 ,6,Shoaff Park Pickleball Courts,6401 St Joe Rd,Fort Wayne,IN,46835,41.14048,-85.09340,Park,,shoaff_park_pickleball_courts.csv
 ,6,Kreager Park Pickleball Complex,7225 N River Rd,Fort Wayne,IN,46815,41.09022,-85.04023,Park,,kreager_park_pickleball_complex.csv
@@ -242,16 +242,16 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Jackson R Lehman Family YMCA,5680 YMCA Park Dr W,Fort Wayne,IN,46835,41.13211,-85.07032,Business,,jackson_r_lehman_family_ymca.csv
 ,4,Parkview Family YMCA PB Hub,10001 N Clinton St,Fort Wayne,IN,46825,41.17749,-85.07782,Business,,parkview_family_ymca_pb_hub.csv
 ,2,Skyline YMCA Pickleball,855 Webster St,Fort Wayne,IN,46802,41.07814,-85.14202,Business,,skyline_ymca_pickleball.csv
-,6,Homestead High School Courts,4310 Homestead Rd,Fort Wayne,IN,46814,41.04273,-85.28647,Park,,homestead_high_school_courts.csv
-,6,Snider High School Courts,4600 Fairlawn Pass,Fort Wayne,IN,46815,41.10773,-85.08243,Park,,snider_high_school_courts.csv
-,6,Carroll High School Courts,3701 Carroll Rd,Fort Wayne,IN,46818,41.18995,-85.19364,Park,,carroll_high_school_courts.csv
-,6,Northrop High School Courts,7001 Coldwater Rd,Fort Wayne,IN,46825,41.14574,-85.13945,Park,,northrop_high_school_courts.csv
-,4,Concordia Lutheran High School Courts,1601 St Joe River Dr,Fort Wayne,IN,46805,41.10984,-85.11767,Park,,concordia_lutheran_high_school_courts.csv
-,4,Bishop Luers High School Courts,333 E Paulding Rd,Fort Wayne,IN,46816,41.03194,-85.13370,Park,,bishop_luers_high_school_courts.csv
-,4,Memorial Coliseum PB Pavilion,4000 Parnell Ave,Fort Wayne,IN,46805,41.11464,-85.12425,Park,,memorial_coliseum_pb_pavilion.csv
+,8,SportONE Parkview Fieldhouse PB,6545 Lima Rd,Fort Wayne,IN,46818,41.11332,-85.14607,Business,,sportone_parkview_fieldhouse_pb.csv
+,3,Lancaster Park Dedicated Pickleball Courts,200 Jackson St,Bluffton,IN,46714,40.78519,-85.16218,Park,,lancaster_park_dedicated_pickleball_courts.csv
+,4,Washington Park Dedicated PB Courts,723 S Mulberry St,Bluffton,IN,46714,40.73289,-85.16789,Park,,washington_park_dedicated_pb_courts.csv
+,4,Wells Community Aquatic Park PB,304 W Spring St,Bluffton,IN,46714,40.72816,-85.17449,Park,,wells_community_aquatic_park_pb.csv
+,4,Lifehouse Church Pickleball,1601 W Cedar Canyons Rd,Fort Wayne,IN,46845,41.23445,-85.16421,Business,,lifehouse_church_pickleball.csv
+,4,First Assembly of God Fort Wayne PB,1400 W Washington Center Rd,Fort Wayne,IN,46825,41.13371,-85.15722,Business,,first_assembly_of_god_fort_wayne_pb.csv
+,4,Purdue University Fort Wayne Gates Center PB,2101 E Coliseum Blvd,Fort Wayne,IN,46805,41.11920,-85.10751,Business,,purdue_university_fort_wayne_gates_center_pb.csv
 ,4,Rockhill Park Pickleball Courts,1400 Catalpa St,Fort Wayne,IN,46802,41.07371,-85.17710,Park,,rockhill_park_pickleball_courts.csv
 ,4,Lawton Park Pickleball Courts,1900 N Clinton St,Fort Wayne,IN,46805,41.08870,-85.13831,Park,,lawton_park_pickleball_courts.csv
-,4,Reservoir Park Pickleball Courts,2300 S Clinton St,Fort Wayne,IN,46803,41.06344,-85.13432,Park,,reservoir_park_pickleball_courts.csv
+,3,Huntington Memorial Park Dedicated PB,1200 W Park Dr,Huntington,IN,46750,40.87967,-85.51061,Park,,huntington_memorial_park_dedicated_pb.csv
 ,4,Bob Arnold Northside Park PB,1004 E State Blvd,Fort Wayne,IN,46805,41.09830,-85.13136,Park,,bob_arnold_northside_park_pb.csv
 ,4,Weisser Park Pickleball Courts,802 Eckart St,Fort Wayne,IN,46806,41.05552,-85.12525,Park,,weisser_park_pickleball_courts.csv
 ,4,Jury Park Pickleball Courts,1702 Glencoe Blvd,New Haven,IN,46774,41.06418,-85.00450,Park,,jury_park_pickleball_courts.csv
@@ -262,14 +262,14 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Eckhart Park Pickleball Courts,1500 S Cedar St,Auburn,IN,46706,41.35805,-85.05313,Park,,eckhart_park_pickleball_courts.csv
 ,4,Memorial Park Auburn PB,800 N Main St,Auburn,IN,46706,41.36130,-85.06426,Park,,memorial_park_auburn_pb.csv
 ,4,Auburn Family YMCA Pickleball,533 North St,Auburn,IN,46706,41.37169,-85.06504,Business,,auburn_family_ymca_pickleball.csv
-,4,DeKalb High School Courts,3424 County Rd 427,Waterloo,IN,46793,41.40672,-85.04060,Park,,dekalb_high_school_courts.csv
+,4,Auburn Memorial Park Pickleball,800 N Main St,Auburn,IN,46706,41.36130,-85.06426,Park,,auburn_memorial_park_pickleball.csv
 ,4,Commons Park Angola PB Courts,299 S Wayne St,Angola,IN,46703,41.63324,-84.99118,Park,,commons_park_angola_pb_courts.csv
 ,6,Trine University MTI Center PB,1 University Ave,Angola,IN,46703,41.63093,-85.01477,Business,,trine_university_mti_center_pb.csv
 ,4,Steuben County YMCA Pickleball,500 E Harcourt Rd,Angola,IN,46703,41.65504,-84.99363,Business,,steuben_county_ymca_pickleball.csv
 ,2,Firemens Park Angola PB,1000 W Gilmore St,Angola,IN,46703,41.64023,-84.99540,Park,,firemens_park_angola_pb.csv
 ,4,Bixler Lake Park Pickleball Courts,600 Park Ave,Kendallville,IN,46755,41.44335,-85.25153,Park,,bixler_lake_park_pickleball_courts.csv
 ,4,Cole Center Family YMCA PB,700 S Garden St,Kendallville,IN,46755,41.43615,-85.25874,Business,,cole_center_family_ymca_pb.csv
-,4,East Noble High School Courts,901 S Garden St,Kendallville,IN,46755,41.43477,-85.25747,Park,,east_noble_high_school_courts.csv
+,4,YMCA of Steuben County PB Center,500 E Harcourt Rd,Angola,IN,46703,41.65504,-84.99363,Business,,ymca_of_steuben_county_pb_center.csv
 ,4,Kekionga Park Pickleball Courts,1111 S Adams St,Decatur,IN,46733,40.82164,-84.91080,Park,,kekionga_park_pickleball_courts.csv
 ,4,Riverside Center Decatur PB,231 E Monroe St,Decatur,IN,46733,40.83235,-84.92051,Park,,riverside_center_decatur_pb.csv
 ,4,Lehman Park Berne PB Courts,500 S Parkway Dr,Berne,IN,46711,40.65782,-84.95191,Park,,lehman_park_berne_pb_courts.csv
@@ -278,7 +278,7 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,2,Pickett Park Pickleball Courts,1200 S Main St,Bluffton,IN,46714,40.72807,-85.17122,Park,,pickett_park_pickleball_courts.csv
 ,6,Morsches Park Pickleball Complex,1035 E State Rd 205,Columbia City,IN,46725,41.15705,-85.48839,Park,,morsches_park_pickleball_complex.csv
 ,4,Whitley County Family YMCA PB,951 E US 30,Columbia City,IN,46725,41.15718,-85.47321,Business,,whitley_county_family_ymca_pb.csv
-,4,Columbia City High School PB Courts,600 N Whitley St,Columbia City,IN,46725,41.15705,-85.48839,Park,,columbia_city_high_school_pb_courts.csv
+,6,Columbia City Public Pickleball Courts,510 N Wayne St,Columbia City,IN,46725,41.16322,-85.48290,Park,,columbia_city_public_pickleball_courts.csv
 ,4,Memorial Park Huntington PB,1200 W Park Dr,Huntington,IN,46750,40.87967,-85.51061,Park,,memorial_park_huntington_pb.csv
 ,4,Parkview Huntington Family YMCA,1160 W 500 N,Huntington,IN,46750,40.90365,-85.48678,Business,,parkview_huntington_family_ymca.csv
 ,4,John Drook Skate and PB Park Wabash,1100 N Cass St,Wabash,IN,46992,40.80628,-85.82936,Park,,john_drook_skate_and_pb_park_wabash.csv
@@ -291,11 +291,11 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Sauerman Woods Park Pickleball,1000 E South St,Crown Point,IN,46307,41.41219,-87.34972,Park,,sauerman_woods_park_pickleball.csv
 ,4,Southlake Family YMCA PB Courts,1450 S Court St,Crown Point,IN,46307,41.39226,-87.36826,Business,,southlake_family_ymca_pb_courts.csv
 ,4,Lake County Fairgrounds PB Courts,889 S Court St,Crown Point,IN,46307,41.40088,-87.36996,Park,,lake_county_fairgrounds_pb_courts.csv
-,6,Crown Point High School PB Courts,1500 S Main St,Crown Point,IN,46307,41.38978,-87.36079,Park,,crown_point_high_school_pb_courts.csv
+,4,Freedom Park Dedicated PB Courts,17105 Cline Ave,Lowell,IN,46356,41.30823,-87.42670,Park,,freedom_park_dedicated_pb_courts.csv
 ,3,White Oak Park Pickleball Courts,9700 White Oak Ave,Munster,IN,46321,41.53618,-87.49059,Park,,white_oak_park_pickleball_courts.csv
 ,4,Frank H Hammond Park PB Courts,1101 Fran-Lin Pkwy,Munster,IN,46321,41.54367,-87.50083,Park,,frank_h_hammond_park_pb_courts.csv
 ,6,Munster Community Park PB Courts,8601 Calumet Ave,Munster,IN,46321,41.55657,-87.50696,Park,,munster_community_park_pb_courts.csv
-,6,Munster High School PB Courts,8808 Columbia Ave,Munster,IN,46321,41.55454,-87.50481,Park,,munster_high_school_pb_courts.csv
+,6,Lincoln Community Center Fieldhouse PB,2450 Lincoln St,Highland,IN,46322,41.55020,-87.46920,Business,,lincoln_community_center_fieldhouse_pb.csv
 ,4,Beech Park Pickleball Courts,8101 Beech Ave,Munster,IN,46321,41.56459,-87.49320,Park,,beech_park_pickleball_courts.csv
 ,4,Grove Park Pickleball Courts,8201 Hohman Ave,Munster,IN,46321,41.56389,-87.50403,Park,,grove_park_pickleball_courts.csv
 ,8,Rohrman Park Pickleball Complex,6750 Rohrman Rd,Schererville,IN,46375,41.47415,-87.42485,Park,,rohrman_park_pickleball_complex.csv
@@ -317,7 +317,7 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,6,Dean and Barbara White Center PB,6600 Broadway,Merrillville,IN,46410,41.49794,-87.33710,Park,,dean_and_barbara_white_center_pb.csv
 ,4,Hidden Lake Park Pickleball,6355 Broadway,Merrillville,IN,46410,41.50164,-87.33018,Park,,hidden_lake_park_pickleball.csv
 ,4,Pruzin Community Center PB,5750 Tyler St,Merrillville,IN,46410,41.51394,-87.34758,Park,,pruzin_community_center_pb.csv
-,6,Merrillville High School PB Courts,276 E 68th Pl,Merrillville,IN,46410,41.49445,-87.32987,Park,,merrillville_high_school_pb_courts.csv
+,4,Chesterton Park Dedicated PB Courts,651 W Morgan Ave,Chesterton,IN,46304,41.61059,-87.06420,Park,,chesterton_park_dedicated_pb_courts.csv
 ,4,Prairie West Park Pickleball,9359 W 93rd Ave,St John,IN,46373,41.44978,-87.44739,Park,,prairie_west_park_pickleball.csv
 ,4,Heartland Park Pickleball Courts,10600 White Oak Ave,St John,IN,46373,41.42634,-87.49309,Park,,heartland_park_pickleball_courts.csv
 ,4,Dyer Central Park Pickleball,2144 213th St,Dyer,IN,46311,41.50350,-87.50499,Park,,dyer_central_park_pickleball.csv
@@ -337,7 +337,7 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Rogers-Lakewood Park PB Courts,5500 N Campbell St,Valparaiso,IN,46385,41.51663,-87.06592,Park,,rogers_lakewood_park_pb_courts.csv
 ,4,Fairgrounds Park Valparaiso PB,704 Butterfield Rd,Valparaiso,IN,46383,41.47927,-87.05306,Park,,fairgrounds_park_valparaiso_pb.csv
 ,4,Westside Park Valparaiso PB,153 S Washington St,Valparaiso,IN,46383,41.46650,-87.06087,Park,,westside_park_valparaiso_pb.csv
-,6,Valparaiso High School PB Courts,2727 N Campbell St,Valparaiso,IN,46385,41.49309,-87.06780,Park,,valparaiso_high_school_pb_courts.csv
+,4,Duneland Family YMCA Pickleball,215 Roosevelt St,Chesterton,IN,46304,41.60909,-87.04253,Business,,duneland_family_ymca_pickleball.csv
 ,5,Woodland Park Pickleball Complex,2100 Willowcreek Rd,Portage,IN,46368,41.59148,-87.18639,Park,,woodland_park_pickleball_complex.csv
 ,4,Imagination Glen Park PB Courts,2275 McCool Rd,Portage,IN,46368,41.58659,-87.14358,Park,,imagination_glen_park_pb_courts.csv
 ,4,Portage Township YMCA PB Courts,3100 Willowcreek Rd,Portage,IN,46368,41.56222,-87.18446,Business,,portage_township_ymca_pb_courts.csv
@@ -349,8 +349,8 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Hansen Park Pickleball Courts,100 E 8th St,Michigan City,IN,46360,41.71830,-86.88915,Park,,hansen_park_pickleball_courts.csv
 ,4,Patriot Park Pickleball Courts,801 Lake Ave,Michigan City,IN,46360,41.72545,-86.89090,Park,,patriot_park_pickleball_courts.csv
 ,4,Krueger Memorial Park PB Courts,801 Liberty Trail,Michigan City,IN,46360,41.72191,-86.87096,Park,,krueger_memorial_park_pb_courts.csv
-,6,Michigan City High School Courts,8466 W Pahs Rd,Michigan City,IN,46360,41.67822,-86.86281,Park,,michigan_city_high_school_courts.csv
-,4,Elston Middle School PB Courts,317 Detroit St,Michigan City,IN,46360,41.70966,-86.89490,Park,,elston_middle_school_pb_courts.csv
+,4,Coffee Creek Center Pickleball,175 S Franklin St,Chesterton,IN,46304,41.61059,-87.06420,Business,,coffee_creek_center_pickleball.csv
+,4,La Porte County YMCA Pickleball Hub,901 Michigan Ave,La Porte,IN,46350,41.61008,-86.71909,Business,,la_porte_county_ymca_pickleball_hub.csv
 ,6,Kesling Park Pickleball Complex,2150 Kesling Rd,La Porte,IN,46350,41.58422,-86.71962,Park,,kesling_park_pickleball_complex.csv
 ,4,Clarke Park Pickleball Courts,100 Clarke St,La Porte,IN,46350,41.61114,-86.72272,Park,,clarke_park_pickleball_courts.csv
 ,4,Soldiers Memorial Park PB Courts,250 Pine Lake Ave,La Porte,IN,46350,41.61643,-86.74076,Park,,soldiers_memorial_park_pb_courts.csv
@@ -377,8 +377,8 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Castle Manor Park PB Courts,801 W 8th St,Mishawaka,IN,46544,41.65514,-86.19035,Park,,castle_manor_park_pb_courts.csv
 ,4,Normain Park Pickleball Courts,200 Normain Dr,Mishawaka,IN,46545,41.68147,-86.17929,Park,,normain_park_pickleball_courts.csv
 ,4,Elm Rd Harris Township Park PB,51520 Elm Rd,Granger,IN,46530,41.74525,-86.13841,Park,,elm_rd_harris_township_park_pb.csv
-,4,Granger Community Paths Courts,14000 State Rd 23,Granger,IN,46530,41.75332,-86.13976,Park,,granger_community_paths_courts.csv
-,4,Heritage Square PB Center,7020 Heritage Square Dr,Granger,IN,46530,41.72571,-86.17486,Business,,heritage_square_pb_center.csv
+,6,Pringle Park Dedicated PB Courts,1912 W Lincoln Ave,Goshen,IN,46526,41.58524,-85.86434,Park,,pringle_park_dedicated_pb_courts.csv
+,4,Cummins Park Pickleball Courts,200 W Vistula St,Bristol,IN,46507,41.72216,-85.82039,Park,,cummins_park_pickleball_courts.csv
 ,6,Studebaker Park RiverCover PB,1020 McDonald St,Elkhart,IN,46516,41.67658,-85.95472,Park,,studebaker_park_rivercover_pb.csv
 ,8,Model School Park Pickleball Courts,412 S Greene Rd,Goshen,IN,46526,41.58314,-85.86686,Park,,model_school_park_pickleball_courts.csv
 ,4,Pierre Moran Park PB Courts,2121 W Lusher Ave,Elkhart,IN,46517,41.66673,-86.00364,Park,,pierre_moran_park_pb_courts.csv
@@ -427,9 +427,9 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,6,Ohio Township Park PB,3511 Libbert Rd,Newburgh,IN,47630,37.98432,-87.41534,Park,,ohio_township_park_pb.csv
 ,4,Boonville City Park Pickleball,209 N 5th St,Boonville,IN,47601,38.04888,-87.27197,Park,,boonville_city_park_pickleball.csv
 ,4,Scales Lake Park PB Courts,800 W Tennyson Rd,Boonville,IN,47601,38.05466,-87.25691,Park,,scales_lake_park_pb_courts.csv
-,4,Boonville High School PB Courts,300 S 1st St,Boonville,IN,47601,38.05260,-87.27718,Park,,boonville_high_school_pb_courts.csv
+,8,Longfellow Park Pickleball Courts,800 Longfellow Dr,Washington,IN,47501,38.66633,-87.18521,Park,,longfellow_park_pickleball_courts.csv
 ,6,Bohnert Park Pickleball Complex,525 W 7th St,Jasper,IN,47546,38.39202,-86.93781,Park,,bohnert_park_pickleball_complex.csv
-,6,Jasper High School Pickleball Courts,1600 St Charles St,Jasper,IN,47546,38.40271,-86.95074,Park,,jasper_high_school_pickleball_courts.csv
+,3,Garry E Cavan Park Pickleball Courts,6485 Corydon Ridge Rd,Georgetown,IN,47122,38.27663,-85.92600,Park,,garry_e_cavan_park_pickleball_courts.csv
 ,4,Ruxer Courts Pickleball Jasper,500 S Clay St,Jasper,IN,47546,38.38491,-86.94434,Park,,ruxer_courts_pickleball_jasper.csv
 ,4,Southside Park Huntingburg PB,400 S Main St,Huntingburg,IN,47542,38.29894,-86.95500,Park,,southside_park_huntingburg_pb.csv
 ,4,Huntingburg City Park PB Courts,203 S Cherry St,Huntingburg,IN,47542,38.29894,-86.95500,Park,,huntingburg_city_park_pb_courts.csv
@@ -450,8 +450,8 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,4,Park Ridge East Park Pickleball,400 S Morningside Dr,Bloomington,IN,47408,39.16574,-86.48875,Park,,park_ridge_east_park_pickleball.csv
 ,4,Bryan Park Pickleball Courts,1001 S Henderson St,Bloomington,IN,47401,39.15568,-86.52572,Park,,bryan_park_pickleball_courts.csv
 ,6,Winslow Sports Complex PB,2800 S Highland Ave,Bloomington,IN,47401,39.13860,-86.51522,Park,,winslow_sports_complex_pb.csv
-,4,Bloomington South High School Courts,1965 S Walnut St,Bloomington,IN,47401,39.14299,-86.52913,Park,,bloomington_south_high_school_courts.csv
-,4,Bloomington North High School Courts,3901 N Kinser Pike,Bloomington,IN,47404,39.19927,-86.54852,Park,,bloomington_north_high_school_courts.csv
+,4,Karst Farm Park Pickleball Courts,2450 S Endwright Rd,Bloomington,IN,47403,39.13925,-86.59745,Park,,karst_farm_park_pickleball_courts.csv
+,6,Monroe County YMCA Pickleball Center,2125 S Highland Ave,Bloomington,IN,47401,39.14152,-86.51608,Business,,monroe_county_ymca_pickleball_center.csv
 ,4,Indiana University SRSC PB Courts,1601 E Law Ln,Bloomington,IN,47408,39.17352,-86.51240,Business,,indiana_university_srsc_pb_courts.csv
 ,6,Donner Park Pickleball Courts,739 22nd St,Columbus,IN,47201,39.21605,-85.91745,Park,,donner_park_pickleball_courts.csv
 ,6,NexusPark Circle K Fieldhouse PB,2224 25th St,Columbus,IN,47201,39.22548,-85.89969,Business,,nexuspark_circle_k_fieldhouse_pb.csv
@@ -459,7 +459,7 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,6,Ceraland Park Pickleball Complex,3989 S 525 E,Columbus,IN,47203,39.16473,-85.81403,Park,,ceraland_park_pickleball_complex.csv
 ,4,Foundation For Youth FFY Pickleball,405 Hope Ave,Columbus,IN,47201,39.20291,-85.89900,Business,,foundation_for_youth_ffy_pickleball.csv
 ,4,Tipton Lakes Athletic Club PB,4000 W Goeller Blvd,Columbus,IN,47201,39.19919,-85.96945,Business,,tipton_lakes_athletic_club_pb.csv
-,4,Richards Elementary Par 3 PB,3311 Fairlawn Dr,Columbus,IN,47203,39.23416,-85.86974,Park,,richards_elementary_par_3_pb.csv
+,6,Liberty Park Pickleball Courts,716 S Park Ave,Batesville,IN,47006,39.29074,-85.22015,Park,,liberty_park_pickleball_courts.csv
 ,4,Clifty Park Pickleball Courts,4500 E 25th St,Columbus,IN,47203,39.22426,-85.87148,Park,,clifty_park_pickleball_courts.csv
 ,4,Lincoln Park Columbus PB Courts,2501 25th St,Columbus,IN,47201,39.22091,-85.89759,Park,,lincoln_park_columbus_pb_courts.csv
 ,6,Wilson Park Bedford PB Complex,2211 D St,Bedford,IN,47421,38.85517,-86.49634,Park,,wilson_park_bedford_pb_complex.csv
@@ -492,7 +492,7 @@ picklr.png,19,The Picklr Noblesville,17219 Foundation Dr,Noblesville,IN,46060,40
 ,8,PickleHouse Muncie Indoor,405 S High St,Muncie,IN,47305,40.19040,-85.38811,Business,,picklehouse_muncie_indoor.csv
 ,4,Tuhey Park Pickleball Courts,500 W White River Blvd,Muncie,IN,47303,40.19641,-85.39178,Park,,tuhey_park_pickleball_courts.csv
 ,6,Shadyside Memorial Park PB Complex,1115 Broadway,Anderson,IN,46012,40.12632,-85.67815,Park,,shadyside_memorial_park_pb_complex.csv
-,6,Kevin Hammersmith Memorial Park PB,4400 Lewis Endres Pkwy,New Albany,IN,47150,38.35660,-85.79695,Park,,kevin_hammersmith_memorial_park_pb.csv
+,8,Ray Lawrence Park,1021 Irving Dr,Clarksville,IN,47129,38.30955,-85.76038,Park,,ray_lawrence_park.csv
 ,3,Baker Park New Castle Dedicated PB,2200 S 14th St,New Castle,IN,47362,39.91213,-85.37201,Park,,baker_park_new_castle_dedicated_pb.csv
 ,4,Glen Miller Park Richmond PB,2200 E Main St,Richmond,IN,47374,39.83569,-84.86331,Park,,glen_miller_park_richmond_pb.csv
 ,6,Goodbounce Pickleball Club Clarksville,1220 Eastern Blvd,Clarksville,IN,47129,38.30597,-85.76728,Business,,goodbounce_pickleball_club_clarksville.csv

@@ -117,14 +117,14 @@ NORTHWEST_INDIANA_COURTS = [
     },
     {
         "image": "",
-        "courts": "6",
-        "name": "Crown Point High School PB Courts",
-        "address": "1500 S Main St",
-        "city": "Crown Point",
+        "courts": "4",
+        "name": "Freedom Park Dedicated PB Courts",
+        "address": "17105 Cline Ave",
+        "city": "Lowell",
         "state": "IN",
-        "zip": "46307",
-        "lat": 41.38978,
-        "lng": -87.36079,
+        "zip": "46356",
+        "lat": 41.30823,
+        "lng": -87.42670,
         "type": "Park"
     },
 
@@ -168,14 +168,14 @@ NORTHWEST_INDIANA_COURTS = [
     {
         "image": "",
         "courts": "6",
-        "name": "Munster High School PB Courts",
-        "address": "8808 Columbia Ave",
-        "city": "Munster",
+        "name": "Lincoln Community Center Fieldhouse PB",
+        "address": "2450 Lincoln St",
+        "city": "Highland",
         "state": "IN",
-        "zip": "46321",
-        "lat": 41.55454,
-        "lng": -87.50481,
-        "type": "Park"
+        "zip": "46322",
+        "lat": 41.55020,
+        "lng": -87.46920,
+        "type": "Business"
     },
     {
         "image": "",
@@ -439,14 +439,14 @@ NORTHWEST_INDIANA_COURTS = [
     },
     {
         "image": "",
-        "courts": "6",
-        "name": "Merrillville High School PB Courts",
-        "address": "276 E 68th Pl",
-        "city": "Merrillville",
+        "courts": "4",
+        "name": "Chesterton Park Dedicated PB Courts",
+        "address": "651 W Morgan Ave",
+        "city": "Chesterton",
         "state": "IN",
-        "zip": "46410",
-        "lat": 41.49445,
-        "lng": -87.32987,
+        "zip": "46304",
+        "lat": 41.61059,
+        "lng": -87.06420,
         "type": "Park"
     },
 
@@ -685,15 +685,15 @@ NORTHWEST_INDIANA_COURTS = [
     },
     {
         "image": "",
-        "courts": "6",
-        "name": "Valparaiso High School PB Courts",
-        "address": "2727 N Campbell St",
-        "city": "Valparaiso",
+        "courts": "4",
+        "name": "Duneland Family YMCA Pickleball",
+        "address": "215 Roosevelt St",
+        "city": "Chesterton",
         "state": "IN",
-        "zip": "46385",
-        "lat": 41.49309,
-        "lng": -87.06780,
-        "type": "Park"
+        "zip": "46304",
+        "lat": 41.60909,
+        "lng": -87.04253,
+        "type": "Business"
     },
 
     # Portage (4 courts)
@@ -835,27 +835,27 @@ NORTHWEST_INDIANA_COURTS = [
     },
     {
         "image": "",
-        "courts": "6",
-        "name": "Michigan City High School Courts",
-        "address": "8466 W Pahs Rd",
-        "city": "Michigan City",
+        "courts": "4",
+        "name": "Coffee Creek Center Pickleball",
+        "address": "175 S Franklin St",
+        "city": "Chesterton",
         "state": "IN",
-        "zip": "46360",
-        "lat": 41.67822,
-        "lng": -86.86281,
-        "type": "Park"
+        "zip": "46304",
+        "lat": 41.61059,
+        "lng": -87.06420,
+        "type": "Business"
     },
     {
         "image": "",
         "courts": "4",
-        "name": "Elston Middle School PB Courts",
-        "address": "317 Detroit St",
-        "city": "Michigan City",
+        "name": "La Porte County YMCA Pickleball Hub",
+        "address": "901 Michigan Ave",
+        "city": "La Porte",
         "state": "IN",
-        "zip": "46360",
-        "lat": 41.70966,
-        "lng": -86.89490,
-        "type": "Park"
+        "zip": "46350",
+        "lat": 41.61008,
+        "lng": -86.71909,
+        "type": "Business"
     },
     {
         "image": "",

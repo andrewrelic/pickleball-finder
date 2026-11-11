@@ -526,14 +526,14 @@ INDY_METRO_COURTS = [
     {
         "image": "",
         "courts": "4",
-        "name": "Eagle Creek Park Pin Oak PB Courts",
-        "address": "7840 W 56th St",
+        "name": "The Retreat Northwest Pickleball",
+        "address": "1130 Racquet Club N Dr",
         "city": "Indianapolis",
         "state": "IN",
-        "zip": "46254",
-        "lat": 39.85309,
-        "lng": -86.30028,
-        "type": "Park"
+        "zip": "46260",
+        "lat": 39.92488,
+        "lng": -86.17950,
+        "type": "Business"
     },
     {
         "image": "",
@@ -694,13 +694,13 @@ INDY_METRO_COURTS = [
     {
         "image": "",
         "courts": "6",
-        "name": "Arsenal Tech High School PB Courts",
-        "address": "1500 E Michigan St",
+        "name": "Chapel Hill Park Pickleball Courts",
+        "address": "900 Girls School Rd",
         "city": "Indianapolis",
         "state": "IN",
-        "zip": "46201",
-        "lat": 39.77733,
-        "lng": -86.13267,
+        "zip": "46214",
+        "lat": 39.77656,
+        "lng": -86.28854,
         "type": "Park"
     },
     {
@@ -851,15 +851,15 @@ INDY_METRO_COURTS = [
     },
     {
         "image": "",
-        "courts": "4",
-        "name": "Speedway Junior High PB Courts",
-        "address": "5151 W 14th St",
-        "city": "Speedway",
+        "courts": "8",
+        "name": "Go West Sports Pickleball Center",
+        "address": "4215 W 86th St",
+        "city": "Indianapolis",
         "state": "IN",
-        "zip": "46224",
-        "lat": 39.78494,
-        "lng": -86.24775,
-        "type": "Park"
+        "zip": "46268",
+        "lat": 39.77724,
+        "lng": -86.32566,
+        "type": "Business"
     },
     {
         "image": "",
@@ -927,26 +927,26 @@ INDY_METRO_COURTS = [
     },
     {
         "image": "",
-        "courts": "4",
-        "name": "Fort Harrison State Park PB Courts",
-        "address": "6000 N Post Rd",
-        "city": "Lawrence",
+        "courts": "8",
+        "name": "Indianapolis Pickleball Club South",
+        "address": "6650 Bluff Rd",
+        "city": "Indianapolis",
         "state": "IN",
-        "zip": "46216",
-        "lat": 39.86839,
-        "lng": -86.01934,
-        "type": "Park"
+        "zip": "46217",
+        "lat": 39.66934,
+        "lng": -86.18071,
+        "type": "Business"
     },
     {
         "image": "",
         "courts": "4",
-        "name": "Lawrence Soccer and PB Complex",
-        "address": "4700 Richardt Ave",
-        "city": "Lawrence",
+        "name": "Southside Park Pickleball Courts",
+        "address": "1941 E Hanna Ave",
+        "city": "Indianapolis",
         "state": "IN",
-        "zip": "46226",
-        "lat": 39.84234,
-        "lng": -86.03674,
+        "zip": "46227",
+        "lat": 39.70761,
+        "lng": -86.12513,
         "type": "Park"
     },
     {

@@ -120,6 +120,13 @@ def main():
                 with open(hours_path, 'w', encoding='utf-8') as hf:
                     hf.write(PARK_HOURS_CONTENT)
 
+    # Clean up stale hours files not in the active 500 courts
+    for d in (HOURS_DIR, ASSETS_HOURS_DIR):
+        if os.path.exists(d):
+            for fname in os.listdir(d):
+                if fname.endswith('.csv') and fname not in seen_hours_slugs:
+                    os.remove(os.path.join(d, fname))
+
     assert len(output_rows) == 500, f"Expected 500 rows, got {len(output_rows)}"
 
     # Write locations-in.csv

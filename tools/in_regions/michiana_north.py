@@ -252,27 +252,27 @@ MICHIANA_NORTH_COURTS = [
     },
     {
         "image": "",
-        "courts": "4",
-        "name": "Granger Community Paths Courts",
-        "address": "14000 State Rd 23",
-        "city": "Granger",
+        "courts": "6",
+        "name": "Pringle Park Dedicated PB Courts",
+        "address": "1912 W Lincoln Ave",
+        "city": "Goshen",
         "state": "IN",
-        "zip": "46530",
-        "lat": 41.75332,
-        "lng": -86.13976,
+        "zip": "46526",
+        "lat": 41.58524,
+        "lng": -85.86434,
         "type": "Park"
     },
     {
         "image": "",
         "courts": "4",
-        "name": "Heritage Square PB Center",
-        "address": "7020 Heritage Square Dr",
-        "city": "Granger",
+        "name": "Cummins Park Pickleball Courts",
+        "address": "200 W Vistula St",
+        "city": "Bristol",
         "state": "IN",
-        "zip": "46530",
-        "lat": 41.72571,
-        "lng": -86.17486,
-        "type": "Business"
+        "zip": "46507",
+        "lat": 41.72216,
+        "lng": -85.82039,
+        "type": "Park"
     },
 
     # Elkhart County (12 courts)
