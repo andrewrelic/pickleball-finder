@@ -1,295 +1,501 @@
 image,courts,name,address,city,state,zip,lat,lng,type,cam,hours
-,1,PKL Boston,64 C St,Boston,MA,02127,42.33851,-71.05451,Business,,pkl_boston.csv
-,1,Carter Playground Pickleball Courts,709 Columbus Ave,Boston,MA,02118,42.33812,-71.08451,Park,,
-,1,Moakley Park Pickleball Courts,1005 Columbia Rd,Boston,MA,02127,42.32851,-71.05121,Park,,
-,1,Ronan Park,135 Adams St,Dorchester,MA,02122,42.30451,-71.06121,Park,,
-,1,Hoyt Field,13 Gilmore St,Cambridge,MA,02139,42.36121,-71.11451,Park,,
-,1,Foss Park,Fellsway W and Broadway,Somerville,MA,02145,42.38851,-71.08851,Park,,
-,1,Amory Park,45 Amory St,Brookline,MA,02446,42.34851,-71.11851,Park,,
-,1,Newton Centre Playground,81 Tyler Terr,Newton Centre,MA,02459,42.33121,-71.19451,Park,,
-,1,Cabot Park,109 Cabot St,Newton,MA,02458,42.34730,-71.19398,Park,,
-,1,Kincaide Park,Water St and Crescent St,Quincy,MA,02169,42.24121,-70.99451,Park,,
-,1,Merrymount Park,1 Merrymount Pkwy,Quincy,MA,02169,42.25611,-71.00696,Park,,
-,1,Dedham Health and Athletic Complex,400 Washington St,Dedham,MA,02026,42.24451,-71.17121,Business,,dedham_health_and_athletic_complex.csv
-,1,Mills Field,80 Gould St,Needham,MA,02494,42.30839,-71.23203,Park,,
-,1,Cornelia Warren Park,210 Waverley Oaks Rd,Waltham,MA,02452,42.38451,-71.21851,Park,,
-,1,Tufts Park,431 Main St,Medford,MA,02155,42.40451,-71.11121,Park,,
-,1,Amerige Park,200 Fellsway E,Malden,MA,02148,42.42669,-71.08590,Park,,
-,1,Bosse Pickleball,141 Boston Post Rd,Sudbury,MA,01776,42.36121,-71.41121,Business,,bosse_pickleball.csv
-picklr.png,1,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42.68451,-71.13451,Business,,picklr_north_andover.csv
-,1,Westborough Tennis and Pickleball Club,35 Chauncy St,Westborough,MA,01581,42.27451,-71.61451,Business,,westborough_tennis_and_pickleball_club.csv
-,1,Wayside Athletic Club,80 Broadmeadow St,Marlborough,MA,01752,42.33851,-71.53451,Business,,wayside_athletic_club.csv
-,1,Ghiloni Park,239 Concord Rd,Marlborough,MA,01752,42.35851,-71.51451,Park,,
-,1,Butterworth Park,40 Grant St,Framingham,MA,01702,42.27927,-71.41230,Park,,
-,1,Cushing Memorial Park,Keefe Way,Framingham,MA,01702,42.26851,-71.41451,Park,,
-,1,Natick Memorial Beach Courts,117 E Central St,Natick,MA,01760,42.28851,-71.33451,Park,,
-,1,Life Time Athletic Framingham,490 Old Connecticut Path,Framingham,MA,01701,42.31121,-71.39851,Business,,lifetime_athletic_framingham.csv
-,1,Life Time Athletic Westwood,44 Harvard St,Westwood,MA,02090,42.20451,-71.17851,Business,,lifetime_athletic_westwood.csv
-,1,Life Time Athletic Burlington,186 Middlesex Turnpike,Burlington,MA,01803,42.49851,-71.19851,Business,,lifetime_athletic_burlington.csv
-,1,Simonds Park,10 Bedford St,Burlington,MA,01803,42.50851,-71.20451,Park,,
-,1,Walsh Field,178 Washington St,Winchester,MA,01890,42.45451,-71.13851,Park,,
-,1,Beverly Golf and Tennis Club,134 McKay St,Beverly,MA,01915,42.56451,-70.88451,Business,,beverly_golf_and_tennis_club.csv
-,1,Patton Park,644 Bay Rd,South Hamilton,MA,01982,42.62451,-70.85451,Park,,
-,1,Forest River Park,32 Clifton Ave,Salem,MA,01970,42.50851,-70.89121,Park,,
-,1,Danvers Indoor Sports,150 Andover St,Danvers,MA,01923,42.55121,-70.95451,Business,,danvers_indoor_sports.csv
-,1,Manning Park,39 Manning St,Ipswich,MA,01938,42.67851,-70.84121,Park,,
-,1,Shedd Park,433 Boylston St,Lowell,MA,01852,42.61982,-71.28065,Park,,
-,1,Mulligan Park,215 Salem St,Lawrence,MA,01843,42.69700,-71.16376,Park,,
-,1,Pomeroy Park,150 West St,Haverhill,MA,01832,42.72308,-71.03182,Park,,
-,1,Starland Sportsplex,637 Washington St,Hanover,MA,02339,42.12451,-70.84451,Business,,starland_sportsplex.csv
-,1,South Shore YMCA Emilson Branch,75 Mill St,Hanover,MA,02339,42.13851,-70.85451,Business,,south_shore_ymca_emilson_branch.csv
-,1,Braintree High School Courts,128 Town St,Braintree,MA,02184,42.20851,-71.01121,Park,,
-,1,Whitman Town Park,1 Whitman Ave,Whitman,MA,02382,42.08121,-70.93451,Park,,
-,1,Marshfield Community Park,96 Library St,Marshfield,MA,02050,42.09121,-70.71451,Park,,
-,1,Plymouth Tennis and Pickleball Club,165 S Meadow Rd,Plymouth,MA,02360,41.91121,-70.73851,Business,,plymouth_tennis_and_pickleball_club.csv
-,1,Forges Field Sports Complex,83 Jordan Rd,Plymouth,MA,02360,41.90904,-70.62909,Park,,
-,1,Falmouth Sports Center,33 Highfield Dr,Falmouth,MA,02540,41.55451,-70.61451,Business,,falmouth_sports_center.csv
-,1,Gifford Street Courts,141 Gifford St,Falmouth,MA,02540,41.55851,-70.60851,Park,,
-,1,Johnny Kelley Recreation Area,180 Old Bass River Rd,South Dennis,MA,02660,41.69920,-70.16120,Park,,
-,1,Oak Ridge School Courts,260 Quaker Meetinghouse Rd,East Sandwich,MA,02537,41.72128,-70.46140,Park,,
-,1,Brooks Park,1 Oak St,Harwich,MA,02645,41.68851,-70.07121,Park,,
-,1,Lake Park Pickleball Courts,283 Lake Ave,Worcester,MA,01604,42.26396,-71.75450,Park,,
-,1,Green Hill Park,50 Skyline Dr,Worcester,MA,01605,42.27851,-71.77851,Park,,
-,1,Worcester Fitness,440 Grove St,Worcester,MA,01605,42.29451,-71.80851,Business,,worcester_fitness.csv
-,1,Fore Kicks Sports Complex,219 Forest St,Marlborough,MA,01752,42.32851,-71.56451,Business,,fore_kicks_sports_complex.csv
-,1,Forest Park Pickleball Courts,200 Sumner Ave,Springfield,MA,01108,42.08121,-72.56851,Park,,
-,1,Blunt Park,1780 Roosevelt Ave,Springfield,MA,01109,42.12451,-72.54451,Park,,
-,1,Look Memorial Park,300 N Main St,Florence,MA,01062,42.33851,-72.67851,Park,,
-,1,Amherst Regional High Courts,21 Mattoon St,Amherst,MA,01002,42.37851,-72.51851,Park,,
-,1,Berkshire West Athletic Club,100 Dan Fox Dr,Pittsfield,MA,01201,42.41121,-73.26451,Business,,berkshire_west_athletic_club.csv
-,1,Springside Park,874 N St,Pittsfield,MA,01201,42.46851,-73.24451,Park,,
-,1,Boston Common Courts,Charles St & Boylston St,Boston,MA,02116,42.35241,-71.06912,Park,,
-,1,East Boston Memorial Park,143 Porter St,East Boston,MA,02128,42.37121,-71.03121,Park,,
-,1,Ryan Playground,53 River St,Mattapan,MA,02126,42.27121,-71.07451,Park,,
-,1,Billings Field,369 LaGrange St,West Roxbury,MA,02132,42.28021,-71.15707,Park,,
-,1,Kelly Field,Turtle Pond Pkwy,Hyde Park,MA,02136,42.25851,-71.13451,Park,,
-,1,McKinney Playground,64 Faneuil St,Brighton,MA,02135,42.35451,-71.15851,Park,,
-,1,Doherty Playground,St Martin St,Charlestown,MA,02129,42.37851,-71.06451,Park,,
-,1,Titus Sparrow Park,200 W Newton St,Boston,MA,02118,42.34451,-71.08121,Park,,
-,1,Cassidy Playground,Beacon St & Chestnut Hill Ave,Brighton,MA,02135,42.33581,-71.15121,Park,,
-,1,Aspinwall Recreation Area,Aspinwall Ave,Brookline,MA,02446,42.33851,-71.12121,Park,,
-,1,Waldstein Playground Dean Park,Dean Rd,Brookline,MA,02445,42.33812,-71.14121,Park,,
-,1,Danehy Park,99 Sherman St,Cambridge,MA,02140,42.38851,-71.13121,Park,,
-,1,Sennott Park,Norfolk St & Broadway,Cambridge,MA,02139,42.36851,-71.09851,Park,,
-,1,Dilboy Stadium Courts,110 Alewife Brook Pkwy,Somerville,MA,02144,42.40851,-71.12851,Park,,
-,1,Lincoln Park,Lincoln Pkwy & Perry St,Somerville,MA,02143,42.37851,-71.09851,Park,,
-,1,Glendale Park,Elm St & Ferry St,Everett,MA,02149,42.41121,-71.05451,Park,,
-,1,Highland Park,Highland Ave,Chelsea,MA,02150,42.39851,-71.03451,Park,,
-,1,Revere Beach Recreation Courts,Revere Beach Blvd,Revere,MA,02151,42.41851,-70.98851,Park,,
-,1,Ingleside Park,Ingleside Ave,Winthrop,MA,02152,42.37451,-70.98451,Park,,
-,1,Manning Field Courts,76 Locust St,Lynn,MA,01904,42.47851,-70.95451,Park,,
-,1,Keaney Park,Broadway,Lynn,MA,01904,42.48451,-70.97121,Park,,
-,1,Higgins Middle School Courts,85 Perkins St,Peabody,MA,01960,42.52851,-70.94121,Park,,
-,1,Emerson Park,Perkins St,Peabody,MA,01960,42.52451,-70.93121,Park,,
-,1,Seaside Park,Atlantic Ave,Marblehead,MA,01945,42.49851,-70.85121,Park,,
-,1,Phillips Park,Humphrey St,Swampscott,MA,01907,42.47451,-70.90851,Park,,
-,1,Stage Fort Park,Hough Ave,Gloucester,MA,01930,42.60851,-70.67851,Park,,
-,1,Evans Field,Centennial Ave,Rockport,MA,01966,42.65851,-70.62121,Park,,
-,1,Sweeney Park,Summer St,Manchester-by-the-Sea,MA,01944,42.57851,-70.77121,Park,,
-,1,Woodsom Farm Courts,Lions Mouth Rd,Amesbury,MA,01913,42.85851,-70.95121,Park,,
-,1,Cashman Park,Sally Snyder Way,Newburyport,MA,01950,42.81851,-70.87851,Park,,
-,1,Atkinson Common,High St,Newburyport,MA,01950,42.82121,-70.89121,Park,,
-,1,Salisbury Lions Park,Lafayette Rd,Salisbury,MA,01952,42.83851,-70.85851,Park,,
-,1,Georgetown Middle High Courts,Winter St,Georgetown,MA,01833,42.72851,-70.98851,Park,,
-,1,Eiras Park,Tenney St,Rowley,MA,01969,42.71851,-70.88451,Park,,
-,1,Andover High School Courts,Shawsheen Rd,Andover,MA,01810,42.65121,-71.14851,Park,,
-,1,Andover Recreation Park,Abbot St,Andover,MA,01810,42.64851,-71.13851,Park,,
-,1,Gill Ave Courts,Gill Ave,Methuen,MA,01844,42.72451,-71.18451,Park,,
-,1,Tenney Street Park,Tenney St,Methuen,MA,01844,42.73121,-71.17121,Park,,
-,1,McCarthy Middle School Courts,250 North Rd,Chelmsford,MA,01824,42.60851,-71.36851,Park,,
-,1,Billerica Memorial High Courts,35 River St,Billerica,MA,01821,42.55851,-71.27121,Park,,
-,1,Livingston Street Recreation Complex,Livingston St,Tewksbury,MA,01876,42.61121,-71.22851,Park,,
-,1,Monahan Park,Brookline Rd,Dracut,MA,01826,42.66851,-71.31121,Park,,
-,1,Lake Quannapowitt Courts,Church St,Wakefield,MA,01880,42.50851,-71.07451,Park,,
-,1,Stoneham Common Courts,Central St,Stoneham,MA,02180,42.47851,-71.10121,Park,,
-,1,Pine Banks Park,Main St,Malden,MA,02148,42.44451,-71.06851,Park,,
-,1,Melrose High School Courts,Lynn Fells Pkwy,Melrose,MA,02176,42.46121,-71.06121,Park,,
-,1,Woburn High School Courts,Montvale Ave,Woburn,MA,01801,42.47851,-71.14451,Park,,
-,1,Horn Pond Recreation Area,Sturgis St,Woburn,MA,01801,42.46851,-71.15851,Park,,
-,1,North Reading Town Common Courts,Park St,North Reading,MA,01864,42.57851,-71.08121,Park,,
-,1,Wilmington Town Park,Main St,Wilmington,MA,01887,42.55121,-71.17121,Park,,
-,1,NARA Park,25 Ledge Rock Way,Acton,MA,01720,42.51468,-71.41169,Park,,
-,1,Emerson Playground,Stow St,Concord,MA,01742,42.45851,-71.35121,Park,,
-,1,Center Recreation Complex,Worthen Rd,Lexington,MA,02421,42.44851,-71.23121,Park,,
-,1,Muzzey Courts,Mass Ave,Lexington,MA,02420,42.44121,-71.21851,Park,,
-,1,Springs Brook Park,Springs Rd,Bedford,MA,01730,42.50121,-71.27121,Park,,
-,1,Winn Brook Courts,Cross St,Belmont,MA,02478,42.40451,-71.17121,Park,,
-,1,Grove Street Courts,Grove St,Belmont,MA,02478,42.38851,-71.16121,Park,,
-,1,Victory Field,Orchard St,Watertown,MA,02472,42.37121,-71.18451,Park,,
-,1,Casey Park,Watertown St,Watertown,MA,02472,42.36451,-71.17121,Park,,
-,1,Peirce Field Arlington,Park Ave,Arlington,MA,02476,42.42121,-71.17851,Park,,
-,1,Spy Pond Park,Pond Ln,Arlington,MA,02474,42.41121,-71.14851,Park,,
-,1,Nipper Maher Park,South St,Waltham,MA,02453,42.36121,-71.24851,Park,,
-,1,Prospect Hill Park,Totten Pond Rd,Waltham,MA,02451,42.39121,-71.25851,Park,,
-,1,Weston Middle School Courts,Alphabet Ln,Weston,MA,02493,42.36851,-71.30851,Park,,
-,1,Wayland High School Courts,Old Connecticut Path,Wayland,MA,01778,42.35121,-71.36121,Park,,
-,1,Codman Park,Lincoln Rd,Lincoln,MA,01773,42.42121,-71.30451,Park,,
-,1,Wellesley High School Courts,Rice St,Wellesley,MA,02482,42.29851,-71.29121,Park,,
-,1,Sprague Fields,School Way,Wellesley,MA,02481,42.30451,-71.27851,Park,,
-,1,DeFazio Park,Dedham Ave,Needham,MA,02492,42.27121,-71.23121,Park,,
-,1,Caryl Community Center Courts,Springdale Ave,Dover,MA,02030,42.24121,-71.28451,Park,,
-,1,Laurel Field,Western Ave,Sherborn,MA,01770,42.23451,-71.37121,Park,,
-,1,Goodwill Park,Green St,Holliston,MA,01746,42.20121,-71.42451,Park,,
-,1,Fruit Street Athletic Complex,Fruit St,Hopkinton,MA,01748,42.25121,-71.51851,Park,,
-,1,Stone Park,Park Rd,Ashland,MA,01721,42.26121,-71.46451,Park,,
-,1,Crowe Park,Seymour St,Maynard,MA,01754,42.43451,-71.45851,Park,,
-,1,Stow Town Park,Great Rd,Stow,MA,01775,42.43851,-71.50451,Park,,
-,1,Flerra Meadows,Boxmill Rd,Boxborough,MA,01719,42.48451,-71.51121,Park,,
-,1,Shattuck Street Courts,Shattuck St,Littleton,MA,01460,42.53851,-71.49851,Park,,
-,1,Robinson School Courts,Concord Rd,Westford,MA,01886,42.57121,-71.41121,Park,,
-,1,Groton Town Field,Hollis St,Groton,MA,01450,42.61121,-71.57121,Park,,
-,1,Pirone Park,Bligh St,Ayer,MA,01432,42.56121,-71.58851,Park,,
-,1,Pepperell Town Field,Main St,Pepperell,MA,01463,42.66851,-71.59451,Park,,
-,1,Faxon Field,Hollis Ave,Quincy,MA,02169,42.25121,-71.01121,Park,,
-,1,Pond Meadow Park,Liberty St,Braintree,MA,02184,42.19851,-71.00451,Park,,
-,1,Legion Memorial Field,Commercial St,Weymouth,MA,02188,42.22121,-70.94121,Park,,
-,1,Great Pond Park,Columbian St,Weymouth,MA,02190,42.18851,-70.96121,Park,,
-,1,Carlson Field,Bare Cove Park Dr,Hingham,MA,02043,42.23451,-70.90851,Park,,
-,1,Cronin Field,Main St,Hingham,MA,02043,42.23851,-70.88451,Park,,
-,1,Kenberma Playground,Kenberma St,Hull,MA,02045,42.29121,-70.86121,Park,,
-,1,Milliken Field,Summer St,Cohasset,MA,02025,42.24121,-70.80451,Park,,
-,1,Scituate High School Courts,First Parish Rd,Scituate,MA,02066,42.19851,-70.74121,Park,,
-,1,Woodworth Park,Main St,Norwell,MA,02061,42.16121,-70.79121,Park,,
-,1,Rockland Memorial Park,Forest St,Rockland,MA,02370,42.13121,-70.91451,Park,,
-,1,Island Grove Park,Park Ave,Abington,MA,02351,42.11851,-70.94851,Park,,
-,1,East Bridgewater High Courts,Plymouth St,East Bridgewater,MA,02333,42.03121,-70.95851,Park,,
-,1,West Bridgewater Friendship Park,Howard St,West Bridgewater,MA,02379,42.01851,-71.01121,Park,,
-,1,Bridgewater Legion Field,Bedford St,Bridgewater,MA,02324,41.98851,-70.97121,Park,,
-,1,Bridgewater-Raynham High Courts,Mt Prospect St,Bridgewater,MA,02324,41.99121,-70.98451,Park,,
-,1,DW Field Park,Oak St,Brockton,MA,02301,42.10851,-71.04121,Park,,
-,1,Salisbury Park,Montello St,Brockton,MA,02301,42.07851,-71.01451,Park,,
-,1,Peirce Playground,Jackson St,Middleborough,MA,02346,41.89121,-70.91121,Park,,
-,1,Ted Williams Camp Courts,Bedford St,Lakeville,MA,02347,41.84851,-70.94121,Park,,
-,1,Carver Middle High School Courts,S Meadow Rd,Carver,MA,02330,41.88121,-70.77121,Park,,
-,1,Reed Community Building Courts,Main St,Kingston,MA,02364,41.99851,-70.72851,Park,,
-,1,Duxbury High School Courts,St George St,Duxbury,MA,02332,42.04851,-70.68851,Park,,
-,1,Mattakeesett Field,Mattakeesett St,Pembroke,MA,02359,42.06451,-70.80121,Park,,
-,1,Halifax Town Hall Courts,Plymouth St,Halifax,MA,02338,41.99121,-70.86121,Park,,
-,1,Hanson Town Hall Field,High St,Hanson,MA,02341,42.07121,-70.88121,Park,,
-,1,Brooklawn Park,1997 Acushnet Ave,New Bedford,MA,02745,41.67346,-70.92407,Park,,
-,1,Buttonwood Park,Rockdale Ave,New Bedford,MA,02740,41.63451,-70.95121,Park,,
-,1,Kennedy Park,S Main St,Fall River,MA,02721,41.69121,-71.16121,Park,,
-,1,Bicentennial Park,Davol St,Fall River,MA,02720,41.71451,-71.15851,Park,,
-,1,Crapo Field,Russells Mills Rd,Dartmouth,MA,02748,41.59121,-70.99851,Park,,
-,1,Westport Town Hall Annex Courts,Main Rd,Westport,MA,02790,41.57121,-71.10851,Park,,
-,1,Livesey Park,Parker St,Fairhaven,MA,02719,41.64451,-70.89851,Park,,
-,1,Pope Beach Courts,Manhattan Ave,Fairhaven,MA,02719,41.62851,-70.88451,Park,,
-,1,Acushnet Elementary Courts,Middle Rd,Acushnet,MA,02743,41.68121,-70.90851,Park,,
-,1,Old Hammondtown School Courts,Shaw St,Mattapoisett,MA,02739,41.66121,-70.81451,Park,,
-,1,Old Rochester Regional High Courts,Marion Rd,Mattapoisett,MA,02739,41.66851,-70.79851,Park,,
-,1,Washburn Park,Washburn Rd,Marion,MA,02738,41.71121,-70.76851,Park,,
-,1,Hopewell Park,Hopewell St,Taunton,MA,02780,41.91451,-71.09121,Park,,
-,1,Taunton Memorial Park,Court St,Taunton,MA,02780,41.90451,-71.09851,Park,,
-,1,Nickerson Field,South St,Attleboro,MA,02703,41.93851,-71.28851,Park,,
-,1,Capron Park,County St,Attleboro,MA,02703,41.93451,-71.29451,Park,,
-,1,Beaupre Field,Landry Ave,North Attleborough,MA,02760,41.97121,-71.32121,Park,,
-,1,World War I Memorial Park,Elmwood St,North Attleborough,MA,02760,41.98451,-71.33451,Park,,
-,1,Mansfield Memorial Park,East St,Mansfield,MA,02048,42.03121,-71.21851,Park,,
-,1,Oliver Ames High Courts,Lothrop St,Easton,MA,02356,42.06451,-71.10121,Park,,
-,1,Yelle Elementary Courts,West Main St,Norton,MA,02766,41.97121,-71.18851,Park,,
-,1,Borden Colony Complex,King Philip St,Raynham,MA,02767,41.94121,-71.05451,Park,,
-,1,Southfield Park,Sharps Lot Rd,Swansea,MA,02777,41.74851,-71.20121,Park,,
-,1,Ashton Field,County St,Somerset,MA,02726,41.74121,-71.14451,Park,,
-,1,Dighton Middle School Courts,Somerset Ave,Dighton,MA,02715,41.81121,-71.12121,Park,,
-,1,Redway Plain Park,Bay State Rd,Rehoboth,MA,02769,41.84121,-71.25851,Park,,
-,1,Seekonk High School Courts,Arcade Ave,Seekonk,MA,02771,41.82121,-71.32851,Park,,
-,1,Keith Carandang Memorial Courts,Canal St,Bourne,MA,02532,41.74851,-70.60121,Park,,
-,1,Sandwich High School Courts,Quaker Meetinghouse Rd,Sandwich,MA,02563,41.73851,-70.48451,Park,,
-,1,Mashpee High School Courts,Old Barnstable Rd,Mashpee,MA,02649,41.64451,-70.47851,Park,,
-,1,Heritage Park,Main St,Mashpee,MA,02649,41.65121,-70.48121,Park,,
-,1,Barnstable High School Courts,W Main St,Hyannis,MA,02601,41.66121,-70.30121,Park,,
-,1,Marstons Mills Community Courts,Tewksbury Rd,Marstons Mills,MA,02648,41.67851,-70.41121,Park,,
-,1,Osterville Bay Courts,Wianno Ave,Osterville,MA,02655,41.62851,-70.38851,Park,,
-,1,Flax Pond Recreation Area,Dupont Ave,South Yarmouth,MA,02664,41.68851,-70.20121,Park,,
-,1,Baker School Courts,Baker Ave,Dennis Port,MA,02639,41.66851,-70.13121,Park,,
-,1,Wixon School Courts,Route 134,South Dennis,MA,02660,41.71851,-70.14451,Park,,
-,1,Stony Brook Field,Underpass Rd,Brewster,MA,02631,41.75851,-70.07851,Park,,
-,1,Chatham High School Courts,Crowell Rd,Chatham,MA,02633,41.68851,-69.97121,Park,,
-,1,Eldredge Park,Eldredge Park Way,Orleans,MA,02653,41.78451,-69.98851,Park,,
-,1,Nauset Regional High Courts,Cable Rd,North Eastham,MA,02651,41.85451,-69.97851,Park,,
-,1,Baker Field,Kendrick Ave,Wellfleet,MA,02667,41.93121,-70.03451,Park,,
-,1,Truro Central School Courts,Route 6,Truro,MA,02666,41.99851,-70.06121,Park,,
-,1,Motta Field,Winslow St,Provincetown,MA,02657,42.05451,-70.18851,Park,,
-,1,Martha's Vineyard Regional High Courts,Edgartown-Vineyard Haven Rd,Oak Bluffs,MA,02557,41.42851,-70.58451,Park,,
-,1,Niantic Park,Niantic Ave,Oak Bluffs,MA,02557,41.45121,-70.55851,Park,,
-,1,Church Street Courts,Church St,Edgartown,MA,02539,41.38851,-70.51451,Park,,
-,1,West Tisbury School Courts,Old County Rd,West Tisbury,MA,02575,41.38121,-70.66121,Park,,
-,1,Nantucket High School Courts,Surfside Rd,Nantucket,MA,02554,41.26451,-70.09851,Park,,
-,1,Jetties Beach Courts,Bathhouse Way,Nantucket,MA,02554,41.29851,-70.09121,Park,,
-,1,Dean Park,Main St,Shrewsbury,MA,01545,42.29851,-71.71121,Park,,
-,1,Auburn High School Courts,Auburn St,Auburn,MA,01501,42.20451,-71.83851,Park,,
-,1,Lemansky Park,Oxford St,Auburn,MA,01501,42.19121,-71.84851,Park,,
-,1,Millbury High School Courts,Martin St,Millbury,MA,01527,42.19851,-71.76121,Park,,
-,1,Ferry Street Park,Ferry St,Grafton,MA,01519,42.21851,-71.69851,Park,,
-,1,Ellsworth-McAfee Park,South St,Northborough,MA,01532,42.30851,-71.64451,Park,,
-,1,Fayville Park,Central St,Southborough,MA,01772,42.28851,-71.51121,Park,,
-,1,Hopedale Town Park,Dutcher St,Hopedale,MA,01747,42.12851,-71.53851,Park,,
-,1,Fino Field,Clark St,Milford,MA,01757,42.14451,-71.51851,Park,,
-,1,Kiwanis Beach Courts,Westboro Rd,Upton,MA,01568,42.18451,-71.60451,Park,,
-,1,Clough Elementary Courts,North Ave,Mendon,MA,01756,42.10851,-71.55851,Park,,
-,1,Whitin Park,Main St,Whitinsville,MA,01588,42.11851,-71.65851,Park,,
-,1,Uxbridge High School Courts,Quaker Hwy,Uxbridge,MA,01569,42.06851,-71.62121,Park,,
-,1,Douglas High School Courts,Davis St,Douglas,MA,01516,42.05451,-71.72851,Park,,
-,1,Manchaug Park,Main St,Sutton,MA,01590,42.11121,-71.75851,Park,,
-,1,Memorial Beach Park,Thompson Rd,Webster,MA,01570,42.04851,-71.86121,Park,,
-,1,Greenbriar Park,Greenbriar Dr,Oxford,MA,01540,42.12121,-71.87121,Park,,
-,1,Crawford Field,Schofield Ave,Dudley,MA,01571,42.04451,-71.93121,Park,,
-,1,Charlton Middle School Courts,Oxford Rd,Charlton,MA,01507,42.13851,-71.95451,Park,,
-,1,West Street Field,West St,Southbridge,MA,01550,42.07851,-72.03851,Park,,
-,1,Burgess School Courts,Cedar St,Sturbridge,MA,01566,42.10851,-72.08121,Park,,
-,1,Mountview Middle School Courts,Shrewsbury St,Holden,MA,01520,42.34851,-71.85451,Park,,
-,1,Dawson Recreation Area,Salisbury St,Holden,MA,01520,42.35851,-71.87851,Park,,
-,1,O'Gara Park,Prospect St,Spencer,MA,01562,42.24851,-71.99121,Park,,
-,1,Rochdale Park,Stafford St,Leicester,MA,01524,42.18851,-71.91851,Park,,
-,1,Coolidge Park,John Fitch Hwy,Fitchburg,MA,01420,42.59121,-71.78851,Park,,
-,1,Coggshall Park,Electric Ave,Fitchburg,MA,01420,42.56851,-71.80851,Park,,
-,1,Barrett Park,Chestnut St,Leominster,MA,01453,42.53121,-71.77121,Park,,
-,1,Doyle Field,Priest St,Leominster,MA,01453,42.52851,-71.75851,Park,,
-,1,Ovila Case Playground,Park St,Gardner,MA,01440,42.57121,-71.98451,Park,,
-,1,Lunenburg High School Courts,Mass Ave,Lunenburg,MA,01462,42.58451,-71.72121,Park,,
-,1,Hacker Field,Academy St,Westminster,MA,01473,42.54851,-71.89851,Park,,
-,1,Winchendon Community Park,Ingleside Dr,Winchendon,MA,01475,42.67851,-72.04121,Park,,
-,1,Silver Lake Beach Courts,Silver Lake Beach Rd,Athol,MA,01331,42.59851,-72.23121,Park,,
-,1,Savage Field,Vale St,Clinton,MA,01510,42.41851,-71.68851,Park,,
-,1,Clinton Middle School Courts,Church St,Clinton,MA,01510,42.41451,-71.67851,Park,,
-,1,Thayer Field,Green St,Lancaster,MA,01523,42.45121,-71.67121,Park,,
-,1,Houghton Park,Park St,Sterling,MA,01564,42.43851,-71.75851,Park,,
-,1,Bromfield School Courts,Mass Ave,Harvard,MA,01451,42.50121,-71.58451,Park,,
-,1,Bolton Memorial Field,Wattaquadock Hill Rd,Bolton,MA,01740,42.43451,-71.61121,Park,,
-,1,Manor Park,Manor Rd,Boylston,MA,01505,42.34851,-71.72851,Park,,
-,1,Goodale Park,Crescent St,West Boylston,MA,01583,42.36851,-71.78451,Park,,
-,1,Szot Park,Front St,Chicopee,MA,01013,42.14851,-72.58451,Park,,
-,1,Ray Ash Park,Montgomery St,Chicopee,MA,01020,42.17121,-72.56851,Park,,
-,1,Mackenzie Stadium Courts,Beech St,Holyoke,MA,01040,42.20851,-72.62851,Park,,
-,1,Westfield Middle School Courts,W Silver St,Westfield,MA,01085,42.11851,-72.75851,Park,,
-,1,Municipal Playground,Greylock St,Westfield,MA,01085,42.12451,-72.74851,Park,,
-,1,Mittineague Park,Unquomonk Rd,West Springfield,MA,01089,42.10851,-72.65121,Park,,
-,1,School Street Park,Corey St,Agawam,MA,01001,42.07851,-72.61851,Park,,
-,1,Borgatti Field,South Westfield St,Feeding Hills,MA,01030,42.06451,-72.67121,Park,,
-,1,Greenwood Park,Maple Rd,Longmeadow,MA,01106,42.04851,-72.57121,Park,,
-,1,Whitney Park,Sewall St,Ludlow,MA,01056,42.16121,-72.48451,Park,,
-,1,Spec Pond Recreation Area,Boston Rd,Wilbraham,MA,01095,42.14451,-72.43851,Park,,
-,1,Palmer High School Courts,Main St,Palmer,MA,01069,42.18851,-72.33851,Park,,
-,1,Whiston Park,Flynt St,Monson,MA,01057,42.10121,-72.32121,Park,,
-,1,Whalley Park,Powdermill Rd,Southwick,MA,01077,42.05121,-72.76851,Park,,
-,1,Nonotuck Park,Lowry Dr,Easthampton,MA,01027,42.26121,-72.66851,Park,,
-,1,Mill River Recreation Area,S Main St,Amherst,MA,01002,42.41121,-72.53851,Park,,
-,1,Groff Park,Mill Ln,Amherst,MA,01002,42.35851,-72.52851,Park,,
-,1,Hadley Elementary Courts,River Dr,Hadley,MA,01035,42.34851,-72.58851,Park,,
-,1,Buttery Brook Park,Willimansett St,South Hadley,MA,01075,42.24121,-72.58451,Park,,
-,1,Foley Field,State St,Belchertown,MA,01007,42.28121,-72.41121,Park,,
-,1,Dufresne Park,Kendall St,Granby,MA,01033,42.25451,-72.51451,Park,,
-,1,Ware Memorial Field,Church St,Ware,MA,01082,42.26121,-72.24451,Park,,
-,1,Beacon Field,Beacon St,Greenfield,MA,01301,42.59851,-72.59851,Park,,
-,1,Unity Park,1st St,Turners Falls,MA,01376,42.60851,-72.55851,Park,,
-,1,Sunderland Town Park,School St,Sunderland,MA,01375,42.46851,-72.57851,Park,,
-,1,Butterfield Park,E Main St,Orange,MA,01364,42.59121,-72.30451,Park,,
-,1,Noel Field Athletic Complex,State St,North Adams,MA,01247,42.69851,-73.11121,Park,,
-,1,Renfrew Park,Friend St,Adams,MA,01220,42.62851,-73.12121,Park,,
-,1,Mount Greylock Regional Courts,Cold Spring Rd,Williamstown,MA,01267,42.70121,-73.21851,Park,,
-,1,Lenox Memorial High Courts,East St,Lenox,MA,01240,42.36121,-73.28451,Park,,
-,1,Lee Athletic Field,Center St,Lee,MA,01238,42.30451,-73.25121,Park,,
-,1,Stockbridge Town Park,Main St,Stockbridge,MA,01262,42.28451,-73.31121,Park,,
-,1,Dewey Memorial Hall Courts,Main St,Sheffield,MA,01257,42.11121,-73.35451,Park,,
-,1,Monument Mountain Regional Courts,Stockbridge Rd,Great Barrington,MA,01230,42.22121,-73.35121,Park,,
-,1,Pine Grove Park,Dalton Ave,Dalton,MA,01226,42.47451,-73.17121,Park,,
+,5,PKL Boston,64 C St,Boston,MA,02127,42.33709,-71.05583,Business,,pkl_boston.csv
+,4,Carter Playground Pickleball Courts,709 Columbus Ave,Boston,MA,02118,42.33892,-71.08484,Park,,carter_playground_pickleball_courts.csv
+,6,Moakley Park Pickleball Courts,1005 Columbia Rd,Boston,MA,02127,42.32568,-71.04987,Park,,moakley_park_pickleball_courts.csv
+,4,Ronan Park Pickleball Courts,135 Adams St,Dorchester,MA,02122,42.30430,-71.06256,Park,,ronan_park_pickleball_courts.csv
+,4,Boston Common Pickleball Courts,139 Tremont St,Boston,MA,02116,42.35378,-71.06608,Park,,boston_common_pickleball_courts.csv
+,3,Titus Sparrow Park Pickleball Courts,200 W Newton St,Boston,MA,02118,42.34355,-71.07954,Park,,titus_sparrow_park_pickleball_courts.csv
+,4,East Boston Memorial Park Pickleball,143 Porter St,East Boston,MA,02128,42.37204,-71.03120,Park,,east_boston_memorial_park_pickleball.csv
+,4,Ryan Playground Pickleball,53 River St,Mattapan,MA,02126,42.27198,-71.07255,Park,,ryan_playground_pickleball.csv
+,6,Billings Field Pickleball Courts,369 LaGrange St,West Roxbury,MA,02132,42.28139,-71.15621,Park,,billings_field_pickleball_courts.csv
+,4,Kelly Field Pickleball Courts,Turtle Pond Pkwy,Hyde Park,MA,02136,42.25208,-71.13817,Park,,kelly_field_pickleball_courts.csv
+,4,McKinney Playground Pickleball Courts,64 Faneuil St,Brighton,MA,02135,42.35535,-71.15369,Park,,mckinney_playground_pickleball_courts.csv
+,3,Doherty Playground Pickleball Courts,St Martin St,Charlestown,MA,02129,42.38250,-71.06770,Park,,doherty_playground_pickleball_courts.csv
+,4,Cassidy Playground Pickleball Courts,Beacon St & Chestnut Hill Ave,Brighton,MA,02135,42.33491,-71.15226,Park,,cassidy_playground_pickleball_courts.csv
+,4,Peters Park Pickleball Courts,230 Shawmut Ave,Boston,MA,02118,42.34346,-71.06723,Park,,peters_park_pickleball_courts.csv
+,4,Walsh Playground Pickleball Courts,Washington St & River St,Dorchester,MA,02124,42.27250,-71.06940,Park,,walsh_playground_pickleball_courts.csv
+,4,McConnell Park Pickleball Courts,30 Denny St,Dorchester,MA,02125,42.30825,-71.05091,Park,,mcconnell_park_pickleball_courts.csv
+,4,Garvey Playground Pickleball Courts,340 Neponset Ave,Dorchester,MA,02122,42.28808,-71.04623,Park,,garvey_playground_pickleball_courts.csv
+,4,Walker Playground Pickleball Courts,550 Norfolk St,Mattapan,MA,02126,42.27783,-71.08934,Park,,walker_playground_pickleball_courts.csv
+,4,Almont Park Pickleball Courts,40 Almont St,Mattapan,MA,02126,42.27561,-71.09672,Park,,almont_park_pickleball_courts.csv
+,4,Ross Playground Pickleball Courts,170 Westminster St,Hyde Park,MA,02136,42.26502,-71.11402,Park,,ross_playground_pickleball_courts.csv
+,3,Iacono Playground Pickleball Courts,150 Readville St,Hyde Park,MA,02136,42.23899,-71.13545,Park,,iacono_playground_pickleball_courts.csv
+,8,Boston Pickle Club Hyde Park,91 Sprague St,Hyde Park,MA,02136,42.23511,-71.14030,Business,,boston_pickle_club_hyde_park.csv
+,3,South Boston BCYF Pickleball Center,675 E 4th St,South Boston,MA,02127,42.33453,-71.03903,Park,,south_boston_bcyf_pickleball_center.csv
+,3,Charlestown BCYF Community Center PB,255 Medford St,Charlestown,MA,02129,42.38079,-71.05981,Park,,charlestown_bcyf_community_center_pb.csv
+,3,Blackstone Community Center PB,50 W Brookline St,Boston,MA,02118,42.34077,-71.07241,Park,,blackstone_community_center_pb.csv
+,3,Tobin Community Center PB,1481 Tremont St,Roxbury,MA,02120,42.33220,-71.09817,Park,,tobin_community_center_pb.csv
+,4,The Lawn on D Pickleball Courts,420 D St,Boston,MA,02210,42.34415,-71.04529,Park,,the_lawn_on_d_pickleball_courts.csv
+,4,Hoyt Field Pickleball Courts,13 Gilmore St,Cambridge,MA,02139,42.36385,-71.11224,Park,,hoyt_field_pickleball_courts.csv
+,6,Danehy Park Pickleball Courts,99 Sherman St,Cambridge,MA,02140,42.38900,-71.13310,Park,,danehy_park_pickleball_courts.csv
+,4,Sennott Park Pickleball Courts,305 Broadway,Cambridge,MA,02139,42.36850,-71.09995,Park,,sennott_park_pickleball_courts.csv
+,3,Greene-Rose Heritage Park Pickleball,Harvard St & Moore St,Cambridge,MA,02139,42.36615,-71.09490,Park,,greene_rose_heritage_park_pickleball.csv
+,4,War Memorial Recreation Center PB,1640 Cambridge St,Cambridge,MA,02138,42.37468,-71.10954,Park,,war_memorial_recreation_center_pb.csv
+,2,Kendall Square Roof Garden Pickleball,325 Main St,Cambridge,MA,02142,42.36315,-71.08656,Park,,kendall_square_roof_garden_pickleball.csv
+,4,North Point Park Pickleball Courts,6 Museum Way,Cambridge,MA,02141,42.36902,-71.06902,Park,,north_point_park_pickleball_courts.csv
+,12,Club Volo at Assembly Row,300 Grand Union Blvd,Somerville,MA,02145,42.39257,-71.07928,Business,,club_volo_at_assembly_row.csv
+,6,Dilboy Stadium Pickleball Courts,110 Alewife Brook Pkwy,Somerville,MA,02144,42.41200,-71.13193,Park,,dilboy_stadium_pickleball_courts.csv
+,4,Lincoln Park Pickleball Courts,290 Washington St,Somerville,MA,02143,42.37823,-71.09983,Park,,lincoln_park_pickleball_courts.csv
+,4,Foss Park Pickleball Courts,Fellsway W & Broadway,Somerville,MA,02145,42.39155,-71.08803,Park,,foss_park_pickleball_courts.csv
+,3,Morse-Kelley Playground Pickleball,Summer St & Craigie St,Somerville,MA,02143,42.38795,-71.11052,Park,,morse_kelley_playground_pickleball.csv
+,3,Somerville YMCA Pickleball Center,101 Highland Ave,Somerville,MA,02143,42.38731,-71.09922,Business,,somerville_ymca_pickleball_center.csv
+,6,Amory Park Pickleball Courts,45 Amory St,Brookline,MA,02446,42.34717,-71.11439,Park,,amory_park_pickleball_courts.csv
+,4,Waldstein Playground Dean Park PB,Dean Rd & Beacon St,Brookline,MA,02445,42.33644,-71.14358,Park,,waldstein_playground_dean_park_pb.csv
+,4,Aspinwall Recreation Area PB,Aspinwall Ave,Brookline,MA,02446,42.33625,-71.11607,Park,,aspinwall_recreation_area_pb.csv
+,4,Brookline Reservoir Park Pickleball,Warren St & Dudley St,Brookline,MA,02445,42.32634,-71.13570,Park,,brookline_reservoir_park_pickleball.csv
+,4,Soule Recreation Center Pickleball,652 Hammond St,Brookline,MA,02467,42.32194,-71.16102,Park,,soule_recreation_center_pickleball.csv
+,4,Chelsea Highland Park PB Courts,Highland Ave & Cottage St,Chelsea,MA,02150,42.39176,-71.03283,Park,,chelsea_highland_park_pb_courts.csv
+,4,Glendale Park Pickleball Courts,Elm St & Ferry St,Everett,MA,02149,42.41240,-71.04569,Park,,glendale_park_pickleball_courts.csv
+,3,Florence Street Park Pickleball,Florence St & Nichols St,Everett,MA,02149,42.40824,-71.04309,Park,,florence_street_park_pickleball.csv
+,4,Revere Beach Recreation Courts PB,Revere Beach Blvd,Revere,MA,02151,42.41975,-70.97994,Park,,revere_beach_recreation_courts_pb.csv
+,4,Ingleside Park Pickleball Courts,Ingleside Ave,Winthrop,MA,02152,42.37795,-70.98774,Park,,ingleside_park_pickleball_courts.csv
+,4,Newton Centre Playground Pickleball,81 Tyler Terr,Newton Centre,MA,02459,42.33250,-71.19757,Park,,newton_centre_playground_pickleball.csv
+,4,Cabot Park Pickleball Courts,109 Cabot St,Newton,MA,02458,42.34743,-71.19377,Park,,cabot_park_pickleball_courts.csv
+,6,McGrath Park Pickleball Courts,1600 Washington St,West Newton,MA,02465,42.34319,-71.23540,Park,,mcgrath_park_pickleball_courts.csv
+,4,Auburndale Cove Pickleball Courts,104 W Pine St,Auburndale,MA,02466,42.34797,-71.25178,Park,,auburndale_cove_pickleball_courts.csv
+,3,Lower Falls Community Center PB,545 Grove St,Newton Lower Falls,MA,02462,42.33043,-71.25897,Park,,lower_falls_community_center_pb.csv
+,4,Cornelia Warren Park Pickleball,210 Waverley Oaks Rd,Waltham,MA,02452,42.38385,-71.21089,Park,,cornelia_warren_park_pickleball.csv
+,4,Nipper Maher Park Pickleball,65 Dartmouth St,Waltham,MA,02453,42.37072,-71.25215,Park,,nipper_maher_park_pickleball.csv
+,4,Prospect Hill Park Pickleball Courts,314 Totten Pond Rd,Waltham,MA,02451,42.39598,-71.25077,Park,,prospect_hill_park_pickleball_courts.csv
+,3,Gilmore Playground Pickleball,90 Hall St,Waltham,MA,02453,42.36795,-71.23489,Park,,gilmore_playground_pickleball.csv
+,10,Victory Field Pickleball Courts,40 Orchard St,Watertown,MA,02472,42.37363,-71.18161,Park,,victory_field_pickleball_courts.csv
+,4,Casey Park Pickleball Courts,124 Watertown St,Watertown,MA,02472,42.36368,-71.18872,Park,,casey_park_pickleball_courts.csv
+,4,Moxley Playground Pickleball Courts,Westminster Ave,Watertown,MA,02472,42.37442,-71.19161,Park,,moxley_playground_pickleball_courts.csv
+,4,Belmont Town Field Pickleball Courts,160 Waverley St,Belmont,MA,02478,42.39000,-71.18027,Park,,belmont_town_field_pickleball_courts.csv
+,3,Winn Brook Park Pickleball Courts,Cross St & Waterhouse Rd,Belmont,MA,02478,42.40037,-71.16504,Park,,winn_brook_park_pickleball_courts.csv
+,4,Spy Pond Park Pickleball Courts,Pond Ln,Arlington,MA,02474,42.41134,-71.15103,Park,,spy_pond_park_pickleball_courts.csv
+,3,Robbins Farm Park Pickleball,61 Eastern Ave,Arlington,MA,02476,42.41385,-71.17639,Park,,robbins_farm_park_pickleball.csv
+,2,Crosby Park Pickleball Courts,Winter St,Arlington,MA,02474,42.40799,-71.14058,Park,,crosby_park_pickleball_courts.csv
+,4,Thorndike Field Pickleball Courts,Margaret St,Arlington,MA,02474,42.40254,-71.14661,Park,,thorndike_field_pickleball_courts.csv
+,4,Adams Playground Pickleball Courts,739 Massachusetts Ave,Lexington,MA,02420,42.42986,-71.20609,Park,,adams_playground_pickleball_courts.csv
+,4,Valley Road Recreation Area PB,Valley Rd,Lexington,MA,02421,42.46548,-71.24427,Park,,valley_road_recreation_area_pb.csv
+,6,Center Recreation Complex PB,Worthen Rd,Lexington,MA,02421,42.44302,-71.23525,Park,,center_recreation_complex_pb.csv
+,4,Hayden Recreation Centre PB,24 Lincoln St,Lexington,MA,02421,42.44685,-71.23884,Business,,hayden_recreation_centre_pb.csv
+,4,Springs Brook Park Pickleball,181 Springs Rd,Bedford,MA,01730,42.50035,-71.27266,Park,,springs_brook_park_pickleball.csv
+,3,Davis Field Pickleball Courts,Davis Rd,Bedford,MA,01730,42.48838,-71.30218,Park,,davis_field_pickleball_courts.csv
+,4,Simonds Park Pickleball Courts,10 Bedford St,Burlington,MA,01803,42.50677,-71.19767,Park,,simonds_park_pickleball_courts.csv
+,4,Life Time Athletic Burlington,186 Middlesex Turnpike,Burlington,MA,01803,42.49297,-71.22672,Business,,life_time_athletic_burlington.csv
+,3,Marvin Field Pickleball Courts,Francis Wyman Rd,Burlington,MA,01803,42.51519,-71.22357,Park,,marvin_field_pickleball_courts.csv
+,4,Ferullo Field Pickleball Courts,Main St,Woburn,MA,01801,42.49303,-71.15456,Park,,ferullo_field_pickleball_courts.csv
+,4,Leland Park Pickleball Courts,Washington St & Central St,Woburn,MA,01801,42.47850,-71.12464,Park,,leland_park_pickleball_courts.csv
+,3,Library Field Pickleball Courts,Harrison Ave,Woburn,MA,01801,42.48029,-71.15636,Park,,library_field_pickleball_courts.csv
+,4,Walsh Field Pickleball Courts,178 Washington St,Winchester,MA,01890,42.45230,-71.13700,Park,,walsh_field_pickleball_courts.csv
+,4,Packer Ellis Tennis and PB Courts,Palmer St,Winchester,MA,01890,42.45360,-71.14480,Park,,packer_ellis_tennis_and_pb_courts.csv
+,4,Tufts Park Pickleball Courts,431 Main St,Medford,MA,02155,42.40304,-71.10723,Park,,tufts_park_pickleball_courts.csv
+,4,Playstead Park Pickleball Courts,Playstead Rd,Medford,MA,02155,42.42682,-71.13454,Park,,playstead_park_pickleball_courts.csv
+,4,Dugger Park Pickleball Courts,Mystic Valley Pkwy,Medford,MA,02155,42.41642,-71.13910,Park,,dugger_park_pickleball_courts.csv
+,4,Carr Park Pickleball Courts,Spring St,Medford,MA,02155,42.41725,-71.09305,Park,,carr_park_pickleball_courts.csv
+,4,Amerige Park Pickleball Courts,200 Fellsway E,Malden,MA,02148,42.42872,-71.08304,Park,,amerige_park_pickleball_courts.csv
+,4,Forestdale Park Pickleball Courts,Forest St & Sylvan St,Malden,MA,02148,42.44038,-71.05616,Park,,forestdale_park_pickleball_courts.csv
+,4,Devir Park Pickleball Courts,Malden St,Malden,MA,02148,42.41956,-71.08332,Park,,devir_park_pickleball_courts.csv
+,4,Pine Banks Park Pickleball Courts,1087 Main St,Malden,MA,02148,42.43972,-71.06696,Park,,pine_banks_park_pickleball_courts.csv
+,4,Mount Hood Memorial Park PB,100 Slayton Rd,Melrose,MA,02176,42.45354,-71.04005,Park,,mount_hood_memorial_park_pb.csv
+,4,Common Park Pickleball Courts,Laurel St,Melrose,MA,02176,42.45576,-71.05331,Park,,common_park_pickleball_courts.csv
+,8,Mills Field Pickleball Courts,80 Gould St,Needham,MA,02494,42.30703,-71.23010,Park,,mills_field_pickleball_courts.csv
+,4,DeFazio Park Pickleball Courts,380 Dedham Ave,Needham,MA,02492,42.27378,-71.22394,Park,,defazio_park_pickleball_courts.csv
+,4,Claxton Field Pickleball Courts,Central Ave,Needham,MA,02492,42.28551,-71.25268,Park,,claxton_field_pickleball_courts.csv
+,4,Sprague Field Dedicated PB Courts,401 School St,Wellesley,MA,02482,42.30369,-71.29401,Park,,sprague_field_dedicated_pb_courts.csv
+,4,Morses Pond Pickleball Courts,Turner Rd,Wellesley,MA,02482,42.29963,-71.30747,Park,,morses_pond_pickleball_courts.csv
+,4,Hunnewell Field Pickleball,435 Washington St,Wellesley,MA,02482,42.30296,-71.28222,Park,,hunnewell_field_pickleball.csv
+,3,Perrin Park Pickleball Courts,Thomas Rd,Wellesley,MA,02482,42.30957,-71.31768,Park,,perrin_park_pickleball_courts.csv
+,6,Natick Memorial Beach Courts PB,117 E Central St,Natick,MA,01760,42.28514,-71.33786,Park,,natick_memorial_beach_courts_pb.csv
+,4,Hunnewell Town Forest PB Courts,Oak St,Natick,MA,01760,42.29890,-71.33939,Park,,hunnewell_town_forest_pb_courts.csv
+,4,Mahan Field Pickleball Courts,Cottage St,Natick,MA,01760,42.26956,-71.34520,Park,,mahan_field_pickleball_courts.csv
+,4,Cole Center Pickleball Hub,179 Boden Ln,Natick,MA,01760,42.28885,-71.39162,Park,,cole_center_pickleball_hub.csv
+,6,Longfellow Health Club Natick PB,203 Oak St,Natick,MA,01760,42.31426,-71.33690,Business,,longfellow_health_club_natick_pb.csv
+,4,Butterworth Park Pickleball Courts,40 Grant St,Framingham,MA,01702,42.28601,-71.40475,Park,,butterworth_park_pickleball_courts.csv
+,8,Cushing Memorial Park Dedicated PB,Keefe Way,Framingham,MA,01702,42.27816,-71.43587,Park,,cushing_memorial_park_dedicated_pb.csv
+,4,Winthrop Canal Park Pickleball,Winthrop St,Framingham,MA,01702,42.27042,-71.42456,Park,,winthrop_canal_park_pickleball.csv
+,4,Framingham YMCA Pickleball Center,280 Old Connecticut Path,Framingham,MA,01701,42.30776,-71.40208,Business,,framingham_ymca_pickleball_center.csv
+,4,Life Time Athletic Framingham,490 Old Connecticut Path,Framingham,MA,01701,42.31312,-71.39487,Business,,life_time_athletic_framingham.csv
+,21,Bosse Pickleball,141 Boston Post Rd,Sudbury,MA,01776,42.30361,-71.38260,Business,,bosse_pickleball.csv
+,4,Feeley Field Pickleball Courts,Raymond Rd,Sudbury,MA,01776,42.35779,-71.41918,Park,,feeley_field_pickleball_courts.csv
+,6,Longfellow Tennis & Health Club PB,524 Boston Post Rd,Wayland,MA,01778,42.36519,-71.38860,Business,,longfellow_tennis_health_club_pb.csv
+,4,Wayland Town Beach Pickleball Courts,Parkland Dr,Wayland,MA,01778,42.32109,-71.37028,Park,,wayland_town_beach_pickleball_courts.csv
+,6,Rideout Playground Pickleball Courts,Laws Brook Rd,Concord,MA,01742,42.45734,-71.39988,Park,,rideout_playground_pickleball_courts.csv
+,3,Hunt Recreation Center PB Courts,90 Stow St,Concord,MA,01742,42.45676,-71.35089,Park,,hunt_recreation_center_pb_courts.csv
+,6,Forest River Park Pickleball Courts,32 Clifton Ave,Salem,MA,01970,42.50705,-70.88557,Park,,forest_river_park_pickleball_courts.csv
+,4,Gallows Hill Park Pickleball,Mansell Pkwy,Salem,MA,01970,42.51618,-70.91103,Park,,gallows_hill_park_pickleball.csv
+,4,Mack Park Pickleball Courts,Tremont St,Salem,MA,01970,42.52433,-70.90823,Park,,mack_park_pickleball_courts.csv
+,6,Northshore Tennis & Pickleball,96 Swampscott Rd,Salem,MA,01970,42.49372,-70.92059,Business,,northshore_tennis_pickleball.csv
+,3,Salem YMCA Pickleball Hub,1 Sewall St,Salem,MA,01970,42.52166,-70.89788,Business,,salem_ymca_pickleball_hub.csv
+,6,Beverly Golf and Tennis Club PB,134 McKay St,Beverly,MA,01915,42.56442,-70.89475,Park,,beverly_golf_and_tennis_club_pb.csv
+,4,Balch Playground Pickleball Courts,Balch St,Beverly,MA,01915,42.56157,-70.88446,Park,,balch_playground_pickleball_courts.csv
+,4,Obear Park Pickleball Courts,145 Livingstone Ave,Beverly,MA,01915,42.54649,-70.90048,Park,,obear_park_pickleball_courts.csv
+,6,Bass River Tennis and Pickleball Club,31 Tozer Rd,Beverly,MA,01915,42.57192,-70.88450,Business,,bass_river_tennis_and_pickleball_club.csv
+,4,Sterling Center YMCA Pickleball,254 Essex St,Beverly,MA,01915,42.56769,-70.86312,Business,,sterling_center_ymca_pickleball.csv
+,4,Emerson Park Pickleball Courts,Perkins St,Peabody,MA,01960,42.52533,-70.93499,Park,,emerson_park_pickleball_courts.csv
+,6,Higgins Recreation Complex PB,85 Perkins St,Peabody,MA,01960,42.52595,-70.92724,Park,,higgins_recreation_complex_pb.csv
+,4,Symphony Park Pickleball Courts,Symphony Rd,Peabody,MA,01960,42.55959,-71.02909,Park,,symphony_park_pickleball_courts.csv
+,4,Life Time Northshore PB Center,210 Andover St,Peabody,MA,01960,42.54184,-70.94336,Business,,life_time_northshore_pb_center.csv
+,4,Torigian Family YMCA Pickleball Hub,259 Lynnfield St,Peabody,MA,01960,42.51565,-70.97845,Business,,torigian_family_ymca_pickleball_hub.csv
+,8,Danvers Indoor Sports,150 Andover St,Danvers,MA,01923,42.55485,-70.97158,Business,,danvers_indoor_sports.csv
+,6,Danvers Plains Park Pickleball,55 Conant St,Danvers,MA,01923,42.56653,-70.92887,Park,,danvers_plains_park_pickleball.csv
+,4,John George Park Pickleball,Holten St,Danvers,MA,01923,42.56088,-70.94802,Park,,john_george_park_pickleball.csv
+,4,Endicott Park Pickleball Courts,57 Forest St,Danvers,MA,01923,42.57364,-70.96312,Park,,endicott_park_pickleball_courts.csv
+,6,Seaside Park Dedicated PB Courts,Atlantic Ave,Marblehead,MA,01945,42.49576,-70.85802,Park,,seaside_park_dedicated_pb_courts.csv
+,7,JCC of the North Shore PB Center,4 Community Rd,Marblehead,MA,01945,42.48496,-70.87361,Business,,jcc_of_the_north_shore_pb_center.csv
+,4,Reynolds Playground Pickleball,Green St,Marblehead,MA,01945,42.51152,-70.85925,Park,,reynolds_playground_pickleball.csv
+,4,Gatchell Playground Pickleball,Lafayette St,Marblehead,MA,01945,42.49331,-70.87788,Park,,gatchell_playground_pickleball.csv
+,4,Phillips Park Pickleball Courts,Humphrey St,Swampscott,MA,01907,42.46811,-70.90033,Park,,phillips_park_pickleball_courts.csv
+,4,Abbott Park Pickleball Courts,Stetson Ave,Swampscott,MA,01907,42.47763,-70.91694,Park,,abbott_park_pickleball_courts.csv
+,3,Jackson Park Pickleball Courts,Essex St,Swampscott,MA,01907,42.48094,-70.92187,Park,,jackson_park_pickleball_courts.csv
+,6,Manning Field Courts PB,76 Locust St,Lynn,MA,01904,42.47519,-70.95484,Park,,manning_field_courts_pb.csv
+,4,Keaney Park Pickleball Courts,Broadway,Lynn,MA,01904,42.48891,-70.95900,Park,,keaney_park_pickleball_courts.csv
+,4,Barry Park Pickleball Courts,Boston St,Lynn,MA,01905,42.46614,-70.96859,Park,,barry_park_pickleball_courts.csv
+,4,Gallagher Park Pickleball Courts,Ontario St,Lynn,MA,01902,42.47437,-70.96638,Park,,gallagher_park_pickleball_courts.csv
+,3,Lynn YMCA Pickleball Gymnasium,20 Neptune Blvd,Lynn,MA,01902,42.46031,-70.95215,Business,,lynn_ymca_pickleball_gymnasium.csv
+,6,Stage Fort Park Pickleball Courts,Hough Ave,Gloucester,MA,01930,42.60566,-70.67744,Park,,stage_fort_park_pickleball_courts.csv
+,4,Newell Stadium Recreation PB,Centennial Ave,Gloucester,MA,01930,42.61444,-70.67341,Park,,newell_stadium_recreation_pb.csv
+,4,Mattos Field Pickleball Courts,Webster St,Gloucester,MA,01930,42.62039,-70.65114,Park,,mattos_field_pickleball_courts.csv
+,3,Burnhams Field Pickleball Courts,Burnham St,Gloucester,MA,01930,42.61734,-70.66216,Park,,burnhams_field_pickleball_courts.csv
+,4,Cape Ann YMCA Pickleball Center,7 Gloucester Crossing Rd,Gloucester,MA,01930,42.62403,-70.66016,Business,,cape_ann_ymca_pickleball_center.csv
+,4,Evans Field Pickleball Courts,Centennial Ave,Rockport,MA,01966,42.65559,-70.62819,Park,,evans_field_pickleball_courts.csv
+,3,Millbrook Meadow Park PB,King St,Rockport,MA,01966,42.65886,-70.62289,Park,,millbrook_meadow_park_pb.csv
+,4,Sweeney Park Pickleball Courts,Summer St,Manchester-by-the-Sea,MA,01944,42.57886,-70.75829,Park,,sweeney_park_pickleball_courts.csv
+,4,Masconomo Park Pickleball,Beach St,Manchester-by-the-Sea,MA,01944,42.57235,-70.76926,Park,,masconomo_park_pickleball.csv
+,4,Manning Park Pickleball Courts,39 Manning St,Ipswich,MA,01938,42.68246,-70.83843,Park,,manning_park_pickleball_courts.csv
+,4,Bialek Park Pickleball Courts,Linebrook Rd,Ipswich,MA,01938,42.68500,-70.84669,Park,,bialek_park_pickleball_courts.csv
+,4,Ipswich YMCA Pickleball Hub,110 County Rd,Ipswich,MA,01938,42.66969,-70.83467,Business,,ipswich_ymca_pickleball_hub.csv
+,4,Patton Park Pickleball Courts,644 Bay Rd,South Hamilton,MA,01982,42.62482,-70.85575,Park,,patton_park_pickleball_courts.csv
+,4,Pingree Park Pickleball Courts,Pingree Park Rd,South Hamilton,MA,01982,42.61869,-70.85551,Park,,pingree_park_pickleball_courts.csv
+,4,Iron Rail Recreation Complex PB,91 Grapevine Rd,Wenham,MA,01984,42.59744,-70.84576,Park,,iron_rail_recreation_complex_pb.csv
+,3,Memorial Park Pickleball Courts,Martin St,Essex,MA,01929,42.63148,-70.78244,Park,,memorial_park_pickleball_courts.csv
+,4,Eiras Park Pickleball Courts,Tenney St,Rowley,MA,01969,42.70605,-70.91495,Park,,eiras_park_pickleball_courts.csv
+,6,Cashman Park Dedicated PB Courts,Sally Snyder Way,Newburyport,MA,01950,42.81678,-70.87818,Park,,cashman_park_dedicated_pb_courts.csv
+,4,Atkinson Common Pickleball Courts,High St,Newburyport,MA,01950,42.82559,-70.89709,Park,,atkinson_common_pickleball_courts.csv
+,4,Moseley Woods Park Pickleball,Merrimac St & Spofford St,Newburyport,MA,01950,42.83242,-70.90826,Park,,moseley_woods_park_pickleball.csv
+,4,Pioneer League Field Pickleball,Low St,Newburyport,MA,01950,42.81251,-70.89491,Park,,pioneer_league_field_pickleball.csv
+,4,Salisbury Lions Park Pickleball,Lafayette Rd,Salisbury,MA,01952,42.84492,-70.86472,Park,,salisbury_lions_park_pickleball.csv
+,4,Partridge Brook Park Pickleball,Congress Ave,Salisbury,MA,01952,42.84492,-70.86472,Park,,partridge_brook_park_pickleball.csv
+,6,Woodsom Farm Courts PB,Lions Mouth Rd,Amesbury,MA,01913,42.86073,-70.96059,Park,,woodsom_farm_courts_pb.csv
+,4,Town Park Pickleball Courts,Friend St,Amesbury,MA,01913,42.85499,-70.93831,Park,,town_park_pickleball_courts.csv
+,3,Landry Stadium Park Pickleball,Highland St,Amesbury,MA,01913,42.84971,-70.92829,Park,,landry_stadium_park_pickleball.csv
+,3,Lake Gardner Beach PB Courts,High St,Amesbury,MA,01913,42.86039,-70.93775,Park,,lake_gardner_beach_pb_courts.csv
+,4,Georgetown Perley Park Pickleball,North St,Georgetown,MA,01833,42.72634,-70.98893,Park,,georgetown_perley_park_pickleball.csv
+,4,American Legion Park PB Courts,Central St,Georgetown,MA,01833,42.72882,-70.99274,Park,,american_legion_park_pb_courts.csv
+,8,Shedd Park Dedicated PB Courts,433 Boylston St,Lowell,MA,01852,42.63181,-71.28899,Park,,shedd_park_dedicated_pb_courts.csv
+,4,Callery Park Pickleball Courts,B St,Lowell,MA,01851,42.62873,-71.32799,Park,,callery_park_pickleball_courts.csv
+,4,McPherson Park Pickleball,Hildreth St,Lowell,MA,01850,42.65825,-71.30533,Park,,mcpherson_park_pickleball.csv
+,3,Roberto Clemente Park Pickleball,Chelmsford St & Middlesex St,Lowell,MA,01851,42.63855,-71.32194,Park,,roberto_clemente_park_pickleball.csv
+,4,Greater Lowell YMCA Pickleball Hub,35 YMCA Dr,Lowell,MA,01852,42.63515,-71.31289,Business,,greater_lowell_ymca_pickleball_hub.csv
+,6,McCarthy Recreation Complex PB,250 North Rd,Chelmsford,MA,01824,42.61866,-71.36793,Park,,mccarthy_recreation_complex_pb.csv
+,4,Roberts Field Pickleball Courts Chelmsford,Old Westford Rd,Chelmsford,MA,01824,42.60583,-71.38984,Park,,roberts_field_pickleball_courts_chelmsford.csv
+,4,South Row Community Park PB,Boston Rd,Chelmsford,MA,01824,42.57977,-71.34103,Park,,south_row_community_park_pb.csv
+,4,Varney Playground Pickleball,Varney Ave,North Chelmsford,MA,01863,42.63756,-71.38777,Park,,varney_playground_pickleball.csv
+,6,Billerica Recreation Complex PB,248 Boston Rd,Billerica,MA,01821,42.55842,-71.26895,Park,,billerica_recreation_complex_pb.csv
+,4,Kohlberg Park Pickleball Courts,Pollard St,Billerica,MA,01821,42.57802,-71.28185,Park,,kohlberg_park_pickleball_courts.csv
+,4,Vietnam Veterans Park Pickleball,Treble Cove Rd,Billerica,MA,01862,42.56284,-71.29716,Park,,vietnam_veterans_park_pickleball.csv
+,4,Peggy Hannon-Rizza Recreation PB,Campbell Rd,Billerica,MA,01821,42.54988,-71.27197,Park,,peggy_hannon_rizza_recreation_pb.csv
+,6,Livingston Street Recreation PB,Livingston St,Tewksbury,MA,01876,42.61047,-71.21392,Park,,livingston_street_recreation_pb.csv
+,4,Melvin G Rogers Park Pickleball,Rogers St,Tewksbury,MA,01876,42.61230,-71.26468,Park,,melvin_g_rogers_park_pickleball.csv
+,4,Tewksbury Memorial Field PB,Main St,Tewksbury,MA,01876,42.60396,-71.22423,Park,,tewksbury_memorial_field_pb.csv
+,6,Mulligan Park Pickleball Courts,215 Salem St,Lawrence,MA,01843,42.69697,-71.16368,Park,,mulligan_park_pickleball_courts.csv
+,4,Hayden Schofield Playstead PB,Lawrence St,Lawrence,MA,01841,42.71470,-71.16546,Park,,hayden_schofield_playstead_pb.csv
+,4,Mount Vernon Park Pickleball,Mount Vernon St,Lawrence,MA,01843,42.68229,-71.17091,Park,,mount_vernon_park_pickleball.csv
+,3,Storrow Park Pickleball Courts,High St,Lawrence,MA,01841,42.71377,-71.15030,Park,,storrow_park_pickleball_courts.csv
+,3,Lawrence YMCA Pickleball Gymnasium,40 Lawrence St,Lawrence,MA,01840,42.70935,-71.16225,Business,,lawrence_ymca_pickleball_gymnasium.csv
+,6,Gill Ave Pickleball Courts,Gill Ave,Methuen,MA,01844,42.71992,-71.18649,Park,,gill_ave_pickleball_courts.csv
+,4,Tenney Street Park Pickleball,Tenney St,Methuen,MA,01844,42.72008,-71.17709,Park,,tenney_street_park_pickleball.csv
+,4,Methuen Riverside Park PB Courts,Riverside Dr,Methuen,MA,01844,42.70091,-71.19732,Park,,methuen_riverside_park_pb_courts.csv
+,4,Forest Lake Park Pickleball,Hampshire Rd,Methuen,MA,01844,42.74265,-71.22084,Park,,forest_lake_park_pickleball.csv
+,6,Andover Recreation Park PB,Abbot St,Andover,MA,01810,42.64234,-71.14461,Park,,andover_recreation_park_pb.csv
+,4,Pomps Pond Pickleball Courts,Abbot St,Andover,MA,01810,42.64234,-71.14461,Park,,pomps_pond_pickleball_courts.csv
+,4,Bald Hill Park Pickleball Courts,High Plain Rd,Andover,MA,01810,42.65981,-71.19640,Park,,bald_hill_park_pickleball_courts.csv
+,10,The Picklr North Andover,350 Winthrop Ave,North Andover,MA,01845,42.68524,-71.13639,Business,,the_picklr_north_andover.csv
+,4,Grogan Field Pickleball Courts,Bradford St,North Andover,MA,01845,42.70235,-71.13705,Park,,grogan_field_pickleball_courts.csv
+,4,Carl Thomas Playground Pickleball,Main St,North Andover,MA,01845,42.69631,-71.13857,Park,,carl_thomas_playground_pickleball.csv
+,3,Drummond Playground Pickleball,Massachusetts Ave,North Andover,MA,01845,42.68206,-71.11132,Park,,drummond_playground_pickleball.csv
+,8,Riverside Park Dedicated PB Courts,163 Lincoln Ave,Haverhill,MA,01830,42.76260,-71.04367,Park,,riverside_park_dedicated_pb_courts.csv
+,4,Pomeroy Park Pickleball Courts,150 West St,Haverhill,MA,01832,42.77478,-71.08093,Park,,pomeroy_park_pickleball_courts.csv
+,4,Swasey Field Pickleball Courts,Blaisdell St,Haverhill,MA,01832,42.77682,-71.09300,Park,,swasey_field_pickleball_courts.csv
+,4,Winnekenni Park Pickleball Courts,347 Kenoza Ave,Haverhill,MA,01830,42.78394,-71.05721,Park,,winnekenni_park_pickleball_courts.csv
+,8,Cedardale Health and Fitness PB,931 Boston Rd,Haverhill,MA,01835,42.75227,-71.10382,Business,,cedardale_health_and_fitness_pb.csv
+,4,Haverhill YMCA Pickleball Center,81 Winter St,Haverhill,MA,01830,42.77773,-71.07925,Business,,haverhill_ymca_pickleball_center.csv
+,4,Monahan Park Pickleball Courts,Malwood Ave,Dracut,MA,01826,42.66778,-71.30548,Park,,monahan_park_pickleball_courts.csv
+,4,Dillon Center Pickleball Courts,Broadway Rd,Dracut,MA,01826,42.66231,-71.27005,Park,,dillon_center_pickleball_courts.csv
+,3,Hovey Field Pickleball Courts,Pleasant St,Dracut,MA,01826,42.66495,-71.31457,Park,,hovey_field_pickleball_courts.csv
+,6,Robinson Recreation Complex PB,Concord Rd,Westford,MA,01886,42.58312,-71.43564,Park,,robinson_recreation_complex_pb.csv
+,4,Stony Brook Park Pickleball,Farmer Way,Westford,MA,01886,42.60030,-71.44478,Park,,stony_brook_park_pickleball.csv
+,8,The Mill Works Pickleball Center,22 Town Farm Rd,Westford,MA,01886,42.58286,-71.48089,Business,,the_mill_works_pickleball_center.csv
+,4,Wamesit Place Pickleball Courts,Main St,Tewksbury,MA,01876,42.62222,-71.26536,Park,,wamesit_place_pickleball_courts.csv
+,4,Tyngsborough Recreation Park PB,Frost Rd,Tyngsborough,MA,01879,42.67667,-71.42442,Park,,tyngsborough_recreation_park_pb.csv
+,4,Lakefield Park Pickleball Courts,Lakefield Ave,Tyngsborough,MA,01879,42.66918,-71.41806,Park,,lakefield_park_pickleball_courts.csv
+,4,Groton Country Club PB Courts,94 Lovers Ln,Groton,MA,01450,42.60141,-71.55754,Park,,groton_country_club_pb_courts.csv
+,4,Town Field Pickleball Courts,Hollis St,Groton,MA,01450,42.61463,-71.57091,Park,,town_field_pickleball_courts.csv
+,4,Fay Park Pickleball Courts,Foster St,Littleton,MA,01460,42.52633,-71.49547,Park,,fay_park_pickleball_courts.csv
+,4,300 King Street Community PB,300 King St,Littleton,MA,01460,42.54349,-71.48930,Park,,300_king_street_community_pb.csv
+,6,NARA Park Dedicated PB Courts,25 Ledge Rock Way,Acton,MA,01720,42.51815,-71.41291,Park,,nara_park_dedicated_pb_courts.csv
+,4,Gardner Field Pickleball Courts,Central St,Acton,MA,01720,42.47930,-71.46704,Park,,gardner_field_pickleball_courts.csv
+,4,Elm Street Recreation Courts PB,Elm St,Acton,MA,01720,42.48259,-71.47250,Park,,elm_street_recreation_courts_pb.csv
+,4,Flerra Community Park Pickleball,Stow Rd,Boxborough,MA,01719,42.47360,-71.51557,Park,,flerra_community_park_pickleball.csv
+,8,Faxon Park Dedicated PB Courts,2003 Falls Blvd,Quincy,MA,02169,42.23888,-70.99607,Park,,faxon_park_dedicated_pb_courts.csv
+,6,Kincaide Park Pickleball Courts,Water St & Crescent St,Quincy,MA,02169,42.24107,-71.00536,Park,,kincaide_park_pickleball_courts.csv
+,4,Merrymount Park Pickleball Courts,1 Merrymount Pkwy,Quincy,MA,02169,42.26335,-71.00372,Park,,merrymount_park_pickleball_courts.csv
+,3,Fenno Street Playground PB Courts,Fenno St,Quincy,MA,02170,42.26938,-71.00645,Park,,fenno_street_playground_pb_courts.csv
+,4,Bishop Playground Pickleball Courts,110 Holbrook Rd,Quincy,MA,02171,42.27063,-71.03123,Park,,bishop_playground_pickleball_courts.csv
+,4,Labrecque Field Pickleball Courts,Richfield St,Quincy,MA,02171,42.29638,-71.01147,Park,,labrecque_field_pickleball_courts.csv
+,6,Frenchs Common Pickleball Courts,1 JFK Memorial Dr,Braintree,MA,02184,42.20605,-71.00506,Park,,frenchs_common_pickleball_courts.csv
+,4,Hollis Field Pickleball Courts,Washington St,Braintree,MA,02184,42.21532,-71.00176,Park,,hollis_field_pickleball_courts.csv
+,4,Watson Park Pickleball Courts,Gordon Rd,Braintree,MA,02184,42.22567,-70.96676,Park,,watson_park_pickleball_courts.csv
+,8,Weymouth Club Indoor PB,75 Finnell Dr,Weymouth,MA,02188,42.19031,-70.96698,Business,,weymouth_club_indoor_pb.csv
+,6,Legion Memorial Field PB Courts,Commercial St,Weymouth,MA,02188,42.22359,-70.93828,Park,,legion_memorial_field_pb_courts.csv
+,4,Lovell Field Pickleball Courts,Jackson Sq,Weymouth,MA,02189,42.21598,-70.92354,Park,,lovell_field_pickleball_courts.csv
+,2,Beals Park Dedicated PB Court,Athens St,Weymouth,MA,02191,42.24294,-70.94496,Park,,beals_park_dedicated_pb_court.csv
+,4,Great Pond Park Pickleball,Lake St,Weymouth,MA,02189,42.21099,-70.93513,Park,,great_pond_park_pickleball.csv
+,3,Bradford Hawes Park Pickleball,Lakehurst Ave,Weymouth,MA,02189,42.19620,-70.93356,Park,,bradford_hawes_park_pickleball.csv
+,6,Cronin Field Hingham Recreation PB,1 Burr Rd,Hingham,MA,02043,42.23165,-70.88512,Park,,cronin_field_hingham_recreation_pb.csv
+,4,Carlson Field Pickleball Courts,Bare Cove Park Dr,Hingham,MA,02043,42.23637,-70.90696,Park,,carlson_field_pickleball_courts.csv
+,6,South Shore Country Club PB,274 South St,Hingham,MA,02043,42.22589,-70.89393,Business,,south_shore_country_club_pb.csv
+,4,Bare Cove Park Pickleball Courts,Fort Hill St,Hingham,MA,02043,42.23105,-70.90747,Park,,bare_cove_park_pickleball_courts.csv
+,4,Kenberma Playground Pickleball,Kenberma St,Hull,MA,02045,42.27941,-70.87020,Park,,kenberma_playground_pickleball.csv
+,4,Village Green Pickleball Courts,Nantasket Ave,Hull,MA,02045,42.28218,-70.87350,Park,,village_green_pickleball_courts.csv
+,4,Milliken Field Pickleball Courts,Summer St,Cohasset,MA,02025,42.23526,-70.80791,Park,,milliken_field_pickleball_courts.csv
+,4,Barnes Wildlife Sanctuary PB,King St,Cohasset,MA,02025,42.23164,-70.82063,Park,,barnes_wildlife_sanctuary_pb.csv
+,6,Scituate Recreation Complex PB,606 Chief Justice Cushing Hwy,Scituate,MA,02066,42.19678,-70.76875,Park,,scituate_recreation_complex_pb.csv
+,4,Central Field Pickleball Courts,Country Way,Scituate,MA,02066,42.20195,-70.75523,Park,,central_field_pickleball_courts.csv
+,4,PJ Steverman Roller Hockey and PB,First Parish Rd,Scituate,MA,02066,42.19898,-70.75431,Park,,pj_steverman_roller_hockey_and_pb.csv
+,8,Boston Pickle Club Norwell,108 Pond St,Norwell,MA,02061,42.16611,-70.88376,Business,,boston_pickle_club_norwell.csv
+,4,Woodworth Memorial Field PB,Main St,Norwell,MA,02061,42.16185,-70.80242,Park,,woodworth_memorial_field_pb.csv
+,4,Gaffield Park Pickleball Courts,River St,Norwell,MA,02061,42.15753,-70.79232,Park,,gaffield_park_pickleball_courts.csv
+,8,Starland Sportsplex,637 Washington St,Hanover,MA,02339,42.12418,-70.82501,Business,,starland_sportsplex.csv
+,6,South Shore YMCA Emilson Branch,75 Mill St,Hanover,MA,02339,42.13916,-70.83852,Business,,south_shore_ymca_emilson_branch.csv
+,6,Forge Pond Park Pickleball Courts,245 King St,Hanover,MA,02339,42.10268,-70.87834,Park,,forge_pond_park_pickleball_courts.csv
+,3,Barrows Park Pickleball Courts,Broadway,Hanover,MA,02339,42.10515,-70.83847,Park,,barrows_park_pickleball_courts.csv
+,4,South Shore Racquet and Fitness PB,1040 Hingham St,Rockland,MA,02370,42.15265,-70.91093,Business,,south_shore_racquet_and_fitness_pb.csv
+,4,Rockland Memorial Park PB,Forest St,Rockland,MA,02370,42.13066,-70.91616,Park,,rockland_memorial_park_pb.csv
+,4,Hartsuff Park Pickleball Courts,146 Hartsuff St,Rockland,MA,02370,42.13933,-70.90511,Park,,hartsuff_park_pickleball_courts.csv
+,6,Marshfield Community Park PB,96 Library St,Marshfield,MA,02050,42.09192,-70.71029,Park,,marshfield_community_park_pb.csv
+,4,Coast Guard Hill Park PB,Ocean St,Marshfield,MA,02050,42.09311,-70.67596,Park,,coast_guard_hill_park_pb.csv
+,4,Peter Igo Park Dedicated PB,Marshall Ave,Marshfield,MA,02050,42.08993,-70.65125,Park,,peter_igo_park_dedicated_pb.csv
+,6,Duxbury Recreation Complex PB,Alden St,Duxbury,MA,02332,42.04651,-70.68538,Park,,duxbury_recreation_complex_pb.csv
+,4,Camp Wing Pickleball Courts,Franklin St,Duxbury,MA,02332,42.06384,-70.73863,Park,,camp_wing_pickleball_courts.csv
+,4,Tarkiln Community Park PB,Summer St,Duxbury,MA,02332,42.03594,-70.74067,Park,,tarkiln_community_park_pb.csv
+,4,Mattakeesett Field Pickleball,Mattakeesett St,Pembroke,MA,02359,42.05656,-70.82556,Park,,mattakeesett_field_pickleball.csv
+,4,Lydon Field Pickleball Courts,Barker St,Pembroke,MA,02359,42.07149,-70.80920,Park,,lydon_field_pickleball_courts.csv
+,3,Herring Run Park Pickleball,Barker St,Pembroke,MA,02359,42.07654,-70.80022,Park,,herring_run_park_pickleball.csv
+,6,Opachiski Athletic Complex PB,Landing Rd,Kingston,MA,02364,41.99814,-70.72181,Park,,opachiski_athletic_complex_pb.csv
+,4,Reed Community Building PB,33A Main St,Kingston,MA,02364,41.99654,-70.72856,Park,,reed_community_building_pb.csv
+,12,Forges Field Dedicated PB Complex,83 Jordan Rd,Plymouth,MA,02360,41.90890,-70.62841,Park,,forges_field_dedicated_pb_complex.csv
+,8,Plymouth Tennis and Pickleball Club,165 S Meadow Rd,Plymouth,MA,02360,41.91826,-70.72436,Business,,plymouth_tennis_and_pickleball_club.csv
+,6,Stephens Field Pickleball Courts,Sandwich St,Plymouth,MA,02360,41.95293,-70.65477,Park,,stephens_field_pickleball_courts.csv
+,4,West Plymouth Recreation Complex PB,Samoset St,Plymouth,MA,02360,41.95260,-70.68602,Park,,west_plymouth_recreation_complex_pb.csv
+,4,Elmer Raymond Park Pickleball,Long Pond Rd,Plymouth,MA,02360,41.87051,-70.60673,Park,,elmer_raymond_park_pickleball.csv
+,4,Hedges Pond Recreation Area PB,Hedges Pond Rd,Plymouth,MA,02360,41.83059,-70.56381,Park,,hedges_pond_recreation_area_pb.csv
+,4,Carver Recreation Complex PB,Meadow St,Carver,MA,02330,41.89002,-70.77040,Park,,carver_recreation_complex_pb.csv
+,4,Whitman Town Park Pickleball Courts,1 Whitman Ave,Whitman,MA,02382,42.08309,-70.93438,Park,,whitman_town_park_pickleball_courts.csv
+,6,Buttonwood Park Dedicated PB,1 Oneida St,New Bedford,MA,02740,41.63277,-70.95252,Park,,buttonwood_park_dedicated_pb.csv
+,4,Hazelwood Park Dedicated PB,Brock Ave,New Bedford,MA,02744,41.60672,-70.91324,Park,,hazelwood_park_dedicated_pb.csv
+,6,Brooklawn Park Pickleball Courts,1997 Acushnet Ave,New Bedford,MA,02745,41.67532,-70.92790,Park,,brooklawn_park_pickleball_courts.csv
+,7,Southeast Sportsplex Indoor PB,1116 Shawmut Ave,New Bedford,MA,02746,41.66385,-70.94951,Business,,southeast_sportsplex_indoor_pb.csv
+,4,Riverside Park PB Courts New Bedford,Belleville Ave,New Bedford,MA,02746,41.66076,-70.92310,Park,,riverside_park_pb_courts_new_bedford.csv
+,6,Britland Park Pickleball Courts,Wordell St,Fall River,MA,02720,41.69716,-71.14710,Park,,britland_park_pickleball_courts.csv
+,4,Kennedy Park Pickleball Courts,S Main St & Bradford Ave,Fall River,MA,02724,41.69531,-71.16347,Park,,kennedy_park_pickleball_courts.csv
+,4,Father Travassos Park Pickleball,Columbia St & Broadway,Fall River,MA,02721,41.69973,-71.16701,Park,,father_travassos_park_pickleball.csv
+,8,Bristol Community College PB Courts,777 Elsbree St,Fall River,MA,02720,41.72001,-71.12257,Park,,bristol_community_college_pb_courts.csv
+,4,Maplewood Park Pickleball Courts,Stafford Rd,Fall River,MA,02721,41.68104,-71.15464,Park,,maplewood_park_pickleball_courts.csv
+,4,Jones Park Pickleball Courts,Gulf Rd,Dartmouth,MA,02748,41.58207,-70.96009,Park,,jones_park_pickleball_courts.csv
+,6,Dartmouth Regional Parks PB,Russells Mills Rd,Dartmouth,MA,02748,41.59305,-70.98041,Park,,dartmouth_regional_parks_pb.csv
+,4,Apponagansett Park Pickleball,Gulf Rd,Dartmouth,MA,02748,41.58207,-70.96009,Park,,apponagansett_park_pickleball.csv
+,4,D.N. Kelley and Son Park PB,Water St,Fairhaven,MA,02719,41.63519,-70.90612,Park,,d_n_kelley_and_son_park_pb.csv
+,4,Livesey Park Pickleball Courts,Parker St,Fairhaven,MA,02719,41.65813,-70.90502,Park,,livesey_park_pickleball_courts.csv
+,4,Cushman Park Pickleball Courts,Green St,Fairhaven,MA,02719,41.63650,-70.90266,Park,,cushman_park_pickleball_courts.csv
+,4,Old Hammondtown Recreation PB,Shaw St,Mattapoisett,MA,02739,41.66015,-70.83211,Park,,old_hammondtown_recreation_pb.csv
+,3,Mattapoisett Town Beach PB Courts,Water St,Mattapoisett,MA,02739,41.65848,-70.80863,Park,,mattapoisett_town_beach_pb_courts.csv
+,4,Washburn Park Pickleball Courts,Washburn Park Rd,Marion,MA,02738,41.72180,-70.77254,Park,,washburn_park_pickleball_courts.csv
+,4,Point Road Memorial Park PB,Point Rd,Marion,MA,02738,41.70628,-70.74621,Park,,point_road_memorial_park_pb.csv
+,6,Spillane Field Recreation PB,Viking Dr,Wareham,MA,02571,41.75806,-70.72411,Park,,spillane_field_recreation_pb.csv
+,4,Minot Forest Park Pickleball,Minot Ave,Wareham,MA,02571,41.75204,-70.69821,Park,,minot_forest_park_pickleball.csv
+,4,Wareham YMCA Pickleball Center,33 Charge Pond Rd,Wareham,MA,02571,41.77364,-70.71147,Business,,wareham_ymca_pickleball_center.csv
+,6,Hopewell Park Dedicated PB Courts,Hopewell St,Taunton,MA,02780,41.91234,-71.09477,Park,,hopewell_park_dedicated_pb_courts.csv
+,4,Taunton Memorial Park PB Courts,Court St,Taunton,MA,02780,41.90272,-71.09556,Park,,taunton_memorial_park_pb_courts.csv
+,8,Fore Kicks Sports Complex Taunton,223 Fremont St,Taunton,MA,02780,41.92921,-71.12186,Business,,fore_kicks_sports_complex_taunton.csv
+,4,Old Colony YMCA Taunton Branch,71 Cohannet St,Taunton,MA,02780,41.90102,-71.09667,Business,,old_colony_ymca_taunton_branch.csv
+,6,Borden Colony Recreation Complex,King Philip St,Raynham,MA,02767,41.93711,-71.07470,Park,,borden_colony_recreation_complex.csv
+,4,Merrill Field Pickleball Courts,Pleasant St,Raynham,MA,02767,41.93559,-71.03120,Park,,merrill_field_pickleball_courts.csv
+,6,Capron Park Pickleball Courts,201 County St,Attleboro,MA,02703,41.93727,-71.29637,Park,,capron_park_pickleball_courts.csv
+,4,Nickerson Field Dedicated PB,Snell St,Attleboro,MA,02703,41.93334,-71.30821,Park,,nickerson_field_dedicated_pb.csv
+,3,Tilda B Stone Pickleball Court,Holden St,Attleboro,MA,02703,41.94431,-71.28139,Park,,tilda_b_stone_pickleball_court.csv
+,3,Attleboro Norton YMCA Downtown PB,63 N Main St,Attleboro,MA,02703,41.94602,-71.28557,Business,,attleboro_norton_ymca_downtown_pb.csv
+,4,Finberg Park Pickleball Courts,Bishop St,Attleboro,MA,02703,41.93739,-71.26307,Park,,finberg_park_pickleball_courts.csv
+,6,World War I Memorial Park PB,Elmwood St,North Attleborough,MA,02760,41.99756,-71.32050,Park,,world_war_i_memorial_park_pb.csv
+,4,Mason Field Pickleball Courts,Elm St,North Attleborough,MA,02760,41.97597,-71.32373,Park,,mason_field_pickleball_courts.csv
+,3,Beaupre Field Pickleball Courts,Park St,North Attleborough,MA,02760,41.98287,-71.32890,Park,,beaupre_field_pickleball_courts.csv
+,6,Mansfield Memorial Park PB,East St,Mansfield,MA,02048,42.03254,-71.20881,Park,,mansfield_memorial_park_pb.csv
+,4,Plymouth Street Pickleball Courts,Plymouth St,Mansfield,MA,02048,42.01336,-71.24051,Park,,plymouth_street_pickleball_courts.csv
+,4,Memorial Park Dedicated PB Courts,Hope St,Mansfield,MA,02048,42.03346,-71.21906,Park,,memorial_park_dedicated_pb_courts.csv
+,4,Norton Town Park Pickleball,Plain St,Norton,MA,02766,41.96953,-71.18212,Park,,norton_town_park_pickleball.csv
+,4,Yelle Community Recreation PB,W Main St,Norton,MA,02766,41.96953,-71.18212,Park,,yelle_community_recreation_pb.csv
+,4,Frothingham Park Pickleball,Park St,Easton,MA,02356,42.06251,-71.10485,Park,,frothingham_park_pickleball.csv
+,4,Edwin A. Keach Memorial Park PB,Chestnut St,Easton,MA,02356,42.03823,-71.14671,Park,,edwin_a_keach_memorial_park_pb.csv
+,4,Southon Park Pickleball Courts,County St,Somerset,MA,02726,41.73697,-71.16826,Park,,southon_park_pickleball_courts.csv
+,4,Ashton Field Pickleball Courts,Riverside Ave,Somerset,MA,02726,41.74022,-71.14476,Park,,ashton_field_pickleball_courts.csv
+,4,Pierce Beach Recreation PB,South St,Somerset,MA,02726,41.76711,-71.13269,Park,,pierce_beach_recreation_pb.csv
+,4,Swansea Town Park Pickleball,Main St,Swansea,MA,02777,41.74903,-71.19148,Park,,swansea_town_park_pickleball.csv
+,4,Learnard Field Pickleball Courts,G.A.R. Hwy,Swansea,MA,02777,41.77285,-71.27069,Park,,learnard_field_pickleball_courts.csv
+,6,Seekonk Recreation Complex PB,Arcade Ave,Seekonk,MA,02771,41.80843,-71.33700,Park,,seekonk_recreation_complex_pb.csv
+,4,Cole Street Playground Pickleball,Cole St,Seekonk,MA,02771,41.79885,-71.31903,Park,,cole_street_playground_pickleball.csv
+,4,Dighton Community Park PB,Somerset Ave,Dighton,MA,02715,41.83818,-71.11718,Park,,dighton_community_park_pb.csv
+,3,Lane Park Pickleball Courts,Main St,Dighton,MA,02715,41.81342,-71.11793,Park,,lane_park_pickleball_courts.csv
+,4,Rehoboth State Forest PB Hub,Peck St,Rehoboth,MA,02769,41.84701,-71.23939,Park,,rehoboth_state_forest_pb_hub.csv
+,4,Redway Plain Park Pickleball,Bay State Rd,Rehoboth,MA,02769,41.84272,-71.26195,Park,,redway_plain_park_pickleball.csv
+,16,Barnstable Pickleball and Tennis Complex,760 Osterville West Barnstable Rd,Marstons Mills,MA,02648,41.66474,-70.38582,Park,,barnstable_pickleball_and_tennis_complex.csv
+,6,Veterans Memorial Park PB,480 Ocean St,Hyannis,MA,02601,41.64186,-70.27865,Park,,veterans_memorial_park_pb.csv
+,4,Osterville Recreation Pickleball,West Bay Rd,Osterville,MA,02655,41.62582,-70.38852,Park,,osterville_recreation_pickleball.csv
+,4,Centerville Recreation Park PB,Main St,Centerville,MA,02632,41.65704,-70.35005,Park,,centerville_recreation_park_pb.csv
+,4,Cotuit Recreation Courts PB,School St,Cotuit,MA,02635,41.61729,-70.43676,Park,,cotuit_recreation_courts_pb.csv
+,4,West Barnstable Community PB,2377 Meetinghouse Way,West Barnstable,MA,02668,41.70527,-70.37623,Park,,west_barnstable_community_pb.csv
+,6,Homer Park Dedicated PB Courts,Old Townhouse Rd,South Yarmouth,MA,02664,41.68456,-70.21705,Park,,homer_park_dedicated_pb_courts.csv
+,6,Flax Pond Recreation Area PB,Dupont Ave,South Yarmouth,MA,02664,41.68761,-70.18824,Park,,flax_pond_recreation_area_pb.csv
+,6,Sandy Pond Recreation Complex PB,Buck Island Rd,West Yarmouth,MA,02673,41.66100,-70.24084,Park,,sandy_pond_recreation_complex_pb.csv
+,8,Johnny Kelley Recreation Area PB,180 Old Bass River Rd,South Dennis,MA,02660,41.70112,-70.15995,Park,,johnny_kelley_recreation_area_pb.csv
+,4,Baker Park Pickleball Courts,Baker Ave,Dennis Port,MA,02639,41.66696,-70.12654,Park,,baker_park_pickleball_courts.csv
+,4,West Dennis Community PB,School St,West Dennis,MA,02670,41.66053,-70.16936,Park,,west_dennis_community_pb.csv
+,6,Brooks Park Dedicated PB Courts,1 Oak St,Harwich,MA,02645,41.68775,-70.07012,Park,,brooks_park_dedicated_pb_courts.csv
+,6,Whitehouse Field Recreation PB,75 Oak St,Harwich,MA,02645,41.69280,-70.06584,Park,,whitehouse_field_recreation_pb.csv
+,4,Monomoy Community PB Courts,Main St,Harwich,MA,02645,41.68882,-70.09993,Park,,monomoy_community_pb_courts.csv
+,6,Volunteer Park Pickleball Courts,Crowell Rd,Chatham,MA,02633,41.69409,-69.97067,Park,,volunteer_park_pickleball_courts.csv
+,4,Oyster Pond Recreation Courts PB,Stage Harbor Rd,Chatham,MA,02633,41.68056,-69.96301,Park,,oyster_pond_recreation_courts_pb.csv
+,4,Stony Brook Field Pickleball,Underpass Rd,Brewster,MA,02631,41.75863,-70.06818,Park,,stony_brook_field_pickleball.csv
+,4,Eddy Community Recreation PB,Main St,Brewster,MA,02631,41.76093,-70.08297,Park,,eddy_community_recreation_pb.csv
+,6,Eldredge Park Dedicated PB Courts,78 S Orleans Rd,Orleans,MA,02653,41.78327,-69.98761,Park,,eldredge_park_dedicated_pb_courts.csv
+,4,Nauset Regional Recreation PB,Eldredge Park Way,Orleans,MA,02653,41.78050,-69.99318,Park,,nauset_regional_recreation_pb.csv
+,8,Willys Pickleball and Gym,4730 State Hwy,Eastham,MA,02651,41.85883,-69.98444,Business,,willys_pickleball_and_gym.csv
+,4,Eastham Town Hall Courts PB,2500 State Hwy,Eastham,MA,02642,41.83039,-69.97322,Park,,eastham_town_hall_courts_pb.csv
+,6,Wellfleet Pickleball Courts Baker Field,70 Kendrick Ave,Wellfleet,MA,02667,41.93143,-70.03692,Park,,wellfleet_pickleball_courts_baker_field.csv
+,4,Mayo Beach Recreation Courts PB,Kendrick Ave,Wellfleet,MA,02667,41.93143,-70.03692,Park,,mayo_beach_recreation_courts_pb.csv
+,4,Pamet Harbor Recreation PB,Depot Rd,Truro,MA,02666,41.99131,-70.06054,Park,,pamet_harbor_recreation_pb.csv
+,4,Snows Field Pickleball Courts,Route 6,Truro,MA,02666,42.00058,-70.05869,Park,,snows_field_pickleball_courts.csv
+,4,Motta Field Pickleball Courts,25 Winslow St,Provincetown,MA,02657,42.05293,-70.19018,Park,,motta_field_pickleball_courts.csv
+,4,Jerome Smith Road Courts PB,Jerome Smith Rd,Provincetown,MA,02657,42.05511,-70.19377,Park,,jerome_smith_road_courts_pb.csv
+,6,Keith Carandang Memorial Courts,Canal St,Bourne,MA,02532,41.74400,-70.61470,Park,,keith_carandang_memorial_courts.csv
+,4,Chester Park Pickleball Courts,Chester Park Rd,Bourne,MA,02532,41.74550,-70.58599,Park,,chester_park_pickleball_courts.csv
+,4,Sagamore Beach Community PB,Phillips Rd,Sagamore Beach,MA,02562,41.79794,-70.52958,Park,,sagamore_beach_community_pb.csv
+,4,Monument Beach Recreation PB,Shore Rd,Monument Beach,MA,02553,41.71502,-70.61520,Park,,monument_beach_recreation_pb.csv
+,6,Oak Crest Cove Dedicated PB Courts,34 Quaker Meetinghouse Rd,Sandwich,MA,02563,41.76428,-70.49866,Park,,oak_crest_cove_dedicated_pb_courts.csv
+,4,Sandwich Recreation Park PB,Water St,Sandwich,MA,02563,41.76428,-70.49866,Park,,sandwich_recreation_park_pb.csv
+,4,Peters Pond Recreation Courts,John Eloy Rd,Sandwich,MA,02563,41.69134,-70.48931,Park,,peters_pond_recreation_courts.csv
+,6,Falmouth Sports Center PB,33 Highfield Dr,Falmouth,MA,02540,41.55797,-70.62482,Business,,falmouth_sports_center_pb.csv
+,6,Gifford Street Dedicated PB Courts,141 Gifford St,Falmouth,MA,02540,41.55578,-70.61099,Park,,gifford_street_dedicated_pb_courts.csv
+,4,Nye Park Pickleball Courts,County Rd,North Falmouth,MA,02556,41.65030,-70.61982,Park,,nye_park_pickleball_courts.csv
+,4,Trotting Park Fields PB,Trotting Park Rd,East Falmouth,MA,02536,41.57844,-70.55864,Park,,trotting_park_fields_pb.csv
+,4,Guv Fuller Field Recreation PB,Main St,Falmouth,MA,02540,41.55234,-70.60952,Park,,guv_fuller_field_recreation_pb.csv
+,8,Mashpee Pickleball Park,520 Old Barnstable Rd,Mashpee,MA,02649,41.65304,-70.50223,Park,,mashpee_pickleball_park.csv
+,8,Boys and Girls Club of Cape Cod PB,31 Frank E Hicks Dr,Mashpee,MA,02649,41.62070,-70.49453,Business,,boys_and_girls_club_of_cape_cod_pb.csv
+,4,Mashpee Heritage Park PB Courts,Main St,Mashpee,MA,02649,41.65481,-70.49335,Park,,mashpee_heritage_park_pb_courts.csv
+,4,South Cape Beach Recreation PB,Great Oak Rd,Mashpee,MA,02649,41.56709,-70.49228,Park,,south_cape_beach_recreation_pb.csv
+,4,West Tisbury Recreation PB,Old County Rd,West Tisbury,MA,02575,41.38291,-70.67398,Park,,west_tisbury_recreation_pb.csv
+,4,Niantic Park Pickleball Courts,Niantic Ave,Oak Bluffs,MA,02557,41.45247,-70.55940,Park,,niantic_park_pickleball_courts.csv
+,4,Robinson Road Recreation PB,Robinson Rd,Edgartown,MA,02539,41.38827,-70.52331,Park,,robinson_road_recreation_pb.csv
+,4,Church Street Courts PB,Church St,Edgartown,MA,02539,41.39112,-70.51457,Park,,church_street_courts_pb.csv
+,4,Veterans Memorial Park PB Vineyard,Causeway Rd,Vineyard Haven,MA,02568,41.45189,-70.60346,Park,,veterans_memorial_park_pb_vineyard.csv
+,4,Marthas Vineyard YMCA PB,111 Edgartown Vineyard Haven Rd,Oak Bluffs,MA,02557,41.41993,-70.59269,Business,,marthas_vineyard_ymca_pb.csv
+,6,Tom Nevers Park Pickleball Courts,Tom Nevers Rd,Nantucket,MA,02554,41.25358,-70.00402,Park,,tom_nevers_park_pickleball_courts.csv
+,6,Jetties Beach Tennis and PB Courts,Bathing Beach Rd,Nantucket,MA,02554,41.29416,-70.10511,Park,,jetties_beach_tennis_and_pb_courts.csv
+,4,Delta Fields Pickleball Courts,Surfside Rd,Nantucket,MA,02554,41.25969,-70.09646,Park,,delta_fields_pickleball_courts.csv
+,4,Nantucket Community Sailing PB,4 Washington St,Nantucket,MA,02554,41.28276,-70.09713,Business,,nantucket_community_sailing_pb.csv
+,12,Lake Park Dedicated PB Complex,283 Lake Ave,Worcester,MA,01604,42.26591,-71.75780,Park,,lake_park_dedicated_pb_complex.csv
+,6,Green Hill Park Pickleball Courts,50 Skyline Dr,Worcester,MA,01605,42.28269,-71.77942,Park,,green_hill_park_pickleball_courts.csv
+,6,Worcester Fitness Indoor PB,440 Grove St,Worcester,MA,01605,42.28963,-71.80812,Business,,worcester_fitness_indoor_pb.csv
+,4,Holmes Field Pickleball Courts,Plantation St,Worcester,MA,01604,42.27458,-71.76711,Park,,holmes_field_pickleball_courts.csv
+,4,Beaver Brook Park Pickleball,Chandler St,Worcester,MA,01602,42.26446,-71.83442,Park,,beaver_brook_park_pickleball.csv
+,4,Crompton Park Pickleball Courts,Canton St,Worcester,MA,01610,42.25002,-71.80282,Park,,crompton_park_pickleball_courts.csv
+,4,Vernon Hill Park Pickleball,Vernon St,Worcester,MA,01610,42.24357,-71.79273,Park,,vernon_hill_park_pickleball.csv
+,4,Central Community Branch YMCA PB,766 Main St,Worcester,MA,01610,42.25745,-71.80951,Business,,central_community_branch_ymca_pb.csv
+,6,Dean Park Pickleball Courts,Main St,Shrewsbury,MA,01545,42.29928,-71.69731,Park,,dean_park_pickleball_courts.csv
+,4,Jordan Pond Park Pickleball,Maple Ave,Shrewsbury,MA,01545,42.29129,-71.72110,Park,,jordan_pond_park_pickleball.csv
+,8,Westborough Tennis and Pickleball Club,35 Chauncy St,Westborough,MA,01581,42.28721,-71.61631,Business,,westborough_tennis_and_pickleball_club.csv
+,4,Chauncy Field Pickleball Courts,Chauncy St,Westborough,MA,01581,42.26941,-71.61336,Park,,chauncy_field_pickleball_courts.csv
+,4,Haskell Recreation Area PB,Haskell St,Westborough,MA,01581,42.29387,-71.60131,Park,,haskell_recreation_area_pb.csv
+,8,Big Shots Pickleball Northborough,201 Turnpike Rd,Northborough,MA,01532,42.28316,-71.65880,Business,,big_shots_pickleball_northborough.csv
+,6,Ellsworth McAfee Park PB,South St,Northborough,MA,01532,42.29728,-71.63677,Park,,ellsworth_mcafee_park_pb.csv
+,4,Assabet Park Pickleball Courts,Gale St,Northborough,MA,01532,42.31846,-71.64401,Park,,assabet_park_pickleball_courts.csv
+,4,Mooney Field Pickleball Courts,Parkerville Rd,Southborough,MA,01772,42.28690,-71.53608,Park,,mooney_field_pickleball_courts.csv
+,4,Neary Recreation Complex PB,Parkerville Rd,Southborough,MA,01772,42.28690,-71.53608,Park,,neary_recreation_complex_pb.csv
+,4,Ferry Street Park Pickleball,Ferry St,Grafton,MA,01519,42.17473,-71.69014,Park,,ferry_street_park_pickleball.csv
+,4,Norcross Park Pickleball Courts,N Main St,Grafton,MA,01519,42.20830,-71.68178,Park,,norcross_park_pickleball_courts.csv
+,4,Windle Field Pickleball Courts,Canal St,Millbury,MA,01527,42.19299,-71.75708,Park,,windle_field_pickleball_courts.csv
+,4,Washington Street Park PB,Washington St,Millbury,MA,01527,42.18487,-71.76516,Park,,washington_street_park_pb.csv
+,6,Lemansky Park Pickleball Courts,Oxford St N,Auburn,MA,01501,42.19886,-71.84584,Park,,lemansky_park_pickleball_courts.csv
+,4,Pappas Recreation Complex PB,203A Pakachoag St,Auburn,MA,01501,42.21589,-71.81765,Park,,pappas_recreation_complex_pb.csv
+,4,Greenbriar Recreation Complex PB,Main St,Oxford,MA,01540,42.12848,-71.86432,Park,,greenbriar_recreation_complex_pb.csv
+,4,Joslin Park Pickleball Courts,Maple St,Oxford,MA,01540,42.11945,-71.86695,Park,,joslin_park_pickleball_courts.csv
+,6,Memorial Beach Park PB,Thompson Rd,Webster,MA,01570,42.05400,-71.86306,Park,,memorial_beach_park_pb.csv
+,4,French River Park Pickleball,Davis St,Webster,MA,01570,42.05086,-71.88215,Park,,french_river_park_pickleball.csv
+,6,Mountview Recreation Area PB,Shrewsbury St,Holden,MA,01520,42.33502,-71.82341,Park,,mountview_recreation_area_pb.csv
+,4,Dawson Recreation Complex PB,Salisbury St,Holden,MA,01520,42.33981,-71.85091,Park,,dawson_recreation_complex_pb.csv
+,4,Towtaid Park Pickleball Courts,Towtaid St,Leicester,MA,01524,42.24079,-71.87511,Park,,towtaid_park_pickleball_courts.csv
+,4,Rochdale Park Pickleball Courts,Stafford St,Leicester,MA,01542,42.19652,-71.90679,Park,,rochdale_park_pickleball_courts.csv
+,4,Luther Hill Park Pickleball,Park St,Spencer,MA,01562,42.25131,-71.98496,Park,,luther_hill_park_pickleball.csv
+,4,OGara Park Pickleball Courts,Chestnut St,Spencer,MA,01562,42.24119,-71.99543,Park,,ogara_park_pickleball_courts.csv
+,6,Turner Park Dedicated PB Courts,Cedar St,Sturbridge,MA,01566,42.11506,-72.11162,Park,,turner_park_dedicated_pb_courts.csv
+,4,Town Common Pickleball Courts,Main St,Sturbridge,MA,01566,42.10791,-72.07922,Park,,town_common_pickleball_courts.csv
+,6,Charlton Recreation Complex PB,Oxford Rd,Charlton,MA,01507,42.13565,-71.97007,Park,,charlton_recreation_complex_pb.csv
+,4,Charlton Heritage Park PB Courts,Stafford St,Charlton,MA,01507,42.19191,-71.90944,Park,,charlton_heritage_park_pb_courts.csv
+,4,Fun Zone Recreation Complex PB,Airport Rd,Dudley,MA,01571,42.04254,-71.91776,Park,,fun_zone_recreation_complex_pb.csv
+,4,Crawford Field Pickleball Courts,Schofield Ave,Dudley,MA,01571,42.05637,-71.88620,Park,,crawford_field_pickleball_courts.csv
+,4,Rockdale Park Pickleball Courts,School St,Northbridge,MA,01534,42.15385,-71.65083,Park,,rockdale_park_pickleball_courts.csv
+,4,Linwood Park Pickleball Courts,Linwood Ave,Northbridge,MA,01534,42.15163,-71.64944,Park,,linwood_park_pickleball_courts.csv
+,6,Uxbridge Recreation Complex PB,Quaker Hwy,Uxbridge,MA,01569,42.07724,-71.63025,Park,,uxbridge_recreation_complex_pb.csv
+,4,Pout Pond Recreation Area PB,West Rd,Uxbridge,MA,01569,42.07724,-71.63025,Park,,pout_pond_recreation_area_pb.csv
+,6,Fino Field Athletic Complex PB,Clark St,Milford,MA,01757,42.14515,-71.51409,Park,,fino_field_athletic_complex_pb.csv
+,4,Milford Plains Park PB Courts,Cedar St,Milford,MA,01757,42.15577,-71.50967,Park,,milford_plains_park_pb_courts.csv
+,11,Open Play Pickleball and Padel,85 Constitution Way,Hopkinton,MA,01748,42.21685,-71.53655,Business,,open_play_pickleball_and_padel.csv
+,4,EMC Park Pickleball Courts,113 Hayden Rowe St,Hopkinton,MA,01748,42.21689,-71.51342,Park,,emc_park_pickleball_courts.csv
+,6,Fruit Street Athletic Complex PB,66 Fruit St,Hopkinton,MA,01748,42.24979,-71.56277,Park,,fruit_street_athletic_complex_pb.csv
+,6,Wayside Athletic Club,80 Broadmeadow St,Marlborough,MA,01752,42.34129,-71.51070,Business,,wayside_athletic_club.csv
+,6,Ghiloni Park Dedicated PB Courts,239 Concord Rd,Marlborough,MA,01752,42.35604,-71.52182,Park,,ghiloni_park_dedicated_pb_courts.csv
+,8,Fore Kicks Sports Complex,219 Forest St,Marlborough,MA,01752,42.33312,-71.57916,Business,,fore_kicks_sports_complex.csv
+,4,Stevens Park Pickleball Courts,Martin St,Marlborough,MA,01752,42.34476,-71.56521,Park,,stevens_park_pickleball_courts.csv
+,4,Ward Park Pickleball Courts,Orchard St,Marlborough,MA,01752,42.34377,-71.55538,Park,,ward_park_pickleball_courts.csv
+,4,Bellingham Town Common PB,Mechanic St,Bellingham,MA,02019,42.08783,-71.47706,Park,,bellingham_town_common_pb.csv
+,8,Forest Park Dedicated PB Courts,200 Sumner Ave,Springfield,MA,01108,42.07563,-72.56485,Park,,forest_park_dedicated_pb_courts.csv
+,6,Blunt Park Dedicated PB Courts,1780 Roosevelt Ave,Springfield,MA,01109,42.12960,-72.54723,Park,,blunt_park_dedicated_pb_courts.csv
+,11,Springfield JCC Pickleball Center,1160 Dickinson St,Springfield,MA,01108,42.06746,-72.55682,Business,,springfield_jcc_pickleball_center.csv
+,3,Holy Name Social Center PB,53 Alderman St,Springfield,MA,01108,42.08822,-72.55809,Park,,holy_name_social_center_pb.csv
+,4,Nathan Bill Park Pickleball,Plumtree Rd,Springfield,MA,01118,42.10330,-72.52225,Park,,nathan_bill_park_pickleball.csv
+,4,Cyr Arena Park Pickleball,Roosevelt Ave,Springfield,MA,01109,42.11599,-72.55058,Park,,cyr_arena_park_pickleball.csv
+,6,Szot Park Dedicated PB Courts,Front St,Chicopee,MA,01013,42.14810,-72.59907,Park,,szot_park_dedicated_pb_courts.csv
+,4,Ray Ash Memorial Park PB,Montgomery St,Chicopee,MA,01020,42.17775,-72.58909,Park,,ray_ash_memorial_park_pb.csv
+,4,Fairview Park Pickleball Courts,Memorial Dr,Chicopee,MA,01020,42.18890,-72.57742,Park,,fairview_park_pickleball_courts.csv
+,4,Holyoke Roberts Field PB Courts,Cochran St,Holyoke,MA,01040,42.19919,-72.62091,Park,,holyoke_roberts_field_pb_courts.csv
+,6,Community Field Pickleball Courts,Community Field Rd,Holyoke,MA,01040,42.20416,-72.63766,Park,,community_field_pickleball_courts.csv
+,4,Springdale Park Pickleball Courts,Main St,Holyoke,MA,01040,42.18868,-72.62094,Park,,springdale_park_pickleball_courts.csv
+,8,Municipal Playground Dedicated PB,Greylock St,Westfield,MA,01085,42.12509,-72.74954,Park,,municipal_playground_dedicated_pb.csv
+,4,Half Mile Falls Park PB,North Elm St,Westfield,MA,01085,42.12942,-72.74553,Park,,half_mile_falls_park_pb.csv
+,4,Chapman Playground Pickleball,Saint Paul St,Westfield,MA,01085,42.12535,-72.73833,Park,,chapman_playground_pickleball.csv
+,6,Mittineague Park Pickleball Courts,1695 Westfield St,West Springfield,MA,01089,42.10315,-72.65097,Park,,mittineague_park_pickleball_courts.csv
+,4,Memorial Field Pickleball Courts WSpfld,Kings Hwy,West Springfield,MA,01089,42.11081,-72.63651,Park,,memorial_field_pickleball_courts_wspfld.csv
+,8,School Street Park Dedicated PB,Corey St & School St,Agawam,MA,01001,42.07179,-72.60264,Park,,school_street_park_dedicated_pb.csv
+,4,Borgatti Field Pickleball Courts,Southwick St,Feeding Hills,MA,01030,42.06576,-72.69369,Park,,borgatti_field_pickleball_courts.csv
+,6,Bliss Park Pickleball Courts,Bliss Rd,Longmeadow,MA,01106,42.05883,-72.57079,Park,,bliss_park_pickleball_courts.csv
+,4,Greenwood Park Pickleball,Greenwood Rd,Longmeadow,MA,01106,42.03181,-72.57401,Park,,greenwood_park_pickleball.csv
+,6,East Longmeadow Heritage Park PB,North Main St,East Longmeadow,MA,01028,42.07511,-72.52095,Park,,east_longmeadow_heritage_park_pb.csv
+,4,Whitney Park Pickleball Courts,Chestnut St,Ludlow,MA,01056,42.16416,-72.47780,Park,,whitney_park_pickleball_courts.csv
+,6,Ellerbrook Field Dedicated PB Courts,48 Burts Pit Rd,Northampton,MA,01060,42.31156,-72.65305,Park,,ellerbrook_field_dedicated_pb_courts.csv
+,6,Look Memorial Park Pickleball,300 N Main St,Florence,MA,01062,42.34528,-72.68824,Park,,look_memorial_park_pickleball.csv
+,4,Arcanum Field Pickleball Courts,Bridge Rd,Northampton,MA,01060,42.34062,-72.65966,Park,,arcanum_field_pickleball_courts.csv
+,6,Mill River Recreation Area PB,95 Montague Rd,Amherst,MA,01002,42.41231,-72.52767,Park,,mill_river_recreation_area_pb.csv
+,4,Groff Park Pickleball Courts,Mill Ln,Amherst,MA,01002,42.35760,-72.51716,Park,,groff_park_pickleball_courts.csv
+,8,Bay Road Tennis and MultiSport PB,893 West St,Amherst,MA,01002,42.32499,-72.53265,Business,,bay_road_tennis_and_multisport_pb.csv
+,6,Nonotuck Park Dedicated PB,1 Daley Field Rd,Easthampton,MA,01027,42.25635,-72.66818,Park,,nonotuck_park_dedicated_pb.csv
+,4,Main Street Park Pickleball,Main St,Easthampton,MA,01027,42.26676,-72.66898,Park,,main_street_park_pickleball.csv
+,6,Beacon Field Dedicated PB Courts,Beacon St,Greenfield,MA,01301,42.59655,-72.59216,Park,,beacon_field_dedicated_pb_courts.csv
+,4,Greenfield Highland Park PB Courts,Mountain Rd,Greenfield,MA,01301,42.58526,-72.58718,Park,,greenfield_highland_park_pb_courts.csv
+,3,Greenfield Energy Park PB,Miles St,Greenfield,MA,01301,42.58636,-72.60187,Park,,greenfield_energy_park_pb.csv
+,8,Springside Park Dedicated PB Courts,874 N St,Pittsfield,MA,01201,42.46515,-73.24579,Park,,springside_park_dedicated_pb_courts.csv
+,6,Berkshire West Athletic Club PB,100 Dan Fox Dr,Pittsfield,MA,01201,42.42133,-73.27698,Business,,berkshire_west_athletic_club_pb.csv
+,4,Clapp Park Pickleball Courts,West Housatonic St,Pittsfield,MA,01201,42.44107,-73.26437,Park,,clapp_park_pickleball_courts.csv
+,4,Burbank Park On Onota Lake PB,Valentine Rd,Pittsfield,MA,01201,42.46356,-73.27402,Park,,burbank_park_on_onota_lake_pb.csv
+,4,Kirvin Park Pickleball Courts,Williams St,Pittsfield,MA,01201,42.43369,-73.22201,Park,,kirvin_park_pickleball_courts.csv
+,4,Town Hall Park Dedicated PB,6 Walker St,Lenox,MA,01240,42.35640,-73.28478,Park,,town_hall_park_dedicated_pb.csv
+,4,Lilac Park Pickleball Courts,Main St,Lenox,MA,01240,42.35846,-73.28483,Park,,lilac_park_pickleball_courts.csv
+,6,Lee Athletic Field Dedicated PB,Greylock St,Lee,MA,01238,42.30116,-73.24528,Park,,lee_athletic_field_dedicated_pb.csv
+,4,Housatonic Playground Dedicated PB,Pleasant St,Great Barrington,MA,01236,42.25425,-73.36622,Park,,housatonic_playground_dedicated_pb.csv
+,4,Memorial Field Pickleball Courts GB,Bridge St,Great Barrington,MA,01230,42.19302,-73.35952,Park,,memorial_field_pickleball_courts_gb.csv
+,4,Renfrew Field Pickleball Courts,Friend St,Adams,MA,01220,42.63246,-73.11947,Park,,renfrew_field_pickleball_courts.csv
+,4,Russell Field Pickleball Courts,Harmony St,Adams,MA,01220,42.61742,-73.12572,Park,,russell_field_pickleball_courts.csv
+,6,Noel Field Athletic Complex PB,State St,North Adams,MA,01247,42.69209,-73.11258,Park,,noel_field_athletic_complex_pb.csv
+,4,Windsor Lake Park Pickleball,Bradley St,North Adams,MA,01247,42.68935,-73.09762,Park,,windsor_lake_park_pickleball.csv
+,4,Broad Brook Park Pickleball,White Oaks Rd,Williamstown,MA,01267,42.73223,-73.19745,Park,,broad_brook_park_pickleball.csv
+,4,Linear Park Pickleball Courts,Water St,Williamstown,MA,01267,42.70926,-73.19969,Park,,linear_park_pickleball_courts.csv
